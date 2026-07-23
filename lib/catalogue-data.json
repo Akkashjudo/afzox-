@@ -1,0 +1,2757 @@
+{
+  "brand": {
+    "name": "AFZOX",
+    "legal": "AFZOX Fitness",
+    "tagline": "Global Strength",
+    "phone": "+91 98417 55020",
+    "phoneRaw": "919841755020",
+    "email": "info@afzox.in",
+    "city": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "site": "https://afzox.in",
+    "warrantyLine": "Frame warranty backed by nationwide on-site service"
+  },
+  "categories": [
+    {
+      "slug": "plate-loaded",
+      "name": "Plate Loaded Machines",
+      "short": "Iso-lateral strength built around free-weight feel",
+      "desc": "Heavy-gauge plate-loaded stations with independent converging arms, sealed bearings and biomechanically mapped strength curves. The backbone of any serious free-weight floor.",
+      "thumb": "plate-loaded-chest-press-pec-deck",
+      "image": "/images/products/plate-loaded-chest-press-pec-deck-md.jpg",
+      "imageLg": "/images/products/plate-loaded-chest-press-pec-deck.jpg",
+      "count": 15,
+      "url": "/shop/plate-loaded"
+    },
+    {
+      "slug": "pin-loaded",
+      "name": "Pin Loaded Machines",
+      "short": "Selectorized stations for high-traffic floors",
+      "desc": "Single-pin weight stacks, guided paths and instant adjustment. Built for circuits, inductions and member throughput where changeover speed matters more than anything.",
+      "thumb": "seated-row-machine",
+      "image": "/images/products/seated-row-machine-md.jpg",
+      "imageLg": "/images/products/seated-row-machine.jpg",
+      "count": 7,
+      "url": "/shop/pin-loaded"
+    },
+    {
+      "slug": "benches",
+      "name": "Benches",
+      "short": "Flat, incline, decline, preacher and utility",
+      "desc": "Commercial bench platform with high-density foam, tear-resistant upholstery and ladder-lock adjustment. Every angle a free-weight zone needs, in one visual family.",
+      "thumb": "adjustable-fid-bench",
+      "image": "/images/products/adjustable-fid-bench-md.jpg",
+      "imageLg": "/images/products/adjustable-fid-bench.jpg",
+      "count": 7,
+      "url": "/shop/benches"
+    },
+    {
+      "slug": "racks-rigs",
+      "name": "Racks, Rigs & Smith",
+      "short": "Half racks, combo racks, Smith and power towers",
+      "desc": "Structural steel built to take a dropped bar and stay square. Laser-cut uprights, hardened J-cups and bolt-down footprints engineered for continuous commercial loading.",
+      "thumb": "commercial-half-rack",
+      "image": "/images/products/commercial-half-rack-md.jpg",
+      "imageLg": "/images/products/commercial-half-rack.jpg",
+      "count": 6,
+      "url": "/shop/racks-rigs"
+    },
+    {
+      "slug": "functional",
+      "name": "Functional & Cable",
+      "short": "Crossovers, dual pulleys and multi-stations",
+      "desc": "Cable-driven training with unrestricted movement planes. Aircraft-grade cable, sealed pulleys and dense attachment options for athletic prep, rehab and small-group work.",
+      "thumb": "commercial-cable-crossover",
+      "image": "/images/products/commercial-cable-crossover-md.jpg",
+      "imageLg": "/images/products/commercial-cable-crossover.jpg",
+      "count": 4,
+      "url": "/shop/functional"
+    },
+    {
+      "slug": "storage",
+      "name": "Storage & Racking",
+      "short": "Dumbbell, barbell, plate and accessory storage",
+      "desc": "The difference between a gym and a warehouse. Saddle-cradle dumbbell racking, vertical barbell trees and plate storage that keep the floor clear, safe and audit-ready.",
+      "thumb": "two-tier-dumbbell-rack",
+      "image": "/images/products/two-tier-dumbbell-rack-md.jpg",
+      "imageLg": "/images/products/two-tier-dumbbell-rack.jpg",
+      "count": 4,
+      "url": "/shop/storage"
+    },
+    {
+      "slug": "cardio",
+      "name": "Cardio & Conditioning",
+      "short": "Indoor cycling and conditioning stations",
+      "desc": "Belt-driven cycling and conditioning equipment engineered for studio duty cycles — quiet under load, stable at cadence, and serviceable without taking the floor offline.",
+      "thumb": "commercial-spin-bike",
+      "image": "/images/products/commercial-spin-bike-md.jpg",
+      "imageLg": "/images/products/commercial-spin-bike.jpg",
+      "count": 2,
+      "url": "/shop/cardio"
+    }
+  ],
+  "products": [
+    {
+      "sku": "AFX-PL-101",
+      "slug": "seated-row-machine",
+      "name": "Seated Row Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 96,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "premium",
+      "short": "Chest-supported selectorized row with converging arms and a fixed-path strength curve.",
+      "description": [
+        "The Seated Row Machine anchors the back-training zone. A full-length chest pad takes the lower spine out of the movement entirely, so the pull comes from the lats and mid-back instead of hip drive — the single most common fault on free-weight rows.",
+        "Converging handles travel through a shallow arc that matches scapular retraction rather than fighting it. The single-pin stack changes in under two seconds, which is what keeps a circuit moving during peak hours."
+      ],
+      "features": [
+        "Chest pad isolates the mid-back and protects the lumbar spine",
+        "Converging arc handles for neutral and pronated grips",
+        "Single-pin selectorized stack with magnetic pin retention",
+        "3 mm laminated steel frame, fully welded joints",
+        "Sealed ball-bearing pivots — no seasonal lubrication",
+        "Automotive-grade powder coat over a phosphate base",
+        "Printed instruction placard and adjustable seat height"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Hotel and club fitness",
+        "Corporate wellness floors",
+        "Strength circuits"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Mid & lower trapezius",
+        "Rear deltoids",
+        "Biceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1420 × 1180 × 1580 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "95 kg standard (115 kg optional)",
+        "Upholstery": "High-density foam, double-stitched vinyl",
+        "Product Weight": "218 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/seated-row-machine.jpg",
+      "imageMd": "/images/products/seated-row-machine-md.jpg",
+      "imageSm": "/images/products/seated-row-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "lat-pulldown-high-row-machine",
+        "seated-leg-extension-leg-curl-machine",
+        "seated-leg-press-machine",
+        "assisted-dip-chin-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PL-102",
+      "slug": "assisted-dip-chin-machine",
+      "name": "Assisted Dip & Chin Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 84,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "premium",
+      "short": "Counterbalanced dip and chin station that scales bodyweight work for every member.",
+      "description": [
+        "Pull-ups and dips are the two exercises most members cannot yet perform, and the two they most want to. The Assisted Dip & Chin Machine solves that by counterweighting a percentage of bodyweight through the kneeling platform, so progression is a matter of moving one pin.",
+        "Multi-grip overhead bars cover wide, neutral and close chin positions, while the parallel dip handles sit at a shoulder-friendly width. Fold-down step plates let users mount and dismount under control."
+      ],
+      "features": [
+        "Counterbalanced knee platform assists bodyweight movements",
+        "Multi-grip pull-up bar — wide, neutral and close",
+        "Parallel dip handles at anatomical width",
+        "Non-slip fold-down entry steps on both sides",
+        "Guided platform on twin chrome shafts",
+        "Single-pin stack graduated for fine progression",
+        "Self-lubricating linear bushings"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Functional training zones",
+        "Rehabilitation and return-to-training",
+        "Member induction programmes"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Pectorals",
+        "Triceps",
+        "Biceps",
+        "Core stabilisers"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1310 × 1220 × 2280 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "95 kg assistance stack",
+        "Upholstery": "High-density knee platform, textured vinyl",
+        "Product Weight": "236 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/assisted-dip-chin-machine.jpg",
+      "imageMd": "/images/products/assisted-dip-chin-machine-md.jpg",
+      "imageSm": "/images/products/assisted-dip-chin-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "seated-row-machine",
+        "lat-pulldown-high-row-machine",
+        "seated-leg-extension-leg-curl-machine",
+        "seated-leg-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PL-103",
+      "slug": "lat-pulldown-high-row-machine",
+      "name": "Lat Pulldown & High Row Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 93,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "premium",
+      "short": "Dual-function pulldown and high row on independent arms with a locking thigh restraint.",
+      "description": [
+        "One footprint, two of the most-used back movements on the floor. The overhead arms rotate independently, so each side works through its own range — no strong side dragging the weak side through the rep.",
+        "The thigh restraint adjusts under load with a spring-collar pin, which means a 55 kg member and a 105 kg member can swap stations without a spanner. The seat and back pad geometry keeps the torso upright through the pull."
+      ],
+      "features": [
+        "Independent left and right arms eliminate strength asymmetry",
+        "Converts between vertical pulldown and high row",
+        "Adjustable locking thigh restraint with spring collar",
+        "Contoured chest pad for the high-row position",
+        "Aircraft-grade 5 mm nylon-coated steel cable",
+        "Fibreglass-reinforced sealed pulleys",
+        "Single-pin stack with anodised selector"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Strength circuits",
+        "Athletic performance centres",
+        "Hotel fitness suites"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Teres major",
+        "Rhomboids",
+        "Rear deltoids",
+        "Biceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1460 × 1240 × 2210 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "95 kg standard (115 kg optional)",
+        "Upholstery": "High-density foam, double-stitched vinyl",
+        "Product Weight": "244 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/lat-pulldown-high-row-machine.jpg",
+      "imageMd": "/images/products/lat-pulldown-high-row-machine-md.jpg",
+      "imageSm": "/images/products/lat-pulldown-high-row-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "seated-row-machine",
+        "seated-leg-extension-leg-curl-machine",
+        "seated-leg-press-machine",
+        "assisted-dip-chin-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PL-104",
+      "slug": "biceps-curl-machine",
+      "name": "Seated Biceps Curl Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 79,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "standard",
+      "short": "Preacher-style selectorized curl with a cam-matched resistance profile.",
+      "description": [
+        "A dedicated curl station removes the two things that ruin free-weight curls — body English and a resistance curve that collapses at the top. The angled arm pad locks the humerus in place, and the cam keeps tension honest through full elbow flexion.",
+        "Seat height adjusts through a gas-assisted lever so the elbow lands on the pivot axis regardless of user height. Independent handles let each arm find its own groove."
+      ],
+      "features": [
+        "Angled preacher pad locks the upper arm in position",
+        "Cam-matched resistance through full elbow flexion",
+        "Gas-assisted seat height adjustment",
+        "Independent revolving handles reduce wrist strain",
+        "Single-pin selectorized stack",
+        "Sealed bearings at every pivot point",
+        "Compact footprint for dense equipment layouts"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Bodybuilding floors",
+        "Hotel and residential gyms",
+        "Circuit training"
+      ],
+      "targets": [
+        "Biceps brachii",
+        "Brachialis",
+        "Brachioradialis",
+        "Forearm flexors"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1180 × 980 × 1560 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "70 kg standard",
+        "Upholstery": "High-density foam, double-stitched vinyl",
+        "Product Weight": "176 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/biceps-curl-machine.jpg",
+      "imageMd": "/images/products/biceps-curl-machine-md.jpg",
+      "imageSm": "/images/products/biceps-curl-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "seated-row-machine",
+        "lat-pulldown-high-row-machine",
+        "seated-leg-extension-leg-curl-machine",
+        "seated-leg-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PL-105",
+      "slug": "seated-leg-extension-leg-curl-machine",
+      "name": "Seated Leg Extension & Leg Curl Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 91,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "premium",
+      "short": "Dual-function quadriceps and hamstring station with range-of-motion limiters.",
+      "description": [
+        "Two of the most prescribed isolation movements in one station. The roller assembly and back pad reposition without tools, converting from seated extension to seated curl in well under a minute.",
+        "Start-position range limiters matter here: they let a post-injury member train a safe partial arc while a loaded athlete works the full range on the same machine an hour later."
+      ],
+      "features": [
+        "Converts between seated leg extension and seated leg curl",
+        "Adjustable start-position range-of-motion limiter",
+        "Tool-free roller pad repositioning",
+        "Sliding back pad accommodates all femur lengths",
+        "Ratcheting thigh restraint for the curl position",
+        "Sealed bearing pivots with hardened shafts",
+        "Single-pin selectorized stack"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Sports rehabilitation",
+        "Physiotherapy and clinical settings",
+        "Athletic performance centres"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Hamstrings",
+        "Gluteus maximus",
+        "Knee stabilisers"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1580 × 1120 × 1560 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "95 kg standard",
+        "Upholstery": "High-density foam, double-stitched vinyl",
+        "Product Weight": "252 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/seated-leg-extension-leg-curl-machine.jpg",
+      "imageMd": "/images/products/seated-leg-extension-leg-curl-machine-md.jpg",
+      "imageSm": "/images/products/seated-leg-extension-leg-curl-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "seated-row-machine",
+        "lat-pulldown-high-row-machine",
+        "seated-leg-press-machine",
+        "assisted-dip-chin-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PL-106",
+      "slug": "hip-adductor-machine",
+      "name": "Seated Hip Adductor Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 74,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "standard",
+      "short": "Selectorized adductor station with a graduated start-range selector.",
+      "description": [
+        "Groin strains are the injury that keeps field athletes out longest, and the adductors are the muscle group most gyms neglect. This station trains them through a controlled arc with a start-range selector so users can dial in a comfortable opening position before loading.",
+        "The upright back pad and grab handles keep the pelvis square, which is where the actual training effect comes from. Wide, stable base means no rocking even at the top of the stack."
+      ],
+      "features": [
+        "Graduated start-range selector for a safe opening angle",
+        "Upright back pad keeps the pelvis neutral",
+        "Dual grab handles for torso stabilisation",
+        "Pivoting leg pads follow the natural adduction arc",
+        "Wide anti-tip base frame",
+        "Single-pin selectorized stack",
+        "Shrouded stack for member safety"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Sports injury prevention",
+        "Physiotherapy clinics",
+        "Ladies-only fitness studios"
+      ],
+      "targets": [
+        "Adductor longus",
+        "Adductor magnus",
+        "Gracilis",
+        "Pectineus"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1240 × 1060 × 1520 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "80 kg standard",
+        "Upholstery": "High-density foam, double-stitched vinyl",
+        "Product Weight": "192 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/hip-adductor-machine.jpg",
+      "imageMd": "/images/products/hip-adductor-machine-md.jpg",
+      "imageSm": "/images/products/hip-adductor-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "seated-row-machine",
+        "lat-pulldown-high-row-machine",
+        "seated-leg-extension-leg-curl-machine",
+        "seated-leg-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PL-107",
+      "slug": "seated-leg-press-machine",
+      "name": "Seated Leg Press Machine",
+      "category": "pin-loaded",
+      "categoryName": "Pin Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 88,
+      "added": 2025.1,
+      "tier": "Signature",
+      "band": "premium",
+      "short": "Horizontal selectorized leg press on twin chrome rails — no plate handling.",
+      "description": [
+        "A selectorized leg press earns its place in any gym that runs circuits or inductions. Members get heavy lower-body loading without ever touching a 20 kg plate, which removes both the intimidation barrier and the trip hazard.",
+        "The carriage runs on twin hard-chromed shafts through linear bearings, so the press path stays glass-smooth at the top of the stack. The seat back reclines through several positions to change the hip angle."
+      ],
+      "features": [
+        "Twin hard-chromed guide shafts with linear bearings",
+        "Multi-position reclining seat back",
+        "Oversized textured footplate for varied stances",
+        "Selectorized stack — no plate loading or storage",
+        "Assisted seat slide with locking pin",
+        "Enclosed stack shroud",
+        "Bolt-down or free-standing installation"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Circuit training zones",
+        "Hotel and club fitness",
+        "Senior and beginner programmes"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1980 × 1080 × 1520 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "135 kg standard",
+        "Upholstery": "High-density foam, double-stitched vinyl",
+        "Product Weight": "298 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/seated-leg-press-machine.jpg",
+      "imageMd": "/images/products/seated-leg-press-machine-md.jpg",
+      "imageSm": "/images/products/seated-leg-press-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "seated-row-machine",
+        "lat-pulldown-high-row-machine",
+        "seated-leg-extension-leg-curl-machine",
+        "assisted-dip-chin-machine"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-201",
+      "slug": "plate-loaded-chest-press-pec-deck",
+      "name": "Plate Loaded Chest Press & Pec Deck",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 97,
+      "added": 2025.2,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Dual-function converging chest press and pec deck on independent iso-lateral arms.",
+      "description": [
+        "Two chest movements, one footprint, and the honest resistance feel of loaded plates. The converging press arms track inward through the stroke the way the pectoral fibres actually shorten, which is why loaded users report a harder contraction here than on a fixed parallel path.",
+        "Each arm loads independently, so a unilateral set exposes and corrects the strength imbalance most lifters carry without knowing it. Seat height adjusts through a pop-pin ladder to place the handles at mid-chest for any user."
+      ],
+      "features": [
+        "Converging iso-lateral arms — press or fly in one station",
+        "Independent left and right loading exposes imbalance",
+        "Pop-pin ladder seat adjustment",
+        "Four Olympic plate horns with integrated storage",
+        "Contoured back pad with headrest extension",
+        "Sealed cartridge bearings at all pivots",
+        "Weight horns positioned for single-hand plate loading"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Bodybuilding and powerbuilding floors",
+        "Athletic performance centres",
+        "Premium residential gyms"
+      ],
+      "targets": [
+        "Pectoralis major",
+        "Pectoralis minor",
+        "Anterior deltoids",
+        "Triceps",
+        "Serratus anterior"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1620 × 1480 × 1580 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 4 horns, 300 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "186 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-chest-press-pec-deck.jpg",
+      "imageMd": "/images/products/plate-loaded-chest-press-pec-deck-md.jpg",
+      "imageSm": "/images/products/plate-loaded-chest-press-pec-deck-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust",
+        "plate-loaded-lever-row"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-202",
+      "slug": "plate-loaded-multi-gym-station",
+      "name": "Plate Loaded Multi-Gym Station",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 89,
+      "added": 2025.2,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Iso-lateral pull and press station with integrated bench — a complete upper-body floor in one frame.",
+      "description": [
+        "Where floor space is the binding constraint, this station replaces three separate machines. Overhead iso-lateral arms handle pulldowns and high rows; the lower assembly presses; the integrated adjustable bench turns the whole thing into a free-weight position.",
+        "Textured foot platforms let users brace hard against the pull, which is what separates a real row from a shrug. Every station on the frame loads Olympic plates, so resistance scales as far as the members do."
+      ],
+      "features": [
+        "Independent overhead arms for pulldown and high row",
+        "Iso-lateral pressing station on the lower frame",
+        "Integrated adjustable bench, ladder-lock backrest",
+        "Textured hexagonal foot bracing platforms",
+        "Six Olympic plate horns with on-frame storage",
+        "Chain-and-handle attachments for grip variation",
+        "Single bolt-down footprint under 3 m²"
+      ],
+      "applications": [
+        "Boutique studios",
+        "Hotel and apartment gyms",
+        "Compact commercial floors",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Pectorals",
+        "Deltoids",
+        "Trapezius",
+        "Biceps & triceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2140 × 1620 × 2160 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 6 horns, 400 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "264 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-multi-gym-station.jpg",
+      "imageMd": "/images/products/plate-loaded-multi-gym-station-md.jpg",
+      "imageSm": "/images/products/plate-loaded-multi-gym-station-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-203",
+      "slug": "plate-loaded-arm-curl-triceps-extension",
+      "name": "Plate Loaded Arm Curl & Triceps Extension",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 77,
+      "added": 2025.2,
+      "tier": "Pro Series",
+      "band": "standard",
+      "short": "Dual-function seated arm station loading both elbow flexion and extension.",
+      "description": [
+        "Arms are what members actually train, and giving them a dedicated plate-loaded station keeps the preacher bench and the cable stack free for everyone else. Independent revolving handles let each arm rotate naturally through the curl, which is where most fixed-bar machines cause wrist pain.",
+        "Switching from curl to extension is a matter of repositioning the seat and arm pad — no re-rigging, no tools. The pivot sits directly under the elbow in both configurations."
+      ],
+      "features": [
+        "Converts between arm curl and triceps extension",
+        "Independent revolving handles reduce wrist strain",
+        "Elbow-aligned pivot in both configurations",
+        "Adjustable seat and arm pad height",
+        "Four Olympic plate horns",
+        "Textured foot platform",
+        "Compact seated footprint"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Bodybuilding floors",
+        "Boutique strength studios",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Biceps brachii",
+        "Brachialis",
+        "Triceps brachii",
+        "Forearm flexors & extensors"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1560 × 1420 × 1340 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 4 horns, 200 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "158 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-arm-curl-triceps-extension.jpg",
+      "imageMd": "/images/products/plate-loaded-arm-curl-triceps-extension-md.jpg",
+      "imageSm": "/images/products/plate-loaded-arm-curl-triceps-extension-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-204",
+      "slug": "plate-loaded-lever-row",
+      "name": "Plate Loaded Lever Row",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 92,
+      "added": 2025.2,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Chest-supported iso-lateral lever row with long-travel independent arms.",
+      "description": [
+        "The lever row is the movement that builds visible back thickness, and doing it chest-supported means every kilogram goes into the lats instead of the spinal erectors. The chest pad adjusts vertically so the arms line up with the mid-back regardless of torso length.",
+        "Long lever arms give an extended stretch at the bottom that a T-bar simply cannot reach. Independent loading means each side pulls its own weight — literally."
+      ],
+      "features": [
+        "Full chest support removes lower-back loading",
+        "Long-travel independent lever arms",
+        "Height-adjustable chest pad with locking collar",
+        "Multi-position handles — neutral and pronated",
+        "Four Olympic plate horns with on-frame storage",
+        "Knurled handle grips for pulling security",
+        "Low-profile step-through entry"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Powerbuilding and bodybuilding floors",
+        "Athletic performance centres",
+        "Strength-focused studios"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Mid trapezius",
+        "Rear deltoids",
+        "Biceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1680 × 1520 × 1280 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 4 horns, 350 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "172 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-lever-row.jpg",
+      "imageMd": "/images/products/plate-loaded-lever-row-md.jpg",
+      "imageSm": "/images/products/plate-loaded-lever-row-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-205",
+      "slug": "plate-loaded-lat-pulldown-row",
+      "name": "Plate Loaded Lat Pulldown & Row",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 86,
+      "added": 2025.2,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Seated iso-lateral pulldown and row combination with a diagonal drive linkage.",
+      "description": [
+        "A diagonal linkage carries the load from the handles down to the plate horns in a straight line, which keeps the feel tight and free of the slack that plagues cable conversions. Users get the vertical pulldown and horizontal row patterns from one seat.",
+        "The chest pad and seat are both adjustable, so the machine fits a 5'2\" member and a 6'4\" member without either of them compromising the movement path."
+      ],
+      "features": [
+        "Converts between vertical pulldown and horizontal row",
+        "Diagonal drive linkage for tight, direct load feel",
+        "Independent arms with revolving handles",
+        "Adjustable chest pad and seat height",
+        "Four Olympic plate horns",
+        "Wide anti-tip base with levelling feet",
+        "Printed movement placard on the frame"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Compact strength floors",
+        "Hotel fitness centres",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Teres major",
+        "Rhomboids",
+        "Trapezius",
+        "Biceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1720 × 1480 × 1960 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 4 horns, 300 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "181 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-lat-pulldown-row.jpg",
+      "imageMd": "/images/products/plate-loaded-lat-pulldown-row-md.jpg",
+      "imageSm": "/images/products/plate-loaded-lat-pulldown-row-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-206",
+      "slug": "plate-loaded-leg-extension-leg-curl",
+      "name": "Plate Loaded Leg Extension & Leg Curl",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 82,
+      "added": 2025.2,
+      "tier": "Pro Series",
+      "band": "standard",
+      "short": "Dual-function plate-loaded knee flexion and extension station.",
+      "description": [
+        "Plate loading changes how a leg extension feels. Because the resistance is real mass rather than a stack on a cable, the eccentric is heavier and slower — which is exactly where quadriceps and hamstring hypertrophy actually comes from.",
+        "The backrest and roller assembly reconfigure between extension and curl in under a minute, and both positions carry independent left and right loading for unilateral work after injury."
+      ],
+      "features": [
+        "Converts between leg extension and seated leg curl",
+        "Independent left and right loading arms",
+        "Reclining backrest with ladder-lock adjustment",
+        "Repositionable roller pads with quick-release pins",
+        "Four Olympic plate horns",
+        "Heavy nylon roller sleeves resist compression set",
+        "Wide bolt-down or free-standing base"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Sports rehabilitation",
+        "Athletic performance centres",
+        "Bodybuilding floors"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Hamstrings",
+        "Gluteus maximus",
+        "Knee stabilisers"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1740 × 1460 × 1280 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 4 horns, 250 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "168 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-leg-extension-leg-curl.jpg",
+      "imageMd": "/images/products/plate-loaded-leg-extension-leg-curl-md.jpg",
+      "imageSm": "/images/products/plate-loaded-leg-extension-leg-curl-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-207",
+      "slug": "plate-loaded-glute-kickback-machine",
+      "name": "Plate Loaded Glute Kickback Machine",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 85,
+      "added": 2025.3,
+      "tier": "Pro Series · Emerald",
+      "band": "standard",
+      "short": "Kneeling glute isolator with independent hip extension arms, in the Emerald finish.",
+      "description": [
+        "Glute training drives more member retention than any other single station on a modern floor. This machine isolates hip extension in the kneeling position, where the hamstrings contribute least and the gluteus maximus has to do the work.",
+        "Independent arms mean each leg trains through its own range, which matters after any hip or knee injury. Chest and forearm supports lock the torso down so the lower back stays out of the movement entirely."
+      ],
+      "features": [
+        "Kneeling position isolates the gluteus maximus",
+        "Independent left and right hip extension arms",
+        "Chest and forearm support locks torso position",
+        "Adjustable knee pad depth",
+        "Four Olympic plate horns",
+        "Signature Emerald powder-coat finish",
+        "Low step-in height for easy mounting"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Ladies-only studios",
+        "Glute and lower-body specialist zones",
+        "Physiotherapy clinics"
+      ],
+      "targets": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Hamstrings",
+        "Hip stabilisers"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1620 × 1380 × 1180 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Two-tone powder coat — matte black & Emerald",
+        "Loading": "Olympic 50 mm — 4 horns, 200 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "154 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-glute-kickback-machine.jpg",
+      "imageMd": "/images/products/plate-loaded-glute-kickback-machine-md.jpg",
+      "imageSm": "/images/products/plate-loaded-glute-kickback-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-208",
+      "slug": "plate-loaded-glute-drive-hip-thrust",
+      "name": "Plate Loaded Glute Drive & Hip Thrust",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 94,
+      "added": 2025.3,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Guided hip thrust station with counterweighted lap pad and adjustable back platform.",
+      "description": [
+        "The barbell hip thrust is the most effective glute exercise there is and the most awkward to set up — rolling a loaded bar over the hips is why most members never attempt it. This station puts the load on a guided vertical carriage with a counterweighted lap pad that lowers onto the user.",
+        "The back platform adjusts for height and the foot platform slides for femur length, so the hips travel through a genuinely full range instead of the truncated arc a bench and a bar usually produce."
+      ],
+      "features": [
+        "Guided vertical carriage on hard-chromed shafts",
+        "Counterweighted lap pad — no bar rolling required",
+        "Height-adjustable back platform",
+        "Sliding foot platform for femur length",
+        "Multi-position safety catch ladder",
+        "Two Olympic plate horns with rated loading",
+        "Non-slip textured foot surface"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Glute specialist studios",
+        "Athletic performance centres",
+        "Ladies-only fitness clubs"
+      ],
+      "targets": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Hamstrings",
+        "Erector spinae"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1980 × 1420 × 1680 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 2 horns, 400 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "214 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-glute-drive-hip-thrust.jpg",
+      "imageMd": "/images/products/plate-loaded-glute-drive-hip-thrust-md.jpg",
+      "imageSm": "/images/products/plate-loaded-glute-drive-hip-thrust-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-lever-row"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-209",
+      "slug": "plate-loaded-leg-press-hack-squat",
+      "name": "Plate Loaded Leg Press & Hack Squat",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 95,
+      "added": 2025.3,
+      "tier": "Pro Series · Emerald",
+      "band": "premium",
+      "short": "Dual-function leg press and hack squat on a single linear carriage, in the Emerald finish.",
+      "description": [
+        "One carriage, two of the heaviest lower-body movements a commercial floor needs. Users press from the seated position, then flip the shoulder pads and platform to run hack squats from the same frame — a genuine two-machine saving on a floor where every square metre is costed.",
+        "The carriage rides on hardened linear rails with a multi-position safety catch, so a member training alone can bail out of a failed rep safely. Textured platforms are oversized for every foot position from narrow to sumo."
+      ],
+      "features": [
+        "Converts between leg press and hack squat",
+        "Hardened linear rail carriage, smooth under full load",
+        "Multi-position safety catch for solo training",
+        "Oversized textured platforms — narrow to sumo stance",
+        "Padded shoulder harness for the hack squat position",
+        "Four Olympic plate horns",
+        "Signature Emerald powder-coat accent"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Powerbuilding floors",
+        "Athletic performance centres",
+        "University and academy gyms"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Adductors",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2140 × 1180 × 1520 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Two-tone powder coat — matte black & Emerald",
+        "Loading": "Olympic 50 mm — 4 horns, 500 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "246 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-leg-press-hack-squat.jpg",
+      "imageMd": "/images/products/plate-loaded-leg-press-hack-squat-md.jpg",
+      "imageSm": "/images/products/plate-loaded-leg-press-hack-squat-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-glute-drive-hip-thrust",
+        "plate-loaded-lever-row"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-210",
+      "slug": "plate-loaded-hack-squat-reverse-squat",
+      "name": "Plate Loaded Hack Squat & Reverse Squat",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 87,
+      "added": 2025.3,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Angled hack squat that reverses for front-loaded squat patterns.",
+      "description": [
+        "The hack squat loads the quadriceps harder than any barbell variation because the back is supported and the knee can travel forward without the torso folding. Reversing the user position converts the same frame into a reverse hack — a movement that shifts emphasis to the glutes and posterior chain.",
+        "Angled shoulder pads distribute load across the traps rather than the cervical spine, and the long footplate adjusts through several positions to change the knee angle."
+      ],
+      "features": [
+        "Runs both hack squat and reverse squat patterns",
+        "Angled shoulder pads distribute load off the neck",
+        "Long multi-position adjustable footplate",
+        "Twin hardened guide rails with sealed bearings",
+        "Rotating safety handles for quick lockout",
+        "Four Olympic plate horns",
+        "Deep step-in with non-slip surface"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Powerlifting and powerbuilding floors",
+        "Athletic performance centres",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2080 × 1120 × 1620 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 4 horns, 450 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "228 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-hack-squat-reverse-squat.jpg",
+      "imageMd": "/images/products/plate-loaded-hack-squat-reverse-squat-md.jpg",
+      "imageSm": "/images/products/plate-loaded-hack-squat-reverse-squat-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-211",
+      "slug": "plate-loaded-standing-high-row",
+      "name": "Plate Loaded Standing High Row",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 78,
+      "added": 2025.3,
+      "tier": "Pro Series",
+      "band": "standard",
+      "short": "Chest-supported standing row with independent arms and an adjustable torso pad.",
+      "description": [
+        "Standing rows recruit the whole posterior chain as stabilisers while the chest pad still protects the lumbar spine. The result is a row that feels athletic rather than seated and passive — useful for field-sport athletes who need to express back strength on their feet.",
+        "The torso pad slides on chrome rails and locks with a spring pin, and independent arms let each side work through its own range."
+      ],
+      "features": [
+        "Standing chest-supported rowing position",
+        "Independent left and right arms",
+        "Sliding torso pad on hard-chromed rails",
+        "Wide non-slip foot platform",
+        "Four Olympic plate horns",
+        "Contoured handles with knurled grip zones",
+        "Bolt-down base for high-load stability"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Athletic performance centres",
+        "Functional training zones",
+        "Academy and university gyms"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Trapezius",
+        "Rear deltoids",
+        "Erector spinae"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1580 × 1440 × 1640 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black & red",
+        "Loading": "Olympic 50 mm — 4 horns, 300 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "176 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-standing-high-row.jpg",
+      "imageMd": "/images/products/plate-loaded-standing-high-row-md.jpg",
+      "imageSm": "/images/products/plate-loaded-standing-high-row-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-212",
+      "slug": "plate-loaded-pendulum-squat",
+      "name": "Plate Loaded Pendulum Squat",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 90,
+      "added": 2025.3,
+      "tier": "Pro Series",
+      "band": "premium",
+      "short": "Arc-path squat machine with a calibrated foot platform and full back support.",
+      "description": [
+        "The pendulum squat solves the problem every tall lifter has with a barbell squat: the arc path lets the hips travel back while the torso stays upright, so depth comes from the knees and hips rather than from folding forward.",
+        "The base carries a numbered position scale, which means a coach can record a member's exact foot placement and reproduce it session after session. Load is carried on rotating arms, so the resistance curve stays even through the whole descent."
+      ],
+      "features": [
+        "Arc movement path — upright torso through full depth",
+        "Numbered foot platform scale for repeatable setup",
+        "Full-length back and shoulder support pad",
+        "Rotating load arms keep resistance even through the arc",
+        "Quick-release safety lock at multiple depths",
+        "Four Olympic plate horns",
+        "Wide anti-tip footprint with levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Powerbuilding floors",
+        "Athletic performance centres",
+        "Sports rehabilitation"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Adductors",
+        "Hamstrings",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1860 × 1520 × 1740 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black & red",
+        "Loading": "Olympic 50 mm — 4 horns, 400 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "208 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-pendulum-squat.jpg",
+      "imageMd": "/images/products/plate-loaded-pendulum-squat-md.jpg",
+      "imageSm": "/images/products/plate-loaded-pendulum-squat-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-213",
+      "slug": "plate-loaded-multi-hip-trainer",
+      "name": "Plate Loaded Multi-Hip Trainer",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 81,
+      "added": 2025.3,
+      "tier": "Pro Series",
+      "band": "standard",
+      "short": "Four-way standing hip station — flexion, extension, abduction and adduction.",
+      "description": [
+        "Four hip movement patterns from one standing station. Rotating the lever arm and repositioning the user gives flexion, extension, abduction and adduction without any tool or re-rig, which is what makes this machine viable in a busy circuit.",
+        "Standing execution means the stabilisers work throughout, so the training carries over to walking, running and change of direction rather than staying trapped in a seated pattern."
+      ],
+      "features": [
+        "Four hip patterns: flexion, extension, abduction, adduction",
+        "Standing execution recruits stabilisers throughout",
+        "Height-adjustable lever pad for any leg length",
+        "Twin support handles for torso bracing",
+        "Integrated Olympic plate storage tree",
+        "Non-slip standing platforms both sides",
+        "Printed four-way movement placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Sports rehabilitation",
+        "Ladies-only studios",
+        "Senior fitness programmes"
+      ],
+      "targets": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Hip flexors",
+        "Adductors",
+        "Abductors"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1720 × 1380 × 1780 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black & red",
+        "Loading": "Olympic 50 mm — 2 horns + storage tree",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "182 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-multi-hip-trainer.jpg",
+      "imageMd": "/images/products/plate-loaded-multi-hip-trainer-md.jpg",
+      "imageSm": "/images/products/plate-loaded-multi-hip-trainer-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-214",
+      "slug": "plate-loaded-incline-chest-press",
+      "name": "Plate Loaded Incline Chest Press",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 88,
+      "added": 2025.3,
+      "tier": "Pro Series · Crimson",
+      "band": "premium",
+      "short": "Dedicated incline press with converging arms and integrated plate storage, in Crimson.",
+      "description": [
+        "Upper-chest development is where most physiques stall, and an incline-specific machine gets there faster than an adjustable bench ever will. The arms converge as they travel up and in, matching the line of the clavicular pectoral fibres.",
+        "Because the seat is fixed at the correct incline, users cannot quietly flatten the angle as the set gets hard — which is the single most common reason incline work stops working."
+      ],
+      "features": [
+        "Fixed optimal incline — angle cannot drift under fatigue",
+        "Converging iso-lateral press arms",
+        "Independent left and right loading",
+        "Integrated vertical plate storage tree",
+        "Signature Crimson upholstery and frame accents",
+        "Multi-grip handle positions",
+        "Rear plate tree doubles as a counterbalance"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Bodybuilding floors",
+        "Boutique strength studios",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Upper pectorals",
+        "Anterior deltoids",
+        "Triceps",
+        "Serratus anterior"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1880 × 1340 × 1580 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Powder coat, matte black with Crimson accents",
+        "Loading": "Olympic 50 mm — 2 horns + 6-post storage tree",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "192 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/plate-loaded-incline-chest-press.jpg",
+      "imageMd": "/images/products/plate-loaded-incline-chest-press-md.jpg",
+      "imageSm": "/images/products/plate-loaded-incline-chest-press-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust"
+      ]
+    },
+    {
+      "sku": "AFX-PLT-215",
+      "slug": "forty-five-degree-leg-press",
+      "name": "45° Leg Press",
+      "category": "plate-loaded",
+      "categoryName": "Plate Loaded Machines",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 98,
+      "added": 2025.2,
+      "tier": "Pro Series · Crimson",
+      "band": "premium",
+      "short": "The classic 45-degree sled press — 1000 kg rated, on hardened linear rails.",
+      "description": [
+        "The 45° leg press is the highest-load station most gyms will ever own, and it has to be built accordingly. The sled runs on four hardened linear bearings across twin rails, so it stays perfectly square even under a fully loaded rack of plates.",
+        "Dual safety catch systems — a rotating primary and a stepped secondary — let members train genuinely heavy without a spotter. Eight plate horns keep the loading time short and the floor clear of stray plates."
+      ],
+      "features": [
+        "Rated to 1000 kg total load",
+        "Four hardened linear bearings on twin rails",
+        "Dual safety systems — rotating primary, stepped secondary",
+        "Eight Olympic plate horns for fast loading",
+        "Oversized textured footplate for every stance",
+        "Multi-position reclining seat back",
+        "Signature Crimson upholstery on brushed frame"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Powerlifting and powerbuilding floors",
+        "Athletic performance centres",
+        "University and academy gyms"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Adductors",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2280 × 1420 × 1560 mm",
+        "Frame": "100 × 100 mm square steel, 3 mm wall",
+        "Finish": "Brushed metallic powder coat",
+        "Loading": "Olympic 50 mm — 8 horns, 1000 kg rated",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "312 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/forty-five-degree-leg-press.jpg",
+      "imageMd": "/images/products/forty-five-degree-leg-press-md.jpg",
+      "imageSm": "/images/products/forty-five-degree-leg-press-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "plate-loaded-chest-press-pec-deck",
+        "plate-loaded-leg-press-hack-squat",
+        "plate-loaded-glute-drive-hip-thrust",
+        "plate-loaded-lever-row"
+      ]
+    },
+    {
+      "sku": "AFX-RK-301",
+      "slug": "commercial-smith-machine-with-bench",
+      "name": "Commercial Smith Machine with Bench",
+      "category": "racks-rigs",
+      "categoryName": "Racks, Rigs & Smith",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 93,
+      "added": 2025.4,
+      "tier": "Rack Series",
+      "band": "premium",
+      "short": "Angled Smith machine with integrated adjustable bench and full plate storage.",
+      "description": [
+        "A 7-degree bar path is not a styling choice — it follows the natural line the bar wants to travel during a squat or press, which is why an angled Smith feels correct where a purely vertical one feels like a fight.",
+        "The included adjustable bench slides in and out of the frame so the same station covers flat press, incline press, shoulder press and squats. Twenty-plus hook positions along the uprights let any user rack at the right height."
+      ],
+      "features": [
+        "7° angled bar path follows natural pressing line",
+        "Integrated ladder-lock adjustable bench",
+        "20+ hook positions along both uprights",
+        "Linear bearings on hard-chromed guide rods",
+        "Six Olympic plate storage horns",
+        "Counterbalanced carriage — light empty-bar feel",
+        "Bolt-down base with levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Hotel and club fitness",
+        "Premium home gyms",
+        "Personal training studios"
+      ],
+      "targets": [
+        "Quadriceps",
+        "Glutes",
+        "Pectorals",
+        "Deltoids",
+        "Trapezius"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2180 × 1740 × 2240 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Loading": "Olympic 50 mm — 6 storage horns, 350 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "288 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/commercial-smith-machine-with-bench.jpg",
+      "imageMd": "/images/products/commercial-smith-machine-with-bench-md.jpg",
+      "imageSm": "/images/products/commercial-smith-machine-with-bench-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "commercial-half-rack",
+        "commercial-smith-machine",
+        "olympic-squat-combo-rack",
+        "commercial-multi-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-RK-302",
+      "slug": "commercial-multi-press-machine",
+      "name": "Commercial Multi-Press Machine",
+      "category": "racks-rigs",
+      "categoryName": "Racks, Rigs & Smith",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 80,
+      "added": 2025.4,
+      "tier": "Rack Series",
+      "band": "premium",
+      "short": "Guided press station with articulating handles and an integrated bench.",
+      "description": [
+        "A guided carriage with handles that rotate rather than lock gives users the safety of a Smith machine and the joint freedom of dumbbells. The handles find their own angle through the press, so shoulders track naturally instead of being forced into a fixed plane.",
+        "With the bench in place the station presses flat and incline; with the bench removed it runs standing shoulder press and shrugs. Safety catches on both uprights allow solo training to failure."
+      ],
+      "features": [
+        "Articulating press handles — free rotation through the stroke",
+        "Guided vertical carriage on twin chrome shafts",
+        "Integrated removable adjustable bench",
+        "Adjustable safety catches on both uprights",
+        "Six Olympic plate storage horns",
+        "Press flat, incline, or standing overhead",
+        "Bolt-down base with levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Personal training studios",
+        "Hotel fitness centres",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Pectorals",
+        "Deltoids",
+        "Triceps",
+        "Trapezius"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1960 × 1620 × 2280 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Powder coat, matte black with red accents",
+        "Loading": "Olympic 50 mm — 6 storage horns, 300 kg rated",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "254 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/commercial-multi-press-machine.jpg",
+      "imageMd": "/images/products/commercial-multi-press-machine-md.jpg",
+      "imageSm": "/images/products/commercial-multi-press-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "commercial-smith-machine-with-bench",
+        "commercial-half-rack",
+        "commercial-smith-machine",
+        "olympic-squat-combo-rack"
+      ]
+    },
+    {
+      "sku": "AFX-RK-303",
+      "slug": "commercial-half-rack",
+      "name": "Commercial Half Rack",
+      "category": "racks-rigs",
+      "categoryName": "Racks, Rigs & Smith",
+      "usage": "Commercial & Home",
+      "featured": true,
+      "popular": 91,
+      "added": 2025.4,
+      "tier": "Rack Series",
+      "band": "standard",
+      "short": "Open-front half rack with multi-grip pull-up bar, hardened J-cups and spotter arms.",
+      "description": [
+        "The half rack is the most-used piece of steel in any strength facility. Open front means the lifter walks the bar out and squats in free space rather than inside a cage, which is how the movement is actually performed on a platform.",
+        "Laser-cut Westside hole spacing through the bench-press range gives precise starting heights. J-cups and spotter arms are UHMW-lined so the knurl on a bar survives a thousand re-rackings."
+      ],
+      "features": [
+        "Open-front design — squat and press outside the frame",
+        "Multi-grip pull-up bar: wide, neutral, close",
+        "Westside hole spacing through the pressing range",
+        "UHMW-lined J-cups protect bar knurling",
+        "Adjustable spotter arms rated for full load",
+        "Weight-horn ballast posts for stability",
+        "Bolt-down or free-standing installation"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "CrossFit and functional boxes",
+        "Home and garage gyms",
+        "Academy and school gyms"
+      ],
+      "targets": [
+        "Full body",
+        "Quadriceps & glutes",
+        "Pectorals & deltoids",
+        "Back & core"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1420 × 1380 × 2280 mm",
+        "Frame": "75 × 75 mm square steel, 3 mm wall",
+        "Finish": "Powder coat, matte black with red hardware",
+        "Loading": "450 kg rated capacity",
+        "Upholstery": "N/A",
+        "Product Weight": "164 kg",
+        "Warranty": "Lifetime frame · 3 years hardware"
+      },
+      "image": "/images/products/commercial-half-rack.jpg",
+      "imageMd": "/images/products/commercial-half-rack-md.jpg",
+      "imageSm": "/images/products/commercial-half-rack-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "commercial-smith-machine-with-bench",
+        "commercial-smith-machine",
+        "olympic-squat-combo-rack",
+        "commercial-multi-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-RK-304",
+      "slug": "olympic-squat-combo-rack",
+      "name": "Olympic Squat & Bench Combo Rack",
+      "category": "racks-rigs",
+      "categoryName": "Racks, Rigs & Smith",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 83,
+      "added": 2025.4,
+      "tier": "Rack Series",
+      "band": "standard",
+      "short": "Competition-style combo rack with an integrated lifting platform and rapid height adjustment.",
+      "description": [
+        "Built to the pattern federations actually use in competition. Uprights adjust through a laddered hook system that a loader can change between attempts, and the integrated platform gives a defined, level lifting surface that protects the floor beneath.",
+        "The same frame handles squats and bench press, so a powerlifting club can run both lifts from one station during a session without dismantling anything."
+      ],
+      "features": [
+        "Competition-pattern combo rack — squat and bench",
+        "Rapid laddered upright height adjustment",
+        "Integrated non-slip lifting platform",
+        "Hardened hook cradles with protective liners",
+        "Built-in plate storage on the base frame",
+        "Wide splayed feet resist tipping under load",
+        "Bolt-down capable for permanent installation"
+      ],
+      "applications": [
+        "Powerlifting clubs",
+        "Commercial gyms",
+        "Competition and event use",
+        "University strength halls"
+      ],
+      "targets": [
+        "Quadriceps & glutes",
+        "Pectorals",
+        "Deltoids",
+        "Erector spinae"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1680 × 1520 × 1820 mm",
+        "Frame": "75 × 75 mm square steel, 3 mm wall",
+        "Finish": "Powder coat, matte black with red hardware",
+        "Loading": "500 kg rated capacity",
+        "Upholstery": "N/A",
+        "Product Weight": "178 kg",
+        "Warranty": "Lifetime frame · 3 years hardware"
+      },
+      "image": "/images/products/olympic-squat-combo-rack.jpg",
+      "imageMd": "/images/products/olympic-squat-combo-rack-md.jpg",
+      "imageSm": "/images/products/olympic-squat-combo-rack-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "commercial-smith-machine-with-bench",
+        "commercial-half-rack",
+        "commercial-smith-machine",
+        "commercial-multi-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-RK-305",
+      "slug": "commercial-smith-machine",
+      "name": "Commercial Smith Machine",
+      "category": "racks-rigs",
+      "categoryName": "Racks, Rigs & Smith",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 86,
+      "added": 2025.4,
+      "tier": "Rack Series · Titanium",
+      "band": "premium",
+      "short": "Counterbalanced Smith machine in the Titanium finish, with full-length safety catches.",
+      "description": [
+        "A counterbalanced carriage means the bar weighs almost nothing empty, so a beginner can learn the movement pattern before any load goes on — and an advanced lifter still gets a true reading of what is on the bar.",
+        "Full-length hook slots run nearly floor to ceiling, which covers everything from calf raises and rack pulls to overhead press without moving to another station."
+      ],
+      "features": [
+        "Counterbalanced carriage — near-weightless empty bar",
+        "Full-length hook slots, floor to overhead",
+        "Linear bearings on hard-chromed guide shafts",
+        "Five Olympic plate storage horns",
+        "Signature Titanium brushed powder coat",
+        "Quarter-turn bar locking at every height",
+        "Bolt-down base with levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Hotel and club fitness",
+        "Personal training studios",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Quadriceps & glutes",
+        "Pectorals",
+        "Deltoids",
+        "Trapezius",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1520 × 1420 × 2260 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Loading": "Olympic 50 mm — 5 storage horns, 300 kg rated",
+        "Upholstery": "N/A",
+        "Product Weight": "212 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts"
+      },
+      "image": "/images/products/commercial-smith-machine.jpg",
+      "imageMd": "/images/products/commercial-smith-machine-md.jpg",
+      "imageSm": "/images/products/commercial-smith-machine-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "commercial-smith-machine-with-bench",
+        "commercial-half-rack",
+        "olympic-squat-combo-rack",
+        "commercial-multi-press-machine"
+      ]
+    },
+    {
+      "sku": "AFX-RK-306",
+      "slug": "vertical-knee-raise-power-tower",
+      "name": "Vertical Knee Raise Power Tower",
+      "category": "racks-rigs",
+      "categoryName": "Racks, Rigs & Smith",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 76,
+      "added": 2025.4,
+      "tier": "Rack Series · Titanium",
+      "band": "standard",
+      "short": "Four-station bodyweight tower — knee raise, dip, chin and push-up.",
+      "description": [
+        "Four bodyweight stations in a footprint smaller than a treadmill. Knee raise, parallel dip, multi-grip chin and elevated push-up handles cover the entire bodyweight curriculum for a fraction of the cost and space of separate units.",
+        "The back pad and forearm rests are set at the height that keeps the pelvis tucked during knee raises — which is the difference between training the abdominals and just swinging the hip flexors."
+      ],
+      "features": [
+        "Four stations: knee raise, dip, chin, push-up",
+        "Forearm rests positioned for a posterior pelvic tilt",
+        "Multi-grip overhead bar — wide, neutral, close",
+        "Cushioned back pad with lumbar contour",
+        "Non-slip elevated push-up handles",
+        "Wide stable base, no bolt-down required",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Home and apartment gyms",
+        "Functional training zones",
+        "Hotel fitness rooms"
+      ],
+      "targets": [
+        "Rectus abdominis",
+        "Obliques",
+        "Latissimus dorsi",
+        "Triceps",
+        "Pectorals"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1180 × 1060 × 2260 mm",
+        "Frame": "60 × 120 mm rectangular steel, 2.5 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Loading": "180 kg user capacity",
+        "Upholstery": "High-density foam, textured vinyl",
+        "Product Weight": "76 kg",
+        "Warranty": "Lifetime frame · 2 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/vertical-knee-raise-power-tower.jpg",
+      "imageMd": "/images/products/vertical-knee-raise-power-tower-md.jpg",
+      "imageSm": "/images/products/vertical-knee-raise-power-tower-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "commercial-smith-machine-with-bench",
+        "commercial-half-rack",
+        "commercial-smith-machine",
+        "olympic-squat-combo-rack"
+      ]
+    },
+    {
+      "sku": "AFX-FN-401",
+      "slug": "commercial-cable-crossover",
+      "name": "Commercial Cable Crossover",
+      "category": "functional",
+      "categoryName": "Functional & Cable",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 96,
+      "added": 2025.5,
+      "tier": "Cable Series · Titanium",
+      "band": "premium",
+      "short": "Wide-span dual-stack crossover with 17-position pulleys and an integrated chin bar.",
+      "description": [
+        "The crossover is the single most-used station in most commercial gyms because it does everything — flyes, rows, pulldowns, curls, extensions, rotations, and every cable variation a trainer can invent.",
+        "Seventeen locking pulley heights per tower means the carriage lands exactly where the movement needs it rather than approximately. The overhead span doubles as a multi-grip chin bar, and the wide stance leaves room for two members to work simultaneously."
+      ],
+      "features": [
+        "17 locking pulley positions per tower",
+        "Dual independent selectorized weight stacks",
+        "Overhead span doubles as a multi-grip chin bar",
+        "Aircraft-grade 5 mm nylon-coated steel cable",
+        "Fibreglass-reinforced sealed pulleys",
+        "Wide span — two users train simultaneously",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Personal training studios",
+        "Athletic performance centres",
+        "Hotel fitness suites"
+      ],
+      "targets": [
+        "Pectorals",
+        "Latissimus dorsi",
+        "Deltoids",
+        "Arms",
+        "Core & rotational chain"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "3960 × 1240 × 2320 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Weight Stack": "2 × 90 kg selectorized",
+        "Upholstery": "N/A",
+        "Product Weight": "386 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 2 years cable"
+      },
+      "image": "/images/products/commercial-cable-crossover.jpg",
+      "imageMd": "/images/products/commercial-cable-crossover-md.jpg",
+      "imageSm": "/images/products/commercial-cable-crossover-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "dual-adjustable-pulley-functional-trainer",
+        "lat-pulldown-low-row-station",
+        "multi-flight-functional-trainer",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-FN-402",
+      "slug": "dual-adjustable-pulley-functional-trainer",
+      "name": "Dual Adjustable Pulley Functional Trainer",
+      "category": "functional",
+      "categoryName": "Functional & Cable",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 94,
+      "added": 2025.5,
+      "tier": "Cable Series · Titanium",
+      "band": "premium",
+      "short": "Compact dual-pulley trainer with a full attachment set and integrated chin bar.",
+      "description": [
+        "Everything a crossover does, in roughly half the floor space. Two independently adjustable pulley carriages run the full height of the towers, so the same frame produces low cable curls, mid-height rotations and high pulldowns without a single tool.",
+        "It ships with the attachments that actually get used — single handles, a straight bar, a rope and stirrup handles — rather than a token bar and a promise. Ideal for personal training studios where one station has to be a whole gym."
+      ],
+      "features": [
+        "Two independently adjustable full-height pulley carriages",
+        "Complete attachment set — handles, bar, rope, stirrups",
+        "Integrated multi-grip chin-up bar",
+        "Dual selectorized weight stacks",
+        "2:1 cable ratio for smooth light-load feel",
+        "Compact footprint for studio floors",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Personal training studios",
+        "Commercial gyms",
+        "Athletic and rehab centres",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Full body",
+        "Core & rotational chain",
+        "Shoulders",
+        "Arms",
+        "Hips"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1620 × 1180 × 2320 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Weight Stack": "2 × 80 kg selectorized",
+        "Upholstery": "N/A",
+        "Product Weight": "294 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 2 years cable"
+      },
+      "image": "/images/products/dual-adjustable-pulley-functional-trainer.jpg",
+      "imageMd": "/images/products/dual-adjustable-pulley-functional-trainer-md.jpg",
+      "imageSm": "/images/products/dual-adjustable-pulley-functional-trainer-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "commercial-cable-crossover",
+        "lat-pulldown-low-row-station",
+        "multi-flight-functional-trainer",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-FN-403",
+      "slug": "multi-flight-functional-trainer",
+      "name": "Multi-Flight Functional Trainer",
+      "category": "functional",
+      "categoryName": "Functional & Cable",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 82,
+      "added": 2025.5,
+      "tier": "Cable Series",
+      "band": "premium",
+      "short": "Single-column functional trainer with rotating pulley heads and a 100 kg stack.",
+      "description": [
+        "Twin rotating pulley heads travel through a full 180 degrees, which unlocks training angles a fixed carriage simply cannot reach — anti-rotation, chops, lifts and every diagonal a field athlete needs.",
+        "The 100 kg stack is graduated in 5 kg increments and printed in clear kilogram markings, so a coach can prescribe an exact load and know the member is training it. The standing platform keeps the user in a defined position rep to rep."
+      ],
+      "features": [
+        "Twin 180° rotating pulley heads",
+        "100 kg stack graduated in clear 5 kg increments",
+        "Textured standing platform for a repeatable position",
+        "Padded support pad for braced positions",
+        "Strap and handle attachments included",
+        "Single-column footprint under 1.5 m²",
+        "Printed multi-flight movement placard"
+      ],
+      "applications": [
+        "Athletic performance centres",
+        "Commercial gyms",
+        "Rehabilitation and physiotherapy",
+        "Small-group training"
+      ],
+      "targets": [
+        "Core & rotational chain",
+        "Shoulders",
+        "Hips",
+        "Full-body integration"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1420 × 1180 × 2280 mm",
+        "Frame": "75 × 150 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "100 kg, 5 kg increments",
+        "Upholstery": "High-density foam, contrast vinyl",
+        "Product Weight": "238 kg",
+        "Warranty": "Lifetime frame · 3 years moving parts · 2 years cable"
+      },
+      "image": "/images/products/multi-flight-functional-trainer.jpg",
+      "imageMd": "/images/products/multi-flight-functional-trainer-md.jpg",
+      "imageSm": "/images/products/multi-flight-functional-trainer-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "commercial-cable-crossover",
+        "dual-adjustable-pulley-functional-trainer",
+        "lat-pulldown-low-row-station",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-FN-404",
+      "slug": "lat-pulldown-low-row-station",
+      "name": "Lat Pulldown & Low Row Station",
+      "category": "functional",
+      "categoryName": "Functional & Cable",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 84,
+      "added": 2025.5,
+      "tier": "Cable Series",
+      "band": "standard",
+      "short": "Combination pulldown and seated row station with a full-length bench and stack.",
+      "description": [
+        "The classic back-training pairing on one selectorized stack. Pull down from the overhead pulley, then sit forward on the bench and row from the low pulley — the two movements that build width and thickness respectively.",
+        "The extended bench and locking thigh restraint give a stable base for both. It arrives with the lat bar and stirrup handles fitted, and its modest footprint makes it a genuine option for a serious home setup as well as a commercial floor."
+      ],
+      "features": [
+        "Overhead pulldown and low seated row from one stack",
+        "Full-length bench with foot bracing plates",
+        "Locking thigh restraint with roller pads",
+        "Lat bar and stirrup handles included",
+        "Single-pin selectorized stack",
+        "Sealed pulleys and nylon-coated steel cable",
+        "Home-viable footprint, commercial build"
+      ],
+      "applications": [
+        "Home and apartment gyms",
+        "Commercial gyms",
+        "Hotel fitness rooms",
+        "Personal training studios"
+      ],
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Trapezius",
+        "Biceps",
+        "Rear deltoids"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2180 × 1120 × 2100 mm",
+        "Frame": "60 × 120 mm rectangular steel, 3 mm wall",
+        "Finish": "Electrostatic powder coat, matte black",
+        "Weight Stack": "80 kg selectorized",
+        "Upholstery": "High-density foam, contrast-stitched vinyl",
+        "Product Weight": "196 kg",
+        "Warranty": "10 years frame · 2 years moving parts · 1 year upholstery"
+      },
+      "image": "/images/products/lat-pulldown-low-row-station.jpg",
+      "imageMd": "/images/products/lat-pulldown-low-row-station-md.jpg",
+      "imageSm": "/images/products/lat-pulldown-low-row-station-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "commercial-cable-crossover",
+        "dual-adjustable-pulley-functional-trainer",
+        "multi-flight-functional-trainer",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-BN-501",
+      "slug": "adjustable-fid-bench",
+      "name": "Adjustable FID Bench",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial & Home",
+      "featured": true,
+      "popular": 97,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "standard",
+      "short": "Flat, incline and decline in one bench — ladder-lock adjustment and transport wheels.",
+      "description": [
+        "The bench that does the most work in any free-weight area. Seven back-pad positions from decline through flat to full 85° upright cover every dumbbell press, row, curl and shoulder movement a member will ever need.",
+        "Ladder-lock adjustment changes angle in one motion with a loaded dumbbell in each hand — no pin to find, no pop-pin to fight. Transport wheels and a lift handle mean staff can reposition it during a class changeover in seconds."
+      ],
+      "features": [
+        "Seven back-pad positions: decline to 85° upright",
+        "Three-position adjustable seat pad",
+        "One-motion ladder-lock adjustment",
+        "Transport wheels and front lift handle",
+        "High-density foam over a moulded base",
+        "Tear-resistant double-stitched upholstery",
+        "Narrow tapered pad clears full scapular retraction"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Home and garage gyms",
+        "Personal training studios",
+        "Hotel fitness rooms"
+      ],
+      "targets": [
+        "Pectorals",
+        "Deltoids",
+        "Triceps",
+        "Biceps",
+        "Back"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1420 × 620 × 480–1240 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "450 kg rated capacity",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "42 kg",
+        "Warranty": "Lifetime frame · 2 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/adjustable-fid-bench.jpg",
+      "imageMd": "/images/products/adjustable-fid-bench-md.jpg",
+      "imageSm": "/images/products/adjustable-fid-bench-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "olympic-flat-bench-press",
+        "olympic-incline-bench-press",
+        "commercial-flat-bench",
+        "preacher-curl-bench"
+      ]
+    },
+    {
+      "sku": "AFX-BN-502",
+      "slug": "olympic-flat-bench-press",
+      "name": "Olympic Flat Bench Press",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 95,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "standard",
+      "short": "Competition-width flat bench press with laddered uprights and plate storage.",
+      "description": [
+        "A bench press station is judged on one thing: whether the uprights are still square after ten thousand re-rackings. Laser-cut ladder uprights on a fully welded frame keep the hooks exactly where they were the day the machine landed.",
+        "The pad is set at competition width and height, so lifters train in the position they will compete in. Four plate horns keep the loading area clear."
+      ],
+      "features": [
+        "Competition-standard pad width and height",
+        "Laser-cut laddered upright hook positions",
+        "Protective hook liners preserve bar knurling",
+        "Four Olympic plate storage horns",
+        "Fully welded frame — no bolt-together uprights",
+        "Wide splayed feet resist lateral movement",
+        "Signature Crimson upholstery"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Powerlifting clubs",
+        "Academy and university gyms",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Pectoralis major",
+        "Anterior deltoids",
+        "Triceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1820 × 1420 × 1280 mm",
+        "Frame": "75 × 75 mm square steel, 3 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "Olympic 50 mm — 4 horns, 400 kg rated",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "86 kg",
+        "Warranty": "Lifetime frame · 3 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/olympic-flat-bench-press.jpg",
+      "imageMd": "/images/products/olympic-flat-bench-press-md.jpg",
+      "imageSm": "/images/products/olympic-flat-bench-press-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "adjustable-fid-bench",
+        "olympic-incline-bench-press",
+        "commercial-flat-bench",
+        "preacher-curl-bench"
+      ]
+    },
+    {
+      "sku": "AFX-BN-503",
+      "slug": "olympic-incline-bench-press",
+      "name": "Olympic Incline Bench Press",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 87,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "standard",
+      "short": "Fixed-incline Olympic bench press with an adjustable seat and plate storage.",
+      "description": [
+        "A dedicated incline station holds the correct angle when an adjustable bench would quietly sag toward flat. The uprights sit forward of the pad so the bar path clears the face, and the ladder hooks give precise unrack heights.",
+        "The seat pad adjusts independently of the back pad, which stops shorter users sliding down the incline mid-set — the reason incline pressing so often feels unstable on a general-purpose bench."
+      ],
+      "features": [
+        "Fixed optimal incline angle for upper-chest work",
+        "Independently adjustable seat pad",
+        "Forward-set uprights clear the bar path",
+        "Laddered hook positions with protective liners",
+        "Four Olympic plate storage horns",
+        "Fully welded structural frame",
+        "Signature Crimson upholstery"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Bodybuilding floors",
+        "Academy and university gyms",
+        "Premium home gyms"
+      ],
+      "targets": [
+        "Upper pectorals",
+        "Anterior deltoids",
+        "Triceps"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1760 × 1420 × 1320 mm",
+        "Frame": "75 × 75 mm square steel, 3 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "Olympic 50 mm — 4 horns, 400 kg rated",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "92 kg",
+        "Warranty": "Lifetime frame · 3 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/olympic-incline-bench-press.jpg",
+      "imageMd": "/images/products/olympic-incline-bench-press-md.jpg",
+      "imageSm": "/images/products/olympic-incline-bench-press-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "adjustable-fid-bench",
+        "olympic-flat-bench-press",
+        "commercial-flat-bench",
+        "preacher-curl-bench"
+      ]
+    },
+    {
+      "sku": "AFX-BN-504",
+      "slug": "preacher-curl-bench",
+      "name": "Preacher Curl Bench",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 79,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "value",
+      "short": "Standing preacher curl bench with dual bar cradles and a wide arm pad.",
+      "description": [
+        "The standing preacher bench is the most efficient way to run a curl station — it takes no seat space, users step in and out instantly, and the arm pad angle prevents the shoulders from taking over the movement.",
+        "Bar cradles on both sides let a partner hand off a loaded EZ bar without breaking position. A footrest at the base keeps the pelvis stable under heavy sets."
+      ],
+      "features": [
+        "Standing entry — no seat, instant changeover",
+        "Wide angled arm pad locks the humerus",
+        "Dual bar cradles for assisted hand-off",
+        "Integrated footrest for pelvic stability",
+        "Height-adjustable pad assembly",
+        "Compact footprint for dense layouts",
+        "Signature Crimson upholstery"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Bodybuilding floors",
+        "Home gyms",
+        "Personal training studios"
+      ],
+      "targets": [
+        "Biceps brachii",
+        "Brachialis",
+        "Brachioradialis",
+        "Forearms"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1120 × 980 × 1180 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "200 kg rated capacity",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "48 kg",
+        "Warranty": "Lifetime frame · 2 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/preacher-curl-bench.jpg",
+      "imageMd": "/images/products/preacher-curl-bench-md.jpg",
+      "imageSm": "/images/products/preacher-curl-bench-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "adjustable-fid-bench",
+        "olympic-flat-bench-press",
+        "olympic-incline-bench-press",
+        "commercial-flat-bench"
+      ]
+    },
+    {
+      "sku": "AFX-BN-505",
+      "slug": "adjustable-decline-ab-bench",
+      "name": "Adjustable Decline Ab Bench",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 75,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "value",
+      "short": "Multi-angle decline bench with padded ankle rollers and a lift handle.",
+      "description": [
+        "Decline angle is the load selector for abdominal training — the steeper it goes, the heavier the movement, without a single plate. Several locking positions let a beginner and an advanced member use the same bench meaningfully.",
+        "Deep padded ankle rollers hold the legs without cutting circulation on longer sets, and the same frame runs decline dumbbell presses when the abs zone is quiet."
+      ],
+      "features": [
+        "Multiple locking decline angles",
+        "Deep padded ankle roller assembly",
+        "Doubles as a decline press bench",
+        "Assist handle for entry and exit",
+        "Transport handle at the foot end",
+        "High-density foam over a moulded base",
+        "Signature Crimson upholstery"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Home gyms",
+        "Functional training zones",
+        "Hotel fitness rooms"
+      ],
+      "targets": [
+        "Rectus abdominis",
+        "Obliques",
+        "Hip flexors",
+        "Lower pectorals"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1560 × 660 × 820 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "250 kg rated capacity",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "38 kg",
+        "Warranty": "Lifetime frame · 2 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/adjustable-decline-ab-bench.jpg",
+      "imageMd": "/images/products/adjustable-decline-ab-bench-md.jpg",
+      "imageSm": "/images/products/adjustable-decline-ab-bench-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "adjustable-fid-bench",
+        "olympic-flat-bench-press",
+        "olympic-incline-bench-press",
+        "commercial-flat-bench"
+      ]
+    },
+    {
+      "sku": "AFX-BN-506",
+      "slug": "utility-press-bench",
+      "name": "Utility Press Bench",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 72,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "value",
+      "short": "Fixed 90° utility bench for seated press, curls and dumbbell work.",
+      "description": [
+        "A fixed upright bench does one thing perfectly: it holds a true 90 degrees no matter how hard the user drives into it. That makes it the correct choice for seated shoulder press and any movement where a reclining back pad would let the lifter cheat.",
+        "The compact tripod base tucks under dumbbell racks between uses, and the low weight means a single staff member can reposition it."
+      ],
+      "features": [
+        "True fixed 90° backrest — no drift under load",
+        "Compact tripod base stores under racking",
+        "Contoured seat pad with front taper",
+        "Rubber-capped feet protect flooring",
+        "Single-person lift weight",
+        "High-density foam over a moulded base",
+        "Signature Crimson upholstery"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Home gyms",
+        "Personal training studios",
+        "Hotel fitness rooms"
+      ],
+      "targets": [
+        "Deltoids",
+        "Triceps",
+        "Biceps",
+        "Upper back"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1080 × 620 × 1120 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "300 kg rated capacity",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "29 kg",
+        "Warranty": "Lifetime frame · 2 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/utility-press-bench.jpg",
+      "imageMd": "/images/products/utility-press-bench-md.jpg",
+      "imageSm": "/images/products/utility-press-bench-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "adjustable-fid-bench",
+        "olympic-flat-bench-press",
+        "olympic-incline-bench-press",
+        "commercial-flat-bench"
+      ]
+    },
+    {
+      "sku": "AFX-BN-507",
+      "slug": "commercial-flat-bench",
+      "name": "Commercial Flat Bench",
+      "category": "benches",
+      "categoryName": "Benches",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 80,
+      "added": 2025.6,
+      "tier": "Bench Series · Crimson",
+      "band": "value",
+      "short": "Fixed flat bench with a tapered head pad and a stable A-frame base.",
+      "description": [
+        "There is no adjustment to fail, no pin to lose, and no wobble at the top of a heavy dumbbell press. A fixed flat bench is what most experienced lifters reach for first, and every free-weight floor should have several.",
+        "The head pad tapers so the shoulder blades can retract fully off the edge, and the base is set back at the foot end to keep the lifter's feet planted flat on the floor."
+      ],
+      "features": [
+        "Fixed flat design — nothing to loosen or fail",
+        "Tapered head pad clears full scapular retraction",
+        "Setback foot-end base keeps feet planted",
+        "Rubber-capped feet protect flooring",
+        "High-density foam over a moulded base",
+        "Tear-resistant double-stitched upholstery",
+        "Stackable-friendly low profile"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Home gyms",
+        "Free-weight and dumbbell zones",
+        "Hotel fitness rooms"
+      ],
+      "targets": [
+        "Pectorals",
+        "Deltoids",
+        "Triceps",
+        "Back"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1320 × 620 × 460 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed silver powder coat",
+        "Loading": "400 kg rated capacity",
+        "Upholstery": "High-density foam, Crimson vinyl",
+        "Product Weight": "26 kg",
+        "Warranty": "Lifetime frame · 2 years hardware · 1 year upholstery"
+      },
+      "image": "/images/products/commercial-flat-bench.jpg",
+      "imageMd": "/images/products/commercial-flat-bench-md.jpg",
+      "imageSm": "/images/products/commercial-flat-bench-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "adjustable-fid-bench",
+        "olympic-flat-bench-press",
+        "olympic-incline-bench-press",
+        "preacher-curl-bench"
+      ]
+    },
+    {
+      "sku": "AFX-ST-601",
+      "slug": "two-tier-dumbbell-rack",
+      "name": "Two-Tier Dumbbell Rack",
+      "category": "storage",
+      "categoryName": "Storage & Racking",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 89,
+      "added": 2025.7,
+      "tier": "Storage Series · Titanium",
+      "band": "standard",
+      "short": "Ten-pair two-tier dumbbell rack with moulded saddle cradles.",
+      "description": [
+        "Moulded saddle cradles hold each dumbbell at an angle, so members can pick up and return a pair without the racking noise and chipped floors that flat shelves cause. Ten pairs per rack covers a standard 5–50 kg progression across two units.",
+        "The angled upper tier keeps the heavier dumbbells at a comfortable lift height, and the fully welded frame stays square even when a 50 kg dumbbell is dropped into place from height."
+      ],
+      "features": [
+        "Ten dumbbell pairs across two tiers",
+        "Moulded angled saddle cradles",
+        "Upper tier angled toward the user for easy lift",
+        "Fully welded frame — no bolt-together shelving",
+        "Floor-protecting capped feet",
+        "Open back for easy cleaning access",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Free-weight zones",
+        "Hotel fitness centres",
+        "Personal training studios"
+      ],
+      "targets": [
+        "Storage & floor organisation"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "2280 × 620 × 840 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Loading": "10 pairs · 600 kg rated capacity",
+        "Upholstery": "Moulded polymer saddle cradles",
+        "Product Weight": "68 kg",
+        "Warranty": "Lifetime frame · 2 years hardware"
+      },
+      "image": "/images/products/two-tier-dumbbell-rack.jpg",
+      "imageMd": "/images/products/two-tier-dumbbell-rack-md.jpg",
+      "imageSm": "/images/products/two-tier-dumbbell-rack-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "olympic-weight-plate-tree",
+        "ten-bar-barbell-rack",
+        "barbell-accessory-storage-rack",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-ST-602",
+      "slug": "ten-bar-barbell-rack",
+      "name": "Ten-Bar Vertical Barbell Rack",
+      "category": "storage",
+      "categoryName": "Storage & Racking",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 73,
+      "added": 2025.7,
+      "tier": "Storage Series · Titanium",
+      "band": "value",
+      "short": "A-frame vertical barbell rack holding ten Olympic bars in a 1 m² footprint.",
+      "description": [
+        "Ten Olympic bars stored vertically in about a square metre of floor. Each cradle is lined so the sleeve does not score, and the bars stand nose-up so any residual chalk and moisture drains away from the bearings.",
+        "The A-frame geometry means the rack cannot tip forward as bars are withdrawn from the front, which is the failure mode that makes cheaper vertical racks dangerous."
+      ],
+      "features": [
+        "Ten Olympic bars in roughly 1 m² of floor",
+        "Lined cradles protect bar sleeves",
+        "Nose-up storage drains moisture from bearings",
+        "A-frame geometry resists forward tipping",
+        "Top cross-bar handle for repositioning",
+        "Capped feet protect rubber flooring",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "CrossFit and functional boxes",
+        "Powerlifting clubs",
+        "Academy gyms"
+      ],
+      "targets": [
+        "Storage & floor organisation"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1020 × 980 × 1360 mm",
+        "Frame": "50 × 50 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Loading": "10 Olympic bars · 250 kg rated",
+        "Upholstery": "Lined polymer cradles",
+        "Product Weight": "34 kg",
+        "Warranty": "Lifetime frame · 2 years hardware"
+      },
+      "image": "/images/products/ten-bar-barbell-rack.jpg",
+      "imageMd": "/images/products/ten-bar-barbell-rack-md.jpg",
+      "imageSm": "/images/products/ten-bar-barbell-rack-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "two-tier-dumbbell-rack",
+        "olympic-weight-plate-tree",
+        "barbell-accessory-storage-rack",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-ST-603",
+      "slug": "barbell-accessory-storage-rack",
+      "name": "Barbell & Accessory Storage Rack",
+      "category": "storage",
+      "categoryName": "Storage & Racking",
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 71,
+      "added": 2025.7,
+      "tier": "Storage Series · Titanium",
+      "band": "value",
+      "short": "Combination barbell rack with an integrated attachment hook bar.",
+      "description": [
+        "Cable attachments are the items that end up on the floor in every gym, because nothing is designed to hold them. This rack solves both problems at once — ten vertical bar cradles below, six accessory hooks above for lat bars, ropes, triangles and stirrup handles.",
+        "Putting attachments at eye level next to the bars means members actually return them, which is worth more to a facility than any amount of signage."
+      ],
+      "features": [
+        "Ten vertical barbell cradles",
+        "Six accessory hooks for bars, ropes and handles",
+        "Eye-level attachment storage encourages returns",
+        "A-frame geometry resists tipping",
+        "Lined cradles protect bar sleeves",
+        "Capped feet protect rubber flooring",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Cable and functional zones",
+        "Personal training studios",
+        "Academy gyms"
+      ],
+      "targets": [
+        "Storage & floor organisation"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1140 × 980 × 1420 mm",
+        "Frame": "50 × 50 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Loading": "10 bars + 6 attachments · 260 kg rated",
+        "Upholstery": "Lined polymer cradles",
+        "Product Weight": "39 kg",
+        "Warranty": "Lifetime frame · 2 years hardware"
+      },
+      "image": "/images/products/barbell-accessory-storage-rack.jpg",
+      "imageMd": "/images/products/barbell-accessory-storage-rack-md.jpg",
+      "imageSm": "/images/products/barbell-accessory-storage-rack-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "two-tier-dumbbell-rack",
+        "olympic-weight-plate-tree",
+        "ten-bar-barbell-rack",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-ST-604",
+      "slug": "olympic-weight-plate-tree",
+      "name": "Olympic Weight Plate Tree",
+      "category": "storage",
+      "categoryName": "Storage & Racking",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 77,
+      "added": 2025.7,
+      "tier": "Storage Series · Titanium",
+      "band": "value",
+      "short": "Six-post Olympic plate tree with hard-chromed horns and a tip-resistant base.",
+      "description": [
+        "Six hard-chromed horns arranged so the heaviest plates load lowest and the lightest sit at hand height — which is both safer and faster than the flat-shelf alternative.",
+        "The wide splayed base means the tree stays put when a member pulls a 20 kg plate off one side, and the chrome sleeves let plates slide off without the drag that scratched painted horns cause."
+      ],
+      "features": [
+        "Six hard-chromed Olympic horns",
+        "Graduated layout — heaviest plates lowest",
+        "Wide splayed anti-tip base",
+        "Chrome sleeves allow drag-free plate removal",
+        "Compact footprint beside any station",
+        "Capped feet protect rubber flooring",
+        "Titanium brushed powder-coat finish"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Home and garage gyms",
+        "Free-weight zones",
+        "Powerlifting clubs"
+      ],
+      "targets": [
+        "Storage & floor organisation"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "880 × 860 × 1180 mm",
+        "Frame": "50 × 50 mm square steel, 2.5 mm wall",
+        "Finish": "Brushed Titanium powder coat",
+        "Loading": "6 chromed horns · 400 kg rated",
+        "Upholstery": "N/A",
+        "Product Weight": "31 kg",
+        "Warranty": "Lifetime frame · 2 years hardware"
+      },
+      "image": "/images/products/olympic-weight-plate-tree.jpg",
+      "imageMd": "/images/products/olympic-weight-plate-tree-md.jpg",
+      "imageSm": "/images/products/olympic-weight-plate-tree-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "two-tier-dumbbell-rack",
+        "ten-bar-barbell-rack",
+        "barbell-accessory-storage-rack",
+        "forty-five-degree-leg-press"
+      ]
+    },
+    {
+      "sku": "AFX-CD-701",
+      "slug": "commercial-spin-bike",
+      "name": "Commercial Spin Bike",
+      "category": "cardio",
+      "categoryName": "Cardio & Conditioning",
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 92,
+      "added": 2025.8,
+      "tier": "Studio Series",
+      "band": "premium",
+      "short": "Belt-driven studio cycle with a heavy perimeter-weighted flywheel and micro-adjust cockpit.",
+      "description": [
+        "A studio cycle lives or dies on two things: how quiet it stays at cadence, and how fast an instructor can fit a new rider. The poly-V belt drive runs near-silent and needs no tensioning between services, so a full class of twenty stays audible over the music.",
+        "Four-way micro-adjustable handlebars and saddle mean a rider is fitted in seconds rather than minutes. The perimeter-weighted flywheel carries momentum through the dead spot of the pedal stroke, which is what makes a good cycle feel like a road bike rather than a machine."
+      ],
+      "features": [
+        "Near-silent poly-V belt drive, no tensioning between services",
+        "Perimeter-weighted flywheel for road-like momentum",
+        "Four-way micro-adjustable saddle and handlebars",
+        "Felt-pad resistance with emergency brake-down lever",
+        "Multi-position aero and climbing handlebar grips",
+        "Dual-sided pedals — cage and SPD clip",
+        "Transport wheels and levelling feet"
+      ],
+      "applications": [
+        "Cycling studios",
+        "Commercial gyms",
+        "Hotel and club fitness",
+        "Premium home studios"
+      ],
+      "targets": [
+        "Cardiovascular system",
+        "Quadriceps",
+        "Hamstrings",
+        "Glutes",
+        "Calves"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1240 × 560 × 1180 mm",
+        "Frame": "Heavy-gauge steel with corrosion-resistant coating",
+        "Finish": "Powder coat, matte black with red accents",
+        "Loading": "Perimeter-weighted flywheel · 150 kg user capacity",
+        "Upholstery": "Performance saddle, gel-backed",
+        "Product Weight": "58 kg",
+        "Warranty": "5 years frame · 2 years parts · 1 year wear items"
+      },
+      "image": "/images/products/commercial-spin-bike.jpg",
+      "imageMd": "/images/products/commercial-spin-bike-md.jpg",
+      "imageSm": "/images/products/commercial-spin-bike-sm.jpg",
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "standing-torso-twister",
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "adjustable-fid-bench"
+      ]
+    },
+    {
+      "sku": "AFX-CD-702",
+      "slug": "standing-torso-twister",
+      "name": "Standing Torso Twister",
+      "category": "cardio",
+      "categoryName": "Cardio & Conditioning",
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 68,
+      "added": 2025.8,
+      "tier": "Studio Series",
+      "band": "value",
+      "short": "Rotating platform twister for warm-up, mobility and low-impact conditioning.",
+      "description": [
+        "A twister earns its floor space in the warm-up and cool-down zones, where members need controlled rotational movement without load. The bearing-mounted platform turns smoothly under bodyweight and stops cleanly at the end of range.",
+        "Because it is low-impact and needs no instruction, it is one of the few stations that older members and complete beginners will use unprompted — which makes it disproportionately valuable in a mixed-demographic facility."
+      ],
+      "features": [
+        "Sealed-bearing rotating platform",
+        "Textured non-slip standing surface",
+        "Full-length curved support handle",
+        "No adjustment or instruction required",
+        "Low-impact — suitable for all fitness levels",
+        "Compact low-profile footprint",
+        "Capped feet protect flooring"
+      ],
+      "applications": [
+        "Warm-up and mobility zones",
+        "Senior fitness programmes",
+        "Home gyms",
+        "Outdoor and community gyms"
+      ],
+      "targets": [
+        "Obliques",
+        "Transverse abdominis",
+        "Hip rotators",
+        "Lower back mobility"
+      ],
+      "specs": {
+        "Dimensions (L × W × H)": "1180 × 720 × 460 mm",
+        "Frame": "60 × 60 mm square steel, 2.5 mm wall",
+        "Finish": "Powder coat, matte black with red accents",
+        "Loading": "150 kg user capacity",
+        "Upholstery": "Textured polymer platform",
+        "Product Weight": "24 kg",
+        "Warranty": "Lifetime frame · 2 years bearings"
+      },
+      "image": "/images/products/standing-torso-twister.jpg",
+      "imageMd": "/images/products/standing-torso-twister-md.jpg",
+      "imageSm": "/images/products/standing-torso-twister-sm.jpg",
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "commercial-spin-bike",
+        "forty-five-degree-leg-press",
+        "plate-loaded-chest-press-pec-deck",
+        "adjustable-fid-bench"
+      ]
+    }
+  ]
+}
