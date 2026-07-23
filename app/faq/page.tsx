@@ -23,18 +23,17 @@ export default function FaqPage() {
   return (
     <div className="shell section !pt-8">
       <div className="max-w-3xl">
-      <Reveal>
-        <span className="eyebrow">Questions</span>
-        <h1 className="mt-4 text-headline-xl">Before you enquire</h1>
-        <p className="mt-3 text-body-md text-on-surface-variant">
-          Can&rsquo;t find an answer here? Message us directly and we&rsquo;ll get back to you the
-          same working day.
-        </p>
-      </Reveal>
+      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
+      <span className="eyebrow">Questions</span>
+      <h1 className="mt-4 text-headline-xl">Before you enquire</h1>
+      <p className="mt-3 text-body-md text-on-surface-variant">
+        Can&rsquo;t find an answer here? Message us directly and we&rsquo;ll get back to you the
+        same working day.
+      </p>
 
-      <Reveal delay={0.1} className="mt-8">
+      <div className="mt-8">
         <Accordion items={FAQS} />
-      </Reveal>
+      </div>
 
       <Reveal delay={0.16} className="mt-10 text-center">
         <a href={whatsAppLink()} target="_blank" rel="noopener" className="btn btn-whatsapp inline-flex">

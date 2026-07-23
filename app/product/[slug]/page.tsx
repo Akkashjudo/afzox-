@@ -5,7 +5,6 @@ import ProductGallery from '@/components/ProductGallery';
 import ProductBuyBox from '@/components/ProductBuyBox';
 import ProductTabs from '@/components/ProductTabs';
 import RelatedProducts from '@/components/RelatedProducts';
-import Reveal from '@/components/Reveal';
 import { PRODUCTS, getCategory, getProduct, relatedProducts, whatsAppLink } from '@/lib/catalogue';
 import { SITE_URL } from '@/lib/site';
 import { IconChevRight, IconWhatsApp } from '@/components/icons';
@@ -45,14 +44,16 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
           <span aria-current="page" className="text-on-background">{product.name}</span>
         </nav>
 
+        {/* Above the fold — must render fully visible immediately, this
+            gallery image is the LCP element on every product page. */}
         <div className="mt-6 grid grid-cols-1 gap-10 lg:grid-cols-2 lg:gap-14">
-          <Reveal><ProductGallery product={product} /></Reveal>
-          <Reveal delay={0.08}><ProductBuyBox product={product} /></Reveal>
+          <ProductGallery product={product} />
+          <ProductBuyBox product={product} />
         </div>
       </div>
 
       <div className="shell section">
-        <Reveal><ProductTabs product={product} /></Reveal>
+        <ProductTabs product={product} />
       </div>
 
       <RelatedProducts products={related} />

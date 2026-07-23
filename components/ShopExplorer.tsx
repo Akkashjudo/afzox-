@@ -135,7 +135,11 @@ export default function ShopExplorer({ initialCategory = 'all' }: { initialCateg
             </label>
           </div>
 
-          <AnimatePresence mode="popLayout">
+          {/* initial={false}: the very first paint must show cards at full
+              opacity immediately (this grid is the LCP candidate on /shop) —
+              Framer Motion only animates items that enter/exit *after* mount,
+              e.g. when a filter changes the list. */}
+          <AnimatePresence mode="popLayout" initial={false}>
             {list.length ? (
               <motion.div layout className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
                 {list.map((p, i) => (

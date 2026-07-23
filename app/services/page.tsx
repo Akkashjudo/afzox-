@@ -41,15 +41,14 @@ const PROCESS = [
 export default function ServicesPage() {
   return (
     <>
+      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
       <section className="shell section !pb-10 !pt-8">
-        <Reveal>
-          <span className="eyebrow">Services</span>
-          <h1 className="mt-4 max-w-3xl text-display-lg text-balance">Setup, delivered end to end.</h1>
-          <p className="mt-5 max-w-2xl text-body-lg text-on-surface-variant">
-            From a single machine to a full commercial floor — we design, manufacture, deliver
-            and install, then keep it running with scheduled maintenance.
-          </p>
-        </Reveal>
+        <span className="eyebrow">Services</span>
+        <h1 className="mt-4 max-w-3xl text-display-lg text-balance">Setup, delivered end to end.</h1>
+        <p className="mt-5 max-w-2xl text-body-lg text-on-surface-variant">
+          From a single machine to a full commercial floor — we design, manufacture, deliver
+          and install, then keep it running with scheduled maintenance.
+        </p>
       </section>
 
       <section className="shell pb-16">

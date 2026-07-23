@@ -12,16 +12,15 @@ export const metadata: Metadata = {
 export default function CategoriesPage() {
   return (
     <div className="shell section !pt-8">
-      <Reveal>
-        <span className="eyebrow">The catalogue</span>
-        <h1 className="mt-3 text-headline-xl">
-          Seven ranges. <span className="text-primary">One build standard.</span>
-        </h1>
-        <p className="mt-3 max-w-xl text-body-md text-on-surface-variant">
-          Every category tile shows a real AFZOX machine from that range — the machine on the
-          tile is the machine that ships.
-        </p>
-      </Reveal>
+      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
+      <span className="eyebrow">The catalogue</span>
+      <h1 className="mt-3 text-headline-xl">
+        Seven ranges. <span className="text-primary">One build standard.</span>
+      </h1>
+      <p className="mt-3 max-w-xl text-body-md text-on-surface-variant">
+        Every category tile shows a real AFZOX machine from that range — the machine on the
+        tile is the machine that ships.
+      </p>
 
       <div className="mt-10 grid grid-cols-1 gap-4 md:grid-cols-3">
         {CATEGORIES.map((c, i) => (

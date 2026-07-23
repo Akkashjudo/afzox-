@@ -35,20 +35,19 @@ export default function EnquiryClient() {
 
   return (
     <div className="shell section !pt-8">
-      <Reveal>
-        <h1 className="text-headline-xl">Enquiry List</h1>
-        <Link href="/shop" className="mt-2 inline-flex items-center gap-1.5 text-sm font-medium text-on-surface-variant hover:text-primary">
-          <IconArrow className="h-3.5 w-3.5 rotate-180" /> Continue browsing
-        </Link>
-      </Reveal>
+      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
+      <h1 className="text-headline-xl">Enquiry List</h1>
+      <Link href="/shop" className="mt-2 inline-flex items-center gap-1.5 text-sm font-medium text-on-surface-variant hover:text-primary">
+        <IconArrow className="h-3.5 w-3.5 rotate-180" /> Continue browsing
+      </Link>
 
       {items.length === 0 ? (
-        <Reveal delay={0.1} className="mt-16 text-center">
+        <div className="mt-16 text-center">
           <IconEmpty className="mx-auto h-14 w-14 text-outline-variant" />
           <h2 className="mt-5 text-headline-sm">Your enquiry list is empty</h2>
           <p className="mt-2 text-sm text-on-surface-variant">Add machines from the catalogue to request a combined quotation.</p>
           <Link href="/shop" className="btn btn-primary mt-6">Browse Equipment</Link>
-        </Reveal>
+        </div>
       ) : (
         <div className="mt-10 grid grid-cols-1 gap-8 lg:grid-cols-[1fr_380px]">
           {/* ---------- LINE ITEMS ---------- */}

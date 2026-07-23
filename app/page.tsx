@@ -82,9 +82,11 @@ export default function HomePage() {
             </Reveal>
           </div>
           <div className="mt-10 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {/* Below the hero fold on every breakpoint — lazy-load all of these
+                rather than competing with the hero image for initial bandwidth. */}
             {featuredProducts(8).map((p, i) => (
               <Reveal key={p.slug} delay={0.04 * (i % 4)}>
-                <ProductCard product={p} eager={i < 4} />
+                <ProductCard product={p} />
               </Reveal>
             ))}
           </div>

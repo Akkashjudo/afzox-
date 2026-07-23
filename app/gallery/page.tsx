@@ -17,18 +17,17 @@ export default function GalleryPage() {
   const shots = PRODUCTS.slice(0, 24);
   return (
     <div className="shell section !pt-8">
-      <Reveal>
-        <span className="eyebrow">Gallery</span>
-        <h1 className="mt-4 max-w-2xl text-headline-xl">Equipment, photographed straight off the line.</h1>
-        <p className="mt-3 max-w-xl text-body-md text-on-surface-variant">
-          Every image here is the real product — no stock photography. Click through to any
-          machine for full specifications.
-        </p>
-      </Reveal>
+      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
+      <span className="eyebrow">Gallery</span>
+      <h1 className="mt-4 max-w-2xl text-headline-xl">Equipment, photographed straight off the line.</h1>
+      <p className="mt-3 max-w-xl text-body-md text-on-surface-variant">
+        Every image here is the real product — no stock photography. Click through to any
+        machine for full specifications.
+      </p>
 
       <div className="mt-10 grid auto-rows-[160px] grid-cols-2 gap-3 sm:grid-cols-3 md:auto-rows-[200px] lg:grid-cols-4">
-        {shots.map((p, i) => (
-          <Reveal key={p.slug} delay={Math.min(i, 8) * 0.03} className={SPANS[i % SPANS.length]}>
+        {shots.map((p, i) => {
+          const tile = (
             <Link
               href={`/product/${p.slug}`}
               className="group relative block h-full w-full overflow-hidden rounded-2xl bg-gradient-to-br from-surface to-surface-container"
@@ -45,8 +44,19 @@ export default function GalleryPage() {
                 <span className="text-xs font-semibold text-white">{p.name}</span>
               </div>
             </Link>
-          </Reveal>
-        ))}
+          );
+          // First six tiles are eager-loaded and likely in the initial viewport —
+          // render them immediately rather than gating them behind opacity:0
+          // until an IntersectionObserver fires post-hydration.
+          if (i < 6) {
+            return <div key={p.slug} className={SPANS[i % SPANS.length]}>{tile}</div>;
+          }
+          return (
+            <Reveal key={p.slug} delay={Math.min(i, 8) * 0.03} className={SPANS[i % SPANS.length]}>
+              {tile}
+            </Reveal>
+          );
+        })}
       </div>
 
       <Reveal className="mt-10 text-center">

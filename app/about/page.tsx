@@ -20,27 +20,24 @@ const VALUES = [
 export default function AboutPage() {
   return (
     <>
+      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
       <section className="shell section !pb-10 !pt-8">
-        <Reveal>
-          <span className="eyebrow">About AFZOX</span>
-          <h1 className="mt-4 max-w-3xl text-display-lg text-balance">
-            Precision engineering meets <span className="text-primary">high-end design.</span>
-          </h1>
-          <p className="mt-5 max-w-2xl text-body-lg text-on-surface-variant">
-            AFZOX Global Strength designs and manufactures commercial gym equipment out of
-            Chennai, Tamil Nadu — supplying and installing complete fitness floors for gyms,
-            hotels and residential projects across India.
-          </p>
-        </Reveal>
+        <span className="eyebrow">About AFZOX</span>
+        <h1 className="mt-4 max-w-3xl text-display-lg text-balance">
+          Precision engineering meets <span className="text-primary">high-end design.</span>
+        </h1>
+        <p className="mt-5 max-w-2xl text-body-lg text-on-surface-variant">
+          AFZOX Global Strength designs and manufactures commercial gym equipment out of
+          Chennai, Tamil Nadu — supplying and installing complete fitness floors for gyms,
+          hotels and residential projects across India.
+        </p>
       </section>
 
       <section className="shell grid grid-cols-1 items-center gap-10 pb-16 lg:grid-cols-2 lg:gap-16">
-        <Reveal>
-          <div className="relative aspect-[4/3] overflow-hidden rounded-3xl bg-gradient-to-br from-surface to-surface-container">
-            <Image src={PRODUCTS[10].image} alt="AFZOX manufactured commercial gym equipment" fill sizes="(max-width:1024px) 90vw, 45vw" className="object-contain p-10" />
-          </div>
-        </Reveal>
-        <Reveal delay={0.1}>
+        <div className="relative aspect-[4/3] overflow-hidden rounded-3xl bg-gradient-to-br from-surface to-surface-container">
+          <Image src={PRODUCTS[10].image} alt="AFZOX manufactured commercial gym equipment" fill priority sizes="(max-width:1024px) 90vw, 45vw" className="object-contain p-10" />
+        </div>
+        <div>
           <h2 className="text-headline-lg">Why we exist</h2>
           <div className="mt-4 space-y-4 text-body-md text-on-surface-variant">
             <p>
@@ -63,7 +60,7 @@ export default function AboutPage() {
             <div><dt className="text-3xl font-extrabold tracking-tight text-primary">7</dt><dd className="mt-1 text-sm text-on-surface-variant">Equipment ranges</dd></div>
             <div><dt className="text-3xl font-extrabold tracking-tight text-primary">PAN India</dt><dd className="mt-1 text-sm text-on-surface-variant">Delivery &amp; install</dd></div>
           </dl>
-        </Reveal>
+        </div>
       </section>
 
       <section className="section bg-surface">
