@@ -3,21 +3,26 @@
 import { useEffect, useRef, useState } from 'react';
 
 /**
- * Scroll-reveal wrapper — plain CSS transition driven by a single shared
- * IntersectionObserver, not Framer Motion.
+ * Scroll-reveal wrapper. Two tiers, both fail-safe by construction:
  *
- * Fail-safe by construction: the default (and the server-rendered) state
- * is fully VISIBLE. JS only ever hides an element after confirming, on
- * mount, that (a) IntersectionObserver exists and (b) the element is not
- * already inside or near the viewport. That element then gets a 2.5s
- * safety timeout that force-reveals it regardless of the observer ever
- * firing. This was rewritten after a real device (WhatsApp's in-app
- * browser / iOS Safari WebView) showed whole below-the-fold sections
- * permanently stuck at opacity:0 — the previous "hidden by default,
- * shown once JS confirms visibility" logic fails open into a blank page
- * on any JS/observer hiccup. This version fails open into "just show it,
- * skip the animation" instead, which is the only acceptable failure mode
- * for primary page content.
+ * Desktop (>=768px): this component's own IntersectionObserver logic
+ * runs. Default (and server-rendered) state is fully VISIBLE; JS only
+ * hides an element after confirming, on mount, that (a) IntersectionObserver
+ * exists and (b) the element isn't already near the viewport. That
+ * element then gets a 2.5s safety timeout that force-reveals it
+ * regardless of whether the observer ever fires.
+ *
+ * Mobile (<768px): a global CSS rule in globals.css (`.reveal-el` inside
+ * an `@media (max-width:767px)` block) overrides this component's inline
+ * style with `!important` and plays a fast, zero-delay CSS keyframe
+ * instead. That override is pure CSS — it has no dependency on this
+ * component's JS, React hydration, or the observer ever running, so
+ * mobile visibility cannot get stuck no matter what JS does or fails to
+ * do. This two-tier split exists because a real device (WhatsApp's
+ * in-app browser / iOS Safari WebView) showed whole below-the-fold
+ * sections permanently stuck at opacity:0 under the JS-only version —
+ * the failure mode for primary content must always be "just show it,
+ * skip the animation," never "stay blank."
  */
 export default function Reveal({
   children,
@@ -51,7 +56,7 @@ export default function Reveal({
           io.unobserve(el);
         }
       },
-      { rootMargin: '0px 0px -8% 0px', threshold: 0.05 }
+      { rootMargin: '0px 0px 120px 0px', threshold: 0.05 }
     );
     io.observe(el);
 
@@ -68,7 +73,7 @@ export default function Reveal({
   return (
     <div
       ref={ref}
-      className={className}
+      className={className ? `reveal-el ${className}` : 'reveal-el'}
       style={{
         opacity: hidden ? 0 : 1,
         transform: hidden ? `translateY(${y}px)` : 'translateY(0)',

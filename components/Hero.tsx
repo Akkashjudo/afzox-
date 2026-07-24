@@ -21,8 +21,8 @@ export default function Hero({ heroProduct, stats }: { heroProduct: Product; sta
     <section className="relative isolate overflow-hidden bg-white">
       {/* Ambient brand-colour glow — plain CSS, no JS, never hides content beneath it */}
       <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
-        <div className="absolute -left-40 -top-40 h-[560px] w-[560px] rounded-full bg-primary/[0.09] blur-[110px]" />
-        <div className="absolute -right-32 top-10 h-[460px] w-[460px] rounded-full bg-tertiary/[0.07] blur-[100px]" />
+        <div className="ambient-glow absolute -left-40 -top-40 h-[560px] w-[560px] rounded-full bg-primary/[0.09] blur-[110px]" />
+        <div className="ambient-glow absolute -right-32 top-10 h-[460px] w-[460px] rounded-full bg-tertiary/[0.07] blur-[100px]" />
         <div className="hero-grid absolute inset-0 opacity-[0.35]" />
         <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-white to-transparent" />
       </div>
