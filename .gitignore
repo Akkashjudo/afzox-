@@ -8,3 +8,6 @@ _backup_original
 _legacy_static_v1
 _stitch_new
 .claude
+
+# Full-resolution logo masters kept alongside the web-optimised versions
+public/*.original.png

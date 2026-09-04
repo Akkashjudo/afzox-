@@ -1,0 +1,1505 @@
+{
+ "collection": {
+  "slug": "bb-series",
+  "name": "BB Series",
+  "displayName": "BB SERIES",
+  "short": "Glute and lower-body specialist range",
+  "desc": "The AFZOX BB Series is a glute and lower-body specialist range - hip thrust, glute drive, kickback and bridge stations alongside leg press, belt squat and curl machines, in both selectorized and plate-loaded builds. Specified, delivered and installed across India.",
+  "url": "/shop/bb-series",
+  "count": 16
+ },
+ "categories": [
+  {
+   "slug": "bb-glutes-hips",
+   "name": "Glutes & Hips",
+   "short": "Hip thrust, glute drive, kickback and bridge stations built around hip extension.",
+   "desc": "Hip thrust, glute drive, kickback and bridge stations built around hip extension.",
+   "thumb": "bb-plate-loaded-glute-kickback",
+   "image": "/images/products/bb-series/bb-plate-loaded-glute-kickback-01-md.jpg",
+   "imageLg": "/images/products/bb-series/bb-plate-loaded-glute-kickback-01.jpg",
+   "count": 10,
+   "url": "/shop/bb-glutes-hips"
+  },
+  {
+   "slug": "bb-legs",
+   "name": "Legs",
+   "short": "Leg press, squat and curl stations for quadriceps and hamstring work.",
+   "desc": "Leg press, squat and curl stations for quadriceps and hamstring work.",
+   "thumb": "bb-leg-press",
+   "image": "/images/products/bb-series/bb-leg-press-01-md.jpg",
+   "imageLg": "/images/products/bb-series/bb-leg-press-01.jpg",
+   "count": 5,
+   "url": "/shop/bb-legs"
+  },
+  {
+   "slug": "bb-upper-body",
+   "name": "Upper Body",
+   "short": "Standing deltoid and pressing stations.",
+   "desc": "Standing deltoid and pressing stations.",
+   "thumb": "bb-lateral-raise",
+   "image": "/images/products/bb-series/bb-lateral-raise-01-md.jpg",
+   "imageLg": "/images/products/bb-series/bb-lateral-raise-01.jpg",
+   "count": 1,
+   "url": "/shop/bb-upper-body"
+  }
+ ],
+ "products": [
+  {
+   "sku": "AFX-BB-001",
+   "slug": "bb-plate-loaded-glute-kickback",
+   "name": "Plate Loaded Glute Kickback",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 89,
+   "added": 2026.9501,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate Loaded Glute Kickback station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Plate Loaded Glute Kickback is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A padded knee rest and hip roller sit under tall upright handles, with the load carried on Olympic sleeves and an orange lever linkage driving the movement. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-plate-loaded-glute-kickback-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-plate-loaded-glute-kickback-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-plate-loaded-glute-kickback-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-plate-loaded-glute-kickback-01.jpg",
+    "/images/products/bb-series/bb-plate-loaded-glute-kickback-02.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive",
+    "bb-standing-glute-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-002",
+   "slug": "bb-glute-kickback",
+   "name": "Glute Kickback",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 88,
+   "added": 2026.9502,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized glute kickback station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Glute Kickback is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A compact knee pad and hip roller work against a shrouded weight stack, with tall handles ahead of the user for support. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-glute-kickback-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-glute-kickback-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-glute-kickback-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-glute-kickback-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive",
+    "bb-standing-glute-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Selectorized Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-003",
+   "slug": "bb-hip-thrust-sled",
+   "name": "Hip Thrust Sled",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 87,
+   "added": 2026.9503,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate loaded hip thrust sled station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Hip Thrust Sled is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A low sled frame carries a padded seat over angled foot platforms, with transport wheels at one end and an orange release handle. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "Transport wheels for floor repositioning",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Quadriceps"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-hip-thrust-sled-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-hip-thrust-sled-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-hip-thrust-sled-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-hip-thrust-sled-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-plate-loaded-glute-drive",
+    "bb-standing-glute-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-004",
+   "slug": "bb-plate-loaded-glute-drive",
+   "name": "Plate Loaded Glute Drive",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 86,
+   "added": 2026.9504,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate Loaded Glute Drive station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Plate Loaded Glute Drive is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A tall back pad and long bench sit ahead of a ribbed foot platform, with orange handles either side of the hips. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-plate-loaded-glute-drive-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-plate-loaded-glute-drive-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-plate-loaded-glute-drive-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-plate-loaded-glute-drive-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-standing-glute-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-005",
+   "slug": "bb-leg-press",
+   "name": "Leg Press",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-legs",
+   "categoryName": "Legs",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 85,
+   "added": 2026.9505,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized leg press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Leg Press is a commercial strength station built around a seated pressing path loaded through the legs. It is intended for continuous use on a commercial floor.",
+    "A seat and back pad face twin textured foot plates, with resistance set on a shrouded single-pin stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Support handles either side of the working position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Legs",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "LEG PRESS"
+   },
+   "image": "/images/products/bb-series/bb-leg-press-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-leg-press-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-leg-press",
+    "bb-seated-leg-curl",
+    "bb-belt-squat",
+    "bb-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Legs",
+    "Selectorized Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-BB-006",
+   "slug": "bb-standing-glute-press",
+   "name": "Standing Glute Press",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 84,
+   "added": 2026.9506,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized standing glute press station for glutes and legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Standing Glute Press is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "Back and chest pads hold the torso upright while a foot platform drives against a shrouded stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes and legs strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Quadriceps"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes, Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-standing-glute-press-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-standing-glute-press-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-standing-glute-press-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-standing-glute-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Selectorized Machine",
+    "Glutes",
+    "Legs",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-007",
+   "slug": "bb-plate-loaded-leg-press",
+   "name": "Plate Loaded Leg Press",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-legs",
+   "categoryName": "Legs",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 83,
+   "added": 2026.9507,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate Loaded Leg Press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Plate Loaded Leg Press is a commercial strength station built around a seated pressing path loaded through the legs. It is intended for continuous use on a commercial floor.",
+    "A reclined seat faces angled foot plates on a plate-loaded lever, with orange adjustment collars. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Legs",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-plate-loaded-leg-press-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-plate-loaded-leg-press-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-plate-loaded-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-plate-loaded-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-leg-press",
+    "bb-seated-leg-curl",
+    "bb-belt-squat",
+    "bb-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Legs",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-BB-008",
+   "slug": "bb-seated-leg-curl",
+   "name": "Seated Leg Curl",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-legs",
+   "categoryName": "Legs",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 82,
+   "added": 2026.9508,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized seated leg curl station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Seated Leg Curl is a commercial strength station built around a knee flexion path that isolates the hamstrings. It is intended for continuous use on a commercial floor.",
+    "An inclined torso pad places the hips above the knees with the ankles held under a roller, worked against a shrouded stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Legs",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-seated-leg-curl-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-seated-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-seated-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-seated-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-leg-press",
+    "bb-plate-loaded-leg-press",
+    "bb-belt-squat",
+    "bb-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Legs",
+    "Selectorized Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-BB-009",
+   "slug": "bb-seated-hip-thrust",
+   "name": "Seated Hip Thrust",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 81,
+   "added": 2026.9509,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized seated hip thrust station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Seated Hip Thrust is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A long frame carries a hip roller and ribbed foot platform against a shrouded weight stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-seated-hip-thrust-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-seated-hip-thrust-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-seated-hip-thrust-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-seated-hip-thrust-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Selectorized Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-010",
+   "slug": "bb-hip-thrust",
+   "name": "Hip Thrust",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 80,
+   "added": 2026.951,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized hip thrust station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Hip Thrust is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A shrouded stack drives a padded hip bar over a full-width ribbed foot platform, with grab handles either side. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "HIP THRUST"
+   },
+   "image": "/images/products/bb-series/bb-hip-thrust-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-hip-thrust-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-hip-thrust-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-hip-thrust-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Selectorized Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-011",
+   "slug": "bb-belt-squat",
+   "name": "Belt Squat",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-legs",
+   "categoryName": "Legs",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 79,
+   "added": 2026.9511,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate loaded belt squat station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Belt Squat is a commercial strength station built around a squat path with the load carried between the feet. It is intended for continuous use on a commercial floor.",
+    "The load hangs from a belt and chain between the feet, with the user standing on flanking platforms and the plates carried on horizontal sleeves. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Support handles either side of the working position",
+    "Transport wheels for floor repositioning",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Squat for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Legs",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Squat",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-belt-squat-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-belt-squat-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-belt-squat-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-belt-squat-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-leg-press",
+    "bb-plate-loaded-leg-press",
+    "bb-seated-leg-curl",
+    "bb-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Legs",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Squat",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-012",
+   "slug": "bb-plate-loaded-hip-thrust",
+   "name": "Plate Loaded Hip Thrust",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 78,
+   "added": 2026.9512,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate Loaded Hip Thrust station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Plate Loaded Hip Thrust is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A long plate-loaded frame carries the hip pad over a wide ribbed foot platform, with handles at hip height. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-plate-loaded-hip-thrust-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-plate-loaded-hip-thrust-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-plate-loaded-hip-thrust-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-plate-loaded-hip-thrust-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-013",
+   "slug": "bb-seated-glute-press",
+   "name": "Seated Glute Press",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 77,
+   "added": 2026.9513,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized seated glute press station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Seated Glute Press is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A seat pad works against an overhead lever arm and shrouded stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-seated-glute-press-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-seated-glute-press-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-seated-glute-press-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-seated-glute-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Selectorized Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-014",
+   "slug": "bb-standing-calf-raise",
+   "name": "Standing Calf Raise",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-legs",
+   "categoryName": "Legs",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 76,
+   "added": 2026.9514,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized standing calf raise station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Standing Calf Raise is a commercial strength station built around a plantarflexion path through the calf. It is intended for continuous use on a commercial floor.",
+    "Back and chest pads steady the torso while the forefoot works off twin textured platforms against a shrouded stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Support handles either side of the working position",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Ankle plantarflexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Gastrocnemius"
+    ],
+    "secondary": [
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Gastrocnemius",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Legs",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Ankle plantarflexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-standing-calf-raise-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-standing-calf-raise-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-standing-calf-raise-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-standing-calf-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-leg-press",
+    "bb-plate-loaded-leg-press",
+    "bb-seated-leg-curl",
+    "bb-belt-squat"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Legs",
+    "Selectorized Machine",
+    "Legs",
+    "Ankle plantarflexion",
+    "Gastrocnemius"
+   ]
+  },
+  {
+   "sku": "AFX-BB-015",
+   "slug": "bb-plate-loaded-glute-bridge",
+   "name": "Plate Loaded Glute Bridge",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-glutes-hips",
+   "categoryName": "Glutes & Hips",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 75,
+   "added": 2026.9515,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Plate Loaded Glute Bridge station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Plate Loaded Glute Bridge is a commercial strength station built around a hip extension path loaded directly across the hips. It is intended for continuous use on a commercial floor.",
+    "A padded bench sits inside a wheeled plate-loaded frame, with the plates carried on a horizontal sleeve alongside. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Padded hip roller",
+    "Support handles either side of the working position",
+    "Transport wheels for floor repositioning",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Glutes & Hips",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/bb-series/bb-plate-loaded-glute-bridge-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-plate-loaded-glute-bridge-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-plate-loaded-glute-bridge-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-plate-loaded-glute-bridge-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "bb-plate-loaded-glute-kickback",
+    "bb-glute-kickback",
+    "bb-hip-thrust-sled",
+    "bb-plate-loaded-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Glutes & Hips",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-BB-016",
+   "slug": "bb-lateral-raise",
+   "name": "Lateral Raise",
+   "collection": "bb-series",
+   "collectionName": "BB Series",
+   "series": "BB Series",
+   "category": "bb-upper-body",
+   "categoryName": "Upper Body",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 74,
+   "added": 2026.9516,
+   "tier": "BB Series",
+   "band": "premium",
+   "short": "Selectorized lateral raise station for shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX BB Series Lateral Raise is a commercial strength station built around an abduction path that isolates the lateral deltoid. It is intended for continuous use on a commercial floor.",
+    "Pivoting arms carry the load out to the sides from a standing platform, against a shrouded stack. Resistance is set on a shrouded single-pin stack, so changeovers between users take seconds."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Shrouded single-pin selectorized weight stack",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Textured non-slip foot platform",
+    "Support handles either side of the working position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and shrouds"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Shoulder abduction for shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Lateral deltoids"
+    ],
+    "secondary": [
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Lateral deltoids",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "BB Series",
+    "Collection": "BB Series",
+    "Category": "Upper Body",
+    "Equipment Type": "Selectorized Machine",
+    "Resistance Type": "Selectorized weight stack",
+    "Primary Movement": "Shoulder abduction",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "LATERAL RAISE"
+   },
+   "image": "/images/products/bb-series/bb-lateral-raise-01.jpg",
+   "imageMd": "/images/products/bb-series/bb-lateral-raise-01-md.jpg",
+   "imageSm": "/images/products/bb-series/bb-lateral-raise-01-sm.jpg",
+   "images": [
+    "/images/products/bb-series/bb-lateral-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [],
+   "tags": [
+    "AFZOX",
+    "BB Series",
+    "Upper Body",
+    "Selectorized Machine",
+    "Shoulders",
+    "Shoulder abduction",
+    "Lateral deltoids"
+   ]
+  }
+ ]
+}
