@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
-import { CATEGORIES, PRODUCTS } from '@/lib/catalogue';
+import { ALL_CATEGORIES, COLLECTIONS, PRODUCTS } from '@/lib/catalogue';
 import { SITE_URL } from '@/lib/site';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -16,7 +16,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/faq`, lastModified: now, changeFrequency: 'monthly', priority: 0.4 },
   ];
 
-  const categoryRoutes: MetadataRoute.Sitemap = CATEGORIES.map((c) => ({
+  const collectionRoutes: MetadataRoute.Sitemap = COLLECTIONS.map((c) => ({
+    url: `${SITE_URL}${c.url}`,
+    lastModified: now,
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  }));
+
+  const categoryRoutes: MetadataRoute.Sitemap = ALL_CATEGORIES.map((c) => ({
     url: `${SITE_URL}${c.url}`,
     lastModified: now,
     changeFrequency: 'weekly',
@@ -30,5 +37,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticRoutes, ...categoryRoutes, ...productRoutes];
+  return [...staticRoutes, ...collectionRoutes, ...categoryRoutes, ...productRoutes];
 }

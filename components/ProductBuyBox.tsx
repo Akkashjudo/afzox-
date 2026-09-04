@@ -20,21 +20,24 @@ export default function ProductBuyBox({ product }: { product: Product }) {
 
   return (
     <div>
-      <span className="eyebrow">{product.usage}</span>
-      <h1 className="mt-3 text-headline-lg text-balance">{product.name}</h1>
-      <p className="mt-2 text-body-md text-on-surface-variant">{product.short}</p>
+      <span className="text-label-md uppercase text-brand">{product.collectionName}</span>
+      <h1 className="mt-4 text-headline-xl text-balance">{product.name}</h1>
+      <p className="mt-4 max-w-prose text-body-lg text-on-surface-variant">{product.short}</p>
 
-      <div className="mt-4 flex flex-wrap gap-2">
+      <div className="mt-6 flex flex-wrap gap-2">
         <span className="chip">
-          <IconCheck className="h-3 w-3 text-primary" /> In Stock
+          <IconCheck className="h-3 w-3 text-brand" /> In stock
         </span>
         <span className="chip">{product.categoryName}</span>
-        <span className="chip">{product.tier}</span>
+        <span className="chip">{product.equipmentType}</span>
+        {product.bodyAreas.map((b) => (
+          <span key={b} className="chip">{b}</span>
+        ))}
       </div>
 
       <div className="mt-6 flex items-center gap-3">
-        <span className="text-xs font-bold uppercase tracking-widest text-on-surface-variant">Enquiry Qty</span>
-        <div className="flex items-center rounded-full border border-outline-variant">
+        <span className="text-label-sm uppercase text-on-surface-variant">Enquiry qty</span>
+        <div className="flex items-center rounded-lg border border-outline-variant bg-white">
           <button
             onClick={() => setLocalQty((q) => Math.max(1, q - 1))}
             className="flex h-9 w-9 items-center justify-center text-on-surface-variant hover:text-on-background"
@@ -54,40 +57,44 @@ export default function ProductBuyBox({ product }: { product: Product }) {
       </div>
 
       <div className="mt-5 flex flex-col gap-2.5">
-        <button onClick={handleAdd} className="btn btn-secondary !normal-case">
-          <IconBag className="h-4 w-4" />
-          {inList ? 'Added to Enquiry List' : 'Add to Enquiry List'}
-        </button>
-        <Link href="/enquiry" className="btn btn-primary !normal-case">
-          Talk to Sales
-        </Link>
         <a
           href={whatsAppLink(product.name)}
           target="_blank"
           rel="noopener"
-          className="btn btn-whatsapp !normal-case"
+          className="btn btn-whatsapp"
         >
           <IconWhatsApp className="h-4 w-4" /> Enquire on WhatsApp
         </a>
+        <div className="flex gap-2.5">
+          <button onClick={handleAdd} className="btn btn-secondary flex-1">
+            <IconBag className="h-4 w-4" />
+            {inList ? 'Added' : 'Add to list'}
+          </button>
+          <Link href="/enquiry" className="btn btn-primary flex-1">
+            Talk to sales
+          </Link>
+        </div>
       </div>
 
-      <div className="mt-8 grid grid-cols-2 gap-4 border-t border-black/5 pt-6 text-xs">
+      <dl className="mt-10 grid grid-cols-2 gap-x-6 gap-y-6 border-t border-black/[0.08] pt-8">
         <TrustRow icon={<IconTruck className="h-4 w-4" />} title="PAN-India Delivery" body="Freight quoted by pin code" />
-        <TrustRow icon={<IconShield className="h-4 w-4" />} title="Warranty" body={product.specs['Warranty']?.split('·')[0].trim() ?? 'Structural warranty'} />
+        {/* Only part of the catalogue publishes warranty terms. Where a
+            product carries none we say so rather than implying a figure. */}
+        <TrustRow icon={<IconShield className="h-4 w-4" />} title="Warranty" body={product.specs['Warranty']?.split('·')[0].trim() ?? 'Terms confirmed at quotation'} />
         <TrustRow icon={<IconClock className="h-4 w-4" />} title="Expert Support" body="Reply within 1 working hour" />
         <TrustRow icon={<IconTool className="h-4 w-4" />} title="Installation" body="Available on commercial setups" />
-      </div>
+      </dl>
     </div>
   );
 }
 
 function TrustRow({ icon, title, body }: { icon: React.ReactNode; title: string; body: string }) {
   return (
-    <div className="flex items-start gap-2.5">
-      <span className="mt-0.5 text-primary">{icon}</span>
-      <span>
-        <span className="block font-semibold text-on-background">{title}</span>
-        <span className="block text-on-surface-variant">{body}</span>
+    <div className="flex items-start gap-3">
+      <span className="mt-0.5 shrink-0 text-brand">{icon}</span>
+      <span className="min-w-0">
+        <dt className="text-label-sm uppercase text-ink-900">{title}</dt>
+        <dd className="mt-1 text-body-sm text-on-surface-variant">{body}</dd>
       </span>
     </div>
   );

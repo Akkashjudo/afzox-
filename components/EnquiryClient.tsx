@@ -37,7 +37,7 @@ export default function EnquiryClient() {
     <div className="shell section !pt-8">
       {/* Above the fold — renders immediately, no scroll-reveal gating. */}
       <h1 className="text-headline-xl">Enquiry List</h1>
-      <Link href="/shop" className="mt-2 inline-flex items-center gap-1.5 text-sm font-medium text-on-surface-variant hover:text-primary">
+      <Link href="/shop" className="mt-2 inline-flex items-center gap-1.5 text-sm font-medium text-on-surface-variant hover:text-brand">
         <IconArrow className="h-3.5 w-3.5 rotate-180" /> Continue browsing
       </Link>
 
@@ -55,15 +55,15 @@ export default function EnquiryClient() {
             {items.map(({ slug, qty, product }, i) => (
               <Reveal key={slug} delay={0.04 * i}>
                 <div className="card flex gap-4 p-4">
-                  <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-xl bg-gradient-to-br from-surface to-surface-container">
+                  <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-xl bg-paper-sunken">
                     <Image src={product!.imageSm} alt={product!.name} fill sizes="96px" className="object-contain p-2" />
                   </div>
                   <div className="flex flex-1 flex-col">
                     <div className="flex items-start justify-between gap-3">
                       <div>
-                        <span className="text-[11px] font-bold uppercase tracking-wide text-primary">{product!.categoryName}</span>
+                        <span className="text-label-sm uppercase text-brand">{product!.categoryName}</span>
                         <h3 className="font-bold leading-snug">
-                          <Link href={`/product/${slug}`} className="hover:text-primary">{product!.name}</Link>
+                          <Link href={`/product/${slug}`} className="hover:text-brand">{product!.name}</Link>
                         </h3>
                       </div>
                       <button onClick={() => remove(slug)} aria-label={`Remove ${product!.name}`} className="text-on-surface-variant hover:text-error">
@@ -122,7 +122,7 @@ export default function EnquiryClient() {
                 Note: pricing is shared on request based on quantity, specification and delivery location.
               </p>
 
-              <button type="submit" className="btn btn-whatsapp btn-block mt-4 !normal-case">
+              <button type="submit" className="btn btn-whatsapp btn-block mt-4">
                 <IconWhatsApp className="h-4 w-4" /> Send Enquiry on WhatsApp
               </button>
               <p className="mt-3 text-center text-xs text-on-surface-variant">Your enquiry is routed directly to our sales team.</p>

@@ -2,66 +2,109 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import Reveal from '@/components/Reveal';
-import { PRODUCTS } from '@/lib/catalogue';
+import { COLLECTIONS, PRODUCTS, collectionProducts } from '@/lib/catalogue';
+import { IconArrow } from '@/components/icons';
 
 export const metadata: Metadata = {
   title: 'Equipment Gallery',
-  description: 'A high-resolution visual gallery of every AFZOX commercial gym machine — plate loaded, pin loaded, racks, benches, cable stations and cardio.',
+  description: `Studio photography of the AFZOX range — ${PRODUCTS.length} commercial machines across ${COLLECTIONS.length} series, shot on the line rather than sourced from stock.`,
   alternates: { canonical: '/gallery' },
 };
 
-// A deliberately varied row-span pattern for a masonry feel without layout shift.
-const SPANS = ['row-span-2', '', '', 'row-span-2', '', '', '', 'row-span-2', '', '', '', ''];
-
+/**
+ * The gallery is grouped by series rather than presented as one undifferentiated
+ * masonry wall. That gives the page an editorial spine — you are walking the
+ * ranges, not scrolling a contact sheet — and it means each row can carry its
+ * own count and link straight into the collection.
+ */
 export default function GalleryPage() {
-  const shots = PRODUCTS.slice(0, 24);
+  const rows = COLLECTIONS.map((c) => ({
+    collection: c,
+    shots: collectionProducts(c.slug).slice(0, 8),
+  }));
+
   return (
-    <div className="shell section !pt-8">
-      {/* Above the fold — renders immediately, no scroll-reveal gating. */}
-      <span className="eyebrow">Gallery</span>
-      <h1 className="mt-4 max-w-2xl text-headline-xl">Equipment, photographed straight off the line.</h1>
-      <p className="mt-3 max-w-xl text-body-md text-on-surface-variant">
-        Every image here is the real product — no stock photography. Click through to any
-        machine for full specifications.
-      </p>
+    <>
+      <section className="shell pb-14 pt-16 md:pt-24">
+        <span className="eyebrow">Gallery</span>
+        <h1 className="mt-7 max-w-3xl text-display-lg text-balance">
+          Every machine here is the machine that ships.
+        </h1>
+        <p className="mt-7 max-w-prose text-body-lg text-on-surface-variant">
+          Studio photography of the real product — no stock imagery, no renders. Open any frame
+          for the full specification.
+        </p>
+      </section>
 
-      <div className="mt-10 grid auto-rows-[160px] grid-cols-2 gap-3 sm:grid-cols-3 md:auto-rows-[200px] lg:grid-cols-4">
-        {shots.map((p, i) => {
-          const tile = (
-            <Link
-              href={`/product/${p.slug}`}
-              className="group relative block h-full w-full overflow-hidden rounded-2xl bg-gradient-to-br from-surface to-surface-container"
-            >
-              <Image
-                src={p.imageMd}
-                alt={p.name}
-                fill
-                sizes="(max-width:640px) 48vw, (max-width:1024px) 32vw, 23vw"
-                className="object-contain p-4 transition-transform duration-500 group-hover:scale-105"
-                loading={i < 6 ? 'eager' : 'lazy'}
-              />
-              <div className="absolute inset-x-0 bottom-0 translate-y-full bg-gradient-to-t from-black/80 to-transparent p-3 pt-8 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
-                <span className="text-xs font-semibold text-white">{p.name}</span>
+      {rows.map(({ collection, shots }, rowIndex) => (
+        <section
+          key={collection.slug}
+          className={`section-tight border-t border-black/[0.07] ${rowIndex % 2 === 1 ? 'bg-paper-sunken' : ''}`}
+        >
+          <div className="shell">
+            <Reveal>
+              <div className="flex flex-wrap items-end justify-between gap-4 border-b border-black/[0.08] pb-5">
+                <div>
+                  <span className="text-label-md uppercase text-brand">{collection.displayName}</span>
+                  <h2 className="mt-3 text-headline-lg">{collection.short}</h2>
+                </div>
+                <Link href={collection.url} className="group cta-text">
+                  <span className="relative">
+                    All {collection.count} products
+                    <span className="cta-text__line absolute -bottom-1 left-0" />
+                  </span>
+                  <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
+                </Link>
               </div>
-            </Link>
-          );
-          // First six tiles are eager-loaded and likely in the initial viewport —
-          // render them immediately rather than gating them behind opacity:0
-          // until an IntersectionObserver fires post-hydration.
-          if (i < 6) {
-            return <div key={p.slug} className={SPANS[i % SPANS.length]}>{tile}</div>;
-          }
-          return (
-            <Reveal key={p.slug} delay={Math.min(i, 8) * 0.03} className={SPANS[i % SPANS.length]}>
-              {tile}
             </Reveal>
-          );
-        })}
-      </div>
 
-      <Reveal className="mt-10 text-center">
-        <Link href="/shop" className="btn btn-secondary">Browse full catalogue</Link>
-      </Reveal>
-    </div>
+            {/* A horizontal rail on narrow screens, a grid from md up — the
+                machines stay large either way instead of shrinking to thumbnails. */}
+            <div className="no-scrollbar -mx-margin-mobile mt-8 flex snap-x snap-mandatory gap-4 overflow-x-auto px-margin-mobile pb-2 md:mx-0 md:grid md:grid-cols-4 md:overflow-visible md:px-0">
+              {shots.map((p, i) => (
+                <Link
+                  key={p.slug}
+                  href={`/product/${p.slug}`}
+                  className="group relative w-[62vw] shrink-0 snap-start overflow-hidden rounded-2xl border border-black/[0.08] bg-white transition-[border-color,box-shadow,transform] duration-control ease-afzox hover:-translate-y-1 hover:border-black/[0.14] hover:shadow-card-hover sm:w-[40vw] md:w-auto"
+                >
+                  <div className="relative aspect-square overflow-hidden bg-paper-sunken transition-colors duration-control group-hover:bg-paper-deep">
+                    <Image
+                      src={p.imageMd}
+                      alt={`AFZOX ${p.series} ${p.name}`}
+                      fill
+                      sizes="(max-width:640px) 62vw, (max-width:768px) 40vw, 22vw"
+                      className="object-contain p-6 transition-transform duration-[900ms] ease-afzox group-hover:scale-[1.05]"
+                      loading={rowIndex === 0 && i < 4 ? 'eager' : 'lazy'}
+                    />
+                  </div>
+                  <div className="border-t border-black/[0.08] p-4">
+                    <p className="truncate text-label-sm uppercase text-on-surface-variant/70">
+                      {p.categoryName}
+                    </p>
+                    <p className="mt-1.5 truncate text-body-sm font-medium text-ink-900">{p.name}</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      ))}
+
+      <section className="section-tight border-t border-black/[0.07]">
+        <div className="shell text-center">
+          <Reveal>
+            <h2 className="text-headline-lg text-balance">See the full range</h2>
+            <p className="mx-auto mt-4 max-w-md text-body-md text-on-surface-variant">
+              {PRODUCTS.length} machines, filterable by series, range, body area and equipment
+              type.
+            </p>
+            <Link href="/shop" className="btn btn-primary group mt-8">
+              Browse the catalogue
+              <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
+            </Link>
+          </Reveal>
+        </div>
+      </section>
+    </>
   );
 }

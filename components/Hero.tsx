@@ -1,99 +1,162 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { whatsAppLink } from '@/lib/catalogue';
 import type { Product } from '@/lib/types';
-import { IconArrow, IconShield } from './icons';
+import HeroMotion from './HeroMotion';
+import { IconArrow } from './icons';
 
 /**
- * Server Component — no 'use client', no Framer Motion, no scroll-reveal.
- * This is the LCP-critical section: the headline, CTA and hero image must
- * be present and fully visible (opacity 1, no transform offset) in the
- * server-rendered HTML on the very first paint, before any JS runs.
- *
- * On mobile the sections stack as copy -> visual -> stats (not copy -> stats
- * -> visual): the stats grid used to sit between the buttons and the image,
- * pushing the image below the fold on real phones. `lg:` grid placement
- * restores the original two-column composition on desktop, where that
- * ordering never mattered.
+ * Server Component. The headline, CTA and hero image are present and fully
+ * visible in the server-rendered HTML — this image is the LCP element on the
+ * site, so it must never wait on JS. `HeroMotion` layers the entrance
+ * sequence and pointer depth on top as a progressive enhancement: if its JS
+ * never runs, the hero is still complete and correct.
  */
-export default function Hero({ heroProduct, stats }: { heroProduct: Product; stats: { icon: React.ReactNode; value: string; label: string }[] }) {
+export default function Hero({
+  heroProduct,
+  stats,
+}: {
+  heroProduct: Product;
+  stats: { value: string; label: string }[];
+}) {
   return (
-    <section className="relative isolate overflow-hidden bg-white">
-      {/* Ambient brand-colour glow — plain CSS, no JS, never hides content beneath it */}
+    <section className="surface-ink grain on-ink relative isolate -mt-[var(--header-h)] overflow-hidden">
+      {/* Tells the header a dark hero is behind it. The header watches this
+          with an IntersectionObserver and goes transparent with light type
+          while it is under the bar — so any page can opt in simply by
+          rendering a dark hero, with no route whitelist in the header. */}
+      <div id="hero-sentinel" aria-hidden className="absolute inset-x-0 top-0 h-[70svh]" />
+
+      {/* ---------- Ambient field: engineering grid + directional light ---------- */}
       <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
-        <div className="ambient-glow absolute -left-40 -top-40 h-[560px] w-[560px] rounded-full bg-primary/[0.09] blur-[110px]" />
-        <div className="ambient-glow absolute -right-32 top-10 h-[460px] w-[460px] rounded-full bg-tertiary/[0.07] blur-[100px]" />
-        <div className="hero-grid absolute inset-0 opacity-[0.35]" />
-        <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-white to-transparent" />
+        <div className="bg-grid-dark absolute inset-0" />
+        <div className="ambient-glow absolute -left-[15%] top-[-20%] h-[720px] w-[720px] rounded-full bg-brand/25 blur-[140px]" />
+        <div className="ambient-glow absolute right-[-10%] top-[25%] h-[520px] w-[520px] rounded-full bg-brand-red/[0.10] blur-[130px]" />
+        <div className="absolute inset-x-0 bottom-0 h-48 bg-gradient-to-t from-ink-950 to-transparent" />
       </div>
 
-      <div className="shell grid grid-cols-1 gap-10 pb-16 pt-4 md:gap-12 md:pb-24 md:pt-10 lg:grid-cols-[1.08fr_1fr] lg:grid-rows-[auto_auto] lg:items-start lg:gap-x-8 lg:gap-y-8 lg:pb-28">
-        {/* ---------- COPY (headline, text, CTA) ---------- */}
-        <div className="lg:col-start-1 lg:row-start-1">
-          <span className="eyebrow">Manufactured in India &middot; Installed nationwide</span>
-          <h1 className="mt-5 text-balance text-display-lg md:mt-6">
-            Build Elite Gyms With <span className="relative text-primary sm:whitespace-nowrap">Professional Equipment</span>
-          </h1>
-          <p className="mt-4 max-w-lg text-body-lg text-on-surface-variant md:mt-6">
-            Structural-steel machines engineered for floors that never close — plate loaded
-            stations, selectorized circuits, racks and studio cardio, specified and installed
-            by the people who build them.
-          </p>
-
-          <div className="mt-7 flex flex-wrap gap-3 md:mt-9">
-            <Link href="/shop" className="btn btn-primary group relative overflow-hidden">
-              <span className="relative z-10 flex items-center gap-2">
-                View Catalogue <IconArrow className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-              </span>
-              <span className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/25 to-transparent transition-transform duration-700 ease-out group-hover:translate-x-full" />
-            </Link>
-            <a href={whatsAppLink()} target="_blank" rel="noopener" className="btn btn-ghost">
-              Talk to Sales
-            </a>
-          </div>
-        </div>
-
-        {/* ---------- VISUAL — the LCP element, visible immediately ---------- */}
-        <div className="relative lg:col-start-2 lg:row-start-1 lg:row-span-2 lg:self-center">
-          <div className="animate-float relative mx-auto aspect-[4/4.3] w-full max-w-[480px] overflow-hidden rounded-[2rem] border border-black/5 bg-gradient-to-br from-surface via-surface-container-low to-surface-container shadow-card-hover">
-            <Image
-              src={heroProduct.image}
-              alt={`${heroProduct.name} — AFZOX commercial gym equipment`}
-              fill
-              priority
-              sizes="(max-width:1024px) 80vw, 480px"
-              className="object-contain p-9"
-            />
-          </div>
-
-          <div className="absolute -bottom-5 -left-3 flex items-center gap-3 rounded-2xl border border-black/5 bg-white/95 p-3.5 pr-5 shadow-card-hover backdrop-blur sm:-left-6">
-            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary">
-              <IconShield className="h-5 w-5" />
+      <HeroMotion>
+        <div className="shell relative grid min-h-[min(92svh,940px)] grid-cols-1 items-center gap-10 pb-20 pt-[calc(var(--header-h)+32px)] md:grid-cols-[1.05fr_0.95fr] lg:grid-cols-[1.12fr_0.88fr] md:gap-8 md:pt-[calc(var(--header-h)+40px)] lg:gap-10 lg:pb-28">
+          {/* ---------------- COPY ---------------- */}
+          <div className="relative z-10">
+            <span data-hero="eyebrow" className="eyebrow-on-ink">
+              Commercial strength equipment
             </span>
-            <span>
-              <span className="block text-base font-extrabold leading-tight tracking-tight">Lifetime</span>
-              <span className="block text-[11px] text-on-surface-variant">Frame warranty</span>
-            </span>
-          </div>
 
-          <div className="absolute -right-2 top-6 rounded-2xl border border-black/5 bg-white/95 px-4 py-2.5 shadow-card-hover backdrop-blur sm:-right-5">
-            <span className="block text-[11px] font-bold uppercase tracking-widest text-primary">{heroProduct.categoryName}</span>
-            <span className="block text-sm font-semibold">{heroProduct.name}</span>
-          </div>
-        </div>
-
-        {/* ---------- STATS — lowest priority, renders after the image on mobile ---------- */}
-        <div className="grid grid-cols-3 gap-3 sm:max-w-md lg:col-start-1 lg:row-start-2">
-          {stats.map((s) => (
-            <div key={s.label} className="rounded-2xl border border-black/5 bg-surface px-3 py-4 text-center sm:text-left sm:px-4">
-              <span className="mx-auto flex h-8 w-8 items-center justify-center rounded-full bg-primary/10 text-primary sm:mx-0">
-                {s.icon}
+            {/* The copy column narrows sharply at the tablet breakpoint (it
+                becomes roughly half the viewport), so the display scale is
+                held back until `lg` — at 820px the full clamp rendered 61px
+                type into a 339px column and broke every line. */}
+            <h1
+              data-hero="title"
+              className="mt-6 text-[clamp(2.3rem,8vw,2.6rem)] font-bold leading-[0.98] tracking-[-0.03em] text-white [text-wrap:balance] md:mt-7 lg:text-display-xl"
+            >
+              <span data-hero="line" className="block overflow-hidden">
+                <span className="block">Built for floors</span>
               </span>
-              <span className="mt-2 block text-xl font-extrabold tracking-tight">{s.value}</span>
-              <span className="block text-[11px] leading-tight text-on-surface-variant">{s.label}</span>
+              <span data-hero="line" className="block overflow-hidden">
+                <span className="block">that <span className="text-primary-fixed-dim">never close.</span></span>
+              </span>
+            </h1>
+
+            <p data-hero="body" className="mt-7 max-w-lg text-body-lg text-white/60">
+              Selectorized circuits, iso-lateral plate-loaded stations, racks, benches and
+              storage — specified, delivered and installed by the people who build them.
+            </p>
+
+            <div data-hero="cta" className="mt-10 flex flex-wrap items-center gap-3">
+              <Link href="/shop" className="btn btn-lg group bg-white text-ink-900 hover:bg-primary-fixed-dim">
+                <span className="flex items-center gap-2.5">
+                  Explore the catalogue
+                  <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
+                </span>
+              </Link>
+              <Link href="/contact" className="btn btn-lg btn-on-ink">
+                Talk to sales
+              </Link>
             </div>
-          ))}
+
+            {/* Verifiable figures only — each one is derived from the catalogue. */}
+            <dl
+              data-hero="stats"
+              className="mt-8 grid max-w-lg grid-cols-3 gap-px overflow-hidden rounded-xl border border-white/10 bg-white/10 lg:mt-12"
+            >
+              {stats.map((s) => (
+                <div key={s.label} className="bg-ink-900/80 px-4 py-5 backdrop-blur-sm">
+                  <dt className="font-display text-2xl font-bold tracking-tight text-white md:text-3xl">
+                    {s.value}
+                  </dt>
+                  <dd className="mt-1 text-label-sm uppercase text-white/45">{s.label}</dd>
+                </div>
+              ))}
+            </dl>
+          </div>
+
+          {/* ---------------- VISUAL ---------------- */}
+          {/* No `justify-self-end` here: it would shrink the grid item to its
+              content width and leave `w-full` below with nothing to fill. The
+              item stretches; the inner wrapper handles alignment. */}
+          <div data-hero="visual" className="relative w-full">
+            {/* Technical corner marks — engineering drawing, not decoration */}
+            <span aria-hidden className="absolute -left-3 -top-3 h-10 w-10 border-l border-t border-white/20" />
+            <span aria-hidden className="absolute -bottom-3 -right-3 h-10 w-10 border-b border-r border-white/20" />
+
+            {/* The catalogue photography is shot on white. Rather than fight
+                that on a dark hero, the panel is treated as a lit studio
+                plate: the photo's own white becomes the backdrop, a vignette
+                seats it into the frame, and a hairline keeps its edge crisp
+                against the ink. */}
+            <div
+              data-hero="visual-inner"
+              className="relative aspect-square w-full max-w-[440px] overflow-hidden rounded-2xl bg-white shadow-lift ring-1 ring-white/15 md:ml-auto md:max-w-none lg:max-w-[600px]"
+            >
+              <Image
+                src={heroProduct.image}
+                alt={`${heroProduct.name} — AFZOX ${heroProduct.collectionName} commercial gym equipment`}
+                fill
+                priority
+                sizes="(max-width:768px) 88vw, (max-width:1024px) 46vw, 600px"
+                className="object-contain p-8 lg:p-12"
+              />
+              {/* Seats the machine on the plate instead of letting it float
+                  on a flat white field. */}
+              <span
+                aria-hidden
+                className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_58%_46%_at_50%_46%,transparent_55%,rgba(11,14,22,0.10)_100%)]"
+              />
+            </div>
+
+            {/* Caption rail — names the machine actually on screen */}
+            <div
+              data-hero="caption"
+              className="mt-4 flex max-w-[440px] items-center justify-between gap-4 border-t border-white/10 pt-4 md:ml-auto md:max-w-none lg:max-w-[600px]"
+            >
+              <div className="min-w-0">
+                <p className="text-label-sm uppercase text-primary-fixed-dim">
+                  {heroProduct.collectionName}
+                </p>
+                <p className="mt-1 truncate font-display text-base font-semibold text-white">
+                  {heroProduct.name}
+                </p>
+              </div>
+              <Link
+                href={`/product/${heroProduct.slug}`}
+                className="shrink-0 text-label-sm uppercase text-white/50 transition-colors duration-micro hover:text-white"
+              >
+                View&nbsp;→
+              </Link>
+            </div>
+          </div>
         </div>
+      </HeroMotion>
+
+      {/* ---------------- Scroll cue ---------------- */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-x-0 bottom-6 hidden justify-center lg:flex"
+      >
+        <span className="relative h-12 w-px overflow-hidden bg-white/15">
+          <span className="animate-scroll-cue absolute inset-x-0 top-0 h-1/2 bg-gradient-to-b from-transparent to-primary-fixed-dim" />
+        </span>
       </div>
     </section>
   );

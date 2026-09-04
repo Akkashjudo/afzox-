@@ -21,12 +21,12 @@ const FAQS = [
 
 export default function FaqPage() {
   return (
-    <div className="shell section !pt-8">
+    <div className="shell section !pt-16 md:!pt-20">
       <div className="max-w-3xl">
       {/* Above the fold — renders immediately, no scroll-reveal gating. */}
       <span className="eyebrow">Questions</span>
-      <h1 className="mt-4 text-headline-xl">Before you enquire</h1>
-      <p className="mt-3 text-body-md text-on-surface-variant">
+      <h1 className="mt-7 text-headline-xl text-balance">Before you enquire</h1>
+      <p className="mt-5 max-w-prose text-body-md text-on-surface-variant">
         Can&rsquo;t find an answer here? Message us directly and we&rsquo;ll get back to you the
         same working day.
       </p>

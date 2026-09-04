@@ -1,29 +1,25 @@
 import { TRUST_STRIP } from '@/lib/site';
-import { IconShield, IconTruck, IconTool, IconPackage, IconClipboard, IconStar } from './icons';
 
-const ICONS: Record<string, React.FC<{ className?: string }>> = {
-  star: IconStar,
-  truck: IconTruck,
-  tool: IconTool,
-  package: IconPackage,
-  clipboard: IconClipboard,
-  shield: IconShield,
-};
-
+/**
+ * Capability marquee. Slow, continuous, seam-free — the track holds two
+ * identical copies and translates exactly -50%, so the loop point never
+ * lands mid-item. Text only: icons at this size were noise.
+ */
 export default function TrustStrip() {
   const items = [...TRUST_STRIP, ...TRUST_STRIP];
+
   return (
-    <div className="overflow-hidden border-y border-white/10 bg-ink py-3.5 text-white [mask-image:linear-gradient(90deg,transparent,#000_8%,#000_92%,transparent)]">
-      <div className="flex w-max animate-marquee gap-10">
-        {items.map((t, i) => {
-          const Icon = ICONS[t.icon];
-          return (
-            <span key={i} className="flex shrink-0 items-center gap-2 text-xs font-semibold uppercase tracking-wider text-white/85">
-              <Icon className="h-3.5 w-3.5 text-primary-fixed-dim" />
-              {t.label}
-            </span>
-          );
-        })}
+    <div className="edge-fade-x relative overflow-hidden border-b border-black/[0.07] bg-paper py-5">
+      <div className="animate-marquee flex w-max items-center gap-14 will-change-transform">
+        {items.map((t, i) => (
+          <span
+            key={i}
+            className="flex shrink-0 items-center gap-14 text-label-md uppercase text-on-surface-variant"
+          >
+            {t.label}
+            <span aria-hidden className="h-1 w-1 rounded-full bg-brand/50" />
+          </span>
+        ))}
       </div>
     </div>
   );

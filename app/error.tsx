@@ -13,17 +13,17 @@ export default function GlobalError({ error, reset }: { error: Error & { digest?
   }, [error]);
 
   return (
-    <div className="shell flex min-h-[60vh] flex-col items-center justify-center py-20 text-center">
-      <IconEmpty className="h-14 w-14 text-outline-variant" />
-      <span className="mt-6 font-mono text-sm font-bold tracking-widest text-primary">ERROR</span>
-      <h1 className="mt-2 text-headline-lg">Something went wrong.</h1>
-      <p className="mt-3 max-w-md text-body-md text-on-surface-variant">
+    <div className="shell flex min-h-[68svh] max-w-2xl flex-col items-center justify-center py-24 text-center">
+      <IconEmpty className="h-12 w-12 text-outline" />
+      <span className="mt-7 text-label-md uppercase text-brand">ERROR</span>
+      <h1 className="mt-4 text-headline-xl text-balance">Something went wrong.</h1>
+      <p className="mt-5 max-w-prose text-body-md text-on-surface-variant">
         That was unexpected on our end. Try again, or head back to the catalogue — your enquiry
         list is safe either way.
       </p>
-      <div className="mt-8 flex flex-wrap justify-center gap-3">
-        <button onClick={reset} className="btn btn-primary">Try Again</button>
-        <Link href="/" className="btn btn-secondary">Back to Home</Link>
+      <div className="mt-9 flex flex-wrap justify-center gap-3">
+        <button onClick={reset} className="btn btn-primary">Try again</button>
+        <Link href="/" className="btn btn-secondary">Back to home</Link>
       </div>
     </div>
   );

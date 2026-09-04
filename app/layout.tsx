@@ -1,15 +1,31 @@
 import type { Metadata, Viewport } from 'next';
-import { Inter } from 'next/font/google';
+import { Archivo, Inter } from 'next/font/google';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
 import MotionProvider from '@/components/MotionProvider';
+import SmoothScroll from '@/components/SmoothScroll';
 import { EnquiryProvider } from '@/lib/enquiry-context';
 import { SITE_URL } from '@/lib/site';
 import { BRAND } from '@/lib/catalogue';
 import './globals.css';
 
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter', display: 'swap' });
+/* Two faces, both self-hosted by next/font — no external request, no FOUT.
+   Archivo is the display voice: an industrial grotesque that reads
+   engineered rather than startup-generic. Inter carries body and UI. Only
+   the weights actually used are shipped. */
+const inter = Inter({
+  subsets: ['latin'],
+  variable: '--font-inter',
+  display: 'swap',
+  weight: ['400', '500', '600'],
+});
+const archivo = Archivo({
+  subsets: ['latin'],
+  variable: '--font-archivo',
+  display: 'swap',
+  weight: ['600', '700'],
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -29,17 +45,21 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: '#0050cb',
+  themeColor: '#0B0E16',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={`${inter.variable} ${archivo.variable}`}>
       <body className="font-sans">
         <MotionProvider>
+          <SmoothScroll />
           <EnquiryProvider>
             <Header />
-            <main className="pt-[92px]">{children}</main>
+            {/* Clears the fixed header. A page with a dark hero cancels this
+                with `-mt-[var(--header-h)]` so the hero runs up behind the
+                transparent bar. */}
+            <main className="pt-[var(--header-h)]">{children}</main>
             <Footer />
             <WhatsAppFloat />
           </EnquiryProvider>
