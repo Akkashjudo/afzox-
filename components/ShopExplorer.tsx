@@ -16,6 +16,7 @@ import {
   getCollection,
 } from '@/lib/catalogue';
 import type { BodyArea, PriceBand } from '@/lib/types';
+import { applyScrollLock } from '@/lib/scroll-lock';
 import { IconChevRight, IconClose, IconEmpty, IconFilter, IconSearch } from './icons';
 
 type Usage = 'all' | 'home' | 'commercial';
@@ -211,13 +212,33 @@ export default function ShopExplorer({
       band: 'all',
     });
 
-  // Prevent the page behind the mobile drawer from scrolling.
+  // Prevent the page behind the mobile drawer from scrolling. Refcounted and
+  // Lenis-aware — see lib/scroll-lock.
+  useEffect(() => applyScrollLock(drawerOpen), [drawerOpen]);
+
+  /* Is the filter rail taller than the space a sticky column would have? If
+     so it stops sticking and scrolls with the page, so every option stays
+     reachable by wheel. Re-measured on resize and whenever the option lists
+     change length. */
+  const sidebarRef = useRef<HTMLElement>(null);
+  const [sidebarTall, setSidebarTall] = useState(false);
+
   useEffect(() => {
-    document.body.style.overflow = drawerOpen ? 'hidden' : '';
-    return () => {
-      document.body.style.overflow = '';
+    const el = sidebarRef.current;
+    if (!el || typeof ResizeObserver === 'undefined') return;
+    const measure = () => {
+      const available = window.innerHeight - 76 /* header */ - 64;
+      setSidebarTall(el.scrollHeight > available);
     };
-  }, [drawerOpen]);
+    measure();
+    const ro = new ResizeObserver(measure);
+    ro.observe(el);
+    window.addEventListener('resize', measure);
+    return () => {
+      ro.disconnect();
+      window.removeEventListener('resize', measure);
+    };
+  }, [key]);
 
   useEffect(() => {
     if (!drawerOpen) return;
@@ -386,8 +407,23 @@ export default function ShopExplorer({
       </div>
 
       <div className="mt-10 grid grid-cols-1 gap-x-12 gap-y-8 lg:grid-cols-[240px_1fr]">
-        {/* ---------- FILTER SIDEBAR (desktop) ---------- */}
-        <aside className="hidden lg:sticky lg:top-[calc(var(--header-h)+32px)] lg:block lg:h-fit lg:max-h-[calc(100svh-var(--header-h)-64px)] lg:overflow-y-auto lg:pr-2" data-lenis-prevent>
+        {/* ---------- FILTER SIDEBAR (desktop) ----------
+            The rail is never an independent scroll container, and never
+            carries `data-lenis-prevent`. Both together were the scrolling
+            bug: the attribute made Lenis ignore the wheel over this column,
+            and because the page is Lenis-driven the event had nowhere to
+            chain to — so pointing anywhere at the left column froze the page.
+
+            Instead the rail sticks only while it fits the viewport. Once the
+            filter list is taller than the screen it becomes a normal
+            in-flow block and scrolls with the page, which keeps every option
+            reachable with the wheel. */}
+        <aside
+          ref={sidebarRef}
+          className={`hidden lg:block lg:pr-2 ${
+            sidebarTall ? '' : 'lg:sticky lg:top-[calc(var(--header-h)+32px)] lg:h-fit'
+          }`}
+        >
           <div className="flex items-baseline justify-between border-b border-black/[0.08] pb-3">
             <h2 className="text-label-md uppercase text-ink-900">Filters</h2>
             <button

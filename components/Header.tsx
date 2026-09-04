@@ -8,6 +8,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { COLLECTIONS, collectionCategories } from '@/lib/catalogue';
 import { NAV_LINKS } from '@/lib/site';
 import { useEnquiry } from '@/lib/enquiry-context';
+import { applyScrollLock } from '@/lib/scroll-lock';
 import { DUR, EASE, STAGGER } from './motion/primitives';
 import { IconArrow, IconBag, IconChevDown, IconClose, IconMenu, IconSearch } from './icons';
 
@@ -78,12 +79,10 @@ export default function Header() {
     setMegaOpen(false);
   }, [pathname]);
 
-  useEffect(() => {
-    document.body.style.overflow = mobileOpen ? 'hidden' : '';
-    return () => {
-      document.body.style.overflow = '';
-    };
-  }, [mobileOpen]);
+  // Refcounted so it cannot fight the filter drawer's lock, and so it stops
+  // Lenis — `overflow: hidden` alone does not, because Lenis scrolls the
+  // window programmatically and the page kept moving behind the open menu.
+  useEffect(() => applyScrollLock(mobileOpen), [mobileOpen]);
 
   useEffect(() => {
     if (!mobileOpen) return;

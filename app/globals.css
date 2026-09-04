@@ -18,6 +18,37 @@
   --header-h: 76px;
 }
 
+/* =========================================================================
+   LENIS CONTRACT
+
+   Lenis drives scrolling by calling scrollTo on every animation frame. If the
+   document also has `scroll-behavior: smooth`, the browser tries to *animate*
+   to each of those per-frame targets and the two fight — the page crawls a
+   few pixels per second in visible stutters. Lenis ships these rules in
+   `lenis/dist/lenis.css` precisely to prevent that; they are inlined here
+   rather than imported so the whole cascade lives in one file.
+
+   Every selector is scoped to `html.lenis`, which Lenis only adds while it is
+   actually running. Touch devices and reduced-motion users never get the
+   class, so they keep native smooth scrolling untouched.
+   ========================================================================= */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+html.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+html.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+html.lenis.lenis-stopped {
+  overflow: clip;
+}
+html.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
 @layer base {
   html {
     scroll-behavior: smooth;

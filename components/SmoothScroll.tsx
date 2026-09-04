@@ -3,6 +3,7 @@
 import { useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 import Lenis from 'lenis';
+import { registerLenis } from '@/lib/scroll-lock';
 
 /**
  * Smooth scroll — desktop pointer devices only.
@@ -14,15 +15,17 @@ import Lenis from 'lenis';
  *    and Android is already good, and overriding it costs responsiveness and
  *    fights pull-to-refresh and address-bar collapse.
  *  - `prefers-reduced-motion` disables it outright.
- *  - The easing is short (~0.9s to settle) and `wheelMultiplier` is 1, so the
- *    page never feels slow or laggy — it only removes the step between wheel
- *    ticks.
- *  - Anchor links and any element inside a scroll-locked overlay (the mobile
- *    menu, the filter drawer) are excluded via `data-lenis-prevent`, so
- *    nested scrolling still works.
+ *  - The easing is short and `wheelMultiplier` is 1, so the page never feels
+ *    slow — it only removes the step between wheel ticks.
  *
- * The instance is torn down and rebuilt on route change so a new page always
- * starts from a clean scroll position.
+ * Two things about Lenis that are easy to get wrong, both handled here:
+ *
+ *  1. While Lenis is running, `window.scrollTo()` does nothing — Lenis holds
+ *     its own scroll position and reasserts it on the next frame. Anything
+ *     that needs to move the page must go through `lenis.scrollTo()`.
+ *  2. `document.body.style.overflow = 'hidden'` does not stop it either, for
+ *     the same reason. Overlays lock the page through lib/scroll-lock, which
+ *     calls `lenis.stop()`.
  */
 export default function SmoothScroll() {
   const pathname = usePathname();
@@ -43,6 +46,7 @@ export default function SmoothScroll() {
       // Never take over touch input.
       syncTouch: false,
     });
+    registerLenis(lenis);
 
     let raf = 0;
     const loop = (time: number) => {
@@ -64,11 +68,26 @@ export default function SmoothScroll() {
     };
     document.addEventListener('click', onAnchorClick);
 
+    // Route changes reset the page through Lenis, not window.scrollTo — the
+    // latter is inert while Lenis owns the scroll, which would leave every
+    // client-side navigation opening part-way down the new page.
+    const onRouteReset = () => lenis.scrollTo(0, { immediate: true });
+    window.addEventListener('afzox:route-change', onRouteReset);
+
     return () => {
       document.removeEventListener('click', onAnchorClick);
+      window.removeEventListener('afzox:route-change', onRouteReset);
       cancelAnimationFrame(raf);
+      registerLenis(null);
       lenis.destroy();
     };
+  }, []);
+
+  useEffect(() => {
+    // Fires for Lenis when it is running; the plain scrollTo covers touch and
+    // reduced-motion visitors, where Lenis is never created.
+    window.dispatchEvent(new Event('afzox:route-change'));
+    window.scrollTo(0, 0);
   }, [pathname]);
 
   return null;
