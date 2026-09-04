@@ -143,3 +143,8 @@ export const IconRuler = ({ className }: IconProps) => (
     <rect x="2.5" y="7" width="19" height="10" rx="1.5" /><path d="M6 7v3M10 7v5M14 7v3M18 7v5" />
   </svg>
 );
+export const IconFilter = ({ className }: IconProps) => (
+  <svg viewBox="0 0 24 24" fill="none" stroke={base} strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className={className} aria-hidden>
+    <path d="M3 6h18M7 12h10M10 18h4" />
+  </svg>
+);

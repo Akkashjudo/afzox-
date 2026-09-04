@@ -1,0 +1,5007 @@
+{
+ "collection": {
+  "slug": "ps-series",
+  "name": "PS Series",
+  "displayName": "PS SERIES",
+  "short": "Plate-loaded commercial strength range",
+  "desc": "The AFZOX PS Series is a plate-loaded commercial strength range - iso-lateral presses and rows, pulldowns, leg press and squat stations, glute, calf and curl machines. Load is set with Olympic plates rather than a stack pin, so every station reads its weight at a glance. Specified, delivered and installed across India.",
+  "url": "/shop/ps-series",
+  "count": 53
+ },
+ "categories": [
+  {
+   "slug": "ps-chest-shoulder",
+   "name": "Chest & Shoulder",
+   "short": "Pressing and deltoid stations",
+   "desc": "Pressing and deltoid stations - flat, incline and vertical presses, lateral raise and pec fly.",
+   "thumb": "ps-flat-bench-press",
+   "image": "/images/products/ps-series/ps-flat-bench-press-01-md.jpg",
+   "imageLg": "/images/products/ps-series/ps-flat-bench-press-01.jpg",
+   "count": 14,
+   "url": "/shop/ps-chest-shoulder"
+  },
+  {
+   "slug": "ps-back-row",
+   "name": "Back & Row",
+   "short": "Pulling stations",
+   "desc": "Pulling stations - pulldowns, high and low rows, T-bar and chest-supported rows.",
+   "thumb": "ps-lat-pulldown",
+   "image": "/images/products/ps-series/ps-lat-pulldown-01-md.jpg",
+   "imageLg": "/images/products/ps-series/ps-lat-pulldown-01.jpg",
+   "count": 16,
+   "url": "/shop/ps-back-row"
+  },
+  {
+   "slug": "ps-legs-glutes",
+   "name": "Legs & Glutes",
+   "short": "Leg press, squat, hack, glute drive, calf, extension and curl stations.",
+   "desc": "Leg press, squat, hack, glute drive, calf, extension and curl stations.",
+   "thumb": "ps-pendulum-squat",
+   "image": "/images/products/ps-series/ps-pendulum-squat-01-md.jpg",
+   "imageLg": "/images/products/ps-series/ps-pendulum-squat-01.jpg",
+   "count": 17,
+   "url": "/shop/ps-legs-glutes"
+  },
+  {
+   "slug": "ps-arms-core",
+   "name": "Arms & Core",
+   "short": "Curl, triceps, abdominal and rotary torso stations.",
+   "desc": "Curl, triceps, abdominal and rotary torso stations.",
+   "thumb": "ps-abdominal-crunch-bench",
+   "image": "/images/products/ps-series/ps-abdominal-crunch-bench-01-md.jpg",
+   "imageLg": "/images/products/ps-series/ps-abdominal-crunch-bench-01.jpg",
+   "count": 6,
+   "url": "/shop/ps-arms-core"
+  }
+ ],
+ "products": [
+  {
+   "sku": "AFX-PS-001",
+   "slug": "ps-lat-pulldown",
+   "name": "Lat Pulldown",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 89,
+   "added": 2026.9001,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded lat pulldown station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Lat Pulldown is a plate-loaded commercial strength station built around a vertical pulling path that loads the lats through a full overhead-to-chest range. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Overhead movement arms run on a long curved arc, with the seat and thigh restraint set below the pull path. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids",
+     "Mid trapezius"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids",
+    "Mid trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row",
+    "ps-seated-rear-deltoid-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-PS-002",
+   "slug": "ps-flat-bench-press",
+   "name": "Flat Bench Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 88,
+   "added": 2026.9002,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded flat bench press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Flat Bench Press is a plate-loaded commercial strength station built around a horizontal pressing path through the chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A full-length flat bench sits under independent pressing arms, with the plate horns carried on the frame ahead of the lifter. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-flat-bench-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-flat-bench-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-flat-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-flat-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press",
+    "ps-seated-shoulder-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-PS-003",
+   "slug": "ps-pendulum-squat",
+   "name": "Pendulum Squat",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 87,
+   "added": 2026.9003,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded pendulum squat station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Pendulum Squat is a plate-loaded commercial strength station built around a squat path with the load carried on a fixed track. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The load swings on a pendulum arc above a fixed foot platform, so the path stays constant as the lifter descends. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Squat for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Squat",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-pendulum-squat-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-pendulum-squat-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-pendulum-squat-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-pendulum-squat-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive",
+    "ps-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Squat",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-004",
+   "slug": "ps-prone-row",
+   "name": "Prone Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 86,
+   "added": 2026.9004,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded prone row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Prone Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The lifter is supported at the torso while independent arms are pulled back, taking the lower back out of the movement. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Padded roller set",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Rear deltoids",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Rear deltoids",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "PRONE ROW"
+   },
+   "image": "/images/products/ps-series/ps-prone-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-prone-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-prone-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-prone-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-high-row",
+    "ps-chest-supported-row",
+    "ps-seated-rear-deltoid-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-005",
+   "slug": "ps-vertical-leg-press",
+   "name": "Vertical Leg Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 85,
+   "added": 2026.9005,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded vertical leg press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Vertical Leg Press is a plate-loaded commercial strength station built around a vertical pressing path loaded through the legs. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The carriage travels on vertical guide rods above a reclined pad, so the load runs straight down the line of the legs. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Vertical leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-vertical-leg-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-vertical-leg-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-vertical-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-vertical-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-frame-leg-curl",
+    "ps-glute-drive",
+    "ps-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Vertical leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-006",
+   "slug": "ps-incline-chest-press",
+   "name": "Incline Chest Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": true,
+   "popular": 84,
+   "added": 2026.9006,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded incline chest press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Incline Chest Press is a plate-loaded commercial strength station built around an inclined pressing path that shifts emphasis toward the upper chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "An inclined bench sits behind independent pressing arms, with plate horns carried on the upright. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major (clavicular head)"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major (clavicular head)",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-incline-chest-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-incline-chest-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-incline-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-incline-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press",
+    "ps-seated-shoulder-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Incline press",
+    "Pectoralis major (clavicular head)"
+   ]
+  },
+  {
+   "sku": "AFX-PS-007",
+   "slug": "ps-frame-leg-curl",
+   "name": "Frame-Mounted Leg Curl",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 83,
+   "added": 2026.9007,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded frame-mounted leg curl station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Frame-Mounted Leg Curl is a plate-loaded commercial strength station built around a knee flexion path that isolates the hamstrings. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A flat pad and paired roller sets are carried inside an upright frame, with the load running on guide rods. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-frame-leg-curl-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-frame-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-frame-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-frame-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-glute-drive",
+    "ps-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-PS-008",
+   "slug": "ps-high-row",
+   "name": "High Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 82,
+   "added": 2026.9008,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded high row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series High Row is a plate-loaded commercial strength station built around a high pulling path that loads the lats and upper back together. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Tall movement arms are pulled down and back from above shoulder height, with a seat and chest restraint below. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "High pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Rhomboids",
+     "Rear deltoids",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Rear deltoids",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "High pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-high-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-high-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-high-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-high-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-chest-supported-row",
+    "ps-seated-rear-deltoid-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "High pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-PS-009",
+   "slug": "ps-glute-drive",
+   "name": "Glute Drive",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 81,
+   "added": 2026.9009,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded glute drive station for glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Glute Drive is a plate-loaded commercial strength station built around a hip extension path loaded across the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Padded hip restraints sit over a long ribbed foot platform, so the drive comes from the hips with the back supported. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-glute-drive-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-glute-drive-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-glute-drive-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-glute-drive-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-standing-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-PS-010",
+   "slug": "ps-chest-supported-row",
+   "name": "Chest-Supported Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 80,
+   "added": 2026.901,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded chest-supported row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Chest-Supported Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A chest pad carries the torso while a linked arm assembly is rowed back, with a height-adjustable seat below. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-chest-supported-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-chest-supported-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-chest-supported-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-chest-supported-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-seated-rear-deltoid-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-011",
+   "slug": "ps-wide-base-incline-chest-press",
+   "name": "Wide-Base Incline Chest Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 79,
+   "added": 2026.9011,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded wide-base incline chest press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Wide-Base Incline Chest Press is a plate-loaded commercial strength station built around an inclined pressing path that shifts emphasis toward the upper chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "An inclined bench sits on a wide bolt-down base, with pressing arms and plate horns carried outboard. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major (clavicular head)"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major (clavicular head)",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-wide-base-incline-chest-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-wide-base-incline-chest-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-wide-base-incline-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-wide-base-incline-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-iso-lateral-chest-press",
+    "ps-seated-shoulder-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Incline press",
+    "Pectoralis major (clavicular head)"
+   ]
+  },
+  {
+   "sku": "AFX-PS-012",
+   "slug": "ps-iso-lateral-chest-press",
+   "name": "Iso-Lateral Chest Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 78,
+   "added": 2026.9012,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded iso-lateral chest press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Iso-Lateral Chest Press is a plate-loaded commercial strength station built around a horizontal pressing path through the chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Independent left and right arms let each side press on its own path from a seated position. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Independent left and right movement arms",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-iso-lateral-chest-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-iso-lateral-chest-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-iso-lateral-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-iso-lateral-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-seated-shoulder-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-PS-013",
+   "slug": "ps-standing-calf-raise",
+   "name": "Standing Calf Raise",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 77,
+   "added": 2026.9013,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded standing calf raise station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Standing Calf Raise is a plate-loaded commercial strength station built around a plantarflexion path through the calf. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Shoulder pads load the lifter from above while the forefoot works off a raised platform. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Ankle plantarflexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Gastrocnemius"
+    ],
+    "secondary": [
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Gastrocnemius",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Ankle plantarflexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-standing-calf-raise-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-standing-calf-raise-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-standing-calf-raise-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-standing-calf-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Ankle plantarflexion",
+    "Gastrocnemius"
+   ]
+  },
+  {
+   "sku": "AFX-PS-014",
+   "slug": "ps-iso-lateral-leg-press",
+   "name": "Iso-Lateral Leg Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 76,
+   "added": 2026.9014,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded iso-lateral leg press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Iso-Lateral Leg Press is a plate-loaded commercial strength station built around a seated pressing path loaded through the legs. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Two independent foot plates let each leg press on its own path from a reclined seat. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Independent left and right movement arms",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-iso-lateral-leg-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-iso-lateral-leg-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-iso-lateral-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-iso-lateral-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-015",
+   "slug": "ps-leg-press",
+   "name": "Leg Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 75,
+   "added": 2026.9015,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded leg press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Leg Press is a plate-loaded commercial strength station built around a seated pressing path loaded through the legs. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A single wide foot plate presses away from a reclined, padded seat. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-leg-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-leg-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-016",
+   "slug": "ps-seated-rear-deltoid-row",
+   "name": "Seated Rear Deltoid Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 74,
+   "added": 2026.9016,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated rear deltoid row station for back and shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Rear Deltoid Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A chest pad supports the torso while the arms are drawn back and out at shoulder height. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back and shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Rear deltoids",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Latissimus dorsi"
+    ]
+   },
+   "targets": [
+    "Rear deltoids",
+    "Rhomboids",
+    "Mid trapezius",
+    "Latissimus dorsi"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back, Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-seated-rear-deltoid-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-rear-deltoid-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-rear-deltoid-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-rear-deltoid-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Shoulders",
+    "Horizontal pull",
+    "Rear deltoids",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-017",
+   "slug": "ps-seated-shoulder-press",
+   "name": "Seated Shoulder Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 73,
+   "added": 2026.9017,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated shoulder press station for shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Shoulder Press is a plate-loaded commercial strength station built around an overhead pressing path through the deltoids. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Pressing arms run overhead from a high-backed seat with a head pad. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Overhead press for shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Overhead press",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-seated-shoulder-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Overhead press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-018",
+   "slug": "ps-low-row",
+   "name": "Low Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 72,
+   "added": 2026.9018,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded low row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Low Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Handles are drawn back at waist height along a low frame with the torso supported. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Rhomboids",
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-low-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-low-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-low-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-low-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-PS-019",
+   "slug": "ps-belt-squat",
+   "name": "Belt Squat",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 71,
+   "added": 2026.9019,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded belt squat station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Belt Squat is a plate-loaded commercial strength station built around a squat path with the load carried on a fixed track. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The load hangs from a belt attachment between the feet, with the lifter standing on flanking platforms. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Squat for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Squat",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-belt-squat-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-belt-squat-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-belt-squat-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-belt-squat-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Squat",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-PS-020",
+   "slug": "ps-leg-extension-leg-curl",
+   "name": "Leg Extension / Leg Curl",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 70,
+   "added": 2026.902,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded leg extension / leg curl station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Leg Extension / Leg Curl is a plate-loaded commercial strength station built around knee extension and knee flexion from a single station. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "One seat serves both directions - a roller ahead of the shin for extension and one behind it for curls. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee extension and flexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Hamstrings"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Quadriceps",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee extension and flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-leg-extension-leg-curl-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-leg-extension-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-leg-extension-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-leg-extension-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee extension and flexion",
+    "Quadriceps",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-PS-021",
+   "slug": "ps-t-bar-row",
+   "name": "T-Bar Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 69,
+   "added": 2026.9021,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded t-bar row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series T-Bar Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A chest pad and foot platform hold the lifter in place while the handles are rowed toward the torso. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-t-bar-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-t-bar-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-t-bar-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-t-bar-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-022",
+   "slug": "ps-abdominal-crunch-bench",
+   "name": "Abdominal Crunch Bench",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-arms-core",
+   "categoryName": "Arms & Core",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 68,
+   "added": 2026.9022,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded abdominal crunch bench station for core training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Abdominal Crunch Bench is a plate-loaded commercial strength station built around a trunk flexion path loaded through the abdominals. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A padded roller sits above a low seat, so the crunch is loaded at the torso rather than the neck. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core strength development.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Arms & Core",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-abdominal-crunch-bench-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-abdominal-crunch-bench-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-abdominal-crunch-bench-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-abdominal-crunch-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-iso-lateral-triceps-extension",
+    "ps-abdominal-crunch-back-extension",
+    "ps-preacher-biceps-curl",
+    "ps-seated-abdominal-crunch"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Arms & Core",
+    "Plate Loaded Machine",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-PS-023",
+   "slug": "ps-iso-lateral-triceps-extension",
+   "name": "Iso-Lateral Triceps Extension",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-arms-core",
+   "categoryName": "Arms & Core",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 67,
+   "added": 2026.9023,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded iso-lateral triceps extension station for arms training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Iso-Lateral Triceps Extension is a plate-loaded commercial strength station built around an elbow extension path that isolates the triceps. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Independent arms extend from a seated position with the upper arms supported. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Independent left and right movement arms",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow extension for arms strength development.",
+   "muscles": {
+    "primary": [
+     "Triceps brachii"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Arms & Core",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Elbow extension",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-iso-lateral-triceps-extension-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-iso-lateral-triceps-extension-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-iso-lateral-triceps-extension-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-iso-lateral-triceps-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-abdominal-crunch-bench",
+    "ps-abdominal-crunch-back-extension",
+    "ps-preacher-biceps-curl",
+    "ps-seated-abdominal-crunch"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Arms & Core",
+    "Plate Loaded Machine",
+    "Arms",
+    "Elbow extension",
+    "Triceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-PS-024",
+   "slug": "ps-lateral-raise",
+   "name": "Lateral Raise",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 66,
+   "added": 2026.9024,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded lateral raise station for shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Lateral Raise is a plate-loaded commercial strength station built around an abduction path that isolates the lateral deltoid. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Padded arms pivot at the sides from a seated position, loading the raise through the outer shoulder. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Shoulder abduction for shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Lateral deltoids"
+    ],
+    "secondary": [
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Lateral deltoids",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Shoulder abduction",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-lateral-raise-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-lateral-raise-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-lateral-raise-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-lateral-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Shoulder abduction",
+    "Lateral deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-025",
+   "slug": "ps-iso-lateral-lat-pulldown",
+   "name": "Iso-Lateral Lat Pulldown",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 65,
+   "added": 2026.9025,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded iso-lateral lat pulldown station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Iso-Lateral Lat Pulldown is a plate-loaded commercial strength station built around a vertical pulling path that loads the lats through a full overhead-to-chest range. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Independent overhead arms let each side pull on its own path. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Independent left and right movement arms",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-iso-lateral-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-iso-lateral-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-iso-lateral-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-iso-lateral-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-PS-026",
+   "slug": "ps-seated-leg-extension",
+   "name": "Seated Leg Extension",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 64,
+   "added": 2026.9026,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated leg extension station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Leg Extension is a plate-loaded commercial strength station built around a knee extension path that isolates the quadriceps. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A high-backed seat with head pad positions the knee against a single roller ahead of the shin. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee extension for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee extension",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-seated-leg-extension-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-leg-extension-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-leg-extension-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-leg-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee extension",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-027",
+   "slug": "ps-landmine-t-bar-row",
+   "name": "Landmine T-Bar Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 63,
+   "added": 2026.9027,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded landmine t-bar row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Landmine T-Bar Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A low sleeve-and-lever frame is rowed from a standing position off a ribbed foot platform. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-landmine-t-bar-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-landmine-t-bar-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-landmine-t-bar-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-landmine-t-bar-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-028",
+   "slug": "ps-abdominal-crunch-back-extension",
+   "name": "Abdominal Crunch / Back Extension",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-arms-core",
+   "categoryName": "Arms & Core",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 62,
+   "added": 2026.9028,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded abdominal crunch / back extension station for core training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Abdominal Crunch / Back Extension is a plate-loaded commercial strength station built around trunk flexion and trunk extension from a single station. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Shoulder pads and a leg restraint let one station load trunk flexion in one direction and extension in the other. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion and extension for core strength development.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis",
+     "Erector spinae"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Erector spinae",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Arms & Core",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Trunk flexion and extension",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "BACK EXTENSION"
+   },
+   "image": "/images/products/ps-series/ps-abdominal-crunch-back-extension-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-abdominal-crunch-back-extension-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-abdominal-crunch-back-extension-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-abdominal-crunch-back-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-abdominal-crunch-bench",
+    "ps-iso-lateral-triceps-extension",
+    "ps-preacher-biceps-curl",
+    "ps-seated-abdominal-crunch"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Arms & Core",
+    "Plate Loaded Machine",
+    "Core",
+    "Trunk flexion and extension",
+    "Rectus abdominis",
+    "Erector spinae"
+   ]
+  },
+  {
+   "sku": "AFX-PS-029",
+   "slug": "ps-preacher-biceps-curl",
+   "name": "Preacher Biceps Curl",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-arms-core",
+   "categoryName": "Arms & Core",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 61,
+   "added": 2026.9029,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded preacher biceps curl station for arms training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Preacher Biceps Curl is a plate-loaded commercial strength station built around an elbow flexion path that isolates the biceps. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "An angled arm pad fixes the elbows ahead of the torso, with a height-adjustable seat below. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow flexion for arms strength development.",
+   "muscles": {
+    "primary": [
+     "Biceps brachii"
+    ],
+    "secondary": [
+     "Brachialis",
+     "Brachioradialis"
+    ]
+   },
+   "targets": [
+    "Biceps brachii",
+    "Brachialis",
+    "Brachioradialis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Arms & Core",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Elbow flexion",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-preacher-biceps-curl-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-preacher-biceps-curl-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-preacher-biceps-curl-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-preacher-biceps-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-abdominal-crunch-bench",
+    "ps-iso-lateral-triceps-extension",
+    "ps-abdominal-crunch-back-extension",
+    "ps-seated-abdominal-crunch"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Arms & Core",
+    "Plate Loaded Machine",
+    "Arms",
+    "Elbow flexion",
+    "Biceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-PS-030",
+   "slug": "ps-prone-leg-curl",
+   "name": "Prone Leg Curl",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 60,
+   "added": 2026.903,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded prone leg curl station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Prone Leg Curl is a plate-loaded commercial strength station built around a knee flexion path that isolates the hamstrings. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The lifter lies face down on a flat pad with the ankles under a paired roller. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-prone-leg-curl-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-prone-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-prone-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-prone-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-PS-031",
+   "slug": "ps-incline-shoulder-press",
+   "name": "Incline Shoulder Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders",
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 59,
+   "added": 2026.9031,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded incline shoulder press station for shoulders and chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Incline Shoulder Press is a plate-loaded commercial strength station built around an inclined pressing path that shifts emphasis toward the upper chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "An inclined back pad sits behind pressing arms set above shoulder height. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for shoulders and chest strength development.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Pectoralis major (clavicular head)",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Pectoralis major (clavicular head)",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Incline press",
+    "Body Area": "Shoulders, Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-incline-shoulder-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-incline-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-incline-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-incline-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Chest",
+    "Incline press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-032",
+   "slug": "ps-seated-row",
+   "name": "Seated Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 58,
+   "added": 2026.9032,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A chest pad and high-backed seat hold the torso while the handles are rowed back. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "SEATED ROW"
+   },
+   "image": "/images/products/ps-series/ps-seated-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-033",
+   "slug": "ps-wide-bar-lat-pulldown",
+   "name": "Wide-Bar Lat Pulldown",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 57,
+   "added": 2026.9033,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded wide-bar lat pulldown station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Wide-Bar Lat Pulldown is a plate-loaded commercial strength station built around a vertical pulling path that loads the lats through a full overhead-to-chest range. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A wide overhead bar runs on a long arc above a seat with thigh restraints and a foot platform. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids",
+     "Mid trapezius"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids",
+    "Mid trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-wide-bar-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-wide-bar-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-wide-bar-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-wide-bar-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-PS-034",
+   "slug": "ps-vertical-bench-press",
+   "name": "Vertical Bench Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 56,
+   "added": 2026.9034,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded vertical bench press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Vertical Bench Press is a plate-loaded commercial strength station built around a guided pressing path that keeps the bar on a fixed line. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The carriage runs on vertical guide rods above an adjustable bench, keeping the press on a fixed line. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Guided press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Guided press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-vertical-bench-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-vertical-bench-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-vertical-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-vertical-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Guided press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-PS-035",
+   "slug": "ps-iso-lateral-shoulder-press",
+   "name": "Iso-Lateral Shoulder Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 55,
+   "added": 2026.9035,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded iso-lateral shoulder press station for shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Iso-Lateral Shoulder Press is a plate-loaded commercial strength station built around an overhead pressing path through the deltoids. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Independent arms press overhead from a high-backed seat. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Independent left and right movement arms",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Overhead press for shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Overhead press",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-iso-lateral-shoulder-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-iso-lateral-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-iso-lateral-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-iso-lateral-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Overhead press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-036",
+   "slug": "ps-45-degree-leg-press",
+   "name": "45 Degree Leg Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 54,
+   "added": 2026.9036,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded 45 degree leg press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series 45 Degree Leg Press is a plate-loaded commercial strength station built around a seated pressing path loaded through the legs. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A wide foot plate runs on a 45 degree track above a reclined seat, with plate horns arced along the frame. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-45-degree-leg-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-45-degree-leg-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-45-degree-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-45-degree-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-037",
+   "slug": "ps-rear-deltoid-pec-fly",
+   "name": "Rear Deltoid / Pec Fly",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 53,
+   "added": 2026.9037,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded rear deltoid / pec fly station for chest and shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Rear Deltoid / Pec Fly is a plate-loaded commercial strength station built around opposing horizontal arcs for the chest and the rear deltoid. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Padded arms swing through opposing horizontal arcs, so one station covers both the fly and the reverse fly. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal abduction and adduction for chest and shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major",
+     "Rear deltoids"
+    ],
+    "secondary": [
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Rear deltoids",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal abduction and adduction",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-rear-deltoid-pec-fly-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-rear-deltoid-pec-fly-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-rear-deltoid-pec-fly-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-rear-deltoid-pec-fly-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Shoulders",
+    "Horizontal abduction and adduction",
+    "Pectoralis major",
+    "Rear deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-038",
+   "slug": "ps-reverse-fly-row",
+   "name": "Reverse Fly Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 52,
+   "added": 2026.9038,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded reverse fly row station for back and shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Reverse Fly Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A chest pad supports the torso while the arms sweep back through a reverse-fly arc. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back and shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Rear deltoids",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius"
+    ]
+   },
+   "targets": [
+    "Rear deltoids",
+    "Rhomboids",
+    "Mid trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back, Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-reverse-fly-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-reverse-fly-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-reverse-fly-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-reverse-fly-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Shoulders",
+    "Horizontal pull",
+    "Rear deltoids",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-039",
+   "slug": "ps-incline-press",
+   "name": "Incline Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 51,
+   "added": 2026.9039,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded incline press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Incline Press is a plate-loaded commercial strength station built around an inclined pressing path that shifts emphasis toward the upper chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "An inclined bench sits under independent pressing arms, with foot plates set at the base. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major (clavicular head)"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major (clavicular head)",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-incline-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-incline-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-incline-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-incline-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Incline press",
+    "Pectoralis major (clavicular head)"
+   ]
+  },
+  {
+   "sku": "AFX-PS-040",
+   "slug": "ps-wide-grip-shoulder-press",
+   "name": "Wide-Grip Shoulder Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 50,
+   "added": 2026.904,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded wide-grip shoulder press station for shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Wide-Grip Shoulder Press is a plate-loaded commercial strength station built around an overhead pressing path through the deltoids. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Pressing arms are set wide above a high-backed seat with a head pad. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Overhead press for shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Overhead press",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-wide-grip-shoulder-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-wide-grip-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-wide-grip-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-wide-grip-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Overhead press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-041",
+   "slug": "ps-wide-arc-lat-pulldown",
+   "name": "Wide-Arc Lat Pulldown",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 49,
+   "added": 2026.9041,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded wide-arc lat pulldown station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Wide-Arc Lat Pulldown is a plate-loaded commercial strength station built around a vertical pulling path that loads the lats through a full overhead-to-chest range. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Long curved arms sweep through a wide overhead arc above a seat with thigh restraints. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-wide-arc-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-wide-arc-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-wide-arc-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-wide-arc-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-PS-042",
+   "slug": "ps-hack-squat",
+   "name": "Hack Squat",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 48,
+   "added": 2026.9042,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded hack squat station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Hack Squat is a plate-loaded commercial strength station built around a squat path with the load carried on a fixed track. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Shoulder pads run on an angled track above a fixed foot plate. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Squat for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Squat",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-hack-squat-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-hack-squat-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-hack-squat-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-hack-squat-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Squat",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-043",
+   "slug": "ps-linear-leg-press",
+   "name": "Linear Leg Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 47,
+   "added": 2026.9043,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded linear leg press station for legs and glutes training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Linear Leg Press is a plate-loaded commercial strength station built around a seated pressing path loaded through the legs. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "The seat and foot plate face each other along a straight track carried low in the frame. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-linear-leg-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-linear-leg-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-linear-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-linear-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-044",
+   "slug": "ps-incline-prone-leg-curl",
+   "name": "Incline Prone Leg Curl",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 46,
+   "added": 2026.9044,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded incline prone leg curl station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Incline Prone Leg Curl is a plate-loaded commercial strength station built around a knee flexion path that isolates the hamstrings. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "An inclined torso pad places the hips above the knees, with the ankles held under a roller. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-incline-prone-leg-curl-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-incline-prone-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-incline-prone-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-incline-prone-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-PS-045",
+   "slug": "ps-seated-leg-extension-curl",
+   "name": "Seated Leg Extension / Curl",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 45,
+   "added": 2026.9045,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated leg extension / curl station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Leg Extension / Curl is a plate-loaded commercial strength station built around knee extension and knee flexion from a single station. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A high-backed seat with head pad serves rollers on both sides of the shin. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee extension and flexion for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Hamstrings"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Quadriceps",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee extension and flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-seated-leg-extension-curl-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-leg-extension-curl-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-leg-extension-curl-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-leg-extension-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee extension and flexion",
+    "Quadriceps",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-PS-046",
+   "slug": "ps-leg-curl-leg-extension",
+   "name": "Leg Curl / Leg Extension",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-legs-glutes",
+   "categoryName": "Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 44,
+   "added": 2026.9046,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded leg curl / leg extension station for legs training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Leg Curl / Leg Extension is a plate-loaded commercial strength station built around knee flexion and knee extension from a single station. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "One seat and a paired roller set cover both knee flexion and knee extension. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion and extension for legs strength development.",
+   "muscles": {
+    "primary": [
+     "Hamstrings",
+     "Quadriceps"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Hamstrings",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Knee flexion and extension",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "LEG CURL / LEG EXTENSION"
+   },
+   "image": "/images/products/ps-series/ps-leg-curl-leg-extension-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-leg-curl-leg-extension-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-leg-curl-leg-extension-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-leg-curl-leg-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-pendulum-squat",
+    "ps-vertical-leg-press",
+    "ps-frame-leg-curl",
+    "ps-glute-drive"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion and extension",
+    "Hamstrings",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-PS-047",
+   "slug": "ps-v-bar-row",
+   "name": "V-Bar Row",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 43,
+   "added": 2026.9047,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded v-bar row station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series V-Bar Row is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A V-handle is rowed from a standing position off a ribbed foot platform. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "V-BAR ROW"
+   },
+   "image": "/images/products/ps-series/ps-v-bar-row-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-v-bar-row-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-v-bar-row-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-v-bar-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-048",
+   "slug": "ps-rowing-machine",
+   "name": "Rowing Machine",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 42,
+   "added": 2026.9048,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded rowing machine station for back training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Rowing Machine is a plate-loaded commercial strength station built around a horizontal pulling path driven by the back rather than the hips. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A high-backed seat and chest pad hold the torso square while the handles are rowed back. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back strength development.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Mid trapezius",
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Mid trapezius",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "ROWING MACHINE"
+   },
+   "image": "/images/products/ps-series/ps-rowing-machine-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-rowing-machine-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-rowing-machine-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-rowing-machine-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-PS-049",
+   "slug": "ps-seated-abdominal-crunch",
+   "name": "Seated Abdominal Crunch",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-arms-core",
+   "categoryName": "Arms & Core",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 41,
+   "added": 2026.9049,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated abdominal crunch station for core training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Abdominal Crunch is a plate-loaded commercial strength station built around a trunk flexion path loaded through the abdominals. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A padded torso roller loads the crunch from a seated position with the hips fixed. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Padded roller set",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core strength development.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Arms & Core",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-seated-abdominal-crunch-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-abdominal-crunch-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-abdominal-crunch-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-abdominal-crunch-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-abdominal-crunch-bench",
+    "ps-iso-lateral-triceps-extension",
+    "ps-abdominal-crunch-back-extension",
+    "ps-preacher-biceps-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Arms & Core",
+    "Plate Loaded Machine",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-PS-050",
+   "slug": "ps-standing-shrug",
+   "name": "Standing Shrug",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-back-row",
+   "categoryName": "Back & Row",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 40,
+   "added": 2026.905,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded standing shrug station for back and shoulders training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Standing Shrug is a plate-loaded commercial strength station built around a short shrugging path loaded straight down through the traps. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Shoulder pads load the traps straight down from a standing position on a foot platform. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Scapular elevation for back and shoulders strength development.",
+   "muscles": {
+    "primary": [
+     "Upper trapezius"
+    ],
+    "secondary": [
+     "Levator scapulae"
+    ]
+   },
+   "targets": [
+    "Upper trapezius",
+    "Levator scapulae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Back & Row",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Scapular elevation",
+    "Body Area": "Back, Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-standing-shrug-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-standing-shrug-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-standing-shrug-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-standing-shrug-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-lat-pulldown",
+    "ps-prone-row",
+    "ps-high-row",
+    "ps-chest-supported-row"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Back & Row",
+    "Plate Loaded Machine",
+    "Back",
+    "Shoulders",
+    "Scapular elevation",
+    "Upper trapezius"
+   ]
+  },
+  {
+   "sku": "AFX-PS-051",
+   "slug": "ps-rotary-torso",
+   "name": "Rotary Torso",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-arms-core",
+   "categoryName": "Arms & Core",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 39,
+   "added": 2026.9051,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded rotary torso station for core training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Rotary Torso is a plate-loaded commercial strength station built around a rotational path loaded through the obliques. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A seated pad and torso restraint carry the lifter through a controlled rotation. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk rotation for core strength development.",
+   "muscles": {
+    "primary": [
+     "Obliques"
+    ],
+    "secondary": [
+     "Rectus abdominis"
+    ]
+   },
+   "targets": [
+    "Obliques",
+    "Rectus abdominis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Arms & Core",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Trunk rotation",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Machine Placard": "ROTARY TORSO"
+   },
+   "image": "/images/products/ps-series/ps-rotary-torso-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-rotary-torso-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-rotary-torso-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-rotary-torso-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-abdominal-crunch-bench",
+    "ps-iso-lateral-triceps-extension",
+    "ps-abdominal-crunch-back-extension",
+    "ps-preacher-biceps-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Arms & Core",
+    "Plate Loaded Machine",
+    "Core",
+    "Trunk rotation",
+    "Obliques"
+   ]
+  },
+  {
+   "sku": "AFX-PS-052",
+   "slug": "ps-iso-lateral-bench-press",
+   "name": "Iso-Lateral Bench Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 38,
+   "added": 2026.9052,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded iso-lateral bench press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Iso-Lateral Bench Press is a plate-loaded commercial strength station built around a horizontal pressing path through the chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "Independent arms press from a full-length flat bench. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Independent left and right movement arms",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-iso-lateral-bench-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-iso-lateral-bench-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-iso-lateral-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-iso-lateral-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-PS-053",
+   "slug": "ps-seated-chest-press",
+   "name": "Seated Chest Press",
+   "collection": "ps-series",
+   "collectionName": "PS Series",
+   "series": "PS Series",
+   "category": "ps-chest-shoulder",
+   "categoryName": "Chest & Shoulder",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 37,
+   "added": 2026.9053,
+   "tier": "PS Series",
+   "band": "premium",
+   "short": "Plate-loaded seated chest press station for chest training, built for commercial floors.",
+   "description": [
+    "The AFZOX PS Series Seated Chest Press is a plate-loaded commercial strength station built around a horizontal pressing path through the chest. It is intended for continuous use on a commercial floor, where the load is set by adding Olympic plates rather than by a stack pin.",
+    "A high-backed seat with head pad sits behind converging pressing arms, with a foot plate at the base. Resistance is plate-loaded, so the station reads its load at a glance and scales with whatever plates the floor already carries."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "Plate-loaded resistance on Olympic sleeves",
+    "Integrated weight-plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Wide bolt-down base with levelling feet",
+    "Adjustable seat position",
+    "Non-slip foot platform",
+    "Printed instruction placard on the frame",
+    "AFZOX branding on frame and plates"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest strength development.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "PS Series",
+    "Collection": "PS Series",
+    "Category": "Chest & Shoulder",
+    "Equipment Type": "Plate Loaded Machine",
+    "Resistance Type": "Plate loaded (Olympic sleeves)",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/ps-series/ps-seated-chest-press-01.jpg",
+   "imageMd": "/images/products/ps-series/ps-seated-chest-press-01-md.jpg",
+   "imageSm": "/images/products/ps-series/ps-seated-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/ps-series/ps-seated-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "ps-flat-bench-press",
+    "ps-incline-chest-press",
+    "ps-wide-base-incline-chest-press",
+    "ps-iso-lateral-chest-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "PS Series",
+    "Chest & Shoulder",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  }
+ ]
+}

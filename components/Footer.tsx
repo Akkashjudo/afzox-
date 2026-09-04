@@ -1,68 +1,165 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { CATEGORIES } from '@/lib/catalogue';
-import { BRAND } from '@/lib/catalogue';
+import { BRAND, COLLECTIONS, collectionCategories } from '@/lib/catalogue';
+import { IconArrow } from './icons';
 
+const NAVIGATION = [
+  { href: '/', label: 'Home' },
+  { href: '/shop', label: 'Shop' },
+  { href: '/categories', label: 'Collections' },
+  { href: '/services', label: 'Commercial setup' },
+  { href: '/about', label: 'About' },
+];
+
+const SUPPORT = [
+  { href: '/contact', label: 'Contact' },
+  { href: '/faq', label: 'FAQ' },
+  { href: '/gallery', label: 'Gallery' },
+  { href: '/enquiry', label: 'Enquiry list' },
+];
+
+/**
+ * Closing brand moment. Ink, so the page resolves into the brand rather than
+ * fading out on white — and the oversized wordmark at the base gives the
+ * footer a floor instead of a trailing edge.
+ *
+ * Every contact detail is read from the brand record; none is written here.
+ */
 export default function Footer() {
   return (
-    <footer className="border-t border-black/5 bg-white pt-16 md:pt-20">
-      <div className="shell">
-        <div className="grid grid-cols-2 gap-10 pb-14 md:grid-cols-4 md:gap-8">
+    <footer className="surface-ink grain on-ink relative isolate overflow-hidden">
+      <div aria-hidden className="pointer-events-none absolute inset-0 -z-10">
+        <div className="bg-grid-dark absolute inset-0 opacity-60" />
+      </div>
+
+      <div className="shell pt-20 md:pt-28">
+        {/* ---------------- Top: identity + directory ---------------- */}
+        <div className="grid grid-cols-2 gap-x-8 gap-y-12 pb-16 md:grid-cols-4">
           <div className="col-span-2 md:col-span-1">
-            <Link href="/" className="flex items-center gap-2">
-              <Image src="/afzox-icon.png" alt="AFZOX" width={42} height={42} className="h-10 w-10 object-contain" />
-              <span className="font-bold leading-tight">
-                AFZOX <span className="text-primary">Global</span>
-                <br />
-                Strength
+            <Link href="/" className="flex items-center gap-2.5" aria-label="AFZOX — home">
+              <Image
+                src="/afzox-icon.png"
+                alt=""
+                width={40}
+                height={40}
+                className="h-10 w-10 object-contain"
+              />
+              <span className="font-display text-[15px] font-bold leading-none tracking-tight text-white">
+                AFZOX
+                <span className="ml-1.5 font-medium text-white/45">Global Strength</span>
               </span>
             </Link>
-            <p className="mt-4 max-w-xs text-sm text-on-surface-variant">
-              Precision engineering meets high-end design. Elevating commercial and home fitness
-              environments across India.
+            <p className="mt-5 max-w-xs text-body-sm text-white/50">
+              Commercial strength equipment — specified, delivered and installed.
             </p>
           </div>
 
           <div>
-            <h4 className="text-label-md uppercase tracking-widest text-on-surface-variant">Navigation</h4>
-            <ul className="mt-4 space-y-2.5 text-sm">
-              <li><Link href="/" className="hover:text-primary">Home</Link></li>
-              <li><Link href="/shop" className="hover:text-primary">Shop</Link></li>
-              <li><Link href="/categories" className="hover:text-primary">Categories</Link></li>
-              <li><Link href="/services" className="hover:text-primary">Commercial Setup</Link></li>
-              <li><Link href="/about" className="hover:text-primary">About</Link></li>
-            </ul>
-          </div>
-
-          <div>
-            <h4 className="text-label-md uppercase tracking-widest text-on-surface-variant">Support</h4>
-            <ul className="mt-4 space-y-2.5 text-sm">
-              <li><Link href="/contact" className="hover:text-primary">Contact</Link></li>
-              <li><Link href="/faq" className="hover:text-primary">FAQ</Link></li>
-              <li><Link href="/gallery" className="hover:text-primary">Gallery</Link></li>
-              <li><Link href="/enquiry" className="hover:text-primary">Enquiry List</Link></li>
-            </ul>
-          </div>
-
-          <div>
-            <h4 className="text-label-md uppercase tracking-widest text-on-surface-variant">Ranges</h4>
-            <ul className="mt-4 space-y-2.5 text-sm">
-              {CATEGORIES.slice(0, 5).map((c) => (
-                <li key={c.slug}><Link href={c.url} className="hover:text-primary">{c.name}</Link></li>
+            <h2 className="text-label-sm uppercase text-white/40">Navigation</h2>
+            <ul className="mt-5 space-y-3">
+              {NAVIGATION.map((l) => (
+                <li key={l.href}>
+                  <Link
+                    href={l.href}
+                    className="text-body-sm text-white/70 transition-colors duration-micro hover:text-white"
+                  >
+                    {l.label}
+                  </Link>
+                </li>
               ))}
+            </ul>
+          </div>
+
+          <div>
+            <h2 className="text-label-sm uppercase text-white/40">Support</h2>
+            <ul className="mt-5 space-y-3">
+              {SUPPORT.map((l) => (
+                <li key={l.href}>
+                  <Link
+                    href={l.href}
+                    className="text-body-sm text-white/70 transition-colors duration-micro hover:text-white"
+                  >
+                    {l.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div>
+            <h2 className="text-label-sm uppercase text-white/40">Contact</h2>
+            <ul className="mt-5 space-y-3 text-body-sm">
+              <li>
+                <a
+                  href={`tel:+${BRAND.phoneRaw}`}
+                  className="text-white/70 transition-colors duration-micro hover:text-white"
+                >
+                  {BRAND.phone}
+                </a>
+              </li>
+              <li>
+                <a
+                  href={`mailto:${BRAND.email}`}
+                  className="break-all text-white/70 transition-colors duration-micro hover:text-white"
+                >
+                  {BRAND.email}
+                </a>
+              </li>
+              <li className="text-white/45">
+                {BRAND.city}, {BRAND.region}
+                <br />
+                {BRAND.country}
+              </li>
             </ul>
           </div>
         </div>
 
-        <div className="border-t border-black/5 py-6">
-          <div className="flex flex-col-reverse items-center justify-between gap-4 text-xs text-on-surface-variant md:flex-row">
-            <span>© {new Date().getFullYear()} {BRAND.legal}. All rights reserved.</span>
-            <div className="flex items-center gap-5">
-              <a href={`tel:+${BRAND.phoneRaw}`} className="hover:text-primary">{BRAND.phone}</a>
-              <a href={`mailto:${BRAND.email}`} className="hover:text-primary">{BRAND.email}</a>
-              <span>{BRAND.city}, {BRAND.region}, {BRAND.country}</span>
+        {/* ---------------- Series directory ----------------
+            One column per collection — never a shared list — so the row
+            scales as series are added and nothing reads as nested. */}
+        <div className="grid grid-cols-2 gap-x-8 gap-y-10 border-t border-white/10 py-14 md:grid-cols-4">
+          {COLLECTIONS.map((col) => (
+            <div key={col.slug}>
+              <Link href={col.url} className="group inline-flex items-center gap-2">
+                <span className="text-label-md uppercase text-primary-fixed-dim">
+                  {col.displayName}
+                </span>
+                <IconArrow className="h-3.5 w-3.5 text-primary-fixed-dim/60 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
+              </Link>
+              <p className="mt-1 text-label-sm uppercase text-white/35">{col.count} products</p>
+
+              <ul className="mt-4 space-y-2.5">
+                {collectionCategories(col.slug)
+                  .slice(0, 5)
+                  .map((c) => (
+                    <li key={c.slug}>
+                      <Link
+                        href={c.url}
+                        className="text-body-sm text-white/55 transition-colors duration-micro hover:text-white"
+                      >
+                        {c.name}
+                      </Link>
+                    </li>
+                  ))}
+              </ul>
             </div>
-          </div>
+          ))}
+        </div>
+      </div>
+
+      {/* ---------------- Oversized wordmark ---------------- */}
+      <div aria-hidden className="shell select-none pt-4">
+        <span className="block whitespace-nowrap font-display text-[clamp(4rem,17vw,15rem)] font-bold leading-[0.8] tracking-[-0.045em] text-white/[0.055]">
+          AFZOX
+        </span>
+      </div>
+
+      <div className="shell">
+        <div className="flex flex-col-reverse items-start justify-between gap-3 border-t border-white/10 py-7 text-label-sm uppercase text-white/35 md:flex-row md:items-center">
+          <span>
+            © {new Date().getFullYear()} {BRAND.legal}
+          </span>
+          <span>{BRAND.tagline}</span>
         </div>
       </div>
     </footer>

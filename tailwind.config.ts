@@ -1,9 +1,18 @@
 import type { Config } from 'tailwindcss';
 
 /**
- * Tokens lifted verbatim from the Stitch reference
- * ("AFZOX Global Strength" design system — the palette used across 8 of the
- * 12 reference screens, including Home, Shop and Product Details).
+ * AFZOX design system.
+ *
+ * The palette is sampled from the official AFZOX mark rather than invented:
+ * the logo is built on a deep navy (#001860), a brand blue (#0048b4) and a
+ * brand red (#c22015). Those three anchor everything here.
+ *
+ * The Material-3 style token names (`surface-container-lowest`,
+ * `on-surface-variant`, `outline-variant`, …) are kept deliberately — around
+ * forty files reference them — but their *values* now point at the AFZOX
+ * palette. That upgrades every surface on the site at once without a
+ * rename sweep, and new work can use the clearer `ink` / `paper` / `brand`
+ * scales below.
  */
 const config: Config = {
   content: ['./app/**/*.{ts,tsx}', './components/**/*.{ts,tsx}', './lib/**/*.{ts,tsx}'],
@@ -11,67 +20,104 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'surface-container-highest': '#e1e3e4',
-        'surface-dim': '#d9dadb',
-        'surface-variant': '#e1e3e4',
-        'on-error-container': '#93000a',
-        'inverse-primary': '#b3c5ff',
-        'on-secondary-fixed-variant': '#474646',
-        secondary: '#5f5e5e',
-        background: '#f8f9fa',
-        'tertiary-container': '#e30d1a',
-        'secondary-fixed-dim': '#c8c6c5',
-        'on-background': '#191c1d',
+        /* ---- AFZOX brand, sampled from the official mark ---- */
+        brand: {
+          navy: '#001A5C',
+          DEFAULT: '#0B4FB8',
+          bright: '#1E6DE8',
+          red: '#C22015',
+        },
+        /* ---- Ink: the dark architectural surfaces ---- */
+        ink: {
+          DEFAULT: '#0B0E16',
+          950: '#06080E',
+          900: '#0B0E16',
+          800: '#141924',
+          700: '#1E2532',
+          600: '#2C3444',
+          500: '#3E4859',
+        },
+        /* ---- Paper: warm-neutral light surfaces (never cold grey) ---- */
+        paper: {
+          DEFAULT: '#F6F6F4',
+          raised: '#FFFFFF',
+          sunken: '#EDEDE9',
+          deep: '#E3E3DE',
+        },
+
+        /* ---- Legacy token names, re-pointed at the AFZOX palette ---- */
+        background: '#F6F6F4',
+        surface: '#F6F6F4',
+        'surface-bright': '#FFFFFF',
+        'surface-dim': '#DBDBD5',
+        'surface-variant': '#E3E3DE',
+        'surface-container-lowest': '#FFFFFF',
+        'surface-container-low': '#F1F1EE',
+        'surface-container': '#EAEAE6',
+        'surface-container-high': '#E3E3DE',
+        'surface-container-highest': '#DBDBD5',
+
+        'on-background': '#0B0E16',
+        'on-surface': '#0B0E16',
+        'on-surface-variant': '#5A6070',
+        'inverse-surface': '#141924',
+        'inverse-on-surface': '#F6F6F4',
+
+        outline: '#9A9A92',
+        'outline-variant': '#DCDCD6',
+
+        primary: '#0B4FB8',
+        'primary-container': '#1E6DE8',
+        'on-primary': '#FFFFFF',
+        'on-primary-container': '#F5F8FF',
+        'primary-fixed': '#DCE6FF',
+        'primary-fixed-dim': '#9DBAF5',
+        'inverse-primary': '#9DBAF5',
+        'on-primary-fixed': '#001A5C',
+        'on-primary-fixed-variant': '#0A3D8F',
+        'surface-tint': '#0B4FB8',
+
+        secondary: '#5A6070',
+        'on-secondary': '#FFFFFF',
+        'secondary-container': '#E5E5E0',
+        'on-secondary-container': '#4A4F5C',
+        'secondary-fixed': '#E5E5E0',
+        'secondary-fixed-dim': '#C6C6C0',
+        'on-secondary-fixed': '#1A1D26',
+        'on-secondary-fixed-variant': '#454A57',
+
+        tertiary: '#C22015',
+        'tertiary-container': '#E03A2A',
+        'on-tertiary': '#FFFFFF',
+        'on-tertiary-container': '#FFF5F4',
+        'tertiary-fixed': '#FFDAD6',
+        'tertiary-fixed-dim': '#FFB4AB',
         'on-tertiary-fixed': '#410002',
-        primary: '#0050cb',
-        'on-tertiary': '#ffffff',
-        'surface-container': '#edeeef',
-        'on-primary': '#ffffff',
-        'on-primary-fixed': '#001849',
-        'error-container': '#ffdad6',
-        error: '#ba1a1a',
-        'outline-variant': '#c2c6d8',
-        'surface-tint': '#0054d6',
-        'primary-container': '#0066ff',
-        'on-tertiary-fixed-variant': '#93000a',
-        'on-surface-variant': '#424656',
-        'on-secondary-fixed': '#1c1b1b',
-        'tertiary-fixed': '#ffdad6',
-        'on-error': '#ffffff',
-        'tertiary-fixed-dim': '#ffb4ab',
-        outline: '#727687',
-        'primary-fixed-dim': '#b3c5ff',
-        'surface-container-high': '#e7e8e9',
-        'surface-container-low': '#f3f4f5',
-        surface: '#f8f9fa',
-        'surface-bright': '#f8f9fa',
-        tertiary: '#b60010',
-        'secondary-fixed': '#e5e2e1',
-        'secondary-container': '#e5e2e1',
-        'on-secondary': '#ffffff',
-        'inverse-on-surface': '#f0f1f2',
-        'on-secondary-container': '#656464',
-        'on-surface': '#191c1d',
-        'on-primary-container': '#f8f7ff',
-        'surface-container-lowest': '#ffffff',
-        'on-tertiary-container': '#fff6f4',
-        'inverse-surface': '#2e3132',
-        'primary-fixed': '#dae1ff',
-        'on-primary-fixed-variant': '#003fa4',
-        whatsapp: '#128040', // darkened from brand #25D366 — white-on-green text needs AA contrast (5.0:1 vs 2.0:1)
-        ink: '#111111',
+        'on-tertiary-fixed-variant': '#8E1710',
+
+        error: '#BA1A1A',
+        'on-error': '#FFFFFF',
+        'error-container': '#FFDAD6',
+        'on-error-container': '#93000A',
+
+        whatsapp: '#128040',
       },
+
+      /* Tighter, more architectural than the previous soft radii. */
       borderRadius: {
-        DEFAULT: '0.25rem',
-        lg: '0.5rem',
-        xl: '0.75rem',
-        '2xl': '1rem',
-        '3xl': '1.5rem',
+        DEFAULT: '2px',
+        sm: '4px',
+        lg: '6px',
+        xl: '10px',
+        '2xl': '14px',
+        '3xl': '18px',
+        '4xl': '26px',
         full: '9999px',
       },
+
       spacing: {
-        'margin-mobile': '24px',
-        'margin-desktop': '80px',
+        'margin-mobile': '20px',
+        'margin-desktop': '64px',
         gutter: '32px',
         'section-gap': '160px',
         unit: '8px',
@@ -79,45 +125,68 @@ const config: Config = {
       },
       maxWidth: {
         shell: '1440px',
+        prose: '68ch',
       },
+
       fontFamily: {
         sans: ['var(--font-inter)', 'Inter', 'system-ui', 'sans-serif'],
+        display: ['var(--font-archivo)', 'Archivo', 'var(--font-inter)', 'system-ui', 'sans-serif'],
       },
+
       fontSize: {
-        'display-lg': ['clamp(2.5rem,6vw,4.5rem)', { lineHeight: '1.1', letterSpacing: '-0.04em', fontWeight: '700' }],
-        'headline-xl': ['clamp(2rem,4.2vw,3rem)', { lineHeight: '1.2', letterSpacing: '-0.02em', fontWeight: '700' }],
-        'headline-lg': ['2rem', { lineHeight: '1.3', fontWeight: '600' }],
-        'headline-sm': ['1.5rem', { lineHeight: '1.4', fontWeight: '600' }],
-        'body-lg': ['1.125rem', { lineHeight: '1.6' }],
-        'body-md': ['1rem', { lineHeight: '1.6' }],
-        'label-md': ['0.875rem', { lineHeight: '1.2', letterSpacing: '0.05em', fontWeight: '500' }],
+        /* Display — hero and major statements. Wide, tight, confident. */
+        'display-xl': ['clamp(2.75rem,6vw,5.5rem)', { lineHeight: '0.94', letterSpacing: '-0.035em', fontWeight: '700' }],
+        'display-lg': ['clamp(2.25rem,5.5vw,4.5rem)', { lineHeight: '0.98', letterSpacing: '-0.03em', fontWeight: '700' }],
+        'headline-xl': ['clamp(1.85rem,3.6vw,3rem)', { lineHeight: '1.06', letterSpacing: '-0.025em', fontWeight: '700' }],
+        'headline-lg': ['clamp(1.5rem,2.4vw,2.125rem)', { lineHeight: '1.14', letterSpacing: '-0.02em', fontWeight: '600' }],
+        'headline-sm': ['1.35rem', { lineHeight: '1.28', letterSpacing: '-0.012em', fontWeight: '600' }],
+        'body-lg': ['1.0625rem', { lineHeight: '1.65' }],
+        'body-md': ['0.9688rem', { lineHeight: '1.65' }],
+        'body-sm': ['0.875rem', { lineHeight: '1.6' }],
+        /* Technical label — SERIES / MODEL / CATEGORY / SPEC keys. */
+        'label-md': ['0.75rem', { lineHeight: '1.2', letterSpacing: '0.14em', fontWeight: '600' }],
+        'label-sm': ['0.6875rem', { lineHeight: '1.2', letterSpacing: '0.16em', fontWeight: '600' }],
       },
+
       boxShadow: {
-        card: '0px 4px 12px rgba(0,0,0,0.03), 0px 20px 40px rgba(0,0,0,0.04)',
-        'card-hover': '0px 8px 20px rgba(0,0,0,0.06), 0px 32px 64px rgba(0,0,0,0.08)',
-        glass: '0 2px 10px rgba(0,0,0,0.04)',
+        /* Tight and grounded rather than diffuse SaaS haze. */
+        card: '0 1px 2px rgba(11,14,22,0.04), 0 8px 24px -12px rgba(11,14,22,0.10)',
+        'card-hover': '0 2px 4px rgba(11,14,22,0.05), 0 24px 48px -20px rgba(11,14,22,0.18)',
+        glass: '0 1px 2px rgba(11,14,22,0.05), 0 12px 32px -16px rgba(11,14,22,0.16)',
+        lift: '0 32px 64px -28px rgba(11,14,22,0.32)',
+        inset: 'inset 0 1px 0 rgba(255,255,255,0.06)',
       },
-      backdropBlur: {
-        glass: '20px',
+
+      backdropBlur: { glass: '16px' },
+
+      transitionTimingFunction: {
+        /* The house curve. Everything non-linear uses this unless it springs. */
+        afzox: 'cubic-bezier(0.22, 1, 0.36, 1)',
+        'afzox-in': 'cubic-bezier(0.55, 0, 0.45, 1)',
       },
+      transitionDuration: {
+        micro: '200ms',
+        control: '320ms',
+        section: '560ms',
+        cinematic: '900ms',
+      },
+
       keyframes: {
         marquee: { to: { transform: 'translateX(-50%)' } },
-        ping: {
-          '0%': { transform: 'scale(1)', opacity: '0.7' },
-          '70%,100%': { transform: 'scale(1.35)', opacity: '0' },
+        'sheen-sweep': {
+          '0%': { transform: 'translateX(-120%) skewX(-12deg)' },
+          '100%': { transform: 'translateX(320%) skewX(-12deg)' },
         },
-        float: {
-          '0%,100%': { transform: 'translateY(0)' },
-          '50%': { transform: 'translateY(-12px)' },
+        'scroll-cue': {
+          '0%': { transform: 'translateY(-40%)', opacity: '0' },
+          '40%': { opacity: '1' },
+          '100%': { transform: 'translateY(120%)', opacity: '0' },
         },
       },
       animation: {
-        marquee: 'marquee 32s linear infinite',
-        /* Draws attention briefly when the button first appears, then stops —
-           an infinite pulse on a permanently-visible fixed element costs
-           battery/GPU for no ongoing benefit once the user has seen it. */
-        'ping-slow': 'ping 2.6s cubic-bezier(0,0,0.2,1) 4',
-        float: 'float 6s ease-in-out infinite',
+        marquee: 'marquee 48s linear infinite',
+        'marquee-slow': 'marquee 72s linear infinite',
+        'scroll-cue': 'scroll-cue 2.2s cubic-bezier(0.22,1,0.36,1) infinite',
       },
     },
   },

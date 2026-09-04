@@ -1,0 +1,3182 @@
+{
+ "categories": [
+  {
+   "slug": "afz-functional",
+   "name": "Functional Training",
+   "short": "Small equipment for functional floors",
+   "desc": "Small equipment for functional floors — rollers, bands, sleds, mats, agility and studio kit.",
+   "thumb": "afz-dual-ab-wheel",
+   "image": "/images/products/afzox-series/afz-dual-ab-wheel-01-md.jpg",
+   "imageLg": "/images/products/afzox-series/afz-dual-ab-wheel-01.jpg",
+   "count": 20,
+   "url": "/shop/afz-functional"
+  },
+  {
+   "slug": "afz-selectorized",
+   "name": "Selectorized Strength",
+   "short": "Single-station pin-loaded machines on a shrouded stack, for high-throughput commercial floors.",
+   "desc": "Single-station pin-loaded machines on a shrouded stack, for high-throughput commercial floors.",
+   "thumb": "afz-sel-seated-leg-press",
+   "image": "/images/products/afzox-series/afz-sel-seated-leg-press-01-md.jpg",
+   "imageLg": "/images/products/afzox-series/afz-sel-seated-leg-press-01.jpg",
+   "count": 17,
+   "url": "/shop/afz-selectorized"
+  }
+ ],
+ "products": [
+  {
+   "sku": "AFX-AS-001",
+   "slug": "afz-dual-ab-wheel",
+   "name": "Dual Ab Wheel",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Free Weight",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 59,
+   "added": 2026.9501,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — dual ab wheel for core training on commercial floors.",
+   "description": [
+    "The AFZOX Dual Ab Wheel is part of the Functional Training range, built around loaded trunk flexion through the abdominals. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Free Weight",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-dual-ab-wheel-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-dual-ab-wheel-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-dual-ab-wheel-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-dual-ab-wheel-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars",
+    "afz-balance-pods"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Free Weight",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-002",
+   "slug": "afz-rip-trainer",
+   "name": "Rip Trainer",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Core",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 58,
+   "added": 2026.9502,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — rip trainer for core and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Rip Trainer is part of the Functional Training range, built around rotational resistance through the trunk. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries TRX branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Rotational resistance for core and full body training.",
+   "muscles": {
+    "primary": [
+     "Obliques"
+    ],
+    "secondary": [
+     "Rectus abdominis",
+     "Shoulders"
+    ]
+   },
+   "targets": [
+    "Obliques",
+    "Rectus abdominis",
+    "Shoulders"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Rotational resistance",
+    "Body Area": "Core, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-rip-trainer-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-rip-trainer-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-rip-trainer-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-rip-trainer-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-steel-mace",
+    "afz-parallette-bars",
+    "afz-balance-pods"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Core",
+    "Full Body",
+    "Rotational resistance",
+    "Obliques"
+   ]
+  },
+  {
+   "sku": "AFX-AS-003",
+   "slug": "afz-steel-mace",
+   "name": "Steel Mace",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Free Weight",
+   "bodyAreas": [
+    "Shoulders",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 57,
+   "added": 2026.9503,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — steel mace for shoulders and core training on commercial floors.",
+   "description": [
+    "The AFZOX Steel Mace is part of the Functional Training range, built around an offset-mass swing that loads the shoulders and grip. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Rotational swing for shoulders and core training.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Obliques",
+     "Forearms"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Obliques",
+    "Forearms"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Free Weight",
+    "Primary Movement": "Rotational swing",
+    "Body Area": "Shoulders, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-steel-mace-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-steel-mace-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-steel-mace-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-steel-mace-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-parallette-bars",
+    "afz-balance-pods"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Free Weight",
+    "Shoulders",
+    "Core",
+    "Rotational swing",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-004",
+   "slug": "afz-parallette-bars",
+   "name": "Parallette Bars",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Arms",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 56,
+   "added": 2026.9504,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — parallette bars for arms and core training on commercial floors.",
+   "description": [
+    "The AFZOX Parallette Bars is part of the Functional Training range, built around bodyweight pushing at a raised hand position. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Bodyweight push for arms and core training.",
+   "muscles": {
+    "primary": [
+     "Triceps brachii",
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Rectus abdominis"
+    ]
+   },
+   "targets": [
+    "Triceps brachii",
+    "Pectoralis major",
+    "Rectus abdominis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Bodyweight push",
+    "Body Area": "Arms, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-parallette-bars-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-parallette-bars-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-parallette-bars-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-parallette-bars-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-balance-pods"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Arms",
+    "Core",
+    "Bodyweight push",
+    "Triceps brachii",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-AS-005",
+   "slug": "afz-balance-pods",
+   "name": "Balance Pods",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 55,
+   "added": 2026.9505,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — balance pods for legs and core training on commercial floors.",
+   "description": [
+    "The AFZOX Balance Pods is part of the Functional Training range, built around unstable-surface balance work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Balance for legs and core training.",
+   "muscles": {
+    "primary": [
+     "Stabilisers"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Stabilisers"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Balance",
+    "Body Area": "Legs, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-balance-pods-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-balance-pods-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-balance-pods-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-balance-pods-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Core",
+    "Balance",
+    "Stabilisers"
+   ]
+  },
+  {
+   "sku": "AFX-AS-006",
+   "slug": "afz-pilates-ring",
+   "name": "Pilates Ring",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 54,
+   "added": 2026.9506,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — pilates ring for legs and core training on commercial floors.",
+   "description": [
+    "The AFZOX Pilates Ring is part of the Functional Training range, built around isometric adduction against a sprung ring. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Isometric squeeze for legs and core training.",
+   "muscles": {
+    "primary": [
+     "Adductors"
+    ],
+    "secondary": [
+     "Pectoralis major"
+    ]
+   },
+   "targets": [
+    "Adductors",
+    "Pectoralis major"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Isometric squeeze",
+    "Body Area": "Legs, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-pilates-ring-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-pilates-ring-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-pilates-ring-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-pilates-ring-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Core",
+    "Isometric squeeze",
+    "Adductors"
+   ]
+  },
+  {
+   "sku": "AFX-AS-007",
+   "slug": "afz-ab-roller-wheel",
+   "name": "Ab Roller Wheel",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Free Weight",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 53,
+   "added": 2026.9507,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — ab roller wheel for core training on commercial floors.",
+   "description": [
+    "The AFZOX Ab Roller Wheel is part of the Functional Training range, built around loaded trunk flexion through the abdominals. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Free Weight",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-ab-roller-wheel-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-ab-roller-wheel-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-ab-roller-wheel-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-ab-roller-wheel-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Free Weight",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-008",
+   "slug": "afz-drag-sled",
+   "name": "Drag Sled with Handle",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 52,
+   "added": 2026.9508,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — drag sled with handle for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Drag Sled with Handle is part of the Functional Training range, built around a loaded horizontal drag. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal drag for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Horizontal drag",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-drag-sled-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-drag-sled-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-drag-sled-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-drag-sled-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Horizontal drag",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-009",
+   "slug": "afz-prowler-sled",
+   "name": "Prowler Push Sled",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 51,
+   "added": 2026.9509,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — prowler push sled for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Prowler Push Sled is part of the Functional Training range, built around a loaded horizontal push. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries Rogue branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal push for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Horizontal push",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-prowler-sled-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-prowler-sled-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-prowler-sled-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-prowler-sled-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Horizontal push",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-010",
+   "slug": "afz-yoga-blocks",
+   "name": "Yoga Blocks",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 50,
+   "added": 2026.951,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — yoga blocks for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Yoga Blocks is part of the Functional Training range, built around support and height for mobility and floor work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Mobility support for full body training.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Mobility support",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-yoga-blocks-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-yoga-blocks-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-yoga-blocks-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-yoga-blocks-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Mobility support"
+   ]
+  },
+  {
+   "sku": "AFX-AS-011",
+   "slug": "afz-agility-ladder",
+   "name": "Agility Ladder",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 49,
+   "added": 2026.9511,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — agility ladder for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Agility Ladder is part of the Functional Training range, built around repeatable footwork patterns. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Footwork for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Calves"
+    ],
+    "secondary": [
+     "Quadriceps"
+    ]
+   },
+   "targets": [
+    "Calves",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Footwork",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-agility-ladder-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-agility-ladder-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-agility-ladder-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-agility-ladder-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Footwork",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-012",
+   "slug": "afz-battle-rope",
+   "name": "Battle Rope",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Arms",
+    "Core",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 48,
+   "added": 2026.9512,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — battle rope for arms and core and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Battle Rope is part of the Functional Training range, built around continuous wave conditioning. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Conditioning waves for arms and core and full body training.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Rectus abdominis",
+     "Forearms"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Rectus abdominis",
+    "Forearms"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Conditioning waves",
+    "Body Area": "Arms, Core, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-battle-rope-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-battle-rope-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-battle-rope-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-battle-rope-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Arms",
+    "Core",
+    "Full Body",
+    "Conditioning waves",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-013",
+   "slug": "afz-hex-agility-rings",
+   "name": "Hex Agility Rings",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 47,
+   "added": 2026.9513,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — hex agility rings for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Hex Agility Rings is part of the Functional Training range, built around repeatable footwork patterns. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Footwork for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Calves"
+    ],
+    "secondary": [
+     "Quadriceps"
+    ]
+   },
+   "targets": [
+    "Calves",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Footwork",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-hex-agility-rings-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-hex-agility-rings-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-hex-agility-rings-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-hex-agility-rings-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Footwork",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-014",
+   "slug": "afz-folding-exercise-mat",
+   "name": "Folding Exercise Mat",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 46,
+   "added": 2026.9514,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — folding exercise mat for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Folding Exercise Mat is part of the Functional Training range, built around a cushioned floor surface for mat work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Floor support for full body training.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Floor support",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-folding-exercise-mat-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-folding-exercise-mat-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-folding-exercise-mat-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-folding-exercise-mat-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Floor support"
+   ]
+  },
+  {
+   "sku": "AFX-AS-015",
+   "slug": "afz-push-sled-cart",
+   "name": "Push Sled Cart",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 45,
+   "added": 2026.9515,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — push sled cart for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Push Sled Cart is part of the Functional Training range, built around a loaded horizontal push. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal push for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Horizontal push",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-push-sled-cart-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-push-sled-cart-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-push-sled-cart-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-push-sled-cart-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Horizontal push",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-016",
+   "slug": "afz-resistance-tube-set",
+   "name": "Resistance Tube Set",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Arms",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 44,
+   "added": 2026.9516,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — resistance tube set for arms and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Resistance Tube Set is part of the Functional Training range, built around variable elastic resistance. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elastic resistance for arms and full body training.",
+   "muscles": {
+    "primary": [
+     "Biceps brachii"
+    ],
+    "secondary": [
+     "Deltoids",
+     "Pectoralis major"
+    ]
+   },
+   "targets": [
+    "Biceps brachii",
+    "Deltoids",
+    "Pectoralis major"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Elastic resistance",
+    "Body Area": "Arms, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-resistance-tube-set-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-resistance-tube-set-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-resistance-tube-set-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-resistance-tube-set-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Arms",
+    "Full Body",
+    "Elastic resistance",
+    "Biceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-AS-017",
+   "slug": "afz-loop-resistance-bands",
+   "name": "Loop Resistance Bands",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 43,
+   "added": 2026.9517,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — loop resistance bands for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Loop Resistance Bands is part of the Functional Training range, built around variable elastic resistance. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elastic resistance for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Gluteus medius"
+    ],
+    "secondary": [
+     "Quadriceps"
+    ]
+   },
+   "targets": [
+    "Gluteus medius",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Elastic resistance",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-loop-resistance-bands-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-loop-resistance-bands-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-loop-resistance-bands-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-loop-resistance-bands-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Glutes",
+    "Elastic resistance",
+    "Gluteus medius"
+   ]
+  },
+  {
+   "sku": "AFX-AS-018",
+   "slug": "afz-aerobic-pump-set",
+   "name": "Aerobic Pump Set",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Free Weight",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 42,
+   "added": 2026.9518,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — aerobic pump set for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Aerobic Pump Set is part of the Functional Training range, built around light-load barbell work at studio tempo. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio barbell work for full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Deltoids"
+    ],
+    "secondary": [
+     "Pectoralis major"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Deltoids",
+    "Pectoralis major"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Free Weight",
+    "Primary Movement": "Studio barbell work",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-aerobic-pump-set-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-aerobic-pump-set-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-aerobic-pump-set-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-aerobic-pump-set-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Free Weight",
+    "Full Body",
+    "Studio barbell work",
+    "Quadriceps",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-019",
+   "slug": "afz-studio-barbell-set",
+   "name": "Studio Barbell Set",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Free Weight",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 41,
+   "added": 2026.9519,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — studio barbell set for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Studio Barbell Set is part of the Functional Training range, built around light-load barbell work at studio tempo. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio barbell work for full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Deltoids"
+    ],
+    "secondary": [
+     "Pectoralis major"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Deltoids",
+    "Pectoralis major"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Free Weight",
+    "Primary Movement": "Studio barbell work",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-studio-barbell-set-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-studio-barbell-set-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-studio-barbell-set-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-studio-barbell-set-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Free Weight",
+    "Full Body",
+    "Studio barbell work",
+    "Quadriceps",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-020",
+   "slug": "afz-folding-mat-set",
+   "name": "Folding Mat Set",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 40,
+   "added": 2026.952,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — folding mat set for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Folding Mat Set is part of the Functional Training range, built around a cushioned floor surface for mat work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Floor support for full body training.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Floor support",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-folding-mat-set-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-folding-mat-set-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-folding-mat-set-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-folding-mat-set-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Floor support"
+   ]
+  },
+  {
+   "sku": "AFX-AS-021",
+   "slug": "afz-sel-seated-leg-press",
+   "name": "Seated Leg Press",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 39,
+   "added": 2026.9521,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — seated leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Seated Leg Press is part of the Selectorized Strength range, built around a seated pressing path loaded through the legs. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-seated-leg-press-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-seated-leg-press-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-seated-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-seated-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl",
+    "afz-sel-hip-abductor-adductor"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-AS-022",
+   "slug": "afz-sel-pectoral-fly",
+   "name": "Pectoral Fly",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 38,
+   "added": 2026.9522,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — pectoral fly for chest training on commercial floors.",
+   "description": [
+    "The AFZOX Pectoral Fly is part of the Selectorized Strength range, built around a horizontal fly arc across the chest. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal adduction for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal adduction",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-pectoral-fly-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-pectoral-fly-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-pectoral-fly-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-pectoral-fly-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl",
+    "afz-sel-hip-abductor-adductor"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Horizontal adduction",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-AS-023",
+   "slug": "afz-sel-abdominal-crunch",
+   "name": "Abdominal Crunch",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 37,
+   "added": 2026.9523,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — abdominal crunch for core training on commercial floors.",
+   "description": [
+    "The AFZOX Abdominal Crunch is part of the Selectorized Strength range, built around loaded trunk flexion through the abdominals. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-abdominal-crunch-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-abdominal-crunch-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-abdominal-crunch-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-abdominal-crunch-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-seated-leg-curl",
+    "afz-sel-hip-abductor-adductor"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-024",
+   "slug": "afz-sel-seated-leg-curl",
+   "name": "Seated Leg Curl",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 36,
+   "added": 2026.9524,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — seated leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX Seated Leg Curl is part of the Selectorized Strength range, built around a knee flexion path that isolates the hamstrings. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-seated-leg-curl-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-seated-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-seated-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-seated-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-hip-abductor-adductor"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-AS-025",
+   "slug": "afz-sel-hip-abductor-adductor",
+   "name": "Hip Abductor / Adductor",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 35,
+   "added": 2026.9525,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — hip abductor / adductor for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Hip Abductor / Adductor is part of the Selectorized Strength range, built around opposing hip abduction and adduction from one seat. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip abduction and adduction for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Gluteus medius",
+     "Adductors"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Gluteus medius",
+    "Adductors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Hip abduction and adduction",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-hip-abductor-adductor-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-hip-abductor-adductor-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-hip-abductor-adductor-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-hip-abductor-adductor-01.jpg",
+    "/images/products/afzox-series/afz-sel-hip-abductor-adductor-02.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Glutes",
+    "Hip abduction and adduction",
+    "Gluteus medius",
+    "Adductors"
+   ]
+  },
+  {
+   "sku": "AFX-AS-026",
+   "slug": "afz-sel-leg-extension",
+   "name": "Leg Extension",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 34,
+   "added": 2026.9526,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — leg extension for legs training on commercial floors.",
+   "description": [
+    "The AFZOX Leg Extension is part of the Selectorized Strength range, built around a knee extension path that isolates the quadriceps. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee extension for legs training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Knee extension",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-leg-extension-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-leg-extension-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-leg-extension-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-leg-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Knee extension",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-AS-027",
+   "slug": "afz-sel-arm-curl",
+   "name": "Arm Curl",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 33,
+   "added": 2026.9527,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — arm curl for arms training on commercial floors.",
+   "description": [
+    "The AFZOX Arm Curl is part of the Selectorized Strength range, built around an elbow flexion path that isolates the biceps. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow flexion for arms training.",
+   "muscles": {
+    "primary": [
+     "Biceps brachii"
+    ],
+    "secondary": [
+     "Brachialis"
+    ]
+   },
+   "targets": [
+    "Biceps brachii",
+    "Brachialis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Elbow flexion",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-arm-curl-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-arm-curl-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-arm-curl-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-arm-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Arms",
+    "Elbow flexion",
+    "Biceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-AS-028",
+   "slug": "afz-sel-seated-row",
+   "name": "Seated Row",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 32,
+   "added": 2026.9528,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — seated row for back training on commercial floors.",
+   "description": [
+    "The AFZOX Seated Row is part of the Selectorized Strength range, built around a horizontal pulling path driven by the back. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Biceps brachii"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Biceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-seated-row-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-seated-row-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-seated-row-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-seated-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-029",
+   "slug": "afz-sel-pec-deck-rear-delt",
+   "name": "Pec Deck / Rear Deltoid",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 31,
+   "added": 2026.9529,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — pec deck / rear deltoid for chest and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX Pec Deck / Rear Deltoid is part of the Selectorized Strength range, built around opposing horizontal arcs for the chest and rear deltoid. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal abduction and adduction for chest and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major",
+     "Rear deltoids"
+    ],
+    "secondary": [
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Rear deltoids",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal abduction and adduction",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-pec-deck-rear-delt-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-pec-deck-rear-delt-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-pec-deck-rear-delt-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-pec-deck-rear-delt-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Shoulders",
+    "Horizontal abduction and adduction",
+    "Pectoralis major",
+    "Rear deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-030",
+   "slug": "afz-sel-incline-chest-press",
+   "name": "Incline Chest Press",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 30,
+   "added": 2026.953,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — incline chest press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX Incline Chest Press is part of the Selectorized Strength range, built around an inclined pressing path favouring the upper chest. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major (clavicular head)"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major (clavicular head)",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-incline-chest-press-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-incline-chest-press-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-incline-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-incline-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Incline press",
+    "Pectoralis major (clavicular head)"
+   ]
+  },
+  {
+   "sku": "AFX-AS-031",
+   "slug": "afz-sel-lat-pulldown",
+   "name": "Lat Pulldown",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 29,
+   "added": 2026.9531,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — lat pulldown for back training on commercial floors.",
+   "description": [
+    "The AFZOX Lat Pulldown is part of the Selectorized Strength range, built around a vertical pulling path that loads the lats. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries Third-party shroud branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-AS-032",
+   "slug": "afz-sel-rotary-torso",
+   "name": "Rotary Torso",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 28,
+   "added": 2026.9532,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — rotary torso for core training on commercial floors.",
+   "description": [
+    "The AFZOX Rotary Torso is part of the Selectorized Strength range, built around controlled rotation loaded through the obliques. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk rotation for core training.",
+   "muscles": {
+    "primary": [
+     "Obliques"
+    ],
+    "secondary": [
+     "Rectus abdominis"
+    ]
+   },
+   "targets": [
+    "Obliques",
+    "Rectus abdominis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Trunk rotation",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-rotary-torso-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-rotary-torso-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-rotary-torso-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-rotary-torso-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Core",
+    "Trunk rotation",
+    "Obliques"
+   ]
+  },
+  {
+   "sku": "AFX-AS-033",
+   "slug": "afz-sel-triceps-extension",
+   "name": "Triceps Extension",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 27,
+   "added": 2026.9533,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — triceps extension for arms training on commercial floors.",
+   "description": [
+    "The AFZOX Triceps Extension is part of the Selectorized Strength range, built around an elbow extension path that isolates the triceps. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow extension for arms training.",
+   "muscles": {
+    "primary": [
+     "Triceps brachii"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Elbow extension",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-triceps-extension-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-triceps-extension-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-triceps-extension-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-triceps-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Arms",
+    "Elbow extension",
+    "Triceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-AS-034",
+   "slug": "afz-sel-seated-chest-press",
+   "name": "Seated Chest Press",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 26,
+   "added": 2026.9534,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — seated chest press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX Seated Chest Press is part of the Selectorized Strength range, built around a horizontal pressing path through the chest. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-seated-chest-press-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-seated-chest-press-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-seated-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-seated-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-AS-035",
+   "slug": "afz-sel-shoulder-press",
+   "name": "Shoulder Press",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 25,
+   "added": 2026.9535,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — shoulder press for shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX Shoulder Press is part of the Selectorized Strength range, built around an overhead pressing path through the deltoids. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Overhead press for shoulders training.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Overhead press",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-shoulder-press-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Shoulders",
+    "Overhead press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-AS-036",
+   "slug": "afz-sel-leg-press",
+   "name": "Leg Press",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 24,
+   "added": 2026.9536,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Leg Press is part of the Selectorized Strength range, built around a seated pressing path loaded through the legs. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-leg-press-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-leg-press-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-AS-037",
+   "slug": "afz-sel-glute-machine",
+   "name": "Glute Machine",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 23,
+   "added": 2026.9537,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Selectorized Strength — glute machine for glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Glute Machine is part of the Selectorized Strength range, built around a hip extension path loaded across the hips. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries Third-party shroud branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Heavy-gauge commercial steel frame",
+    "Ergonomic high-density upholstery",
+    "Adjustable seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes training.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/afzox-series/afz-sel-glute-machine-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-sel-glute-machine-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-sel-glute-machine-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-sel-glute-machine-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-sel-seated-leg-press",
+    "afz-sel-pectoral-fly",
+    "afz-sel-abdominal-crunch",
+    "afz-sel-seated-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  }
+ ]
+}

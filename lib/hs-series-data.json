@@ -1,0 +1,4319 @@
+{
+  "collection": {
+    "slug": "hs-series",
+    "name": "HS Series",
+    "displayName": "HS SERIES",
+    "short": "Commercial strength, cable and free-weight equipment",
+    "desc": "The AFZOX HS Series is a complete commercial strength range — selectorized stations, iso-lateral plate-loaded machines, cable and multi-station systems, Olympic benches and racks, and the storage that keeps a floor working. Specified, delivered and installed across India.",
+    "url": "/shop/hs-series",
+    "count": 47
+  },
+  "categories": [
+    {
+      "slug": "hs-selectorized",
+      "name": "Selectorized Strength",
+      "short": "Single-pin stack machines for high-traffic floors",
+      "desc": "Shrouded weight stacks, guided movement paths and pop-pin adjustment. The stations that keep a circuit moving — a member changes resistance in two seconds and the next one is already sitting down.",
+      "thumb": "hs-lat-pulldown-seated-row",
+      "image": "/images/products/hs-series/hs-lat-pulldown-seated-row-01-md.jpg",
+      "imageLg": "/images/products/hs-series/hs-lat-pulldown-seated-row-01.jpg",
+      "count": 10,
+      "url": "/shop/hs-selectorized"
+    },
+    {
+      "slug": "hs-plate-loaded",
+      "name": "Plate Loaded",
+      "short": "Iso-lateral strength built around free-weight feel",
+      "desc": "Olympic plate-loaded stations with independent movement arms, foot-lever start assists and on-frame plate storage. The backbone of a serious free-weight floor.",
+      "thumb": "hs-plate-loaded-chest-press",
+      "image": "/images/products/hs-series/hs-plate-loaded-chest-press-01-md.jpg",
+      "imageLg": "/images/products/hs-series/hs-plate-loaded-chest-press-01.jpg",
+      "count": 13,
+      "url": "/shop/hs-plate-loaded"
+    },
+    {
+      "slug": "hs-cable",
+      "name": "Cable & Functional",
+      "short": "Crossovers, dual pulleys and multi-stations",
+      "desc": "Cable-driven training with unrestricted movement planes, plus multi-stack jungle gyms that put four, five or eight training positions on a single bolt-down base.",
+      "thumb": "hs-dual-adjustable-pulley",
+      "image": "/images/products/hs-series/hs-dual-adjustable-pulley-01-md.jpg",
+      "imageLg": "/images/products/hs-series/hs-dual-adjustable-pulley-01.jpg",
+      "count": 5,
+      "url": "/shop/hs-cable"
+    },
+    {
+      "slug": "hs-benches-racks",
+      "name": "Benches & Racks",
+      "short": "Olympic benches, Smith, bodyweight stations and utility",
+      "desc": "Ladder-lock adjustment, integrated plate storage and structural steel built to stay square. Every angle a free-weight zone needs, in one visual family.",
+      "thumb": "hs-smith-machine",
+      "image": "/images/products/hs-series/hs-smith-machine-01-md.jpg",
+      "imageLg": "/images/products/hs-series/hs-smith-machine-01.jpg",
+      "count": 15,
+      "url": "/shop/hs-benches-racks"
+    },
+    {
+      "slug": "hs-storage",
+      "name": "Storage & Racking",
+      "short": "Dumbbell, barbell and plate storage",
+      "desc": "The difference between a gym and a warehouse. Saddle-cradle dumbbell racking, vertical barbell storage and plate trees that keep the floor clear and audit-ready.",
+      "thumb": "hs-three-tier-dumbbell-rack",
+      "image": "/images/products/hs-series/hs-three-tier-dumbbell-rack-01-md.jpg",
+      "imageLg": "/images/products/hs-series/hs-three-tier-dumbbell-rack-01.jpg",
+      "count": 4,
+      "url": "/shop/hs-storage"
+    }
+  ],
+  "products": [
+    {
+      "sku": "AFX-HS-001",
+      "slug": "hs-seated-chest-press",
+      "name": "Seated Chest Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Chest"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 90,
+      "added": 2026.8047,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Selectorized chest press with converging arms, dual grip positions and a head-supported seat.",
+      "description": [
+        "The AFZOX HS Series Seated Chest Press is a single-station selectorized machine built for controlled horizontal pressing. Converging movement arms travel on a guided path, so the chest does the work without the stabilising demand of a free-weight press — which makes it a dependable first pressing station for new members and a high-throughput option during peak hours.",
+        "The seat carries a full backrest and head pad, and two grip positions on each arm let the lifter choose a wider or narrower press. Resistance is set on a single-pin weight stack, so changeovers between users take seconds."
+      ],
+      "features": [
+        "Converging movement arms on a guided pressing path",
+        "Two grip positions per arm for wide or narrow pressing",
+        "Full-length backrest with head pad",
+        "Pop-pin seat height adjustment",
+        "Single-pin selectorized weight stack",
+        "Shrouded stack with a printed instruction placard",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Controlled horizontal pressing for upper-body strength development.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Triceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Anterior deltoids",
+        "Triceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Horizontal press",
+        "Body Area": "Chest",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-seated-chest-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-seated-chest-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-seated-chest-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-seated-chest-press-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-pectoral-fly-rear-deltoid",
+        "hs-lat-pulldown-seated-row",
+        "hs-assisted-chin-dip",
+        "hs-biceps-curl"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Chest",
+        "Horizontal press",
+        "Pectoralis major"
+      ]
+    },
+    {
+      "sku": "AFX-HS-002",
+      "slug": "hs-pectoral-fly-rear-deltoid",
+      "name": "Pectoral Fly / Rear Deltoid",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Chest",
+        "Shoulders"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 89,
+      "added": 2026.8046,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Dual-function pec deck — chest fly one way, rear deltoid the other, from a single seat.",
+      "description": [
+        "The AFZOX HS Series Pectoral Fly / Rear Deltoid covers two opposing movements on one footprint. Facing the machine, the lifter works a chest fly through horizontal adduction; turning to face out converts the same arms into a rear deltoid station.",
+        "The movement arms pivot from an overhead cross-member and carry adjustable start positions, so the range of motion can be set to the user rather than the other way round. It is a space-efficient way to cover both the front and the rear of the shoulder girdle in a circuit."
+      ],
+      "features": [
+        "Dual function — pectoral fly and rear deltoid on one frame",
+        "Overhead-pivot movement arms",
+        "Adjustable start position on each arm",
+        "Padded back support",
+        "Pop-pin seat height adjustment",
+        "Single-pin selectorized weight stack",
+        "Shrouded stack with a printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Chest fly and rear-deltoid training from a single station.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major",
+          "Posterior deltoids"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Rhomboids"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Posterior deltoids",
+        "Anterior deltoids",
+        "Rhomboids"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Horizontal adduction / abduction",
+        "Body Area": "Chest, Shoulders",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-pectoral-fly-rear-deltoid-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-pectoral-fly-rear-deltoid-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-pectoral-fly-rear-deltoid-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-pectoral-fly-rear-deltoid-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-seated-chest-press",
+        "hs-lat-pulldown-seated-row",
+        "hs-assisted-chin-dip",
+        "hs-biceps-curl"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Chest",
+        "Shoulders",
+        "Horizontal adduction / abduction",
+        "Pectoralis major",
+        "Posterior deltoids"
+      ]
+    },
+    {
+      "sku": "AFX-HS-003",
+      "slug": "hs-lat-pulldown-seated-row",
+      "name": "Lat Pulldown / Seated Row",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Back"
+      ],
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 88,
+      "added": 2026.8045,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Two-in-one back station — overhead pulldown above, chest-supported row below.",
+      "description": [
+        "The AFZOX HS Series Lat Pulldown / Seated Row combines the two staple back movements into one dual-station frame. The upper station runs a wide angled bar for vertical pulling; the lower station pairs a chest pad and seat for horizontal rowing.",
+        "Thigh rollers hold the lifter down through the pulldown, and the chest pad on the row side takes the lower back out of the movement so the pull comes from the lats and mid-back. Both stations draw from the same shrouded weight stack."
+      ],
+      "features": [
+        "Dual station — lat pulldown and seated row on one frame",
+        "Wide angled pulldown bar with rubber end grips",
+        "Adjustable thigh restraint rollers",
+        "Chest pad and adjustable seat on the row station",
+        "Non-slip foot platforms",
+        "Single-pin selectorized weight stack"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Vertical and horizontal back pulling from one dual station.",
+      "muscles": {
+        "primary": [
+          "Latissimus dorsi"
+        ],
+        "secondary": [
+          "Rhomboids",
+          "Mid & lower trapezius",
+          "Biceps brachii",
+          "Posterior deltoids"
+        ]
+      },
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Mid & lower trapezius",
+        "Biceps brachii",
+        "Posterior deltoids"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Vertical and horizontal pulling",
+        "Body Area": "Back",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-lat-pulldown-seated-row-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-lat-pulldown-seated-row-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-lat-pulldown-seated-row-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-lat-pulldown-seated-row-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-assisted-chin-dip",
+        "hs-seated-chest-press",
+        "hs-pectoral-fly-rear-deltoid",
+        "hs-biceps-curl"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Back",
+        "Vertical and horizontal pulling",
+        "Latissimus dorsi"
+      ]
+    },
+    {
+      "sku": "AFX-HS-004",
+      "slug": "hs-assisted-chin-dip",
+      "name": "Assisted Chin / Dip",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Back",
+        "Arms"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 87,
+      "added": 2026.8044,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Counterweighted chin and dip station that scales bodyweight work to any starting strength.",
+      "description": [
+        "The AFZOX HS Series Assisted Chin / Dip uses a counterweighted knee platform to offset a share of the lifter’s bodyweight, bringing pull-ups and dips within reach of members who cannot yet perform them unassisted — and letting stronger members run higher-rep sets.",
+        "Angled chin grips and parallel dip handles are both fixed to the same frame, with step platforms either side for mounting. Selecting more weight on the stack means more assistance, so progression is simply a matter of pinning less."
+      ],
+      "features": [
+        "Counterweighted knee platform — more weight means more assistance",
+        "Angled multi-position chin grips",
+        "Parallel dip handles",
+        "Step-up platforms on both sides for safe mounting",
+        "Single-pin selectorized weight stack",
+        "Shrouded stack with a printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Scaled bodyweight pulling and pressing for mixed-ability floors.",
+      "muscles": {
+        "primary": [
+          "Latissimus dorsi",
+          "Pectoralis major"
+        ],
+        "secondary": [
+          "Biceps brachii",
+          "Triceps brachii",
+          "Posterior deltoids"
+        ]
+      },
+      "targets": [
+        "Latissimus dorsi",
+        "Pectoralis major",
+        "Biceps brachii",
+        "Triceps brachii",
+        "Posterior deltoids"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Assisted vertical pulling and pressing",
+        "Body Area": "Back, Arms",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-assisted-chin-dip-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-assisted-chin-dip-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-assisted-chin-dip-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-assisted-chin-dip-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-lat-pulldown-seated-row",
+        "hs-biceps-curl",
+        "hs-seated-chest-press",
+        "hs-pectoral-fly-rear-deltoid"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Back",
+        "Arms",
+        "Assisted vertical pulling and pressing",
+        "Latissimus dorsi",
+        "Pectoralis major"
+      ]
+    },
+    {
+      "sku": "AFX-HS-005",
+      "slug": "hs-biceps-curl",
+      "name": "Biceps Curl",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Arms"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 86,
+      "added": 2026.8043,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Preacher-style selectorized curl with a fixed arm pad that removes body english.",
+      "description": [
+        "The AFZOX HS Series Biceps Curl seats the lifter behind a wide angled preacher pad so the upper arms stay fixed through the curl. With the torso locked out of the movement, load goes to the elbow flexors instead of the lower back.",
+        "The seat adjusts on a pop-pin so the pad meets the arm at the right height for different users, and resistance changes on a single-pin stack."
+      ],
+      "features": [
+        "Wide angled preacher pad supporting both upper arms",
+        "Rotating handle grips",
+        "Pop-pin seat height adjustment",
+        "Back support pad",
+        "Single-pin selectorized weight stack",
+        "Shrouded stack with a printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Isolated elbow flexion with the torso fully supported.",
+      "muscles": {
+        "primary": [
+          "Biceps brachii"
+        ],
+        "secondary": [
+          "Brachialis",
+          "Brachioradialis"
+        ]
+      },
+      "targets": [
+        "Biceps brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Elbow flexion",
+        "Body Area": "Arms",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-biceps-curl-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-biceps-curl-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-biceps-curl-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-biceps-curl-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-assisted-chin-dip",
+        "hs-seated-chest-press",
+        "hs-pectoral-fly-rear-deltoid",
+        "hs-lat-pulldown-seated-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Arms",
+        "Elbow flexion",
+        "Biceps brachii"
+      ]
+    },
+    {
+      "sku": "AFX-HS-006",
+      "slug": "hs-abdominal-crunch-back-extension",
+      "name": "Abdominal Crunch / Back Extension",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Core"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 85,
+      "added": 2026.8042,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Dual-function trunk station — weighted crunch one way, back extension the other.",
+      "description": [
+        "The AFZOX HS Series Abdominal Crunch / Back Extension trains both sides of the trunk from one seat. Facing in, the lifter drives a padded torso roller forward for a resisted crunch; turning around puts the same roller behind the back for a resisted extension.",
+        "A height-adjustable seat, side grip handles and a wide foot platform keep the lifter positioned through both directions, and the movement runs off a single shrouded stack."
+      ],
+      "features": [
+        "Dual function — resisted trunk flexion and extension",
+        "Large padded torso roller",
+        "Lumbar support pad",
+        "Side grip handles",
+        "Pop-pin seat height adjustment",
+        "Wide non-slip foot platform",
+        "Single-pin selectorized weight stack"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Resisted trunk flexion and extension from a single seat.",
+      "muscles": {
+        "primary": [
+          "Rectus abdominis",
+          "Erector spinae"
+        ],
+        "secondary": [
+          "Obliques"
+        ]
+      },
+      "targets": [
+        "Rectus abdominis",
+        "Erector spinae",
+        "Obliques"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Trunk flexion and extension",
+        "Body Area": "Core",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-abdominal-crunch-back-extension-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-abdominal-crunch-back-extension-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-abdominal-crunch-back-extension-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-abdominal-crunch-back-extension-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-seated-chest-press",
+        "hs-pectoral-fly-rear-deltoid",
+        "hs-lat-pulldown-seated-row",
+        "hs-assisted-chin-dip"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Core",
+        "Trunk flexion and extension",
+        "Rectus abdominis",
+        "Erector spinae"
+      ]
+    },
+    {
+      "sku": "AFX-HS-007",
+      "slug": "hs-seated-leg-curl",
+      "name": "Seated Leg Curl",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Legs"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 84,
+      "added": 2026.8041,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Seated hamstring curl with a locking thigh pad and an adjustable ankle roller.",
+      "description": [
+        "The AFZOX HS Series Seated Leg Curl trains knee flexion from a seated position, with a padded thigh restraint that locks the femur down so the hamstrings work against the ankle roller rather than lifting the whole leg.",
+        "The ankle roller position and the backrest both adjust, letting the machine fit a wide range of leg lengths. Sitting upright is easier to set up and supervise than a prone curl, which is why it earns its place on busy floors."
+      ],
+      "features": [
+        "Locking padded thigh restraint",
+        "Adjustable ankle roller position",
+        "Adjustable backrest depth",
+        "Contoured seat with side handles",
+        "Single-pin selectorized weight stack",
+        "Shrouded stack with a printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Seated knee flexion for posterior-chain balance.",
+      "muscles": {
+        "primary": [
+          "Hamstrings"
+        ],
+        "secondary": [
+          "Gastrocnemius"
+        ]
+      },
+      "targets": [
+        "Hamstrings",
+        "Gastrocnemius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Knee flexion",
+        "Body Area": "Legs",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-seated-leg-curl-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-seated-leg-curl-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-seated-leg-curl-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-seated-leg-curl-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-hip-abductor-adductor",
+        "hs-seated-leg-press",
+        "hs-horizontal-leg-press",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Legs",
+        "Knee flexion",
+        "Hamstrings"
+      ]
+    },
+    {
+      "sku": "AFX-HS-008",
+      "slug": "hs-hip-abductor-adductor",
+      "name": "Hip Abductor / Adductor",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Legs",
+        "Glutes"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 83,
+      "added": 2026.804,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Dual-function inner and outer thigh machine with a repositionable pad set.",
+      "description": [
+        "The AFZOX HS Series Hip Abductor / Adductor covers both sides of the hip from one seat. With the pads set outside the knees the lifter drives out against them for abduction; repositioning the pads inside the knees converts the same machine to adduction.",
+        "A reclined backrest and a wide seat keep the pelvis stable, and the whole movement runs from a single shrouded stack with a pop-pin selector."
+      ],
+      "features": [
+        "Dual function — hip abduction and adduction",
+        "Repositionable knee pads for both movements",
+        "Reclined backrest with a wide seat",
+        "Foot rests either side of the pad carriage",
+        "Frame-mounted assist handle",
+        "Single-pin selectorized weight stack"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Inner and outer thigh training for hip stability and balance.",
+      "muscles": {
+        "primary": [
+          "Gluteus medius",
+          "Hip adductors"
+        ],
+        "secondary": [
+          "Gluteus maximus",
+          "Tensor fasciae latae"
+        ]
+      },
+      "targets": [
+        "Gluteus medius",
+        "Hip adductors",
+        "Gluteus maximus",
+        "Tensor fasciae latae"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Hip abduction and adduction",
+        "Body Area": "Legs, Glutes",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-hip-abductor-adductor-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-hip-abductor-adductor-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-hip-abductor-adductor-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-hip-abductor-adductor-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-seated-leg-press",
+        "hs-horizontal-leg-press",
+        "hs-seated-leg-curl",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Legs",
+        "Glutes",
+        "Hip abduction and adduction",
+        "Gluteus medius",
+        "Hip adductors"
+      ]
+    },
+    {
+      "sku": "AFX-HS-009",
+      "slug": "hs-seated-leg-press",
+      "name": "Seated Leg Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Legs",
+        "Glutes"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 82,
+      "added": 2026.8039,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Selectorized horizontal leg press with independent foot plates and a supported seat.",
+      "description": [
+        "The AFZOX HS Series Seated Leg Press runs a horizontal pressing path from a fully supported seat, which keeps spinal loading low compared with a squat or an angled sled. Two independent foot plates let each leg travel on its own line.",
+        "Resistance changes on a single-pin stack rather than by loading plates, so the station stays moving during circuits and inductions. A tall backrest and side handles hold position through the press."
+      ],
+      "features": [
+        "Horizontal pressing path from a supported seat",
+        "Two independent pivoting foot plates",
+        "Tall backrest with head support",
+        "Side grip handles",
+        "Seat carriage adjustment along the rail",
+        "Single-pin selectorized weight stack",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Low-spinal-load leg pressing for circuits and general strength.",
+      "muscles": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Gastrocnemius"
+        ]
+      },
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Gastrocnemius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Horizontal leg press",
+        "Body Area": "Legs, Glutes",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-seated-leg-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-seated-leg-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-seated-leg-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-seated-leg-press-01.jpg",
+        "/images/products/hs-series/hs-seated-leg-press-02.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-hip-abductor-adductor",
+        "hs-horizontal-leg-press",
+        "hs-seated-leg-curl",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Legs",
+        "Glutes",
+        "Horizontal leg press",
+        "Quadriceps",
+        "Gluteus maximus"
+      ]
+    },
+    {
+      "sku": "AFX-HS-010",
+      "slug": "hs-horizontal-leg-press",
+      "name": "Horizontal Leg Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-selectorized",
+      "categoryName": "Selectorized Strength",
+      "equipmentType": "Selectorized Machine",
+      "bodyAreas": [
+        "Legs",
+        "Glutes"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 81,
+      "added": 2026.8038,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Lever-action leg press with a single wide foot plate and a sliding seat carriage.",
+      "description": [
+        "The AFZOX HS Series Horizontal Leg Press drives a single wide foot plate through a lever linkage while the lifter sits on a carriage that slides along the base rail. Setting the carriage position sets the starting knee angle, which makes the machine straightforward to fit to taller and shorter users alike.",
+        "The seated, back-supported position keeps the movement accessible for general members and rehabilitation-minded programming, and the shrouded single-pin stack keeps changeovers quick."
+      ],
+      "features": [
+        "Single wide pivoting foot plate on a lever linkage",
+        "Sliding seat carriage sets the starting knee angle",
+        "Reclined backrest with side handles",
+        "Full-length base rail with bolt-down feet",
+        "Single-pin selectorized weight stack",
+        "Shrouded stack with a printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Seated horizontal leg pressing with an adjustable start position.",
+      "muscles": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Gastrocnemius"
+        ]
+      },
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Gastrocnemius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Selectorized Strength",
+        "Equipment Type": "Selectorized Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Horizontal leg press",
+        "Body Area": "Legs, Glutes",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-horizontal-leg-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-horizontal-leg-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-horizontal-leg-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-horizontal-leg-press-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-hip-abductor-adductor",
+        "hs-seated-leg-press",
+        "hs-seated-leg-curl",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Selectorized Strength",
+        "Selectorized Machine",
+        "Legs",
+        "Glutes",
+        "Horizontal leg press",
+        "Quadriceps",
+        "Gluteus maximus"
+      ]
+    },
+    {
+      "sku": "AFX-HS-011",
+      "slug": "hs-plate-loaded-chest-press",
+      "name": "Plate Loaded Chest Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Chest"
+      ],
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 80,
+      "added": 2026.8037,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Iso-lateral plate-loaded chest press with independent arms and a foot-lever start assist.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Chest Press gives each arm its own loading path, so a stronger side cannot carry a weaker one through the rep. The result is a free-weight feel with the stability of a guided machine.",
+        "A foot lever brings the handles into the start position, so the lifter is not fighting the load on the way in. Plate horns on the frame keep loading and stripping local to the station. Shown here in black, and also pictured in the red upholstery option."
+      ],
+      "features": [
+        "Independent iso-lateral movement arms",
+        "Foot-lever start assist",
+        "Backrest with head pad",
+        "Pop-pin seat height adjustment",
+        "Frame-mounted plate horns for on-station storage",
+        "Olympic plate loading",
+        "Printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Iso-lateral chest pressing with a free-weight strength curve.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Triceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Anterior deltoids",
+        "Triceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Iso-lateral horizontal press",
+        "Body Area": "Chest",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-chest-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-chest-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-chest-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-chest-press-01.jpg",
+        "/images/products/hs-series/hs-plate-loaded-chest-press-02.jpg",
+        "/images/products/hs-series/hs-plate-loaded-chest-press-03.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-high-row",
+        "hs-plate-loaded-lat-pulldown",
+        "hs-plate-loaded-seated-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Chest",
+        "Iso-lateral horizontal press",
+        "Pectoralis major"
+      ]
+    },
+    {
+      "sku": "AFX-HS-012",
+      "slug": "hs-plate-loaded-chest-press-row",
+      "name": "Plate Loaded Chest Press / Row",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Chest",
+        "Back"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 79,
+      "added": 2026.8036,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Dual-purpose plate-loaded station covering a seated press and a seated row.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Chest Press / Row covers a pushing and a pulling movement from one frame, which is a practical answer when floor space is the constraint rather than budget.",
+        "Movement arms carry adjustable handle positions and the seat adjusts on a pop-pin. Plate horns are built into the uprights so loading stays at the station."
+      ],
+      "features": [
+        "Dual function — seated press and seated row",
+        "Adjustable handle positions on both arms",
+        "Backrest with head pad",
+        "Pop-pin seat height adjustment",
+        "Foot-lever start assist",
+        "Frame-mounted plate horns",
+        "Olympic plate loading"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Opposing push and pull patterns from one plate-loaded frame.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major",
+          "Latissimus dorsi"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Triceps brachii",
+          "Rhomboids",
+          "Biceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Anterior deltoids",
+        "Triceps brachii",
+        "Rhomboids",
+        "Biceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Press and row",
+        "Body Area": "Chest, Back",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-chest-press-row-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-chest-press-row-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-chest-press-row-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-chest-press-row-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-chest-press",
+        "hs-plate-loaded-high-row",
+        "hs-plate-loaded-lat-pulldown",
+        "hs-plate-loaded-seated-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Chest",
+        "Back",
+        "Press and row",
+        "Pectoralis major",
+        "Latissimus dorsi"
+      ]
+    },
+    {
+      "sku": "AFX-HS-013",
+      "slug": "hs-plate-loaded-high-row",
+      "name": "Plate Loaded High Row",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Back"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 78,
+      "added": 2026.8035,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Chest-supported plate-loaded high row with converging overhead arms.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded High Row pulls from above shoulder height on a converging arc, hitting the upper lats and the mid-back at an angle a flat row cannot reach.",
+        "An upright seat with a torso restraint keeps the lifter anchored so the pull is not turned into a hip-driven heave, and independent arms mean each side is loaded on its own."
+      ],
+      "features": [
+        "Converging overhead movement arms",
+        "Upright seat with torso restraint bar",
+        "Independent left and right loading",
+        "Non-slip foot platform",
+        "Frame-mounted plate horns",
+        "Olympic plate loading",
+        "Printed instruction placard"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "High-angle back pulling with full torso support.",
+      "muscles": {
+        "primary": [
+          "Latissimus dorsi"
+        ],
+        "secondary": [
+          "Rhomboids",
+          "Mid trapezius",
+          "Posterior deltoids",
+          "Biceps brachii"
+        ]
+      },
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Mid trapezius",
+        "Posterior deltoids",
+        "Biceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "High pulling",
+        "Body Area": "Back",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-high-row-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-high-row-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-high-row-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-high-row-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-lat-pulldown",
+        "hs-plate-loaded-seated-row",
+        "hs-plate-loaded-chest-supported-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Back",
+        "High pulling",
+        "Latissimus dorsi"
+      ]
+    },
+    {
+      "sku": "AFX-HS-014",
+      "slug": "hs-plate-loaded-lat-pulldown",
+      "name": "Plate Loaded Lat Pulldown",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Back"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 77,
+      "added": 2026.8034,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Plate-loaded lat pulldown with a long overhead arc, multi-grip handles and knee restraint.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Lat Pulldown runs a long arced movement arm from well above head height, giving the lats a full stretch at the top of the rep before the pull begins.",
+        "A padded knee roller holds the lifter down against the load, and the clustered multi-grip handles allow wide, neutral and narrow pulls without changing attachments."
+      ],
+      "features": [
+        "Long overhead arc for a full stretch at the top",
+        "Multi-grip handle cluster — wide, neutral and narrow",
+        "Padded knee restraint roller",
+        "Angled seat pad",
+        "Non-slip foot platform",
+        "Frame-mounted plate horns",
+        "Olympic plate loading"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Vertical pulling with multiple grip options from one arm.",
+      "muscles": {
+        "primary": [
+          "Latissimus dorsi"
+        ],
+        "secondary": [
+          "Biceps brachii",
+          "Rhomboids",
+          "Lower trapezius"
+        ]
+      },
+      "targets": [
+        "Latissimus dorsi",
+        "Biceps brachii",
+        "Rhomboids",
+        "Lower trapezius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Vertical pulling",
+        "Body Area": "Back",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-lat-pulldown-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-lat-pulldown-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-lat-pulldown-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-lat-pulldown-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-high-row",
+        "hs-plate-loaded-seated-row",
+        "hs-plate-loaded-chest-supported-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Back",
+        "Vertical pulling",
+        "Latissimus dorsi"
+      ]
+    },
+    {
+      "sku": "AFX-HS-015",
+      "slug": "hs-plate-loaded-seated-row",
+      "name": "Plate Loaded Seated Row",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Back"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 76,
+      "added": 2026.8033,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Chest-supported plate-loaded row with an adjustable pad and rotating handles.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Seated Row uses an adjustable chest pad to take the lower back out of the movement entirely, so the pull comes from the lats and mid-back instead of hip drive — the most common fault on free-weight rows.",
+        "Rotating handles let the wrist find its own line through the pull, and the independent arms load each side separately."
+      ],
+      "features": [
+        "Adjustable chest support pad",
+        "Rotating handle grips",
+        "Independent left and right movement arms",
+        "Pop-pin seat height adjustment",
+        "Non-slip foot platforms",
+        "Frame-mounted plate horns",
+        "Olympic plate loading"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Chest-supported horizontal rowing for the mid-back.",
+      "muscles": {
+        "primary": [
+          "Latissimus dorsi",
+          "Rhomboids"
+        ],
+        "secondary": [
+          "Mid & lower trapezius",
+          "Posterior deltoids",
+          "Biceps brachii"
+        ]
+      },
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Mid & lower trapezius",
+        "Posterior deltoids",
+        "Biceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Horizontal pulling",
+        "Body Area": "Back",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-seated-row-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-seated-row-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-seated-row-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-seated-row-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-high-row",
+        "hs-plate-loaded-lat-pulldown",
+        "hs-plate-loaded-chest-supported-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Back",
+        "Horizontal pulling",
+        "Latissimus dorsi",
+        "Rhomboids"
+      ]
+    },
+    {
+      "sku": "AFX-HS-016",
+      "slug": "hs-plate-loaded-chest-supported-row",
+      "name": "Plate Loaded Chest Supported Row",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Back"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 75,
+      "added": 2026.8032,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Standing T-bar style row with an angled chest pad and stepped foot platforms.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Chest Supported Row is a standing row built around an angled chest pad. The lifter braces on stepped foot platforms with the sternum against the pad, which fixes the torso and lets heavy loading go straight into the back.",
+        "The single loading sleeve takes standard Olympic plates, and the handle assembly sits directly under the chest for a short, powerful pulling arc."
+      ],
+      "features": [
+        "Angled chest support pad",
+        "Stepped non-slip foot platforms",
+        "Multi-position handle assembly",
+        "Single Olympic loading sleeve",
+        "Compact standing footprint",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Heavy chest-supported rowing without lower-back loading.",
+      "muscles": {
+        "primary": [
+          "Latissimus dorsi",
+          "Rhomboids"
+        ],
+        "secondary": [
+          "Mid trapezius",
+          "Posterior deltoids",
+          "Biceps brachii"
+        ]
+      },
+      "targets": [
+        "Latissimus dorsi",
+        "Rhomboids",
+        "Mid trapezius",
+        "Posterior deltoids",
+        "Biceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Horizontal pulling",
+        "Body Area": "Back",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-chest-supported-row-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-chest-supported-row-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-chest-supported-row-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-chest-supported-row-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-high-row",
+        "hs-plate-loaded-lat-pulldown",
+        "hs-plate-loaded-seated-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Back",
+        "Horizontal pulling",
+        "Latissimus dorsi",
+        "Rhomboids"
+      ]
+    },
+    {
+      "sku": "AFX-HS-017",
+      "slug": "hs-plate-loaded-abdominal-crunch",
+      "name": "Plate Loaded Abdominal Crunch",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Core"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 74,
+      "added": 2026.8031,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Seated plate-loaded crunch with over-shoulder handles and an ankle restraint.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Abdominal Crunch lets the trunk be loaded properly rather than trained only against bodyweight. The lifter sits with the back supported, grips the over-shoulder handles and drives into flexion against the plates.",
+        "An ankle roller anchors the lower body so the movement stays in the trunk, and the seat adjusts on a pop-pin to set the pivot at the right height."
+      ],
+      "features": [
+        "Over-shoulder handle arms",
+        "Padded backrest with a chest pad",
+        "Ankle restraint roller",
+        "Pop-pin seat height adjustment",
+        "Frame-mounted plate horns",
+        "Olympic plate loading",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Progressively loaded trunk flexion.",
+      "muscles": {
+        "primary": [
+          "Rectus abdominis"
+        ],
+        "secondary": [
+          "Obliques",
+          "Hip flexors"
+        ]
+      },
+      "targets": [
+        "Rectus abdominis",
+        "Obliques",
+        "Hip flexors"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Trunk flexion",
+        "Body Area": "Core",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-abdominal-crunch-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-abdominal-crunch-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-abdominal-crunch-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-abdominal-crunch-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-ab-crunch-bench",
+        "hs-plate-loaded-chest-press",
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-high-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Core",
+        "Trunk flexion",
+        "Rectus abdominis"
+      ]
+    },
+    {
+      "sku": "AFX-HS-018",
+      "slug": "hs-plate-loaded-prone-leg-curl",
+      "name": "Plate Loaded Prone Leg Curl",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Legs"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 73,
+      "added": 2026.803,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Plate-loaded prone hamstring curl with a torso pad and an adjustable seat.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Prone Leg Curl positions the lifter against a large torso pad so the hips stay down through the curl — the position that keeps the hamstrings loaded from full extension rather than letting the pelvis roll.",
+        "Loading is by Olympic plate, so the station suits dedicated strength floors where hamstring work is progressed alongside heavy lower-body lifts."
+      ],
+      "features": [
+        "Large padded torso support",
+        "Pop-pin seat adjustment",
+        "Foot-lever start assist",
+        "Frame-mounted plate horns",
+        "Olympic plate loading",
+        "Printed instruction placard",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Prone knee flexion for posterior-chain strength.",
+      "muscles": {
+        "primary": [
+          "Hamstrings"
+        ],
+        "secondary": [
+          "Gastrocnemius"
+        ]
+      },
+      "targets": [
+        "Hamstrings",
+        "Gastrocnemius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Knee flexion",
+        "Body Area": "Legs",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-prone-leg-curl-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-prone-leg-curl-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-prone-leg-curl-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-prone-leg-curl-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-seated-leg-press",
+        "hs-45-degree-leg-press",
+        "hs-plate-loaded-glute-drive",
+        "hs-plate-loaded-standing-calf-raise"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Legs",
+        "Knee flexion",
+        "Hamstrings"
+      ]
+    },
+    {
+      "sku": "AFX-HS-019",
+      "slug": "hs-plate-loaded-seated-leg-press",
+      "name": "Plate Loaded Seated Leg Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Legs",
+        "Glutes"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 72,
+      "added": 2026.8029,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Plate-loaded seated leg press with a lever foot platform and a head-supported backrest.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Seated Leg Press drives a wide foot platform through a lever linkage from a reclined, head-supported seat. Because the load sits on plate horns rather than a stack, the ceiling is set by the floor’s plate inventory rather than by the machine.",
+        "The seated position keeps spinal compression low relative to a squat, which makes it a workhorse for high-volume leg work."
+      ],
+      "features": [
+        "Wide lever-driven foot platform",
+        "Reclined backrest with head pad",
+        "Pop-pin backrest adjustment",
+        "Four frame-mounted plate horns",
+        "Olympic plate loading",
+        "Printed instruction placard",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Heavy seated leg pressing with plate-loaded resistance.",
+      "muscles": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Gastrocnemius"
+        ]
+      },
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Gastrocnemius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Horizontal leg press",
+        "Body Area": "Legs, Glutes",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-seated-leg-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-seated-leg-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-seated-leg-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-seated-leg-press-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-45-degree-leg-press",
+        "hs-plate-loaded-glute-drive",
+        "hs-plate-loaded-prone-leg-curl",
+        "hs-plate-loaded-standing-calf-raise"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Legs",
+        "Glutes",
+        "Horizontal leg press",
+        "Quadriceps",
+        "Gluteus maximus"
+      ]
+    },
+    {
+      "sku": "AFX-HS-020",
+      "slug": "hs-45-degree-leg-press",
+      "name": "45 Degree Leg Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Legs",
+        "Glutes"
+      ],
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 71,
+      "added": 2026.8028,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Classic 45° sled leg press on linear guide rails with a large textured foot plate.",
+      "description": [
+        "The AFZOX HS Series 45 Degree Leg Press is the standard heavy leg station: a carriage running on linear guide rails at 45°, a large textured foot plate, and a reclined back pad that lets the lifter brace hard against the load.",
+        "Safety catches along the rails and side-mounted release handles let a lifter rack the sled from the bottom position under their own control. Plate horns on the uprights keep loading at the machine."
+      ],
+      "features": [
+        "Carriage on linear guide rails at 45°",
+        "Large textured foot plate",
+        "Multiple safety catch positions along the rails",
+        "Side-mounted release handles",
+        "Reclined seat and back pad",
+        "Frame-mounted plate horns",
+        "Olympic plate loading"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Heavy angled leg pressing for strength floors.",
+      "muscles": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Adductors",
+          "Gastrocnemius"
+        ]
+      },
+      "targets": [
+        "Quadriceps",
+        "Gluteus maximus",
+        "Hamstrings",
+        "Adductors",
+        "Gastrocnemius"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Angled leg press",
+        "Body Area": "Legs, Glutes",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-45-degree-leg-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-45-degree-leg-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-45-degree-leg-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-45-degree-leg-press-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-seated-leg-press",
+        "hs-plate-loaded-glute-drive",
+        "hs-plate-loaded-prone-leg-curl",
+        "hs-plate-loaded-standing-calf-raise"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Legs",
+        "Glutes",
+        "Angled leg press",
+        "Quadriceps",
+        "Gluteus maximus"
+      ]
+    },
+    {
+      "sku": "AFX-HS-021",
+      "slug": "hs-plate-loaded-glute-drive",
+      "name": "Plate Loaded Glute Drive",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Glutes",
+        "Legs"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 70,
+      "added": 2026.8027,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Plate-loaded hip-extension station with an adjustable back pad and foot platform.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Glute Drive turns the barbell hip thrust into a set-up-and-go station. The lifter braces against an adjustable back pad with the feet on a fixed platform and drives the padded lever into hip extension.",
+        "Because the load is carried on a lever rather than across the lap as a bare bar, sets are quicker to set up and far more comfortable — which is the main reason the movement gets programmed consistently rather than avoided."
+      ],
+      "features": [
+        "Padded hip lever driven by Olympic plates",
+        "Adjustable back support pad",
+        "Fixed foot platform",
+        "Grip handles either side",
+        "Frame-mounted plate horns",
+        "Full-length base rail with bolt-down feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Loaded hip extension for posterior-chain and glute development.",
+      "muscles": {
+        "primary": [
+          "Gluteus maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Quadriceps"
+        ]
+      },
+      "targets": [
+        "Gluteus maximus",
+        "Hamstrings",
+        "Quadriceps"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Hip extension",
+        "Body Area": "Glutes, Legs",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-glute-drive-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-glute-drive-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-glute-drive-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-glute-drive-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-seated-leg-press",
+        "hs-45-degree-leg-press",
+        "hs-plate-loaded-prone-leg-curl",
+        "hs-plate-loaded-standing-calf-raise"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Glutes",
+        "Legs",
+        "Hip extension",
+        "Gluteus maximus"
+      ]
+    },
+    {
+      "sku": "AFX-HS-022",
+      "slug": "hs-plate-loaded-standing-calf-raise",
+      "name": "Plate Loaded Standing Calf Raise",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Legs"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 69,
+      "added": 2026.8026,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Standing calf raise with padded shoulder yokes and a raised stepped foot platform.",
+      "description": [
+        "The AFZOX HS Series Plate Loaded Standing Calf Raise loads the calves through padded shoulder yokes while the lifter stands on a raised platform, so the heels can drop below the toes for a full stretch at the bottom of every rep.",
+        "The yoke height adjusts to the user and the load is carried on Olympic plates, which lets calf work be progressed properly rather than being limited by a light stack."
+      ],
+      "features": [
+        "Padded shoulder yokes with height adjustment",
+        "Raised stepped foot platform for a full stretch",
+        "Guided vertical movement path",
+        "Grip handle on the yoke assembly",
+        "Frame-mounted plate horns",
+        "Olympic plate loading"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Standing calf work through a full range of ankle motion.",
+      "muscles": {
+        "primary": [
+          "Gastrocnemius"
+        ],
+        "secondary": [
+          "Soleus"
+        ]
+      },
+      "targets": [
+        "Gastrocnemius",
+        "Soleus"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Ankle plantarflexion",
+        "Body Area": "Legs",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-plate-loaded-standing-calf-raise-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-plate-loaded-standing-calf-raise-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-plate-loaded-standing-calf-raise-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-plate-loaded-standing-calf-raise-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-prone-leg-curl",
+        "hs-plate-loaded-seated-leg-press",
+        "hs-45-degree-leg-press",
+        "hs-plate-loaded-glute-drive"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Legs",
+        "Ankle plantarflexion",
+        "Gastrocnemius"
+      ]
+    },
+    {
+      "sku": "AFX-HS-023",
+      "slug": "hs-ab-crunch-bench",
+      "name": "Ab Crunch Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-plate-loaded",
+      "categoryName": "Plate Loaded",
+      "equipmentType": "Plate Loaded Machine",
+      "bodyAreas": [
+        "Core"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 68,
+      "added": 2026.8025,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Low-profile loaded crunch station with a padded arm rest, handles and foot restraints.",
+      "description": [
+        "The AFZOX HS Series Ab Crunch Bench keeps the loaded crunch low to the floor on an open arched frame, which makes it easy to get into and easy to supervise.",
+        "The lifter sits on the pad, takes the handles and drives the padded arm rest forward against the load while the feet stay hooked under the restraints. Resistance is added on the loading sleeve."
+      ],
+      "features": [
+        "Padded arm and chest rest with vertical handles",
+        "Foot restraint pads",
+        "Open low-profile arched frame",
+        "Olympic loading sleeve",
+        "Contoured seat pad",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Loaded trunk flexion from a low, accessible position.",
+      "muscles": {
+        "primary": [
+          "Rectus abdominis"
+        ],
+        "secondary": [
+          "Obliques"
+        ]
+      },
+      "targets": [
+        "Rectus abdominis",
+        "Obliques"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Plate Loaded",
+        "Equipment Type": "Plate Loaded Machine",
+        "Resistance Type": "Olympic plate loaded",
+        "Primary Movement": "Trunk flexion",
+        "Body Area": "Core",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-ab-crunch-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-ab-crunch-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-ab-crunch-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-ab-crunch-bench-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-plate-loaded-abdominal-crunch",
+        "hs-plate-loaded-chest-press",
+        "hs-plate-loaded-chest-press-row",
+        "hs-plate-loaded-high-row"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Plate Loaded",
+        "Plate Loaded Machine",
+        "Core",
+        "Trunk flexion",
+        "Rectus abdominis"
+      ]
+    },
+    {
+      "sku": "AFX-HS-024",
+      "slug": "hs-cable-crossover",
+      "name": "Cable Crossover",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-cable",
+      "categoryName": "Cable & Functional",
+      "equipmentType": "Cable Machine",
+      "bodyAreas": [
+        "Chest",
+        "Shoulders",
+        "Full Body"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 67,
+      "added": 2026.8024,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Twin-tower cable crossover with height-adjustable pulleys and an overhead chin bar.",
+      "description": [
+        "The AFZOX HS Series Cable Crossover puts two independently adjustable pulley carriages either side of an open training bay. Because each carriage moves the full height of the upright, the same frame covers high flyes, low raises, mid-height presses and pulls, and everything in between.",
+        "The arched top bridge carries a multi-grip chin bar, so the station also serves as a pull-up point without adding floor area."
+      ],
+      "features": [
+        "Two height-adjustable pulley carriages",
+        "Full-height adjustment range on both uprights",
+        "Arched bridge with a multi-grip chin bar",
+        "Shrouded weight stacks",
+        "Open training bay between the towers",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Multi-plane cable training for chest, shoulders and arms.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Posterior deltoids",
+          "Latissimus dorsi",
+          "Triceps brachii",
+          "Biceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Anterior deltoids",
+        "Posterior deltoids",
+        "Latissimus dorsi",
+        "Triceps brachii",
+        "Biceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Cable & Functional",
+        "Equipment Type": "Cable Machine",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Multi-plane cable work",
+        "Body Area": "Chest, Shoulders, Full Body",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-cable-crossover-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-cable-crossover-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-cable-crossover-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-cable-crossover-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-dual-adjustable-pulley",
+        "hs-multi-jungle-4-station",
+        "hs-multi-jungle-5-station",
+        "hs-multi-jungle-8-station"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Cable & Functional",
+        "Cable Machine",
+        "Chest",
+        "Shoulders",
+        "Full Body",
+        "Multi-plane cable work",
+        "Pectoralis major"
+      ]
+    },
+    {
+      "sku": "AFX-HS-025",
+      "slug": "hs-dual-adjustable-pulley",
+      "name": "Dual Adjustable Pulley",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-cable",
+      "categoryName": "Cable & Functional",
+      "equipmentType": "Functional Trainer",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 66,
+      "added": 2026.8023,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Compact functional trainer with two adjustable pulleys, a chin bar and a guided bar.",
+      "description": [
+        "The AFZOX HS Series Dual Adjustable Pulley is the most versatile single frame on a small floor. Two independent pulley carriages adjust through the full height of the uprights, letting one station cover pressing, pulling, rotation, chops and single-arm work across every plane.",
+        "A multi-grip chin bar spans the top and a guided bar runs on the rear uprights, so bodyweight and barbell-pattern work happen at the same station."
+      ],
+      "features": [
+        "Two independently height-adjustable pulley carriages",
+        "Multi-grip overhead chin bar",
+        "Guided bar on the rear uprights",
+        "Twin shrouded weight stacks",
+        "Numbered carriage positions for repeatable set-up",
+        "Compact bolt-down footprint"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Functional and rehabilitation-friendly cable training across all planes.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": [
+          "Core stabilisers"
+        ]
+      },
+      "targets": [
+        "Full body",
+        "Core stabilisers"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Cable & Functional",
+        "Equipment Type": "Functional Trainer",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Multi-plane cable work",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-dual-adjustable-pulley-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-dual-adjustable-pulley-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-dual-adjustable-pulley-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-dual-adjustable-pulley-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-cable-crossover",
+        "hs-multi-jungle-4-station",
+        "hs-multi-jungle-5-station",
+        "hs-multi-jungle-8-station"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Cable & Functional",
+        "Functional Trainer",
+        "Full Body",
+        "Multi-plane cable work",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-026",
+      "slug": "hs-multi-jungle-4-station",
+      "name": "4 Station Multi Jungle Gym",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-cable",
+      "categoryName": "Cable & Functional",
+      "equipmentType": "Multi Station",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 65,
+      "added": 2026.8022,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Four-stack multi station covering pulldown, row, leg and cable work around one tower.",
+      "description": [
+        "The AFZOX HS Series 4 Station Multi Jungle Gym clusters four independent weight stacks around a single tower, so four members can train at once without four separate footprints.",
+        "The stations cover a high pulldown with attachments, a seated leg station, a low pulley and an adjustable cable position — the core of a small-floor strength offering in one bolt-down unit."
+      ],
+      "features": [
+        "Four independent selectorized weight stacks",
+        "High pulldown station with bar and rope attachments",
+        "Seated leg station with roller pads",
+        "Low pulley station",
+        "Adjustable cable position with single handles",
+        "One bolt-down base serving four training positions"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Four simultaneous training positions on one compact footprint.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": [
+          "Core stabilisers"
+        ]
+      },
+      "targets": [
+        "Full body",
+        "Core stabilisers"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Cable & Functional",
+        "Equipment Type": "Multi Station",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Multi-station cable training",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-multi-jungle-4-station-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-multi-jungle-4-station-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-multi-jungle-4-station-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-multi-jungle-4-station-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-multi-jungle-5-station",
+        "hs-multi-jungle-8-station",
+        "hs-cable-crossover",
+        "hs-dual-adjustable-pulley"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Cable & Functional",
+        "Multi Station",
+        "Full Body",
+        "Multi-station cable training",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-027",
+      "slug": "hs-multi-jungle-5-station",
+      "name": "5 Station Multi Jungle Gym",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-cable",
+      "categoryName": "Cable & Functional",
+      "equipmentType": "Multi Station",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial",
+      "featured": false,
+      "popular": 64,
+      "added": 2026.8021,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Four-stack tower with a satellite lat tower and a long multi-grip bar spanning both.",
+      "description": [
+        "The AFZOX HS Series 5 Station Multi Jungle Gym extends the four-stack tower with a separate satellite station carrying its own weight stack, linked by a long multi-grip bar that spans the two frames.",
+        "The layout suits floors that want a fifth training position and an overhead grip station without committing to a second full tower."
+      ],
+      "features": [
+        "Five independent selectorized weight stacks",
+        "Satellite tower with its own stack and pulley",
+        "Long multi-grip bar spanning both frames",
+        "Seated row bench and leg station on the main tower",
+        "Dual high pulleys with handle attachments",
+        "Bolt-down levelling feet on both frames"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Five training positions with an extended overhead grip station.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": [
+          "Core stabilisers"
+        ]
+      },
+      "targets": [
+        "Full body",
+        "Core stabilisers"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Cable & Functional",
+        "Equipment Type": "Multi Station",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Multi-station cable training",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-multi-jungle-5-station-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-multi-jungle-5-station-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-multi-jungle-5-station-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-multi-jungle-5-station-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-multi-jungle-4-station",
+        "hs-multi-jungle-8-station",
+        "hs-cable-crossover",
+        "hs-dual-adjustable-pulley"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Cable & Functional",
+        "Multi Station",
+        "Full Body",
+        "Multi-station cable training",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-028",
+      "slug": "hs-multi-jungle-8-station",
+      "name": "8 Station Multi Jungle Gym",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-cable",
+      "categoryName": "Cable & Functional",
+      "equipmentType": "Multi Station",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 63,
+      "added": 2026.802,
+      "tier": "HS Series",
+      "band": "premium",
+      "short": "Twin four-stack towers joined by an arched bridge — eight stacks, one installation.",
+      "description": [
+        "The AFZOX HS Series 8 Station Multi Jungle Gym joins two four-stack towers with an arched top bridge, giving eight independent training positions and a crossover bay in a single installation.",
+        "It is the configuration to specify when a floor needs to move a lot of members through resistance training quickly — circuits, inductions and personal training can all run on the same frame at the same time."
+      ],
+      "features": [
+        "Eight independent selectorized weight stacks",
+        "Twin four-stack towers on one linked frame",
+        "Arched bridge with a multi-grip chin bar",
+        "Open crossover bay between the towers",
+        "High, mid and low pulley positions per tower",
+        "Seated leg and row positions on both towers"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "High-throughput circuit and small-group training.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": [
+          "Core stabilisers"
+        ]
+      },
+      "targets": [
+        "Full body",
+        "Core stabilisers"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Cable & Functional",
+        "Equipment Type": "Multi Station",
+        "Resistance Type": "Selectorized weight stack",
+        "Primary Movement": "Multi-station cable training",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-multi-jungle-8-station-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-multi-jungle-8-station-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-multi-jungle-8-station-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-multi-jungle-8-station-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-multi-jungle-4-station",
+        "hs-multi-jungle-5-station",
+        "hs-cable-crossover",
+        "hs-dual-adjustable-pulley"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Cable & Functional",
+        "Multi Station",
+        "Full Body",
+        "Multi-station cable training",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-029",
+      "slug": "hs-smith-machine",
+      "name": "Smith Machine",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Rack",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial",
+      "featured": true,
+      "popular": 62,
+      "added": 2026.8019,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Counterbalanced Smith machine on angled steel runners with multi-position catches.",
+      "description": [
+        "The AFZOX HS Series Smith Machine runs an Olympic bar on angled steel runners, so the bar path is fixed and a lifter can push close to failure without a spotter. Rotating the bar into the hook positions racks it anywhere along the travel.",
+        "The arched frame keeps the training bay open, and plate horns on both uprights hold working plates at the station."
+      ],
+      "features": [
+        "Guided bar on angled steel runners",
+        "Multi-position hook catches along the full travel",
+        "Counterbalanced carriage",
+        "Six plate storage horns",
+        "Open arched frame",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Guided barbell squatting, pressing and pulling without a spotter.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": []
+      },
+      "targets": [
+        "Full body"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Rack",
+        "Resistance Type": "Olympic barbell and plates",
+        "Primary Movement": "Guided barbell work",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial installation"
+      },
+      "image": "/images/products/hs-series/hs-smith-machine-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-smith-machine-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-smith-machine-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-smith-machine-01.jpg"
+      ],
+      "isHome": false,
+      "isCommercial": true,
+      "related": [
+        "hs-adjustable-fid-bench",
+        "hs-multi-adjustable-bench",
+        "hs-flat-bench",
+        "hs-workout-stool"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Rack",
+        "Full Body",
+        "Guided barbell work",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-030",
+      "slug": "hs-olympic-flat-bench-press",
+      "name": "Olympic Flat Bench Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Chest"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 61,
+      "added": 2026.8018,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Commercial flat bench press with ladder uprights and integrated plate storage.",
+      "description": [
+        "The AFZOX HS Series Olympic Flat Bench Press pairs a three-section flat pad with A-frame uprights carrying a ladder of bar hooks, so the rack height can be matched to the lifter rather than the other way round.",
+        "Six plate horns are built into the uprights, which keeps the working set at the bench and the walkways clear."
+      ],
+      "features": [
+        "Three-section flat bench pad",
+        "Ladder bar hooks for rack height adjustment",
+        "A-frame uprights",
+        "Six integrated plate storage horns",
+        "Wide bolt-down base",
+        "Commercial-gauge steel frame"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Flat barbell pressing in a commercial free-weight zone.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Triceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Anterior deltoids",
+        "Triceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Horizontal barbell press",
+        "Body Area": "Chest",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-olympic-flat-bench-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-olympic-flat-bench-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-olympic-flat-bench-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-olympic-flat-bench-press-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-olympic-incline-bench-press",
+        "hs-olympic-decline-bench-press",
+        "hs-olympic-adjustable-bench-press",
+        "hs-adjustable-fid-bench"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Chest",
+        "Horizontal barbell press",
+        "Pectoralis major"
+      ]
+    },
+    {
+      "sku": "AFX-HS-031",
+      "slug": "hs-olympic-incline-bench-press",
+      "name": "Olympic Incline Bench Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Chest",
+        "Shoulders"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 60,
+      "added": 2026.8017,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Fixed-incline Olympic bench press with a spotter platform and plate storage.",
+      "description": [
+        "The AFZOX HS Series Olympic Incline Bench Press sets the pad at a fixed incline for upper-chest pressing, with a raised spotter platform behind the head of the bench so a training partner can work from a proper stance.",
+        "Ladder hooks on both uprights set the rack height, and integrated plate horns keep loading local."
+      ],
+      "features": [
+        "Fixed incline bench pad with seat",
+        "Raised spotter platform",
+        "Ladder bar hooks on both uprights",
+        "Integrated plate storage horns",
+        "Rear foot rest",
+        "Wide bolt-down base"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Incline barbell pressing for upper-chest development.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major (clavicular head)"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Triceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major (clavicular head)",
+        "Anterior deltoids",
+        "Triceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Incline barbell press",
+        "Body Area": "Chest, Shoulders",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-olympic-incline-bench-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-olympic-incline-bench-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-olympic-incline-bench-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-olympic-incline-bench-press-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-olympic-adjustable-bench-press",
+        "hs-olympic-flat-bench-press",
+        "hs-olympic-decline-bench-press",
+        "hs-utility-bench"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Chest",
+        "Shoulders",
+        "Incline barbell press",
+        "Pectoralis major (clavicular head)"
+      ]
+    },
+    {
+      "sku": "AFX-HS-032",
+      "slug": "hs-olympic-decline-bench-press",
+      "name": "Olympic Decline Bench Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Chest"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 59,
+      "added": 2026.8016,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Decline Olympic bench press with leg restraint rollers and integrated plate storage.",
+      "description": [
+        "The AFZOX HS Series Olympic Decline Bench Press sets the pad on a decline with padded leg rollers to lock the lifter in position, targeting the lower chest through a shortened, mechanically strong pressing range.",
+        "Ladder hooks set the rack height and plate horns on the uprights keep the working plates at the bench."
+      ],
+      "features": [
+        "Decline bench pad with a lift-out assist handle",
+        "Padded leg restraint rollers",
+        "Ladder bar hooks on both uprights",
+        "Integrated plate storage horns",
+        "A-frame uprights on a wide base",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Decline barbell pressing for lower-chest work.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major (sternal head)"
+        ],
+        "secondary": [
+          "Triceps brachii",
+          "Anterior deltoids"
+        ]
+      },
+      "targets": [
+        "Pectoralis major (sternal head)",
+        "Triceps brachii",
+        "Anterior deltoids"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Decline barbell press",
+        "Body Area": "Chest",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-olympic-decline-bench-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-olympic-decline-bench-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-olympic-decline-bench-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-olympic-decline-bench-press-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-olympic-flat-bench-press",
+        "hs-olympic-incline-bench-press",
+        "hs-olympic-adjustable-bench-press",
+        "hs-adjustable-fid-bench"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Chest",
+        "Decline barbell press",
+        "Pectoralis major (sternal head)"
+      ]
+    },
+    {
+      "sku": "AFX-HS-033",
+      "slug": "hs-olympic-adjustable-bench-press",
+      "name": "Olympic Adjustable Bench Press",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Chest",
+        "Shoulders"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 58,
+      "added": 2026.8015,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Olympic press station with a multi-angle bench that wheels out of the rack.",
+      "description": [
+        "The AFZOX HS Series Olympic Adjustable Bench Press combines a fixed upright rack with a multi-angle bench that rolls clear on transport wheels, so one station covers flat, incline and decline pressing — and the bench can be pulled out for dumbbell work.",
+        "Ladder hooks set the rack height for whichever angle is in use, and plate horns are built into the frame."
+      ],
+      "features": [
+        "Multi-angle bench with ladder-lock back adjustment",
+        "Transport wheels and pull handle on the bench",
+        "Ladder bar hooks on both uprights",
+        "Integrated plate storage horns",
+        "Bench rolls clear of the rack for dumbbell work",
+        "Wide bolt-down base"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Flat, incline and decline pressing from one rack.",
+      "muscles": {
+        "primary": [
+          "Pectoralis major"
+        ],
+        "secondary": [
+          "Anterior deltoids",
+          "Triceps brachii"
+        ]
+      },
+      "targets": [
+        "Pectoralis major",
+        "Anterior deltoids",
+        "Triceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Multi-angle barbell press",
+        "Body Area": "Chest, Shoulders",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-olympic-adjustable-bench-press-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-olympic-adjustable-bench-press-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-olympic-adjustable-bench-press-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-olympic-adjustable-bench-press-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-olympic-incline-bench-press",
+        "hs-olympic-flat-bench-press",
+        "hs-olympic-decline-bench-press",
+        "hs-utility-bench"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Chest",
+        "Shoulders",
+        "Multi-angle barbell press",
+        "Pectoralis major"
+      ]
+    },
+    {
+      "sku": "AFX-HS-034",
+      "slug": "hs-adjustable-fid-bench",
+      "name": "Adjustable FID Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial & Home",
+      "featured": true,
+      "popular": 57,
+      "added": 2026.8014,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Flat–incline–decline bench with ladder-lock adjustment, head pad and transport wheels.",
+      "description": [
+        "The AFZOX HS Series Adjustable FID Bench covers flat, incline and decline from one frame using a ladder-lock back adjustment that holds position under load without tools.",
+        "A separate head pad supports the neck on steep inclines, and transport wheels with a pull handle let staff reposition the bench between dumbbell racks and power racks without lifting it. Pictured with and without the leg hold-down rollers."
+      ],
+      "features": [
+        "Ladder-lock back adjustment through flat, incline and decline",
+        "Pop-pin seat angle adjustment",
+        "Separate head support pad",
+        "Leg hold-down rollers (as pictured)",
+        "Transport wheels and pull handle",
+        "Narrow back pad profile for shoulder clearance"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Multi-angle bench support for free-weight training.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": []
+      },
+      "targets": [
+        "Full body"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Multi-angle support",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-adjustable-fid-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-adjustable-fid-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-adjustable-fid-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-adjustable-fid-bench-01.jpg",
+        "/images/products/hs-series/hs-adjustable-fid-bench-02.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-multi-adjustable-bench",
+        "hs-flat-bench",
+        "hs-workout-stool",
+        "hs-smith-machine"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Full Body",
+        "Multi-angle support",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-035",
+      "slug": "hs-multi-adjustable-bench",
+      "name": "Multi-Adjustable Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 56,
+      "added": 2026.8013,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Multi-angle bench on an arched base with pop-pin back adjustment and a head pad.",
+      "description": [
+        "The AFZOX HS Series Multi-Adjustable Bench sits on a curved tubular base that keeps the footprint tight while staying stable under heavy dumbbell work.",
+        "The back adjusts on a pop-pin through the pressing angles, and the separate head pad supports the neck at steeper settings."
+      ],
+      "features": [
+        "Pop-pin back angle adjustment",
+        "Separate head support pad",
+        "Curved tubular base",
+        "Contoured seat pad",
+        "Compact footprint",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Seated and inclined dumbbell work in free-weight zones.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": []
+      },
+      "targets": [
+        "Full body"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Multi-angle support",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-multi-adjustable-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-multi-adjustable-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-multi-adjustable-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-multi-adjustable-bench-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-adjustable-fid-bench",
+        "hs-flat-bench",
+        "hs-workout-stool",
+        "hs-smith-machine"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Full Body",
+        "Multi-angle support",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-036",
+      "slug": "hs-flat-bench",
+      "name": "Flat Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 55,
+      "added": 2026.8012,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Fixed flat bench with a three-section pad, arched base and transport handle.",
+      "description": [
+        "The AFZOX HS Series Flat Bench is the plain, dependable pad every free-weight floor needs several of. A three-section top gives shoulder clearance at the ends while keeping the centre solid.",
+        "The arched tubular base clears the floor for foot placement, and a transport handle at one end lets a single member of staff move it."
+      ],
+      "features": [
+        "Three-section flat pad",
+        "Arched tubular base with floor clearance",
+        "Transport handle",
+        "Low, stable profile",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Flat support for pressing, rows and dumbbell work.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": []
+      },
+      "targets": [
+        "Full body"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Flat support",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-flat-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-flat-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-flat-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-flat-bench-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-adjustable-fid-bench",
+        "hs-multi-adjustable-bench",
+        "hs-workout-stool",
+        "hs-smith-machine"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Full Body",
+        "Flat support",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-037",
+      "slug": "hs-utility-bench",
+      "name": "Utility Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Shoulders",
+        "Arms"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 54,
+      "added": 2026.8011,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Fixed upright utility bench with a vertical back pad and a rear foot rest.",
+      "description": [
+        "The AFZOX HS Series Utility Bench holds a fixed upright back angle for seated shoulder pressing, seated curls and any movement that wants a vertical torso without an adjustment to set.",
+        "Because nothing moves, the bench never drifts out of position and there is no mechanism to service — the reason fixed uprights still earn a place next to adjustable benches."
+      ],
+      "features": [
+        "Fixed vertical back pad",
+        "Contoured seat pad",
+        "Rear foot rest",
+        "Arched tubular base",
+        "No moving parts to service",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Seated overhead pressing and supported arm work.",
+      "muscles": {
+        "primary": [
+          "Deltoids"
+        ],
+        "secondary": [
+          "Triceps brachii",
+          "Biceps brachii"
+        ]
+      },
+      "targets": [
+        "Deltoids",
+        "Triceps brachii",
+        "Biceps brachii"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Upright seated support",
+        "Body Area": "Shoulders, Arms",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-utility-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-utility-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-utility-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-utility-bench-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-olympic-incline-bench-press",
+        "hs-olympic-adjustable-bench-press",
+        "hs-preacher-curl-bench",
+        "hs-vertical-knee-raise-chin-dip"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Shoulders",
+        "Arms",
+        "Upright seated support",
+        "Deltoids"
+      ]
+    },
+    {
+      "sku": "AFX-HS-038",
+      "slug": "hs-workout-stool",
+      "name": "Workout Stool",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Full Body"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 53,
+      "added": 2026.801,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Padded workout stool with a wide contoured seat and a low tubular base.",
+      "description": [
+        "The AFZOX HS Series Workout Stool is a simple padded seat for cable stations, dumbbell curls and assessments — the piece that disappears until it is missing.",
+        "A wide contoured top and a low tubular base keep it stable in use and easy to slide out of the way afterwards."
+      ],
+      "features": [
+        "Wide contoured seat pad",
+        "Low tubular base",
+        "Compact and easily repositioned",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Seated support at cable stations and dumbbell racks.",
+      "muscles": {
+        "primary": [
+          "Full body"
+        ],
+        "secondary": []
+      },
+      "targets": [
+        "Full body"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Seated support",
+        "Body Area": "Full Body",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-workout-stool-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-workout-stool-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-workout-stool-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-workout-stool-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-adjustable-fid-bench",
+        "hs-multi-adjustable-bench",
+        "hs-flat-bench",
+        "hs-smith-machine"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Full Body",
+        "Seated support",
+        "Full body"
+      ]
+    },
+    {
+      "sku": "AFX-HS-039",
+      "slug": "hs-adjustable-decline-ab-bench",
+      "name": "Adjustable Decline Ab Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Core"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 52,
+      "added": 2026.8009,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Multi-position decline ab bench with padded ankle rollers and an assist handle.",
+      "description": [
+        "The AFZOX HS Series Adjustable Decline Ab Bench sets the decline angle on a pop-pin, so trunk work can be made progressively harder without adding external load.",
+        "Padded ankle rollers hold the legs, an assist handle helps members get in and out of position, and the arched base keeps the frame stable at the steepest setting."
+      ],
+      "features": [
+        "Pop-pin decline angle adjustment",
+        "Padded ankle restraint rollers",
+        "Mount and dismount assist handle",
+        "Lumbar support pad",
+        "Arched tubular base",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Progressive bodyweight trunk flexion.",
+      "muscles": {
+        "primary": [
+          "Rectus abdominis"
+        ],
+        "secondary": [
+          "Obliques",
+          "Hip flexors"
+        ]
+      },
+      "targets": [
+        "Rectus abdominis",
+        "Obliques",
+        "Hip flexors"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Trunk flexion",
+        "Body Area": "Core",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-adjustable-decline-ab-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-adjustable-decline-ab-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-adjustable-decline-ab-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-adjustable-decline-ab-bench-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-45-degree-back-extension",
+        "hs-vertical-knee-raise-chin-dip",
+        "hs-vertical-knee-raise-dip",
+        "hs-olympic-flat-bench-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Core",
+        "Trunk flexion",
+        "Rectus abdominis"
+      ]
+    },
+    {
+      "sku": "AFX-HS-040",
+      "slug": "hs-45-degree-back-extension",
+      "name": "45 Degree Back Extension",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Back",
+        "Glutes",
+        "Core"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 51,
+      "added": 2026.8008,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "45° back extension with adjustable hip pads, ankle rollers and plate horns.",
+      "description": [
+        "The AFZOX HS Series 45 Degree Back Extension trains the posterior chain through hip and trunk extension at an angle that is easier to enter than a horizontal hyperextension.",
+        "The hip pad height and the ankle roller position both adjust, and two plate horns on the base let a member keep a plate ready for weighted sets."
+      ],
+      "features": [
+        "Adjustable hip pad height",
+        "Adjustable ankle roller position",
+        "Mount assist handle",
+        "Two plate storage horns on the base",
+        "Non-slip foot platform",
+        "Wide bolt-down base"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Posterior-chain extension work and lower-back conditioning.",
+      "muscles": {
+        "primary": [
+          "Erector spinae",
+          "Gluteus maximus"
+        ],
+        "secondary": [
+          "Hamstrings"
+        ]
+      },
+      "targets": [
+        "Erector spinae",
+        "Gluteus maximus",
+        "Hamstrings"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Hip and trunk extension",
+        "Body Area": "Back, Glutes, Core",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-45-degree-back-extension-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-45-degree-back-extension-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-45-degree-back-extension-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-45-degree-back-extension-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-vertical-knee-raise-chin-dip",
+        "hs-adjustable-decline-ab-bench",
+        "hs-vertical-knee-raise-dip",
+        "hs-olympic-flat-bench-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Back",
+        "Glutes",
+        "Core",
+        "Hip and trunk extension",
+        "Erector spinae",
+        "Gluteus maximus"
+      ]
+    },
+    {
+      "sku": "AFX-HS-041",
+      "slug": "hs-preacher-curl-bench",
+      "name": "Preacher Curl Bench",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bench",
+      "bodyAreas": [
+        "Arms"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 50,
+      "added": 2026.8007,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Free-weight preacher curl bench with a wide angled arm pad and an adjustable seat.",
+      "description": [
+        "The AFZOX HS Series Preacher Curl Bench fixes the upper arms against a wide angled pad so a barbell or dumbbell curl is performed without swinging the torso.",
+        "The seat adjusts on a pop-pin to set the pad at the right height, and bar rests either side of the pad let a lifter park the bar between sets."
+      ],
+      "features": [
+        "Wide angled preacher arm pad",
+        "Bar rests either side of the pad",
+        "Pop-pin seat height adjustment",
+        "Angled tubular frame",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Strict free-weight curling with the upper arms fixed.",
+      "muscles": {
+        "primary": [
+          "Biceps brachii"
+        ],
+        "secondary": [
+          "Brachialis",
+          "Brachioradialis"
+        ]
+      },
+      "targets": [
+        "Biceps brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bench",
+        "Resistance Type": "Free weight",
+        "Primary Movement": "Elbow flexion",
+        "Body Area": "Arms",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-preacher-curl-bench-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-preacher-curl-bench-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-preacher-curl-bench-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-preacher-curl-bench-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-utility-bench",
+        "hs-vertical-knee-raise-chin-dip",
+        "hs-vertical-knee-raise-dip",
+        "hs-olympic-flat-bench-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bench",
+        "Arms",
+        "Elbow flexion",
+        "Biceps brachii"
+      ]
+    },
+    {
+      "sku": "AFX-HS-042",
+      "slug": "hs-vertical-knee-raise-chin-dip",
+      "name": "Vertical Knee Raise / Chin / Dip Station",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bodyweight Station",
+      "bodyAreas": [
+        "Core",
+        "Back",
+        "Arms"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 49,
+      "added": 2026.8006,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Power tower combining knee raise, dip, chin-up and back support in one frame.",
+      "description": [
+        "The AFZOX HS Series Vertical Knee Raise / Chin / Dip Station stacks the core bodyweight movements into a single frame: hanging knee raises from the forearm pads, dips from the parallel handles, and chin-ups from the angled overhead bar.",
+        "Step platforms either side make mounting straightforward, and the back pad supports the spine through the knee-raise position."
+      ],
+      "features": [
+        "Angled overhead chin-up bar with rubber grips",
+        "Padded forearm rests for hanging knee raises",
+        "Parallel dip handles",
+        "Full back support pad",
+        "Step platforms on both sides",
+        "Wide bolt-down base"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Bodyweight strength and trunk work on one footprint.",
+      "muscles": {
+        "primary": [
+          "Rectus abdominis",
+          "Latissimus dorsi"
+        ],
+        "secondary": [
+          "Hip flexors",
+          "Triceps brachii",
+          "Biceps brachii",
+          "Pectoralis major"
+        ]
+      },
+      "targets": [
+        "Rectus abdominis",
+        "Latissimus dorsi",
+        "Hip flexors",
+        "Triceps brachii",
+        "Biceps brachii",
+        "Pectoralis major"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bodyweight Station",
+        "Resistance Type": "User bodyweight",
+        "Primary Movement": "Bodyweight pulling, pressing and trunk flexion",
+        "Body Area": "Core, Back, Arms",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-vertical-knee-raise-chin-dip-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-vertical-knee-raise-chin-dip-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-vertical-knee-raise-chin-dip-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-vertical-knee-raise-chin-dip-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-vertical-knee-raise-dip",
+        "hs-45-degree-back-extension",
+        "hs-utility-bench",
+        "hs-adjustable-decline-ab-bench"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bodyweight Station",
+        "Core",
+        "Back",
+        "Arms",
+        "Bodyweight pulling, pressing and trunk flexion",
+        "Rectus abdominis",
+        "Latissimus dorsi"
+      ]
+    },
+    {
+      "sku": "AFX-HS-043",
+      "slug": "hs-vertical-knee-raise-dip",
+      "name": "Vertical Knee Raise / Dip Station",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-benches-racks",
+      "categoryName": "Benches & Racks",
+      "equipmentType": "Bodyweight Station",
+      "bodyAreas": [
+        "Core",
+        "Arms"
+      ],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 48,
+      "added": 2026.8005,
+      "tier": "HS Series",
+      "band": "standard",
+      "short": "Compact knee-raise and dip station with forearm pads, back support and step platforms.",
+      "description": [
+        "The AFZOX HS Series Vertical Knee Raise / Dip Station covers hanging knee raises and parallel-bar dips in a frame that fits where a full power tower will not.",
+        "Padded forearm rests and a full back pad hold the trunk in position for the knee raise, and step platforms either side make mounting easy."
+      ],
+      "features": [
+        "Padded forearm rests for hanging knee raises",
+        "Parallel dip handles",
+        "Full back support pad",
+        "Step platforms on both sides",
+        "Compact open frame — no overhead bar",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Bodyweight trunk and pressing work in a compact footprint.",
+      "muscles": {
+        "primary": [
+          "Rectus abdominis"
+        ],
+        "secondary": [
+          "Hip flexors",
+          "Triceps brachii",
+          "Pectoralis major"
+        ]
+      },
+      "targets": [
+        "Rectus abdominis",
+        "Hip flexors",
+        "Triceps brachii",
+        "Pectoralis major"
+      ],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Benches & Racks",
+        "Equipment Type": "Bodyweight Station",
+        "Resistance Type": "User bodyweight",
+        "Primary Movement": "Bodyweight pressing and trunk flexion",
+        "Body Area": "Core, Arms",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-vertical-knee-raise-dip-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-vertical-knee-raise-dip-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-vertical-knee-raise-dip-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-vertical-knee-raise-dip-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-vertical-knee-raise-chin-dip",
+        "hs-utility-bench",
+        "hs-adjustable-decline-ab-bench",
+        "hs-45-degree-back-extension"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Benches & Racks",
+        "Bodyweight Station",
+        "Core",
+        "Arms",
+        "Bodyweight pressing and trunk flexion",
+        "Rectus abdominis"
+      ]
+    },
+    {
+      "sku": "AFX-HS-044",
+      "slug": "hs-barbell-rack",
+      "name": "Barbell Rack",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-storage",
+      "categoryName": "Storage & Racking",
+      "equipmentType": "Storage",
+      "bodyAreas": [],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 47,
+      "added": 2026.8004,
+      "tier": "HS Series",
+      "band": "value",
+      "short": "Vertical barbell rack holding fixed or Olympic bars upright in moulded saddles.",
+      "description": [
+        "The AFZOX HS Series Barbell Rack stands bars on end in moulded saddles, so a full set of fixed barbells occupies a fraction of the floor a horizontal rack would need.",
+        "The arched twin-column frame is bolt-down and the saddles are set at a consistent pitch, which makes the rack easy to audit at a glance and quick to reset after a class."
+      ],
+      "features": [
+        "Vertical saddle storage for multiple bars",
+        "Arched twin-column frame",
+        "Consistent saddle pitch for quick visual audit",
+        "Compact vertical footprint",
+        "Bolt-down levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Vertical storage for fixed and Olympic barbells.",
+      "muscles": {
+        "primary": [],
+        "secondary": []
+      },
+      "targets": [],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Storage & Racking",
+        "Equipment Type": "Storage",
+        "Resistance Type": "Not applicable — storage",
+        "Primary Movement": "Storage",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-barbell-rack-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-barbell-rack-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-barbell-rack-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-barbell-rack-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-olympic-plate-tree",
+        "hs-two-tier-dumbbell-rack",
+        "hs-three-tier-dumbbell-rack",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Storage & Racking",
+        "Storage",
+        "Storage"
+      ]
+    },
+    {
+      "sku": "AFX-HS-045",
+      "slug": "hs-olympic-plate-tree",
+      "name": "Olympic Plate Tree",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-storage",
+      "categoryName": "Storage & Racking",
+      "equipmentType": "Storage",
+      "bodyAreas": [],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 46,
+      "added": 2026.8003,
+      "tier": "HS Series",
+      "band": "value",
+      "short": "A-frame Olympic plate tree with six horns for sorted plate storage.",
+      "description": [
+        "The AFZOX HS Series Olympic Plate Tree keeps loose plates off the floor and sorted by denomination across six horns on an A-frame.",
+        "Storing plates at working height is the difference between a floor that resets itself after every session and one that has to be tidied — and it removes the most common trip hazard in a free-weight zone."
+      ],
+      "features": [
+        "Six Olympic plate horns",
+        "A-frame footprint",
+        "Plates sorted by denomination at working height",
+        "Compact and repositionable",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Sorted Olympic plate storage in free-weight zones.",
+      "muscles": {
+        "primary": [],
+        "secondary": []
+      },
+      "targets": [],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Storage & Racking",
+        "Equipment Type": "Storage",
+        "Resistance Type": "Not applicable — storage",
+        "Primary Movement": "Storage",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-olympic-plate-tree-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-olympic-plate-tree-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-olympic-plate-tree-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-olympic-plate-tree-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-barbell-rack",
+        "hs-two-tier-dumbbell-rack",
+        "hs-three-tier-dumbbell-rack",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Storage & Racking",
+        "Storage",
+        "Storage"
+      ]
+    },
+    {
+      "sku": "AFX-HS-046",
+      "slug": "hs-two-tier-dumbbell-rack",
+      "name": "Two Tier Dumbbell Rack",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-storage",
+      "categoryName": "Storage & Racking",
+      "equipmentType": "Storage",
+      "bodyAreas": [],
+      "usage": "Commercial & Home",
+      "featured": false,
+      "popular": 45,
+      "added": 2026.8002,
+      "tier": "HS Series",
+      "band": "value",
+      "short": "Two-tier dumbbell rack with moulded saddle cradles on a curved frame.",
+      "description": [
+        "The AFZOX HS Series Two Tier Dumbbell Rack holds a full dumbbell set in moulded saddle cradles across two curved tiers, angled so the handles present toward the user.",
+        "The two-tier height suits floors where members need to reach the top row comfortably, and the open frame keeps the set visible and easy to audit."
+      ],
+      "features": [
+        "Two tiers of moulded saddle cradles",
+        "Curved tiers angling handles toward the user",
+        "Open frame for visual audit",
+        "Low reach height on the top row",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "Dumbbell storage for studios and compact free-weight zones.",
+      "muscles": {
+        "primary": [],
+        "secondary": []
+      },
+      "targets": [],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Storage & Racking",
+        "Equipment Type": "Storage",
+        "Resistance Type": "Not applicable — storage",
+        "Primary Movement": "Storage",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-two-tier-dumbbell-rack-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-two-tier-dumbbell-rack-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-two-tier-dumbbell-rack-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-two-tier-dumbbell-rack-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-barbell-rack",
+        "hs-olympic-plate-tree",
+        "hs-three-tier-dumbbell-rack",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Storage & Racking",
+        "Storage",
+        "Storage"
+      ]
+    },
+    {
+      "sku": "AFX-HS-047",
+      "slug": "hs-three-tier-dumbbell-rack",
+      "name": "Three Tier Dumbbell Rack",
+      "collection": "hs-series",
+      "collectionName": "HS Series",
+      "series": "HS Series",
+      "category": "hs-storage",
+      "categoryName": "Storage & Racking",
+      "equipmentType": "Storage",
+      "bodyAreas": [],
+      "usage": "Commercial & Home",
+      "featured": true,
+      "popular": 44,
+      "added": 2026.8001,
+      "tier": "HS Series",
+      "band": "value",
+      "short": "Three-tier dumbbell rack storing a larger set in a comparable footprint.",
+      "description": [
+        "The AFZOX HS Series Three Tier Dumbbell Rack adds a third row of moulded saddle cradles, taking a larger dumbbell set in close to the same floor area as a two-tier rack.",
+        "The tiers are curved so handles present toward the user on every row, and the whole set stays visible for a quick end-of-day check."
+      ],
+      "features": [
+        "Three tiers of moulded saddle cradles",
+        "Curved tiers angling handles toward the user",
+        "Higher capacity in a comparable footprint",
+        "Open frame for visual audit",
+        "Non-marking levelling feet"
+      ],
+      "applications": [
+        "Commercial gyms",
+        "Fitness centres",
+        "Strength & conditioning facilities",
+        "Sports performance centres",
+        "Hotel and club fitness",
+        "Corporate and institutional gyms"
+      ],
+      "primaryApplication": "High-capacity dumbbell storage for commercial floors.",
+      "muscles": {
+        "primary": [],
+        "secondary": []
+      },
+      "targets": [],
+      "specs": {
+        "Brand": "AFZOX",
+        "Series": "HS Series",
+        "Collection": "HS Series",
+        "Category": "Storage & Racking",
+        "Equipment Type": "Storage",
+        "Resistance Type": "Not applicable — storage",
+        "Primary Movement": "Storage",
+        "Suitable For": "Commercial and home gyms"
+      },
+      "image": "/images/products/hs-series/hs-three-tier-dumbbell-rack-01.jpg",
+      "imageMd": "/images/products/hs-series/hs-three-tier-dumbbell-rack-01-md.jpg",
+      "imageSm": "/images/products/hs-series/hs-three-tier-dumbbell-rack-01-sm.jpg",
+      "images": [
+        "/images/products/hs-series/hs-three-tier-dumbbell-rack-01.jpg"
+      ],
+      "isHome": true,
+      "isCommercial": true,
+      "related": [
+        "hs-barbell-rack",
+        "hs-olympic-plate-tree",
+        "hs-two-tier-dumbbell-rack",
+        "hs-seated-chest-press"
+      ],
+      "tags": [
+        "AFZOX",
+        "HS Series",
+        "Storage & Racking",
+        "Storage",
+        "Storage"
+      ]
+    }
+  ]
+}

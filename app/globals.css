@@ -2,22 +2,80 @@
 @tailwind components;
 @tailwind utilities;
 
+/* =========================================================================
+   AFZOX — motion + layout tokens
+   One timing system for the whole site. Micro-interactions are fast enough
+   to feel responsive, section reveals are unhurried, and only a handful of
+   cinematic moments run long.
+   ========================================================================= */
+:root {
+  --ease-afzox: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-afzox-in: cubic-bezier(0.55, 0, 0.45, 1);
+  --dur-micro: 200ms;
+  --dur-control: 320ms;
+  --dur-section: 560ms;
+  --dur-cinematic: 900ms;
+  --header-h: 76px;
+}
+
+/* =========================================================================
+   LENIS CONTRACT
+
+   Lenis drives scrolling by calling scrollTo on every animation frame. If the
+   document also has `scroll-behavior: smooth`, the browser tries to *animate*
+   to each of those per-frame targets and the two fight — the page crawls a
+   few pixels per second in visible stutters. Lenis ships these rules in
+   `lenis/dist/lenis.css` precisely to prevent that; they are inlined here
+   rather than imported so the whole cascade lives in one file.
+
+   Every selector is scoped to `html.lenis`, which Lenis only adds while it is
+   actually running. Touch devices and reduced-motion users never get the
+   class, so they keep native smooth scrolling untouched.
+   ========================================================================= */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+html.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+html.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+html.lenis.lenis-stopped {
+  overflow: clip;
+}
+html.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
 @layer base {
   html {
     scroll-behavior: smooth;
-    scroll-padding-top: 96px;
+    scroll-padding-top: calc(var(--header-h) + 24px);
+    -webkit-tap-highlight-color: transparent;
   }
   body {
     @apply bg-background text-on-background antialiased;
-    font-feature-settings: 'ss01' on, 'ss02' on;
+    font-feature-settings: 'ss01' on, 'ss02' on, 'cv05' on;
+  }
+  /* Display face carries headings; body face carries everything else.
+     (`.font-display` itself is the Tailwind utility — applying it here too
+     would be circular.) */
+  h1, h2, h3 {
+    font-family: theme('fontFamily.display');
   }
   ::selection {
-    @apply bg-on-background text-inverse-on-surface;
+    @apply bg-brand text-white;
   }
   :focus-visible {
-    outline: 2.5px solid theme('colors.primary');
+    outline: 2px solid theme('colors.brand.DEFAULT');
     outline-offset: 3px;
-    border-radius: 4px;
+    border-radius: 3px;
+  }
+  /* Dark sections get a light focus ring so it stays visible. */
+  .on-ink :focus-visible {
+    outline-color: theme('colors.primary-fixed-dim');
   }
 }
 
@@ -25,96 +83,173 @@
   .shell {
     @apply mx-auto w-full max-w-shell px-margin-mobile md:px-margin-desktop;
   }
+  .shell-wide {
+    @apply mx-auto w-full max-w-[1720px] px-margin-mobile md:px-margin-desktop;
+  }
 
-  /* Mild technical grid — used sparingly on a couple of key sections only.
-     Light variant for white/surface backgrounds, dark variant for the ink
-     sections (CTA bands). Always masked so it fades out rather than
-     tiling hard into a wall of lines. */
+  /* ---------------------------------------------------------------------
+     Section rhythm. Generous on desktop — space is what reads as expensive.
+     --------------------------------------------------------------------- */
+  .section {
+    @apply py-20 md:py-28 lg:py-36;
+  }
+  .section-tight {
+    @apply py-14 md:py-20;
+  }
+  .section-tall {
+    @apply py-24 md:py-36 lg:py-48;
+  }
+
+  /* ---------------------------------------------------------------------
+     Surfaces
+     --------------------------------------------------------------------- */
+  .surface-ink {
+    @apply bg-ink-900 text-white;
+  }
+  .rule {
+    @apply border-t border-black/[0.08];
+  }
+  .rule-ink {
+    @apply border-t border-white/10;
+  }
+
+  /* Technical grid — engineering drawing, not decoration. Always masked so
+     it dissolves rather than tiling into a wall of lines. */
   .hero-grid,
   .bg-grid {
     background-image:
-      linear-gradient(rgba(10, 11, 13, 0.045) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(10, 11, 13, 0.045) 1px, transparent 1px);
-    background-size: 64px 64px;
-    -webkit-mask-image: radial-gradient(ellipse 75% 65% at 30% 25%, #000, transparent 72%);
-    mask-image: radial-gradient(ellipse 75% 65% at 30% 25%, #000, transparent 72%);
+      linear-gradient(rgba(11, 14, 22, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(11, 14, 22, 0.05) 1px, transparent 1px);
+    background-size: 72px 72px;
+    -webkit-mask-image: radial-gradient(ellipse 80% 70% at 30% 20%, #000, transparent 74%);
+    mask-image: radial-gradient(ellipse 80% 70% at 30% 20%, #000, transparent 74%);
   }
   .bg-grid-dark {
     background-image:
-      linear-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
-    background-size: 56px 56px;
-    -webkit-mask-image: radial-gradient(ellipse 70% 70% at 50% 40%, #000, transparent 75%);
-    mask-image: radial-gradient(ellipse 70% 70% at 50% 40%, #000, transparent 75%);
+      linear-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px);
+    background-size: 64px 64px;
+    -webkit-mask-image: radial-gradient(ellipse 75% 75% at 50% 35%, #000, transparent 78%);
+    mask-image: radial-gradient(ellipse 75% 75% at 50% 35%, #000, transparent 78%);
+  }
+
+  /* Very fine grain. Kills the flat-vector look on large dark fields. */
+  .grain::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
   }
 
   .glass-nav {
-    @apply bg-white/75 backdrop-blur-glass border border-black/[0.06] shadow-glass;
+    @apply border border-black/[0.06] bg-white/80 shadow-glass backdrop-blur-glass;
   }
 
+  /* ---------------------------------------------------------------------
+     Buttons — one system, four intents, consistent motion.
+     --------------------------------------------------------------------- */
   .btn {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-6 py-3.5
-           text-label-md uppercase tracking-wide font-semibold transition-all duration-300
-           will-change-transform;
+    @apply relative inline-flex select-none items-center justify-center gap-2 overflow-hidden
+           rounded-lg px-7 py-3.5 text-label-md uppercase
+           transition-[background-color,color,border-color,box-shadow,transform] duration-micro
+           ease-afzox will-change-transform;
   }
+  .btn:active {
+    transform: translateY(0.5px) scale(0.994);
+  }
+  .btn[disabled],
+  .btn[aria-disabled='true'] {
+    @apply pointer-events-none opacity-40;
+  }
+
   .btn-primary {
-    @apply bg-primary text-on-primary hover:-translate-y-0.5 hover:shadow-card-hover;
-    background-image: linear-gradient(135deg, #0066ff 0%, #0050cb 100%);
+    @apply bg-ink-900 text-white hover:bg-brand hover:shadow-card-hover;
   }
   .btn-secondary {
-    @apply bg-transparent border border-on-background text-on-background
-           hover:bg-on-background hover:text-inverse-on-surface;
+    @apply border border-ink-900/25 bg-transparent text-ink-900 hover:border-ink-900 hover:bg-ink-900 hover:text-white;
   }
   .btn-ghost {
-    @apply bg-white/70 backdrop-blur-glass border border-black/10 text-on-background
-           hover:bg-white;
+    @apply border border-black/10 bg-white/70 text-ink-900 backdrop-blur-glass hover:border-black/20 hover:bg-white;
   }
   .btn-whatsapp {
-    @apply bg-whatsapp text-white hover:-translate-y-0.5 hover:shadow-[0_12px_32px_rgba(18,128,64,0.35)];
+    @apply bg-whatsapp text-white hover:brightness-[1.08] hover:shadow-card-hover;
+  }
+  /* For use inside .surface-ink blocks */
+  .btn-on-ink {
+    @apply border border-white/25 bg-white/5 text-white hover:border-white hover:bg-white hover:text-ink-900;
   }
   .btn-sm {
-    @apply px-4 py-2.5 text-xs;
+    @apply px-4 py-2.5 text-label-sm;
+  }
+  .btn-lg {
+    @apply px-9 py-4;
   }
   .btn-block {
     @apply w-full;
   }
 
+  /* Text CTA with a travelling arrow and an underline that draws in.
+     Pair with `group` in the markup — that marker class cannot be @apply'd. */
+  .cta-text {
+    @apply inline-flex items-center gap-2 text-label-md uppercase text-ink-900 transition-colors duration-micro hover:text-brand;
+  }
+  .cta-text__line {
+    @apply block h-px w-full origin-left scale-x-0 bg-current transition-transform duration-control ease-afzox group-hover:scale-x-100;
+  }
+
+  /* ---------------------------------------------------------------------
+     Cards
+     --------------------------------------------------------------------- */
   .card {
-    @apply bg-surface-container-lowest rounded-3xl shadow-card border border-black/[0.03]
-           transition-all duration-300;
+    @apply rounded-2xl border border-black/[0.07] bg-surface-container-lowest shadow-card
+           transition-[box-shadow,transform,border-color] duration-control ease-afzox;
   }
   .card-hover {
-    @apply hover:shadow-card-hover hover:-translate-y-1;
+    @apply hover:-translate-y-1 hover:border-black/[0.12] hover:shadow-card-hover;
   }
 
   .field {
-    @apply w-full rounded-xl border border-outline-variant bg-surface px-3.5 py-2.5 text-sm
-           transition-colors placeholder:text-on-surface-variant/60
-           focus:border-primary focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary/15;
+    @apply w-full rounded-lg border border-outline-variant bg-white px-3.5 py-3 text-body-sm
+           transition-colors duration-micro placeholder:text-on-surface-variant/55
+           focus:border-brand focus:outline-none focus:ring-2 focus:ring-brand/15;
   }
 
   .chip {
-    @apply inline-flex items-center gap-1.5 rounded-full border border-outline-variant
-           px-3.5 py-1.5 text-xs font-semibold text-on-surface-variant transition-colors;
+    @apply inline-flex items-center gap-1.5 rounded-full border border-outline-variant bg-white/60
+           px-3.5 py-1.5 text-label-sm uppercase text-on-surface-variant
+           transition-colors duration-micro;
   }
   .chip[data-active='true'] {
-    @apply bg-on-background border-on-background text-inverse-on-surface;
+    @apply border-ink-900 bg-ink-900 text-white;
+  }
+
+  /* Technical label — SERIES / MODEL / CATEGORY. */
+  .tech-label {
+    @apply text-label-sm uppercase text-on-surface-variant;
   }
 
   .eyebrow {
-    @apply inline-flex items-center gap-2.5 text-label-md uppercase tracking-[0.18em] text-primary font-semibold;
+    @apply inline-flex items-center gap-3 text-label-md uppercase text-brand;
   }
   .eyebrow::before {
     content: '';
-    @apply w-6 h-[1.5px] bg-primary;
+    @apply h-px w-8 bg-brand;
   }
-
-  .section {
-    @apply py-16 md:py-24 lg:py-[100px];
+  .eyebrow-on-ink {
+    @apply inline-flex items-center gap-3 text-label-md uppercase text-primary-fixed-dim;
+  }
+  .eyebrow-on-ink::before {
+    content: '';
+    @apply h-px w-8 bg-primary-fixed-dim;
   }
 }
 
 @layer utilities {
+  .capitalize-first::first-letter {
+    text-transform: uppercase;
+  }
   .no-scrollbar::-webkit-scrollbar {
     display: none;
   }
@@ -125,8 +260,20 @@
   .text-balance {
     text-wrap: balance;
   }
+  .text-pretty {
+    text-wrap: pretty;
+  }
+  /* Fades a scrolling rail out at both ends instead of cutting it. */
+  .edge-fade-x {
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+    mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+  }
 }
 
+/* =========================================================================
+   REDUCED MOTION
+   Everything still works; it just stops moving.
+   ========================================================================= */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -136,27 +283,31 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+  .reveal-el {
+    opacity: 1 !important;
+    transform: none !important;
+  }
 }
 
 /* =========================================================================
    MOBILE REVEAL — CSS-only, zero JS dependency.
 
-   `.reveal-el` is the element Reveal.tsx renders. On desktop its
-   visibility is still JS/IntersectionObserver-driven (with its own
-   fail-safe default-visible + timeout, see Reveal.tsx). Below 768px this
-   block takes over completely with `!important`, which beats the
-   component's inline style regardless of what React/Framer Motion/any
-   observer does or fails to do — so mobile visibility never depends on
-   JS running, hydrating, or an observer firing at all. The entrance is a
-   plain CSS keyframe that starts playing the instant the element paints;
-   worst case (animations disabled, reduced motion, exotic browser bug)
-   the non-animated fallback below is already opacity:1.
+   `.reveal-el` is what Reveal.tsx renders. Above 768px its visibility is
+   IntersectionObserver-driven (with a default-visible state and a timeout
+   fail-safe — see Reveal.tsx). Below 768px this block takes over with
+   `!important`, which beats the component's inline style regardless of what
+   React, Framer Motion or any observer does or fails to do. Mobile
+   visibility therefore never depends on JS running at all: a real device
+   (WhatsApp's in-app browser / an iOS WebView) once left whole
+   below-the-fold sections stuck at opacity:0 under the JS-only version.
+   The failure mode for primary content must always be "show it, skip the
+   animation" — never "stay blank".
    ========================================================================= */
 @media (max-width: 767px) {
   .reveal-el {
     opacity: 1 !important;
     transform: none !important;
-    animation: afzox-reveal-mobile 0.3s cubic-bezier(0.16, 1, 0.3, 1) both !important;
+    animation: afzox-reveal-mobile 0.34s var(--ease-afzox) both !important;
     animation-delay: 0s !important;
     transition: none !important;
   }
@@ -172,16 +323,15 @@
   }
 }
 
-/* Large ambient blur glows are static (not scroll-driven) but still cost
-   real paint/composite time on constrained mobile GPUs — keep them for
-   the desktop "premium" feel, drop them below 768px. */
+/* Large ambient blurs are static but still cost real paint time on
+   constrained mobile GPUs — desktop only. */
 @media (max-width: 767px) {
   .ambient-glow {
     display: none;
   }
   .glass-nav,
   .backdrop-blur-glass {
-    backdrop-filter: blur(8px) !important;
-    -webkit-backdrop-filter: blur(8px) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
   }
 }
