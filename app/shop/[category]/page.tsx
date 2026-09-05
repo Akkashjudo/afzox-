@@ -45,7 +45,9 @@ export function generateMetadata({ params }: { params: { category: string } }): 
   if (!cat) return {};
   const parent = getCollection(cat.collection);
   return {
-    title: `${cat.name} — ${cat.count} Machines`,
+    // "Plate Loaded Machines — 13 Machines" reads badly, so ranges whose name
+    // already ends in the noun count products instead.
+    title: `${cat.name} — ${cat.count} ${/machines$/i.test(cat.name) ? 'Products' : 'Machines'}`,
     description: `${cat.desc} Browse ${cat.count} ${cat.name.toLowerCase()} from the ${parent ? brandName(parent.name) : 'AFZOX'} collection, manufactured and installed across India.`,
     alternates: { canonical: `/shop/${cat.slug}` },
     openGraph: { images: [{ url: `${SITE_URL}${cat.imageLg}` }], type: 'website' },
