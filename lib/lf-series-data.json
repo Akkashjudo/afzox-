@@ -1,0 +1,3173 @@
+{
+ "collection": {
+  "slug": "lf-series",
+  "name": "LF Series",
+  "displayName": "LF SERIES",
+  "short": "Commercial selectorized, bench, rack and cable equipment",
+  "desc": "The AFZOX LF Series is a complete commercial strength range — single-station selectorized machines on shrouded stacks, Olympic and adjustable benches, a Smith machine, dual-column cable stations and the storage that keeps a free-weight floor working. Specified, delivered and installed across India.",
+  "url": "/shop/lf-series",
+  "count": 35
+ },
+ "categories": [
+  {
+   "slug": "lf-selectorized",
+   "name": "Selectorized Strength",
+   "short": "Single-station pin-loaded machines on a shrouded stack, for high-throughput commercial floors.",
+   "desc": "Single-station pin-loaded machines on a shrouded stack, for high-throughput commercial floors.",
+   "thumb": "lf-calf-extension",
+   "image": "/images/products/lf-series/lf-calf-extension-01-md.jpg",
+   "imageLg": "/images/products/lf-series/lf-calf-extension-01.jpg",
+   "count": 18,
+   "url": "/shop/lf-selectorized"
+  },
+  {
+   "slug": "lf-benches-racks",
+   "name": "Benches & Racks",
+   "short": "Olympic benches, adjustable benches, a Smith machine and the racks that anchor a free-weight floor.",
+   "desc": "Olympic benches, adjustable benches, a Smith machine and the racks that anchor a free-weight floor.",
+   "thumb": "lf-adjustable-decline-ab-bench",
+   "image": "/images/products/lf-series/lf-adjustable-decline-ab-bench-01-md.jpg",
+   "imageLg": "/images/products/lf-series/lf-adjustable-decline-ab-bench-01.jpg",
+   "count": 11,
+   "url": "/shop/lf-benches-racks"
+  },
+  {
+   "slug": "lf-cable",
+   "name": "Cable & Functional",
+   "short": "Dual-column cable stations for open-path, multi-plane training.",
+   "desc": "Dual-column cable stations for open-path, multi-plane training.",
+   "thumb": "lf-dual-adjustable-pulley",
+   "image": "/images/products/lf-series/lf-dual-adjustable-pulley-01-md.jpg",
+   "imageLg": "/images/products/lf-series/lf-dual-adjustable-pulley-01.jpg",
+   "count": 2,
+   "url": "/shop/lf-cable"
+  },
+  {
+   "slug": "lf-storage",
+   "name": "Storage & Racking",
+   "short": "Dumbbell, barbell, plate and accessory storage that keeps a commercial floor tidy and safe.",
+   "desc": "Dumbbell, barbell, plate and accessory storage that keeps a commercial floor tidy and safe.",
+   "thumb": "lf-dumbbell-rack",
+   "image": "/images/products/lf-series/lf-dumbbell-rack-01-md.jpg",
+   "imageLg": "/images/products/lf-series/lf-dumbbell-rack-01.jpg",
+   "count": 4,
+   "url": "/shop/lf-storage"
+  }
+ ],
+ "products": [
+  {
+   "sku": "AFX-LF-001",
+   "slug": "lf-calf-extension",
+   "name": "Calf Extension",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 94,
+   "added": 2026.9701,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — calf extension for legs training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Calf Extension is a selectorized machine built around loaded plantar flexion through the calf. The movement path is fixed by the frame, so the gastrocnemius take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Plantar flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Gastrocnemius",
+     "Soleus"
+    ],
+    "secondary": [
+     "Tibialis posterior"
+    ]
+   },
+   "targets": [
+    "Gastrocnemius",
+    "Soleus",
+    "Tibialis posterior"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Plantar flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-calf-extension-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-calf-extension-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-calf-extension-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-calf-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip",
+    "lf-leg-extension-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Plantar flexion",
+    "Gastrocnemius",
+    "Soleus"
+   ]
+  },
+  {
+   "sku": "AFX-LF-002",
+   "slug": "lf-back-extension",
+   "name": "Back Extension",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Back",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 93,
+   "added": 2026.9702,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — back extension for back and core training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Back Extension is a selectorized machine built around trunk extension against resistance. The movement path is fixed by the frame, so the erector spinae take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk extension for back and core training.",
+   "muscles": {
+    "primary": [
+     "Erector spinae"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Erector spinae",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Trunk extension",
+    "Body Area": "Back, Core",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-back-extension-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-back-extension-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-back-extension-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-back-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip",
+    "lf-leg-extension-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Back",
+    "Core",
+    "Trunk extension",
+    "Erector spinae"
+   ]
+  },
+  {
+   "sku": "AFX-LF-003",
+   "slug": "lf-seated-leg-press",
+   "name": "Seated Leg Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 92,
+   "added": 2026.9703,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — seated leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Seated Leg Press is a selectorized machine built around a seated pressing path driven through the legs. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-seated-leg-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-seated-leg-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-seated-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-seated-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-assisted-chin-dip",
+    "lf-leg-extension-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-LF-004",
+   "slug": "lf-assisted-chin-dip",
+   "name": "Assisted Chin & Dip",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Back",
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 91,
+   "added": 2026.9704,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — assisted chin & dip for back and arms training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Assisted Chin & Dip is a selectorized machine built around counterbalanced chin-ups and dips. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Assisted vertical pull and dip for back and arms training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Triceps brachii"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Pectoralis major"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Triceps brachii",
+    "Biceps brachii",
+    "Pectoralis major"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Assisted vertical pull and dip",
+    "Body Area": "Back, Arms",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-assisted-chin-dip-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-assisted-chin-dip-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-assisted-chin-dip-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-assisted-chin-dip-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-leg-extension-leg-curl"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Back",
+    "Arms",
+    "Assisted vertical pull and dip",
+    "Latissimus dorsi",
+    "Triceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-LF-005",
+   "slug": "lf-leg-extension-leg-curl",
+   "name": "Leg Extension & Leg Curl",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 90,
+   "added": 2026.9705,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — leg extension & leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Leg Extension & Leg Curl is a selectorized machine built around knee extension and knee flexion from one seat. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee extension and flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Knee extension and flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-leg-extension-leg-curl-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-leg-extension-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-leg-extension-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-leg-extension-leg-curl-01.jpg",
+    "/images/products/lf-series/lf-leg-extension-leg-curl-02.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Knee extension and flexion",
+    "Quadriceps",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-LF-006",
+   "slug": "lf-adjustable-decline-ab-bench",
+   "name": "Adjustable Decline Ab Bench",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 89,
+   "added": 2026.9706,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — adjustable decline ab bench for core training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Adjustable Decline Ab Bench is a bench built around loaded trunk flexion through the abdominals. The movement path is fixed by the frame, so the rectus abdominis take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques",
+     "Hip flexors"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques",
+    "Hip flexors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-adjustable-decline-ab-bench-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-adjustable-decline-ab-bench-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-adjustable-decline-ab-bench-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-adjustable-decline-ab-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench",
+    "lf-olympic-incline-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-LF-007",
+   "slug": "lf-olympic-bench-press-plate-storage",
+   "name": "Olympic Bench Press with Plate Storage",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 88,
+   "added": 2026.9707,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — olympic bench press with plate storage for chest training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Olympic Bench Press with Plate Storage is a bench built around a horizontal pressing path through the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-olympic-bench-press-plate-storage-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-olympic-bench-press-plate-storage-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-olympic-bench-press-plate-storage-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-olympic-bench-press-plate-storage-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-smith-machine",
+    "lf-flat-bench",
+    "lf-olympic-incline-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-008",
+   "slug": "lf-smith-machine",
+   "name": "Smith Machine",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Rack",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 87,
+   "added": 2026.9708,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — smith machine for full body and legs training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Smith Machine is a rack built around barbell work on a fixed, guided bar path. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Guided barbell path for full body and legs training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Pectoralis major",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Rack",
+    "Primary Movement": "Guided barbell path",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-smith-machine-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-smith-machine-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-smith-machine-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-smith-machine-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-flat-bench",
+    "lf-olympic-incline-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Rack",
+    "Full Body",
+    "Legs",
+    "Guided barbell path",
+    "Quadriceps",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-009",
+   "slug": "lf-flat-bench",
+   "name": "Flat Bench",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 86,
+   "added": 2026.9709,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — flat bench for chest training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Flat Bench is a bench built around a stable flat platform for free-weight pressing. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Bench support for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Bench support",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-flat-bench-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-flat-bench-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-flat-bench-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-flat-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-olympic-incline-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Chest",
+    "Bench support",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-010",
+   "slug": "lf-olympic-incline-bench-press",
+   "name": "Olympic Incline Bench Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 85,
+   "added": 2026.971,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — olympic incline bench press for chest and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Olympic Incline Bench Press is a bench built around an inclined pressing path favouring the upper chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-olympic-incline-bench-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-olympic-incline-bench-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-olympic-incline-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-olympic-incline-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Chest",
+    "Shoulders",
+    "Incline press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-011",
+   "slug": "lf-olympic-flat-bench-press",
+   "name": "Olympic Flat Bench Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 84,
+   "added": 2026.9711,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — olympic flat bench press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Olympic Flat Bench Press is a bench built around a horizontal pressing path through the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-olympic-flat-bench-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-olympic-flat-bench-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-olympic-flat-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-olympic-flat-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-012",
+   "slug": "lf-adjustable-fid-bench",
+   "name": "Adjustable FID Bench",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 83,
+   "added": 2026.9712,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — adjustable fid bench for chest and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Adjustable FID Bench is a bench built around free-weight pressing at flat, incline or decline. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Adjustable bench support for chest and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Adjustable bench support",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-adjustable-fid-bench-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-adjustable-fid-bench-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-adjustable-fid-bench-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-adjustable-fid-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Chest",
+    "Shoulders",
+    "Adjustable bench support",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-013",
+   "slug": "lf-back-extension-bench",
+   "name": "Back Extension Bench",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Back",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 82,
+   "added": 2026.9713,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — back extension bench for back and core training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Back Extension Bench is a bench built around trunk extension against resistance. The movement path is fixed by the frame, so the erector spinae take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk extension for back and core training.",
+   "muscles": {
+    "primary": [
+     "Erector spinae"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Erector spinae",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Trunk extension",
+    "Body Area": "Back, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-back-extension-bench-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-back-extension-bench-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-back-extension-bench-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-back-extension-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Back",
+    "Core",
+    "Trunk extension",
+    "Erector spinae"
+   ]
+  },
+  {
+   "sku": "AFX-LF-014",
+   "slug": "lf-upright-utility-bench",
+   "name": "Upright Utility Bench",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 81,
+   "added": 2026.9714,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — upright utility bench for shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Upright Utility Bench is a bench built around supported upright pressing and curling. The movement path is fixed by the frame, so the deltoids take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Upright bench support for shoulders training.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Upright bench support",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-upright-utility-bench-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-upright-utility-bench-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-upright-utility-bench-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-upright-utility-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Shoulders",
+    "Upright bench support",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-LF-015",
+   "slug": "lf-preacher-curl-bench",
+   "name": "Preacher Curl Bench",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 80,
+   "added": 2026.9715,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — preacher curl bench for arms training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Preacher Curl Bench is a bench built around an elbow flexion path that isolates the biceps. The movement path is fixed by the frame, so the biceps brachii take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow flexion for arms training.",
+   "muscles": {
+    "primary": [
+     "Biceps brachii"
+    ],
+    "secondary": [
+     "Brachialis",
+     "Brachioradialis"
+    ]
+   },
+   "targets": [
+    "Biceps brachii",
+    "Brachialis",
+    "Brachioradialis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Elbow flexion",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-preacher-curl-bench-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-preacher-curl-bench-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-preacher-curl-bench-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-preacher-curl-bench-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Arms",
+    "Elbow flexion",
+    "Biceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-LF-016",
+   "slug": "lf-dual-adjustable-pulley",
+   "name": "Dual Adjustable Pulley",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-cable",
+   "categoryName": "Cable & Functional",
+   "equipmentType": "Cable Machine",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 79,
+   "added": 2026.9716,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Cable & Functional — dual adjustable pulley for full body training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Dual Adjustable Pulley is a cable machine built around open-path cable resistance at any height. The movement path is fixed by the frame, so the full body take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Dual weight stacks with independent pulleys",
+    "Adjustable pulley height across the full column",
+    "Open training path for multi-plane work",
+    "Attachment storage on the frame",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Adjustable cable resistance for full body training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": [
+     "Core & rotational chain"
+    ]
+   },
+   "targets": [
+    "Full body",
+    "Core & rotational chain"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Cable & Functional",
+    "Equipment Type": "Cable Machine",
+    "Primary Movement": "Adjustable cable resistance",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-dual-adjustable-pulley-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-dual-adjustable-pulley-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-dual-adjustable-pulley-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-dual-adjustable-pulley-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-functional-trainer",
+    "lf-smith-machine"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Cable & Functional",
+    "Cable Machine",
+    "Full Body",
+    "Adjustable cable resistance",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-LF-017",
+   "slug": "lf-dumbbell-rack",
+   "name": "Dumbbell Rack",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 78,
+   "added": 2026.9717,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Storage & Racking — dumbbell rack for organising a commercial free-weight floor.",
+   "description": [
+    "The AFZOX LF Series Dumbbell Rack is part of the Storage & Racking range, used to keep plates, bars and dumbbells stored where they are needed and off the floor. It is specified for commercial sites, where equipment is handled continuously rather than occasionally.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade steel frame",
+    "Keeps the training floor organised and equipment accessible",
+    "Non-marking floor protection",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for a commercial free-weight floor.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-dumbbell-rack-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-dumbbell-rack-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-dumbbell-rack-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-dumbbell-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-plate-accessory-rack",
+    "lf-weight-plate-tree",
+    "lf-vertical-barbell-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-LF-018",
+   "slug": "lf-plate-accessory-rack",
+   "name": "Weight Plate & Accessory Rack",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 77,
+   "added": 2026.9718,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Storage & Racking — weight plate & accessory rack for organising a commercial free-weight floor.",
+   "description": [
+    "The AFZOX LF Series Weight Plate & Accessory Rack is part of the Storage & Racking range, used to keep plates, bars and dumbbells stored where they are needed and off the floor. It is specified for commercial sites, where equipment is handled continuously rather than occasionally.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade steel frame",
+    "Keeps the training floor organised and equipment accessible",
+    "Non-marking floor protection",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for a commercial free-weight floor.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-plate-accessory-rack-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-plate-accessory-rack-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-plate-accessory-rack-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-plate-accessory-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-dumbbell-rack",
+    "lf-weight-plate-tree",
+    "lf-vertical-barbell-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-LF-019",
+   "slug": "lf-weight-plate-tree",
+   "name": "Olympic Weight Plate Tree",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 76,
+   "added": 2026.9719,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Storage & Racking — olympic weight plate tree for organising a commercial free-weight floor.",
+   "description": [
+    "The AFZOX LF Series Olympic Weight Plate Tree is part of the Storage & Racking range, used to keep plates, bars and dumbbells stored where they are needed and off the floor. It is specified for commercial sites, where equipment is handled continuously rather than occasionally.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade steel frame",
+    "Keeps the training floor organised and equipment accessible",
+    "Non-marking floor protection",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for a commercial free-weight floor.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-weight-plate-tree-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-weight-plate-tree-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-weight-plate-tree-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-weight-plate-tree-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-dumbbell-rack",
+    "lf-plate-accessory-rack",
+    "lf-vertical-barbell-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-LF-020",
+   "slug": "lf-vertical-barbell-rack",
+   "name": "Vertical Barbell Rack",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 75,
+   "added": 2026.972,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Storage & Racking — vertical barbell rack for organising a commercial free-weight floor.",
+   "description": [
+    "The AFZOX LF Series Vertical Barbell Rack is part of the Storage & Racking range, used to keep plates, bars and dumbbells stored where they are needed and off the floor. It is specified for commercial sites, where equipment is handled continuously rather than occasionally.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade steel frame",
+    "Keeps the training floor organised and equipment accessible",
+    "Non-marking floor protection",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for a commercial free-weight floor.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-vertical-barbell-rack-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-vertical-barbell-rack-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-vertical-barbell-rack-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-vertical-barbell-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-dumbbell-rack",
+    "lf-plate-accessory-rack",
+    "lf-weight-plate-tree"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-LF-021",
+   "slug": "lf-hip-abduction",
+   "name": "Hip Abduction",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Glutes",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 74,
+   "added": 2026.9721,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — hip abduction for glutes and legs training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Hip Abduction is a selectorized machine built around hip abduction against resistance. The movement path is fixed by the frame, so the gluteus medius take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip abduction for glutes and legs training.",
+   "muscles": {
+    "primary": [
+     "Gluteus medius"
+    ],
+    "secondary": [
+     "Gluteus minimus",
+     "Tensor fasciae latae"
+    ]
+   },
+   "targets": [
+    "Gluteus medius",
+    "Gluteus minimus",
+    "Tensor fasciae latae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Hip abduction",
+    "Body Area": "Glutes, Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-hip-abduction-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-hip-abduction-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-hip-abduction-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-hip-abduction-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Glutes",
+    "Legs",
+    "Hip abduction",
+    "Gluteus medius"
+   ]
+  },
+  {
+   "sku": "AFX-LF-022",
+   "slug": "lf-prone-leg-curl",
+   "name": "Prone Leg Curl",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 73,
+   "added": 2026.9722,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — prone leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Prone Leg Curl is a selectorized machine built around a knee flexion path that isolates the hamstrings. The movement path is fixed by the frame, so the hamstrings take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-prone-leg-curl-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-prone-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-prone-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-prone-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-LF-023",
+   "slug": "lf-lat-pulldown",
+   "name": "Lat Pulldown",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 72,
+   "added": 2026.9723,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — lat pulldown for back training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Lat Pulldown is a selectorized machine built around a vertical pulling path that loads the lats. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-LF-024",
+   "slug": "lf-shoulder-press",
+   "name": "Shoulder Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 71,
+   "added": 2026.9724,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — shoulder press for shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Shoulder Press is a selectorized machine built around an overhead pressing path through the deltoids. The movement path is fixed by the frame, so the deltoids take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Overhead press for shoulders training.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Overhead press",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-shoulder-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Shoulders",
+    "Overhead press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-LF-025",
+   "slug": "lf-chest-press",
+   "name": "Chest Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 70,
+   "added": 2026.9725,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — chest press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Chest Press is a selectorized machine built around a horizontal pressing path through the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-chest-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-chest-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-026",
+   "slug": "lf-seated-row",
+   "name": "Seated Row",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 69,
+   "added": 2026.9726,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — seated row for back training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Seated Row is a selectorized machine built around a horizontal pulling path driven by the back. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Trapezius"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Biceps brachii",
+    "Trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-seated-row-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-seated-row-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-seated-row-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-seated-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-LF-027",
+   "slug": "lf-abdominal-crunch",
+   "name": "Abdominal Crunch",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 68,
+   "added": 2026.9727,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — abdominal crunch for core training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Abdominal Crunch is a selectorized machine built around loaded trunk flexion through the abdominals. The movement path is fixed by the frame, so the rectus abdominis take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-abdominal-crunch-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-abdominal-crunch-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-abdominal-crunch-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-abdominal-crunch-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-LF-028",
+   "slug": "lf-hip-adduction",
+   "name": "Hip Adduction",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 67,
+   "added": 2026.9728,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — hip adduction for legs training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Hip Adduction is a selectorized machine built around hip adduction against resistance. The movement path is fixed by the frame, so the adductor magnus take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip adduction for legs training.",
+   "muscles": {
+    "primary": [
+     "Adductor magnus",
+     "Adductor longus"
+    ],
+    "secondary": [
+     "Gracilis",
+     "Pectineus"
+    ]
+   },
+   "targets": [
+    "Adductor magnus",
+    "Adductor longus",
+    "Gracilis",
+    "Pectineus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Hip adduction",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-hip-adduction-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-hip-adduction-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-hip-adduction-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-hip-adduction-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Hip adduction",
+    "Adductor magnus",
+    "Adductor longus"
+   ]
+  },
+  {
+   "sku": "AFX-LF-029",
+   "slug": "lf-rear-deltoid",
+   "name": "Rear Deltoid",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Shoulders",
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 66,
+   "added": 2026.9729,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — rear deltoid for shoulders and back training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Rear Deltoid is a selectorized machine built around a reverse fly arc through the rear deltoids. The movement path is fixed by the frame, so the posterior deltoids take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal abduction for shoulders and back training.",
+   "muscles": {
+    "primary": [
+     "Posterior deltoids"
+    ],
+    "secondary": [
+     "Rhomboids",
+     "Trapezius"
+    ]
+   },
+   "targets": [
+    "Posterior deltoids",
+    "Rhomboids",
+    "Trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal abduction",
+    "Body Area": "Shoulders, Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-rear-deltoid-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-rear-deltoid-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-rear-deltoid-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-rear-deltoid-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Shoulders",
+    "Back",
+    "Horizontal abduction",
+    "Posterior deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-LF-030",
+   "slug": "lf-incline-chest-press",
+   "name": "Incline Chest Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 65,
+   "added": 2026.973,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — incline chest press for chest and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Incline Chest Press is a selectorized machine built around an inclined pressing path favouring the upper chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-incline-chest-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-incline-chest-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-incline-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-incline-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Shoulders",
+    "Incline press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-031",
+   "slug": "lf-leg-press-calf-raise",
+   "name": "Leg Press & Calf Raise",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 64,
+   "added": 2026.9731,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — leg press & calf raise for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Leg Press & Calf Raise is a selectorized machine built around a seated leg press that converts to calf work. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press and plantar flexion for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gastrocnemius"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gastrocnemius",
+    "Gluteus maximus",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Leg press and plantar flexion",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-leg-press-calf-raise-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-leg-press-calf-raise-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-leg-press-calf-raise-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-leg-press-calf-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Legs",
+    "Glutes",
+    "Leg press and plantar flexion",
+    "Quadriceps",
+    "Gastrocnemius"
+   ]
+  },
+  {
+   "sku": "AFX-LF-032",
+   "slug": "lf-pectoral-fly",
+   "name": "Pectoral Fly",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 63,
+   "added": 2026.9732,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — pectoral fly for chest training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Pectoral Fly is a selectorized machine built around a horizontal fly arc across the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal adduction for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal adduction",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-pectoral-fly-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-pectoral-fly-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-pectoral-fly-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-pectoral-fly-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Horizontal adduction",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-LF-033",
+   "slug": "lf-pectoral-fly-rear-deltoid",
+   "name": "Pectoral Fly & Rear Deltoid",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-selectorized",
+   "categoryName": "Selectorized Strength",
+   "equipmentType": "Selectorized Machine",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 62,
+   "added": 2026.9733,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Selectorized Strength — pectoral fly & rear deltoid for chest and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Pectoral Fly & Rear Deltoid is a selectorized machine built around opposing horizontal arcs for the chest and rear deltoid. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Single-station selectorized weight stack",
+    "Shrouded stack with printed instruction placard",
+    "Guided movement path on sealed bearings",
+    "Ergonomic high-density upholstery",
+    "Pop-pin adjustment for seat position",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal abduction and adduction for chest and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major",
+     "Posterior deltoids"
+    ],
+    "secondary": [
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Posterior deltoids",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Selectorized Strength",
+    "Equipment Type": "Selectorized Machine",
+    "Primary Movement": "Horizontal abduction and adduction",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-pectoral-fly-rear-deltoid-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-pectoral-fly-rear-deltoid-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-pectoral-fly-rear-deltoid-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-pectoral-fly-rear-deltoid-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-calf-extension",
+    "lf-back-extension",
+    "lf-seated-leg-press",
+    "lf-assisted-chin-dip"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Selectorized Strength",
+    "Selectorized Machine",
+    "Chest",
+    "Shoulders",
+    "Horizontal abduction and adduction",
+    "Pectoralis major",
+    "Posterior deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-LF-034",
+   "slug": "lf-functional-trainer",
+   "name": "Functional Trainer",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-cable",
+   "categoryName": "Cable & Functional",
+   "equipmentType": "Functional Trainer",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 61,
+   "added": 2026.9734,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Cable & Functional — functional trainer for full body training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Functional Trainer is a functional trainer built around open-path cable resistance at any height. The movement path is fixed by the frame, so the full body take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Dual weight stacks with independent pulleys",
+    "Adjustable pulley height across the full column",
+    "Open training path for multi-plane work",
+    "Attachment storage on the frame",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Adjustable cable resistance for full body training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": [
+     "Core & rotational chain"
+    ]
+   },
+   "targets": [
+    "Full body",
+    "Core & rotational chain"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Cable & Functional",
+    "Equipment Type": "Functional Trainer",
+    "Primary Movement": "Adjustable cable resistance",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Selectorized weight stack"
+   },
+   "image": "/images/products/lf-series/lf-functional-trainer-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-functional-trainer-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-functional-trainer-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-functional-trainer-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-dual-adjustable-pulley",
+    "lf-smith-machine"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Cable & Functional",
+    "Functional Trainer",
+    "Full Body",
+    "Adjustable cable resistance",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-LF-035",
+   "slug": "lf-olympic-decline-bench-press",
+   "name": "Olympic Decline Bench Press",
+   "collection": "lf-series",
+   "collectionName": "LF Series",
+   "series": "LF Series",
+   "category": "lf-benches-racks",
+   "categoryName": "Benches & Racks",
+   "equipmentType": "Bench",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 60,
+   "added": 2026.9735,
+   "tier": "LF Series",
+   "band": "premium",
+   "short": "Benches & Racks — olympic decline bench press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX LF Series Olympic Decline Bench Press is a bench built around a declined pressing path through the lower chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Heavy-gauge commercial steel frame",
+    "High-density upholstery on a wide pad",
+    "Non-slip floor protection at every contact point",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Decline press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Anterior deltoids"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Triceps brachii",
+    "Anterior deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "LF Series",
+    "Collection": "LF Series",
+    "Category": "Benches & Racks",
+    "Equipment Type": "Bench",
+    "Primary Movement": "Decline press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/lf-series/lf-olympic-decline-bench-press-01.jpg",
+   "imageMd": "/images/products/lf-series/lf-olympic-decline-bench-press-01-md.jpg",
+   "imageSm": "/images/products/lf-series/lf-olympic-decline-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/lf-series/lf-olympic-decline-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "lf-adjustable-decline-ab-bench",
+    "lf-olympic-bench-press-plate-storage",
+    "lf-smith-machine",
+    "lf-flat-bench"
+   ],
+   "tags": [
+    "AFZOX",
+    "LF Series",
+    "Benches & Racks",
+    "Bench",
+    "Chest",
+    "Decline press",
+    "Pectoralis major"
+   ]
+  }
+ ]
+}

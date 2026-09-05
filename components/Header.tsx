@@ -79,6 +79,23 @@ export default function Header() {
     setMegaOpen(false);
   }, [pathname]);
 
+  /* ---- Close the mobile panel once the layout is desktop again ----
+   *
+   * The panel is `lg:hidden`, so widening the window used to hide it while
+   * `mobileOpen` stayed true — which left the scroll lock held with no visible
+   * control to release it, and a desktop page that would not scroll. Watching
+   * the breakpoint the panel is hidden at keeps the two in step across resize
+   * and orientation change. */
+  useEffect(() => {
+    const mq = window.matchMedia('(min-width: 1024px)');
+    const sync = () => {
+      if (mq.matches) setMobileOpen(false);
+    };
+    sync();
+    mq.addEventListener('change', sync);
+    return () => mq.removeEventListener('change', sync);
+  }, []);
+
   // Refcounted so it cannot fight the filter drawer's lock, and so it stops
   // Lenis — `overflow: hidden` alone does not, because Lenis scrolls the
   // window programmatically and the page kept moving behind the open menu.
@@ -95,6 +112,7 @@ export default function Header() {
   const onDark = overHero && !scrolled && !mobileOpen;
 
   return (
+    <>
     <header
       className={`fixed inset-x-0 top-0 z-[100] transition-[background-color,border-color,box-shadow] duration-control ease-afzox ${
         onDark
@@ -310,8 +328,19 @@ export default function Header() {
           </button>
         </div>
       </div>
+      </header>
 
-      {/* ---------------- Mobile panel ---------------- */}
+      {/* ---------------- Mobile panel ----------------
+       *
+       * Deliberately a sibling of <header>, never a child of it.
+       *
+       * The bar carries `backdrop-blur` whenever it is scrolled or the menu is
+       * open, and `backdrop-filter` makes an element the containing block for
+       * its `position: fixed` descendants. Nested inside the header the panel
+       * resolved `top: var(--header-h); bottom: 0` against the 76px bar rather
+       * than the viewport and computed to zero height: the button toggled, the
+       * icon changed, the page locked, and nothing appeared. Out here it
+       * resolves against the viewport, which is what it wants. */}
       <AnimatePresence>
         {mobileOpen && (
           <motion.div
@@ -326,6 +355,14 @@ export default function Header() {
             <motion.nav
               aria-label="Mobile"
               className="shell flex flex-col py-6"
+              /* Close on any link tap, not only on a route change. Tapping the
+               * entry for the page you are already on leaves `pathname`
+               * untouched, so the route effect never fires — the panel stayed
+               * open with the scroll still locked, which reads as a menu that
+               * has stopped responding. */
+              onClick={(e) => {
+                if ((e.target as HTMLElement).closest('a')) setMobileOpen(false);
+              }}
               initial="hidden"
               animate="show"
               variants={{ hidden: {}, show: { transition: { staggerChildren: STAGGER.tight, delayChildren: 0.04 } } }}
@@ -384,7 +421,7 @@ export default function Header() {
           </motion.div>
         )}
       </AnimatePresence>
-    </header>
+    </>
   );
 }
 

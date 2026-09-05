@@ -1,0 +1,3156 @@
+{
+ "collection": {
+  "slug": "cb-series",
+  "name": "CB Series",
+  "displayName": "CB SERIES",
+  "short": "Olympic plate-loaded strength equipment",
+  "desc": "The AFZOX CB Series is a plate-loaded strength range — iso-lateral pressing and pulling stations, lever isolation machines, leg presses and squat frames, all loaded with Olympic plates rather than a selector stack. Specified, delivered and installed across India.",
+  "url": "/shop/cb-series",
+  "count": 34
+ },
+ "categories": [
+  {
+   "slug": "cb-plate-loaded",
+   "name": "Plate Loaded Upper Body",
+   "short": "Iso-lateral and lever pressing, pulling and isolation stations loaded with Olympic plates.",
+   "desc": "Iso-lateral and lever pressing, pulling and isolation stations loaded with Olympic plates.",
+   "thumb": "cb-shoulder-press",
+   "image": "/images/products/cb-series/cb-shoulder-press-01-md.jpg",
+   "imageLg": "/images/products/cb-series/cb-shoulder-press-01.jpg",
+   "count": 15,
+   "url": "/shop/cb-plate-loaded"
+  },
+  {
+   "slug": "cb-legs",
+   "name": "Plate Loaded Legs & Glutes",
+   "short": "Leg presses, squat frames, curl and extension levers and the glute and calf stations that sit with them.",
+   "desc": "Leg presses, squat frames, curl and extension levers and the glute and calf stations that sit with them.",
+   "thumb": "cb-prone-leg-curl",
+   "image": "/images/products/cb-series/cb-prone-leg-curl-01-md.jpg",
+   "imageLg": "/images/products/cb-series/cb-prone-leg-curl-01.jpg",
+   "count": 17,
+   "url": "/shop/cb-legs"
+  },
+  {
+   "slug": "cb-benches",
+   "name": "Plate Loaded Core & Support",
+   "short": "Plate-loaded trunk, back and support stations for a free-weight floor.",
+   "desc": "Plate-loaded trunk, back and support stations for a free-weight floor.",
+   "thumb": "cb-abdominal-crunch",
+   "image": "/images/products/cb-series/cb-abdominal-crunch-01-md.jpg",
+   "imageLg": "/images/products/cb-series/cb-abdominal-crunch-01.jpg",
+   "count": 2,
+   "url": "/shop/cb-benches"
+  }
+ ],
+ "products": [
+  {
+   "sku": "AFX-CB-001",
+   "slug": "cb-prone-leg-curl",
+   "name": "Prone Leg Curl",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 94,
+   "added": 2026.9701,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — prone leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Prone Leg Curl is a plate loaded machine built around a knee flexion path that isolates the hamstrings. The movement path is fixed by the frame, so the hamstrings take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-prone-leg-curl-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-prone-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-prone-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-prone-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension",
+    "cb-seated-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-CB-002",
+   "slug": "cb-shoulder-press",
+   "name": "Shoulder Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 93,
+   "added": 2026.9702,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — shoulder press for shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Shoulder Press is a plate loaded machine built around an overhead pressing path through the deltoids. The movement path is fixed by the frame, so the deltoids take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Overhead press for shoulders training.",
+   "muscles": {
+    "primary": [
+     "Deltoids"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Upper trapezius"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Triceps brachii",
+    "Upper trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Overhead press",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-shoulder-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-shoulder-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-shoulder-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-shoulder-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press",
+    "cb-lat-pulldown"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Overhead press",
+    "Deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-CB-003",
+   "slug": "cb-leg-curl-leg-extension",
+   "name": "Leg Curl & Leg Extension",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 92,
+   "added": 2026.9703,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — leg curl & leg extension for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Leg Curl & Leg Extension is a plate loaded machine built around a controlled training movement. The movement path is fixed by the frame, so the hamstrings take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion and extension for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings",
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Quadriceps",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Knee flexion and extension",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-leg-curl-leg-extension-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-leg-curl-leg-extension-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-leg-curl-leg-extension-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-leg-curl-leg-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-seated-leg-curl",
+    "cb-leg-extension",
+    "cb-seated-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion and extension",
+    "Hamstrings",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-CB-004",
+   "slug": "cb-incline-chest-press",
+   "name": "Incline Chest Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 91,
+   "added": 2026.9704,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — incline chest press for chest and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Incline Chest Press is a plate loaded machine built around an inclined pressing path favouring the upper chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Incline press for chest and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Incline press",
+    "Body Area": "Chest, Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-incline-chest-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-incline-chest-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-incline-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-incline-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-standing-row",
+    "cb-bench-press",
+    "cb-lat-pulldown"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Chest",
+    "Shoulders",
+    "Incline press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-CB-005",
+   "slug": "cb-standing-row",
+   "name": "Standing Row",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 90,
+   "added": 2026.9705,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — standing row for back training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Standing Row is a plate loaded machine built around a horizontal pulling path driven by the back. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Trapezius"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Biceps brachii",
+    "Trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-standing-row-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-standing-row-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-standing-row-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-standing-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-bench-press",
+    "cb-lat-pulldown"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-CB-006",
+   "slug": "cb-bench-press",
+   "name": "Bench Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 89,
+   "added": 2026.9706,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — bench press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Bench Press is a plate loaded machine built around a horizontal pressing path through the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-bench-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-bench-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-bench-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-bench-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-lat-pulldown"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-CB-007",
+   "slug": "cb-lat-pulldown",
+   "name": "Lat Pulldown",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 88,
+   "added": 2026.9707,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — lat pulldown for back training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Lat Pulldown is a plate loaded machine built around a vertical pulling path that loads the lats. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-CB-008",
+   "slug": "cb-multi-station",
+   "name": "Multi-Station Trainer",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Multi Station",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 87,
+   "added": 2026.9708,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — multi-station trainer for full body training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Multi-Station Trainer is a multi station built around several training stations sharing one frame. The movement path is fixed by the frame, so the full body take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Multi-station training for full body training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": [
+     "Core & rotational chain"
+    ]
+   },
+   "targets": [
+    "Full body",
+    "Core & rotational chain"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Multi Station",
+    "Primary Movement": "Multi-station training",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-multi-station-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-multi-station-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-multi-station-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-multi-station-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Multi Station",
+    "Full Body",
+    "Multi-station training",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-CB-009",
+   "slug": "cb-abdominal-crunch",
+   "name": "Abdominal Crunch",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-benches",
+   "categoryName": "Plate Loaded Core & Support",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 86,
+   "added": 2026.9709,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Core & Support — abdominal crunch for core training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Abdominal Crunch is a plate loaded machine built around loaded trunk flexion through the abdominals. The movement path is fixed by the frame, so the rectus abdominis take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques",
+     "Hip flexors"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques",
+    "Hip flexors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Core & Support",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-abdominal-crunch-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-abdominal-crunch-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-abdominal-crunch-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-abdominal-crunch-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-rotary-torso"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Core & Support",
+    "Plate Loaded Machine",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-CB-010",
+   "slug": "cb-seated-row",
+   "name": "Seated Row",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 85,
+   "added": 2026.971,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — seated row for back training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Seated Row is a plate loaded machine built around a horizontal pulling path driven by the back. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rhomboids"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Trapezius"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rhomboids",
+    "Biceps brachii",
+    "Trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Horizontal pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-seated-row-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-seated-row-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-seated-row-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-seated-row-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Back",
+    "Horizontal pull",
+    "Latissimus dorsi",
+    "Rhomboids"
+   ]
+  },
+  {
+   "sku": "AFX-CB-011",
+   "slug": "cb-seated-leg-curl",
+   "name": "Seated Leg Curl",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 84,
+   "added": 2026.9711,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — seated leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Seated Leg Curl is a plate loaded machine built around a knee flexion path that isolates the hamstrings. The movement path is fixed by the frame, so the hamstrings take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-seated-leg-curl-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-seated-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-seated-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-seated-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-leg-extension",
+    "cb-seated-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-CB-012",
+   "slug": "cb-preacher-curl",
+   "name": "Preacher Curl",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 83,
+   "added": 2026.9712,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — preacher curl for arms training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Preacher Curl is a plate loaded machine built around an elbow flexion path that isolates the biceps. The movement path is fixed by the frame, so the biceps brachii take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow flexion for arms training.",
+   "muscles": {
+    "primary": [
+     "Biceps brachii"
+    ],
+    "secondary": [
+     "Brachialis",
+     "Brachioradialis"
+    ]
+   },
+   "targets": [
+    "Biceps brachii",
+    "Brachialis",
+    "Brachioradialis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Elbow flexion",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-preacher-curl-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-preacher-curl-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-preacher-curl-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-preacher-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Arms",
+    "Elbow flexion",
+    "Biceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-CB-013",
+   "slug": "cb-leg-extension",
+   "name": "Leg Extension",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 82,
+   "added": 2026.9713,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — leg extension for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Leg Extension is a plate loaded machine built around a knee extension path that isolates the quadriceps. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee extension for legs training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Tensor fasciae latae"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Tensor fasciae latae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Knee extension",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-leg-extension-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-leg-extension-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-leg-extension-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-leg-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-seated-calf-raise"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee extension",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-CB-014",
+   "slug": "cb-seated-calf-raise",
+   "name": "Seated Calf Raise",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 81,
+   "added": 2026.9714,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — seated calf raise for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Seated Calf Raise is a plate loaded machine built around loaded plantar flexion through the calf. The movement path is fixed by the frame, so the soleus take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Plantar flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Soleus"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Soleus",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Plantar flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-seated-calf-raise-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-seated-calf-raise-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-seated-calf-raise-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-seated-calf-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Plantar flexion",
+    "Soleus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-015",
+   "slug": "cb-lateral-raise",
+   "name": "Lateral Raise",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 80,
+   "added": 2026.9715,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — lateral raise for shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Lateral Raise is a plate loaded machine built around a lateral raise arc through the side deltoid. The movement path is fixed by the frame, so the lateral deltoids take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Shoulder abduction for shoulders training.",
+   "muscles": {
+    "primary": [
+     "Lateral deltoids"
+    ],
+    "secondary": [
+     "Supraspinatus",
+     "Trapezius"
+    ]
+   },
+   "targets": [
+    "Lateral deltoids",
+    "Supraspinatus",
+    "Trapezius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Shoulder abduction",
+    "Body Area": "Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-lateral-raise-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-lateral-raise-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-lateral-raise-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-lateral-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Shoulders",
+    "Shoulder abduction",
+    "Lateral deltoids"
+   ]
+  },
+  {
+   "sku": "AFX-CB-016",
+   "slug": "cb-seated-chest-press",
+   "name": "Seated Chest Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 79,
+   "added": 2026.9716,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — seated chest press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Seated Chest Press is a plate loaded machine built around a horizontal pressing path through the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-seated-chest-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-seated-chest-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-seated-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-seated-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-CB-017",
+   "slug": "cb-glute-drive",
+   "name": "Glute Drive",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 78,
+   "added": 2026.9717,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — glute drive for glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Glute Drive is a plate loaded machine built around hip extension loaded across the glutes. The movement path is fixed by the frame, so the gluteus maximus take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes training.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-glute-drive-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-glute-drive-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-glute-drive-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-glute-drive-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-018",
+   "slug": "cb-shrug",
+   "name": "Shrug",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 77,
+   "added": 2026.9718,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — shrug for back and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Shrug is a plate loaded machine built around a loaded shrug through the upper trapezius. The movement path is fixed by the frame, so the upper trapezius take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Scapular elevation for back and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Upper trapezius"
+    ],
+    "secondary": [
+     "Levator scapulae",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Upper trapezius",
+    "Levator scapulae",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Scapular elevation",
+    "Body Area": "Back, Shoulders",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-shrug-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-shrug-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-shrug-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-shrug-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Back",
+    "Shoulders",
+    "Scapular elevation",
+    "Upper trapezius"
+   ]
+  },
+  {
+   "sku": "AFX-CB-019",
+   "slug": "cb-forty-five-degree-leg-press",
+   "name": "45° Leg Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 76,
+   "added": 2026.9719,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — 45° leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series 45° Leg Press is a plate loaded machine built around a seated pressing path driven through the legs. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-forty-five-degree-leg-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-forty-five-degree-leg-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-forty-five-degree-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-forty-five-degree-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-020",
+   "slug": "cb-belt-squat",
+   "name": "Belt Squat",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 75,
+   "added": 2026.972,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — belt squat for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Belt Squat is a plate loaded machine built around a squat pattern with the load carried by the frame. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Loaded squat for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Loaded squat",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-belt-squat-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-belt-squat-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-belt-squat-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-belt-squat-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Loaded squat",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-021",
+   "slug": "cb-seated-leg-press",
+   "name": "Seated Leg Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 74,
+   "added": 2026.9721,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — seated leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Seated Leg Press is a plate loaded machine built around a seated pressing path driven through the legs. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-seated-leg-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-seated-leg-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-seated-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-seated-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-022",
+   "slug": "cb-hack-squat",
+   "name": "Hack Squat",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 73,
+   "added": 2026.9722,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — hack squat for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Hack Squat is a plate loaded machine built around a squat pattern with the load carried by the frame. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Loaded squat for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Loaded squat",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-hack-squat-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-hack-squat-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-hack-squat-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-hack-squat-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Loaded squat",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-CB-023",
+   "slug": "cb-hip-thrust",
+   "name": "Hip Thrust",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 72,
+   "added": 2026.9723,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — hip thrust for glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Hip Thrust is a plate loaded machine built around hip extension loaded across the glutes. The movement path is fixed by the frame, so the gluteus maximus take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes training.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-hip-thrust-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-hip-thrust-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-hip-thrust-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-hip-thrust-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-024",
+   "slug": "cb-standing-lat-pulldown",
+   "name": "Standing Lat Pulldown",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 71,
+   "added": 2026.9724,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — standing lat pulldown for back training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Standing Lat Pulldown is a plate loaded machine built around a vertical pulling path that loads the lats. The movement path is fixed by the frame, so the latissimus dorsi take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Vertical pull for back training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rhomboids"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Biceps brachii",
+    "Rhomboids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Vertical pull",
+    "Body Area": "Back",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-standing-lat-pulldown-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-standing-lat-pulldown-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-standing-lat-pulldown-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-standing-lat-pulldown-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Back",
+    "Vertical pull",
+    "Latissimus dorsi"
+   ]
+  },
+  {
+   "sku": "AFX-CB-025",
+   "slug": "cb-chest-press",
+   "name": "Chest Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Chest"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 70,
+   "added": 2026.9725,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — chest press for chest training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Chest Press is a plate loaded machine built around a horizontal pressing path through the chest. The movement path is fixed by the frame, so the pectoralis major take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal press for chest training.",
+   "muscles": {
+    "primary": [
+     "Pectoralis major"
+    ],
+    "secondary": [
+     "Anterior deltoids",
+     "Triceps brachii"
+    ]
+   },
+   "targets": [
+    "Pectoralis major",
+    "Anterior deltoids",
+    "Triceps brachii"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Horizontal press",
+    "Body Area": "Chest",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-chest-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-chest-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-chest-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-chest-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Chest",
+    "Horizontal press",
+    "Pectoralis major"
+   ]
+  },
+  {
+   "sku": "AFX-CB-026",
+   "slug": "cb-standing-calf-raise",
+   "name": "Standing Calf Raise",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 69,
+   "added": 2026.9726,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — standing calf raise for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Standing Calf Raise is a plate loaded machine built around loaded plantar flexion through the calf. The movement path is fixed by the frame, so the gastrocnemius take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Plantar flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Gastrocnemius"
+    ],
+    "secondary": [
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Gastrocnemius",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Plantar flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-standing-calf-raise-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-standing-calf-raise-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-standing-calf-raise-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-standing-calf-raise-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Plantar flexion",
+    "Gastrocnemius"
+   ]
+  },
+  {
+   "sku": "AFX-CB-027",
+   "slug": "cb-biceps-curl",
+   "name": "Biceps Curl",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 68,
+   "added": 2026.9727,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — biceps curl for arms training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Biceps Curl is a plate loaded machine built around an elbow flexion path that isolates the biceps. The movement path is fixed by the frame, so the biceps brachii take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow flexion for arms training.",
+   "muscles": {
+    "primary": [
+     "Biceps brachii"
+    ],
+    "secondary": [
+     "Brachialis",
+     "Brachioradialis"
+    ]
+   },
+   "targets": [
+    "Biceps brachii",
+    "Brachialis",
+    "Brachioradialis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Elbow flexion",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-biceps-curl-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-biceps-curl-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-biceps-curl-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-biceps-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Arms",
+    "Elbow flexion",
+    "Biceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-CB-028",
+   "slug": "cb-glute-kickback",
+   "name": "Glute Kickback",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 67,
+   "added": 2026.9728,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — glute kickback for glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Glute Kickback is a plate loaded machine built around hip extension loaded across the glutes. The movement path is fixed by the frame, so the gluteus maximus take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hip extension for glutes training.",
+   "muscles": {
+    "primary": [
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Hip extension",
+    "Body Area": "Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-glute-kickback-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-glute-kickback-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-glute-kickback-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-glute-kickback-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Glutes",
+    "Hip extension",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-029",
+   "slug": "cb-triceps-extension",
+   "name": "Triceps Extension",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-plate-loaded",
+   "categoryName": "Plate Loaded Upper Body",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 66,
+   "added": 2026.9729,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Upper Body — triceps extension for arms training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Triceps Extension is a plate loaded machine built around an elbow extension path that isolates the triceps. The movement path is fixed by the frame, so the triceps brachii take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elbow extension for arms training.",
+   "muscles": {
+    "primary": [
+     "Triceps brachii"
+    ],
+    "secondary": [
+     "Anconeus"
+    ]
+   },
+   "targets": [
+    "Triceps brachii",
+    "Anconeus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Upper Body",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Elbow extension",
+    "Body Area": "Arms",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-triceps-extension-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-triceps-extension-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-triceps-extension-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-triceps-extension-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-shoulder-press",
+    "cb-incline-chest-press",
+    "cb-standing-row",
+    "cb-bench-press"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Upper Body",
+    "Plate Loaded Machine",
+    "Arms",
+    "Elbow extension",
+    "Triceps brachii"
+   ]
+  },
+  {
+   "sku": "AFX-CB-030",
+   "slug": "cb-linear-leg-press",
+   "name": "Linear Leg Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 65,
+   "added": 2026.973,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — linear leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Linear Leg Press is a plate loaded machine built around a seated pressing path driven through the legs. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-linear-leg-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-linear-leg-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-linear-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-linear-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-CB-031",
+   "slug": "cb-rotary-torso",
+   "name": "Rotary Torso",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-benches",
+   "categoryName": "Plate Loaded Core & Support",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 64,
+   "added": 2026.9731,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Core & Support — rotary torso for core training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Rotary Torso is a plate loaded machine built around controlled rotation loaded through the obliques. The movement path is fixed by the frame, so the obliques take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk rotation for core training.",
+   "muscles": {
+    "primary": [
+     "Obliques"
+    ],
+    "secondary": [
+     "Rectus abdominis",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Obliques",
+    "Rectus abdominis",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Core & Support",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Trunk rotation",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-rotary-torso-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-rotary-torso-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-rotary-torso-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-rotary-torso-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-abdominal-crunch"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Core & Support",
+    "Plate Loaded Machine",
+    "Core",
+    "Trunk rotation",
+    "Obliques"
+   ]
+  },
+  {
+   "sku": "AFX-CB-032",
+   "slug": "cb-kneeling-leg-curl",
+   "name": "Kneeling Leg Curl",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 63,
+   "added": 2026.9732,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — kneeling leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Kneeling Leg Curl is a plate loaded machine built around a knee flexion path that isolates the hamstrings. The movement path is fixed by the frame, so the hamstrings take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius",
+     "Gluteus maximus"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius",
+    "Gluteus maximus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-kneeling-leg-curl-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-kneeling-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-kneeling-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-kneeling-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-CB-033",
+   "slug": "cb-reclining-leg-curl",
+   "name": "Reclining Leg Curl",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 62,
+   "added": 2026.9733,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — reclining leg curl for legs training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Reclining Leg Curl is a plate loaded machine built around a knee flexion path that isolates the hamstrings. The movement path is fixed by the frame, so the hamstrings take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Knee flexion for legs training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gastrocnemius"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Gastrocnemius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Knee flexion",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-reclining-leg-curl-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-reclining-leg-curl-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-reclining-leg-curl-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-reclining-leg-curl-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Knee flexion",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-CB-034",
+   "slug": "cb-incline-leg-press",
+   "name": "Incline Leg Press",
+   "collection": "cb-series",
+   "collectionName": "CB Series",
+   "series": "CB Series",
+   "category": "cb-legs",
+   "categoryName": "Plate Loaded Legs & Glutes",
+   "equipmentType": "Plate Loaded Machine",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 61,
+   "added": 2026.9734,
+   "tier": "CB Series",
+   "band": "premium",
+   "short": "Plate Loaded Legs & Glutes — incline leg press for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX CB Series Incline Leg Press is a plate loaded machine built around a seated pressing path driven through the legs. The movement path is fixed by the frame, so the quadriceps take the load without the stabilising demand of a free-weight equivalent.",
+    "It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally, and where changeover between members has to take seconds.",
+    "Catalogue photography for this range carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Olympic plate-loaded resistance",
+    "Independent movement arms for iso-lateral loading",
+    "Integrated plate storage horns",
+    "Ergonomic high-density upholstery",
+    "Multi-grip handles",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Leg press for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Hamstrings",
+     "Soleus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings",
+    "Soleus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "CB Series",
+    "Collection": "CB Series",
+    "Category": "Plate Loaded Legs & Glutes",
+    "Equipment Type": "Plate Loaded Machine",
+    "Primary Movement": "Leg press",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Resistance Type": "Olympic plate loaded"
+   },
+   "image": "/images/products/cb-series/cb-incline-leg-press-01.jpg",
+   "imageMd": "/images/products/cb-series/cb-incline-leg-press-01-md.jpg",
+   "imageSm": "/images/products/cb-series/cb-incline-leg-press-01-sm.jpg",
+   "images": [
+    "/images/products/cb-series/cb-incline-leg-press-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cb-prone-leg-curl",
+    "cb-leg-curl-leg-extension",
+    "cb-seated-leg-curl",
+    "cb-leg-extension"
+   ],
+   "tags": [
+    "AFZOX",
+    "CB Series",
+    "Plate Loaded Legs & Glutes",
+    "Plate Loaded Machine",
+    "Legs",
+    "Glutes",
+    "Leg press",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  }
+ ]
+}

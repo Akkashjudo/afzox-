@@ -3,6 +3,8 @@ import rawAfzoxExtra from './afzox-series-extra.json';
 import rawHsSeries from './hs-series-data.json';
 import rawPsSeries from './ps-series-data.json';
 import rawBbSeries from './bb-series-data.json';
+import rawLfSeries from './lf-series-data.json';
+import rawCbSeries from './cb-series-data.json';
 import type { BodyArea, Brand, Category, Collection, FilterState, PriceBand, Product } from './types';
 
 export const BRAND = rawAfzoxCore.brand as unknown as Brand;
@@ -28,6 +30,8 @@ export const ACCESSORIES_SLUG = AFZOX_SERIES_SLUG;
 export const HS_SERIES_SLUG = 'hs-series';
 export const PS_SERIES_SLUG = 'ps-series';
 export const BB_SERIES_SLUG = 'bb-series';
+export const LF_SERIES_SLUG = 'lf-series';
+export const CB_SERIES_SLUG = 'cb-series';
 
 /** Equipment type for each of the seven original AFZOX Series ranges. */
 const ACCESSORY_EQUIPMENT_TYPE: Record<string, string> = {
@@ -81,6 +85,8 @@ const ACCESSORY_PRODUCTS: Product[] = (rawAfzoxCore.products as unknown as Recor
 const HS_PRODUCTS = rawHsSeries.products as unknown as Product[];
 const PS_PRODUCTS = rawPsSeries.products as unknown as Product[];
 const BB_PRODUCTS = rawBbSeries.products as unknown as Product[];
+const LF_PRODUCTS = rawLfSeries.products as unknown as Product[];
+const CB_PRODUCTS = rawCbSeries.products as unknown as Product[];
 
 /** The two ranges added from the 2026 catalogues, merged into AFZOX Series. */
 const AFZOX_EXTRA_PRODUCTS = rawAfzoxExtra.products as unknown as Product[];
@@ -105,10 +111,22 @@ const BB_CATEGORIES: Category[] = (rawBbSeries.categories as unknown as Category
   collection: BB_SERIES_SLUG,
 }));
 
+const LF_CATEGORIES: Category[] = (rawLfSeries.categories as unknown as Category[]).map((c) => ({
+  ...c,
+  collection: LF_SERIES_SLUG,
+}));
+
+const CB_CATEGORIES: Category[] = (rawCbSeries.categories as unknown as Category[]).map((c) => ({
+  ...c,
+  collection: CB_SERIES_SLUG,
+}));
+
 const accessoriesHero = ACCESSORY_PRODUCTS.find((p) => p.slug === 'plate-loaded-chest-press-pec-deck') ?? ACCESSORY_PRODUCTS[0];
 const hsHero = HS_PRODUCTS.find((p) => p.slug === 'hs-plate-loaded-chest-press') ?? HS_PRODUCTS[0];
 const psHero = PS_PRODUCTS.find((p) => p.slug === 'ps-seated-chest-press') ?? PS_PRODUCTS[0];
 const bbHero = BB_PRODUCTS.find((p) => p.slug === 'bb-hip-thrust') ?? BB_PRODUCTS[0];
+const lfHero = LF_PRODUCTS.find((p) => p.slug === 'lf-chest-press') ?? LF_PRODUCTS[0];
+const cbHero = CB_PRODUCTS.find((p) => p.slug === 'cb-incline-chest-press') ?? CB_PRODUCTS[0];
 
 export const COLLECTIONS: Collection[] = [
   {
@@ -138,7 +156,17 @@ export const COLLECTIONS: Collection[] = [
     image: bbHero.imageMd,
     imageLg: bbHero.image,
   },
-];
+  {
+    ...(rawLfSeries.collection as unknown as Omit<Collection, 'image' | 'imageLg'>),
+    image: lfHero.imageMd,
+    imageLg: lfHero.image,
+  },
+  {
+    ...(rawCbSeries.collection as unknown as Omit<Collection, 'image' | 'imageLg'>),
+    image: cbHero.imageMd,
+    imageLg: cbHero.image,
+  },
+].map((c) => ({ ...c, count: 0 }));
 
 /** Every product across every collection, AFZOX Series first. */
 export const PRODUCTS: Product[] = [
@@ -147,7 +175,19 @@ export const PRODUCTS: Product[] = [
   ...HS_PRODUCTS,
   ...PS_PRODUCTS,
   ...BB_PRODUCTS,
+  ...LF_PRODUCTS,
+  ...CB_PRODUCTS,
 ];
+
+/**
+ * Collection totals are counted from PRODUCTS, never read from the data files.
+ * A `count` written into JSON is only true on the day it is written; adding a
+ * product would otherwise leave the collection card, the mega menu, the footer
+ * and the page title all quoting a stale figure.
+ */
+for (const c of COLLECTIONS) {
+  c.count = PRODUCTS.filter((p) => p.collection === c.slug).length;
+}
 
 /**
  * Every range carries the number of products actually in it, counted from
@@ -175,6 +215,8 @@ export const ALL_CATEGORIES: Category[] = withLiveCount([
   ...HS_CATEGORIES,
   ...PS_CATEGORIES,
   ...BB_CATEGORIES,
+  ...LF_CATEGORIES,
+  ...CB_CATEGORIES,
 ]);
 
 export function getCollection(slug: string): Collection | undefined {
