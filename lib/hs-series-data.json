@@ -22,7 +22,7 @@
     },
     {
       "slug": "hs-plate-loaded",
-      "name": "Plate Loaded",
+      "name": "Plate Loaded Machines",
       "short": "Iso-lateral strength built around free-weight feel",
       "desc": "Olympic plate-loaded stations with independent movement arms, foot-lever start assists and on-frame plate storage. The backbone of a serious free-weight floor.",
       "thumb": "hs-plate-loaded-chest-press",
@@ -1009,7 +1009,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Chest"
@@ -1061,7 +1061,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Iso-lateral horizontal press",
@@ -1087,7 +1087,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Chest",
         "Iso-lateral horizontal press",
@@ -1102,7 +1102,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Chest",
@@ -1161,7 +1161,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Press and row",
@@ -1185,7 +1185,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Chest",
         "Back",
@@ -1202,7 +1202,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Back"
@@ -1258,7 +1258,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "High pulling",
@@ -1282,7 +1282,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Back",
         "High pulling",
@@ -1297,7 +1297,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Back"
@@ -1351,7 +1351,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Vertical pulling",
@@ -1375,7 +1375,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Back",
         "Vertical pulling",
@@ -1390,7 +1390,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Back"
@@ -1446,7 +1446,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Horizontal pulling",
@@ -1470,7 +1470,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Back",
         "Horizontal pulling",
@@ -1486,7 +1486,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Back"
@@ -1541,7 +1541,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Horizontal pulling",
@@ -1565,7 +1565,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Back",
         "Horizontal pulling",
@@ -1581,7 +1581,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Core"
@@ -1633,7 +1633,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Trunk flexion",
@@ -1657,7 +1657,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Core",
         "Trunk flexion",
@@ -1672,7 +1672,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Legs"
@@ -1722,7 +1722,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Knee flexion",
@@ -1746,7 +1746,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Legs",
         "Knee flexion",
@@ -1761,7 +1761,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Legs",
@@ -1816,7 +1816,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Horizontal leg press",
@@ -1840,7 +1840,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Legs",
         "Glutes",
@@ -1857,7 +1857,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Legs",
@@ -1914,7 +1914,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Angled leg press",
@@ -1938,7 +1938,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Legs",
         "Glutes",
@@ -1955,7 +1955,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Glutes",
@@ -2007,7 +2007,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Hip extension",
@@ -2031,7 +2031,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Glutes",
         "Legs",
@@ -2047,7 +2047,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Legs"
@@ -2096,7 +2096,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Ankle plantarflexion",
@@ -2120,7 +2120,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Legs",
         "Ankle plantarflexion",
@@ -2135,7 +2135,7 @@
       "collectionName": "HS Series",
       "series": "HS Series",
       "category": "hs-plate-loaded",
-      "categoryName": "Plate Loaded",
+      "categoryName": "Plate Loaded Machines",
       "equipmentType": "Plate Loaded Machine",
       "bodyAreas": [
         "Core"
@@ -2184,7 +2184,7 @@
         "Brand": "AFZOX",
         "Series": "HS Series",
         "Collection": "HS Series",
-        "Category": "Plate Loaded",
+        "Category": "Plate Loaded Machines",
         "Equipment Type": "Plate Loaded Machine",
         "Resistance Type": "Olympic plate loaded",
         "Primary Movement": "Trunk flexion",
@@ -2208,7 +2208,7 @@
       "tags": [
         "AFZOX",
         "HS Series",
-        "Plate Loaded",
+        "Plate Loaded Machines",
         "Plate Loaded Machine",
         "Core",
         "Trunk flexion",

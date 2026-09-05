@@ -30,6 +30,25 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
   const megaRef = useRef<HTMLDivElement>(null);
+  const megaPanelRef = useRef<HTMLDivElement>(null);
+  const megaCloseTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  /* The panel is anchored to the header rather than to the button, so the
+   * pointer briefly leaves the trigger before it reaches the panel. A short
+   * grace period stops that gap from reading as "close", which otherwise makes
+   * the menu flicker shut as you move toward it. */
+  const openMega = () => {
+    if (megaCloseTimer.current) clearTimeout(megaCloseTimer.current);
+    megaCloseTimer.current = null;
+    setMegaOpen(true);
+  };
+  const closeMega = () => {
+    if (megaCloseTimer.current) clearTimeout(megaCloseTimer.current);
+    megaCloseTimer.current = setTimeout(() => setMegaOpen(false), 140);
+  };
+  useEffect(() => () => {
+    if (megaCloseTimer.current) clearTimeout(megaCloseTimer.current);
+  }, []);
 
   /* ---- Scroll state ---- */
   useEffect(() => {
@@ -63,7 +82,10 @@ export default function Header() {
   useEffect(() => {
     if (!megaOpen) return;
     const onClick = (e: MouseEvent) => {
-      if (megaRef.current && !megaRef.current.contains(e.target as Node)) setMegaOpen(false);
+      const t = e.target as Node;
+      const inTrigger = megaRef.current?.contains(t);
+      const inPanel = megaPanelRef.current?.contains(t);
+      if (!inTrigger && !inPanel) setMegaOpen(false);
     };
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && setMegaOpen(false);
     document.addEventListener('click', onClick);
@@ -177,8 +199,8 @@ export default function Header() {
                   key={l.href}
                   ref={megaRef}
                   className="relative"
-                  onMouseEnter={() => setMegaOpen(true)}
-                  onMouseLeave={() => setMegaOpen(false)}
+                  onMouseEnter={openMega}
+                  onMouseLeave={closeMega}
                 >
                   <button
                     className={`${base} flex items-center gap-1.5`}
@@ -193,77 +215,6 @@ export default function Header() {
                     {active && <ActiveRule onDark={onDark} />}
                   </button>
 
-                  <AnimatePresence>
-                    {megaOpen && (
-                      <motion.div
-                        initial={{ opacity: 0, y: 6 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        exit={{ opacity: 0, y: 6 }}
-                        transition={{ duration: DUR.control, ease: EASE }}
-                        className="absolute left-1/2 top-full w-[1180px] max-w-[calc(100vw-3rem)] -translate-x-1/2 pt-4"
-                      >
-                        {/* Collections sit beside one another and are never
-                            nested — every series is a sibling. */}
-                        <div className="overflow-hidden rounded-2xl border border-black/[0.07] bg-white shadow-card-hover">
-                          <div className="grid grid-cols-4 divide-x divide-black/[0.06]">
-                            {COLLECTIONS.map((col) => (
-                              <div key={col.slug} className="p-5">
-                                <Link
-                                  href={col.url}
-                                  className="group flex items-baseline justify-between gap-2 pb-3"
-                                >
-                                  <span className="text-label-md uppercase text-brand">
-                                    {col.displayName}
-                                  </span>
-                                  <span className="text-label-sm uppercase text-on-surface-variant/70">
-                                    {col.count}
-                                  </span>
-                                </Link>
-                                <div className="flex flex-col border-t border-black/[0.06] pt-2">
-                                  {collectionCategories(col.slug).map((c) => (
-                                    <Link
-                                      key={c.slug}
-                                      href={c.url}
-                                      className="group flex items-center gap-3 rounded-lg p-2 transition-colors duration-micro hover:bg-paper-sunken"
-                                    >
-                                      <span className="relative h-9 w-9 shrink-0 overflow-hidden rounded bg-paper-sunken">
-                                        <Image
-                                          src={c.image}
-                                          alt=""
-                                          fill
-                                          sizes="36px"
-                                          className="object-contain p-1"
-                                        />
-                                      </span>
-                                      <span className="min-w-0 flex-1">
-                                        <span className="block truncate text-[13px] font-medium text-ink-900">
-                                          {c.name}
-                                        </span>
-                                        <span className="block text-label-sm uppercase text-on-surface-variant/70">
-                                          {c.count} machines
-                                        </span>
-                                      </span>
-                                      <IconArrow className="h-3.5 w-3.5 shrink-0 -translate-x-1 text-on-surface-variant opacity-0 transition-all duration-control ease-afzox group-hover:translate-x-0 group-hover:opacity-100" />
-                                    </Link>
-                                  ))}
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-
-                          <Link
-                            href="/shop"
-                            className="group flex items-center justify-between border-t border-black/[0.06] bg-paper-sunken px-5 py-3.5 transition-colors duration-micro hover:bg-paper-deep"
-                          >
-                            <span className="text-label-md uppercase text-ink-900">
-                              Browse the full catalogue
-                            </span>
-                            <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
-                          </Link>
-                        </div>
-                      </motion.div>
-                    )}
-                  </AnimatePresence>
                 </div>
               );
             }
@@ -328,6 +279,114 @@ export default function Header() {
           </button>
         </div>
       </div>
+
+      {/* ---------------- Desktop mega menu ----------------
+       *
+       * Anchored to the header, not to the Categories button.
+       *
+       * It used to be `absolute left-1/2 -translate-x-1/2` inside the button's
+       * own `relative` wrapper. Framer Motion writes an inline `transform` when
+       * its entrance settles, which overrode the Tailwind translate class — so
+       * `left: 50%` put the panel's LEFT edge on the button's centre and threw
+       * 1180px of menu to the right (measured 327px off-screen at 1366). No
+       * transform is involved now: the panel spans the header, and the inner
+       * `shell` gives it exactly the gutters the rest of the site uses, so it
+       * cannot reach a viewport edge at any width. */}
+      <AnimatePresence>
+        {megaOpen && (
+          <motion.div
+            ref={megaPanelRef}
+            key="mega"
+            initial={{ opacity: 0, y: 6 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 6 }}
+            transition={{ duration: DUR.control, ease: EASE }}
+            onMouseEnter={openMega}
+            onMouseLeave={closeMega}
+            className="absolute inset-x-0 top-full hidden pt-3 lg:block"
+          >
+            <div className="shell">
+              {/* Capped to the space under the bar so the panel can never run
+                  past the fold on a 768px-tall laptop; the list scrolls inside
+                  and the catalogue link stays pinned where it can be reached. */}
+              <div className="flex max-h-[calc(100vh-var(--header-h)-2.5rem)] flex-col overflow-hidden rounded-2xl border border-black/[0.07] bg-white shadow-card-hover">
+                <div
+                  data-lenis-prevent
+                  className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-6"
+                >
+                  {/* Collections sit beside one another and are never nested —
+                      every series is a sibling. Columns come from the catalogue
+                      data, so a new series joins the grid without a code change. */}
+                  {/* Three columns at every desktop width, wrapping onto as
+                      many rows as the catalogue needs. Six across was tried and
+                      measured: it left 104px for the range name and wrapped 20
+                      of 28 of them onto two lines. Three keeps ~296px of text,
+                      and six series land as two even rows rather than a ragged
+                      four-plus-two. */}
+                  <div className="grid grid-cols-3 gap-x-6 gap-y-7">
+                    {COLLECTIONS.map((col) => (
+                      <div key={col.slug} className="min-w-0">
+                        <Link
+                          href={col.url}
+                          className="group flex items-baseline justify-between gap-2 border-b border-black/[0.06] pb-2.5"
+                        >
+                          <span className="truncate text-label-md uppercase text-brand">
+                            {col.displayName}
+                          </span>
+                          <span className="shrink-0 text-label-sm uppercase tabular-nums text-on-surface-variant/70">
+                            {col.count}
+                          </span>
+                        </Link>
+                        <div className="flex flex-col pt-1.5">
+                          {collectionCategories(col.slug).map((c) => (
+                            <Link
+                              key={c.slug}
+                              href={c.url}
+                              className="group flex items-center gap-2.5 rounded-lg p-2 transition-colors duration-micro hover:bg-paper-sunken"
+                            >
+                              <span className="relative h-9 w-9 shrink-0 overflow-hidden rounded bg-paper-sunken">
+                                <Image
+                                  src={c.image}
+                                  alt=""
+                                  fill
+                                  sizes="36px"
+                                  className="object-contain p-1"
+                                />
+                              </span>
+                              <span className="min-w-0 flex-1">
+                                {/* Wraps rather than truncating: a long range
+                                    name should stay readable without widening
+                                    the column. */}
+                                <span className="block break-words text-[13px] font-medium leading-snug text-ink-900">
+                                  {c.name}
+                                </span>
+                                <span className="block text-label-sm uppercase tabular-nums text-on-surface-variant/70">
+                                  {c.count} machines
+                                </span>
+                              </span>
+                              <IconArrow className="h-3.5 w-3.5 shrink-0 -translate-x-1 text-on-surface-variant opacity-0 transition-all duration-control ease-afzox group-hover:translate-x-0 group-hover:opacity-100" />
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                <Link
+                  href="/shop"
+                  className="group flex shrink-0 items-center justify-between border-t border-black/[0.06] bg-paper-sunken px-6 py-3.5 transition-colors duration-micro hover:bg-paper-deep"
+                >
+                  <span className="text-label-md uppercase text-ink-900">
+                    Browse the full catalogue
+                  </span>
+                  <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
+                </Link>
+              </div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
       </header>
 
       {/* ---------------- Mobile panel ----------------

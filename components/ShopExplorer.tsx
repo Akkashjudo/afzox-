@@ -6,7 +6,6 @@ import { AnimatePresence, motion } from 'framer-motion';
 import ProductCard from './ProductCard';
 import {
   ALL_CATEGORIES,
-  BAND_LABEL,
   COLLECTIONS,
   PRODUCTS,
   availableBodyAreas,
@@ -15,12 +14,11 @@ import {
   getCategory,
   getCollection,
 } from '@/lib/catalogue';
-import type { BodyArea, PriceBand } from '@/lib/types';
+import type { BodyArea } from '@/lib/types';
 import { applyScrollLock } from '@/lib/scroll-lock';
 import { IconChevRight, IconClose, IconEmpty, IconFilter, IconSearch } from './icons';
 
 type Usage = 'all' | 'home' | 'commercial';
-type Band = 'all' | PriceBand;
 type Sort = 'featured' | 'popular' | 'newest' | 'az' | 'za';
 
 const SORT_LABELS: Record<Sort, string> = {
@@ -61,10 +59,9 @@ export default function ShopExplorer({
     body: [] as BodyArea[],
     type: [] as string[],
     usage: 'all' as Usage,
-    band: 'all' as Band,
     sort: 'featured' as Sort,
   });
-  const { q: query, collection, category, body: bodyAreas, type: equipmentTypes, usage, band, sort } = state;
+  const { q: query, collection, category, body: bodyAreas, type: equipmentTypes, usage, sort } = state;
 
   const [drawerOpen, setDrawerOpen] = useState(false);
   const hydrated = useRef(false);
@@ -81,7 +78,6 @@ export default function ShopExplorer({
         body: (sp.get('body')?.split(',').filter(Boolean) as BodyArea[]) ?? s.body,
         type: sp.get('type')?.split(',').filter(Boolean) ?? s.type,
         usage: (sp.get('usage') as Usage) ?? s.usage,
-        band: (sp.get('band') as Band) ?? s.band,
         sort: (sp.get('sort') as Sort) ?? s.sort,
       }));
     }
@@ -99,7 +95,6 @@ export default function ShopExplorer({
     if (state.body.length) sp.set('body', state.body.join(','));
     if (state.type.length) sp.set('type', state.type.join(','));
     if (state.usage !== 'all') sp.set('usage', state.usage);
-    if (state.band !== 'all') sp.set('band', state.band);
     if (state.sort !== 'featured') sp.set('sort', state.sort);
     const qs = sp.toString();
     const url = qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
@@ -124,8 +119,8 @@ export default function ShopExplorer({
      group. That keeps OR-within-a-group working (you can still add a second
      body area) while making a zero-result combination unselectable: an option
      is only offered, and only with the count it would actually return. ---- */
-  const base = { query, collection, usage, band };
-  const key = [query, collection, category, bodyAreas.join('|'), equipmentTypes.join('|'), usage, band].join('¦');
+  const base = { query, collection, usage };
+  const key = [query, collection, category, bodyAreas.join('|'), equipmentTypes.join('|'), usage].join('¦');
 
   const categoryOptions = useMemo(() => {
     const pool = filterProducts({ ...base, bodyAreas, equipmentTypes });
@@ -150,18 +145,10 @@ export default function ShopExplorer({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [key]);
 
-  const bandOptions = useMemo(() => {
-    const pool = filterProducts({ query, collection, category, bodyAreas, equipmentTypes, usage });
-    return (['premium', 'standard', 'value'] as PriceBand[])
-      .map((b) => ({ b, n: pool.filter((p) => p.band === b).length }))
-      .filter((x) => x.n > 0);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [key]);
-
   const showUsage = useMemo(() => scope.some((p) => p.isHome) && scope.some((p) => p.isCommercial), [scope]);
 
   const list = useMemo(
-    () => filterProducts({ query, collection, category, bodyAreas, equipmentTypes, usage, band, sort }),
+    () => filterProducts({ query, collection, category, bodyAreas, equipmentTypes, usage, sort }),
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [key, sort]
   );
@@ -195,7 +182,6 @@ export default function ShopExplorer({
     ...(usage !== 'all'
       ? [{ label: usage === 'home' ? 'Home Gym' : 'Commercial', clear: () => setParams({ usage: 'all' }) }]
       : []),
-    ...(band !== 'all' ? [{ label: BAND_LABEL[band], clear: () => setParams({ band: 'all' }) }] : []),
     ...(query ? [{ label: `“${query}”`, clear: () => setParams({ q: '' }) }] : []),
   ];
 
@@ -209,7 +195,6 @@ export default function ShopExplorer({
       body: [],
       type: [],
       usage: 'all',
-      band: 'all',
     });
 
   // Prevent the page behind the mobile drawer from scrolling. Refcounted and
@@ -356,18 +341,6 @@ export default function ShopExplorer({
         </FilterGroup>
       )}
 
-      {bandOptions.length > 1 && (
-        <FilterGroup label="Specification Tier">
-          <Checkline active={band === 'all'} onClick={() => setParams({ band: 'all' })}>
-            All tiers
-          </Checkline>
-          {bandOptions.map(({ b, n }) => (
-            <Checkline key={b} active={band === b} onClick={() => setParams({ band: b })}>
-              {BAND_LABEL[b]} <b>{n}</b>
-            </Checkline>
-          ))}
-        </FilterGroup>
-      )}
     </>
   );
 

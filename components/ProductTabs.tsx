@@ -6,12 +6,14 @@ import { IconCheck } from './icons';
 
 export default function ProductTabs({ product }: { product: Product }) {
   const hasMuscles = Boolean(product.muscles?.primary.length || product.targets.length);
+  // Order runs from what a buyer reads first to what they check last: what the
+  // machine is, what it does, where it goes, what it trains, then the numbers.
   const tabs = [
     'Overview',
-    'Specifications',
     'Features',
     'Applications',
     ...(hasMuscles ? (['Target Muscles'] as const) : []),
+    'Specifications',
   ];
   const [active, setActive] = useState<string>('Overview');
 
@@ -20,12 +22,14 @@ export default function ProductTabs({ product }: { product: Product }) {
 
   return (
     <div>
-      <div role="tablist" aria-label="Product detail" className="no-scrollbar flex gap-8 overflow-x-auto border-b border-black/[0.08]">
+      <div role="tablist" aria-label="Product detail" className="no-scrollbar edge-fade-end flex gap-8 overflow-x-auto border-b border-black/[0.08]">
         {tabs.map((t) => (
           <button
             key={t}
             role="tab"
+            id={`tab-${t.replace(/\s+/g, '-').toLowerCase()}`}
             aria-selected={active === t}
+            aria-controls="product-tabpanel"
             onClick={() => setActive(t)}
             className={`-mb-px whitespace-nowrap border-b-2 pb-4 pt-1 text-label-md uppercase transition-colors duration-micro ${
               active === t
@@ -38,7 +42,13 @@ export default function ProductTabs({ product }: { product: Product }) {
         ))}
       </div>
 
-      <div className="py-10">
+      <div
+        role="tabpanel"
+        id="product-tabpanel"
+        aria-labelledby={`tab-${active.replace(/\s+/g, '-').toLowerCase()}`}
+        tabIndex={0}
+        className="py-10"
+      >
         {active === 'Overview' && (
           <div className="max-w-3xl space-y-4 text-body-md leading-relaxed text-on-surface-variant">
             {product.description.map((p, i) => (
@@ -61,7 +71,7 @@ export default function ProductTabs({ product }: { product: Product }) {
                 </tbody>
               </table>
             </div>
-            {!product.specs['Dimensions (L × W × H)'] && (
+            {!Object.keys(product.specs).some((k) => k.startsWith('Dimensions')) && (
               <p className="mt-6 max-w-prose text-body-sm text-on-surface-variant">
                 Dimensions, machine weight, weight-stack size and shipping data are confirmed against the
                 production drawing at the time of quotation — we don&rsquo;t publish figures we haven&rsquo;t verified.
