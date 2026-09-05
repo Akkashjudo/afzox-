@@ -2,6 +2,7 @@
 
 import Image from 'next/image';
 import { useState } from 'react';
+import { brandName } from '@/lib/brand';
 import type { Product } from '@/lib/types';
 import { IconZoom } from './icons';
 
@@ -29,7 +30,7 @@ export default function ProductGallery({ product }: { product: Product }) {
   const [origin, setOrigin] = useState('center');
 
   const src = shots[Math.min(active, shots.length - 1)];
-  const alt = `AFZOX ${product.series} ${product.name} — commercial gym ${product.equipmentType.toLowerCase()}${
+  const alt = `${brandName(product.series)} ${product.name} — commercial gym ${product.equipmentType.toLowerCase()}${
     hasGallery ? `, view ${active + 1} of ${shots.length}` : ''
   }`;
 

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import Reveal from '@/components/Reveal';
+import { brandName } from '@/lib/brand';
 import { COLLECTIONS, PRODUCTS, collectionProducts } from '@/lib/catalogue';
 import { IconArrow } from '@/components/icons';
 
@@ -70,7 +71,7 @@ export default function GalleryPage() {
                   <div className="relative aspect-square overflow-hidden bg-paper-sunken transition-colors duration-control group-hover:bg-paper-deep">
                     <Image
                       src={p.imageMd}
-                      alt={`AFZOX ${p.series} ${p.name}`}
+                      alt={`${brandName(p.series)} ${p.name}`}
                       fill
                       sizes="(max-width:640px) 62vw, (max-width:768px) 40vw, 22vw"
                       className="object-contain p-6 transition-transform duration-[900ms] ease-afzox group-hover:scale-[1.05]"

@@ -8,7 +8,7 @@
    "thumb": "afz-dual-ab-wheel",
    "image": "/images/products/afzox-series/afz-dual-ab-wheel-01-md.jpg",
    "imageLg": "/images/products/afzox-series/afz-dual-ab-wheel-01.jpg",
-   "count": 20,
+   "count": 49,
    "url": "/shop/afz-functional"
   },
   {
@@ -3176,6 +3176,3096 @@
     "Glutes",
     "Hip extension",
     "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-038",
+   "slug": "afz-aerobic-step-platform",
+   "name": "Aerobic Step Platform",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 42,
+   "added": 2026.9538,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- aerobic step platform for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Aerobic Step Platform is part of the Functional Training range, built around repeated stepping onto a raised platform. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Step training for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Step training",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-aerobic-step-platform-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-aerobic-step-platform-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-aerobic-step-platform-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-aerobic-step-platform-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Step training",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-039",
+   "slug": "afz-agility-hoops",
+   "name": "Agility Hoops",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 41,
+   "added": 2026.9539,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- agility hoops for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Agility Hoops is part of the Functional Training range, built around repeatable footwork patterns. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Footwork for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Calves"
+    ],
+    "secondary": [
+     "Hip flexors"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Calves",
+    "Hip flexors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Footwork",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-agility-hoops-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-agility-hoops-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-agility-hoops-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-agility-hoops-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Footwork",
+    "Quadriceps",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-040",
+   "slug": "afz-stretching-strap",
+   "name": "Stretching Strap",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 40,
+   "added": 2026.954,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- stretching strap for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Stretching Strap is part of the Functional Training range, built around assisted stretching through a graduated loop strap. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries TOPLUS branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Assisted stretching for full body training.",
+   "muscles": {
+    "primary": [
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Shoulders",
+     "Hip flexors"
+    ]
+   },
+   "targets": [
+    "Hamstrings",
+    "Shoulders",
+    "Hip flexors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Assisted stretching",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-stretching-strap-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-stretching-strap-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-stretching-strap-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-stretching-strap-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Assisted stretching",
+    "Hamstrings"
+   ]
+  },
+  {
+   "sku": "AFX-AS-041",
+   "slug": "afz-spiky-massage-ball",
+   "name": "Spiky Massage Ball",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 39,
+   "added": 2026.9541,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- spiky massage ball for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Spiky Massage Ball is part of the Functional Training range, built around self-myofascial release against a firm rolling surface. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Myofascial release for full body training.",
+   "muscles": {
+    "primary": [
+     "Plantar fascia"
+    ],
+    "secondary": [
+     "Gluteus medius",
+     "Thoracic spine"
+    ]
+   },
+   "targets": [
+    "Plantar fascia",
+    "Gluteus medius",
+    "Thoracic spine"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Myofascial release",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-spiky-massage-ball-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-spiky-massage-ball-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-spiky-massage-ball-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-spiky-massage-ball-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Myofascial release",
+    "Plantar fascia"
+   ]
+  },
+  {
+   "sku": "AFX-AS-042",
+   "slug": "afz-yoga-mat",
+   "name": "Yoga Mat",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 38,
+   "added": 2026.9542,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- yoga mat for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Yoga Mat is part of the Functional Training range, built around a cushioned floor surface for mat work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Floor support for full body training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": []
+   },
+   "targets": [
+    "Full body"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Floor support",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-yoga-mat-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-yoga-mat-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-yoga-mat-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-yoga-mat-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Floor support",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-AS-043",
+   "slug": "afz-yoga-wheel",
+   "name": "Yoga Wheel",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Back",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 37,
+   "added": 2026.9543,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- yoga wheel for back and core training on commercial floors.",
+   "description": [
+    "The AFZOX Yoga Wheel is part of the Functional Training range, built around supported thoracic extension over a curved surface. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Thoracic extension for back and core training.",
+   "muscles": {
+    "primary": [
+     "Thoracic spine"
+    ],
+    "secondary": [
+     "Rectus abdominis",
+     "Latissimus dorsi"
+    ]
+   },
+   "targets": [
+    "Thoracic spine",
+    "Rectus abdominis",
+    "Latissimus dorsi"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Thoracic extension",
+    "Body Area": "Back, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-yoga-wheel-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-yoga-wheel-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-yoga-wheel-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-yoga-wheel-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Back",
+    "Core",
+    "Thoracic extension",
+    "Thoracic spine"
+   ]
+  },
+  {
+   "sku": "AFX-AS-044",
+   "slug": "afz-resistance-tube-kit",
+   "name": "Resistance Tube Kit",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 36,
+   "added": 2026.9544,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- resistance tube kit for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Resistance Tube Kit is part of the Functional Training range, built around variable elastic resistance. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries TRX branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Elastic resistance for full body training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": [
+     "Shoulders",
+     "Arms"
+    ]
+   },
+   "targets": [
+    "Full body",
+    "Shoulders",
+    "Arms"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Elastic resistance",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-resistance-tube-kit-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-resistance-tube-kit-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-resistance-tube-kit-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-resistance-tube-kit-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Elastic resistance",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-AS-045",
+   "slug": "afz-x-frame-barbell-holder",
+   "name": "X-Frame Barbell Holder",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 35,
+   "added": 2026.9545,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- x-frame barbell holder for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX X-Frame Barbell Holder is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-x-frame-barbell-holder-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-x-frame-barbell-holder-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-x-frame-barbell-holder-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-x-frame-barbell-holder-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-wall-mounted-barbell-rack",
+    "afz-floor-barbell-holder",
+    "afz-three-tier-storage-rack",
+    "afz-medicine-ball-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-046",
+   "slug": "afz-wall-mounted-barbell-rack",
+   "name": "Wall-Mounted Barbell Rack",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 34,
+   "added": 2026.9546,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- wall-mounted barbell rack for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX Wall-Mounted Barbell Rack is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-wall-mounted-barbell-rack-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-wall-mounted-barbell-rack-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-wall-mounted-barbell-rack-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-wall-mounted-barbell-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-x-frame-barbell-holder",
+    "afz-floor-barbell-holder",
+    "afz-three-tier-storage-rack",
+    "afz-medicine-ball-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-047",
+   "slug": "afz-stability-ball",
+   "name": "Stability Ball",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Core",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 33,
+   "added": 2026.9547,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- stability ball for core and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Stability Ball is part of the Functional Training range, built around unstable-surface balance work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Balance for core and full body training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Balance",
+    "Body Area": "Core, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-stability-ball-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-stability-ball-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-stability-ball-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-stability-ball-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Core",
+    "Full Body",
+    "Balance",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-048",
+   "slug": "afz-aerobic-step-with-risers",
+   "name": "Aerobic Step with Risers",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 32,
+   "added": 2026.9548,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- aerobic step with risers for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Aerobic Step with Risers is part of the Functional Training range, built around repeated stepping onto a raised platform. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Step training for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Step training",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-aerobic-step-with-risers-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-aerobic-step-with-risers-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-aerobic-step-with-risers-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-aerobic-step-with-risers-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Step training",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-049",
+   "slug": "afz-punching-bag",
+   "name": "Punching Bag",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body",
+    "Arms"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 31,
+   "added": 2026.9549,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- punching bag for full body and arms training on commercial floors.",
+   "description": [
+    "The AFZOX Punching Bag is part of the Functional Training range, built around striking practice against a hanging bag. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries Mayweather, Venum and NAJO branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Striking for full body and arms training.",
+   "muscles": {
+    "primary": [
+     "Deltoids",
+     "Obliques"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Pectoralis major"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Obliques",
+    "Triceps brachii",
+    "Pectoralis major"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Striking",
+    "Body Area": "Full Body, Arms",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-punching-bag-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-punching-bag-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-punching-bag-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-punching-bag-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Arms",
+    "Striking",
+    "Deltoids",
+    "Obliques"
+   ]
+  },
+  {
+   "sku": "AFX-AS-050",
+   "slug": "afz-soft-plyo-box-set",
+   "name": "Soft Plyo Box Set",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 30,
+   "added": 2026.955,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- soft plyo box set for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Soft Plyo Box Set is part of the Functional Training range, built around repeated jumping onto a cushioned box. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Plyometric jump for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Calves",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Plyometric jump",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-soft-plyo-box-set-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-soft-plyo-box-set-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-soft-plyo-box-set-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-soft-plyo-box-set-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Glutes",
+    "Plyometric jump",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-051",
+   "slug": "afz-floor-barbell-holder",
+   "name": "Floor Barbell Holder",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 29,
+   "added": 2026.9551,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- floor barbell holder for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX Floor Barbell Holder is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-floor-barbell-holder-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-floor-barbell-holder-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-floor-barbell-holder-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-floor-barbell-holder-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-x-frame-barbell-holder",
+    "afz-wall-mounted-barbell-rack",
+    "afz-three-tier-storage-rack",
+    "afz-medicine-ball-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-052",
+   "slug": "afz-monkey-bar-rig",
+   "name": "Monkey Bar Rig",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "racks-rigs",
+   "categoryName": "Racks, Rigs & Smith",
+   "equipmentType": "Rack",
+   "bodyAreas": [
+    "Back",
+    "Arms",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 28,
+   "added": 2026.9552,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Racks, Rigs & Smith -- monkey bar rig for back and arms and core training on commercial floors.",
+   "description": [
+    "The AFZOX Monkey Bar Rig is part of the Racks, Rigs & Smith range, built around hanging and bodyweight pulling from an overhead bar. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Bodyweight hang for back and arms and core training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Forearms"
+    ],
+    "secondary": [
+     "Biceps brachii",
+     "Rectus abdominis"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Forearms",
+    "Biceps brachii",
+    "Rectus abdominis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Racks, Rigs & Smith",
+    "Equipment Type": "Rack",
+    "Primary Movement": "Bodyweight hang",
+    "Body Area": "Back, Arms, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-monkey-bar-rig-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-monkey-bar-rig-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-monkey-bar-rig-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-monkey-bar-rig-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Racks, Rigs & Smith",
+    "Rack",
+    "Back",
+    "Arms",
+    "Core",
+    "Bodyweight hang",
+    "Latissimus dorsi",
+    "Forearms"
+   ]
+  },
+  {
+   "sku": "AFX-AS-053",
+   "slug": "afz-three-tier-storage-rack",
+   "name": "Three-Tier Storage Rack",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 27,
+   "added": 2026.9553,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- three-tier storage rack for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX Three-Tier Storage Rack is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-three-tier-storage-rack-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-three-tier-storage-rack-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-three-tier-storage-rack-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-three-tier-storage-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-x-frame-barbell-holder",
+    "afz-wall-mounted-barbell-rack",
+    "afz-floor-barbell-holder",
+    "afz-medicine-ball-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-054",
+   "slug": "afz-plate-loaded-power-sled",
+   "name": "Plate-Loaded Power Sled",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Glutes",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 26,
+   "added": 2026.9554,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- plate-loaded power sled for legs and glutes and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Plate-Loaded Power Sled is part of the Functional Training range, built around a loaded horizontal push. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Horizontal push for legs and glutes and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Calves",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Horizontal push",
+    "Body Area": "Legs, Glutes, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-plate-loaded-power-sled-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-plate-loaded-power-sled-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-plate-loaded-power-sled-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-plate-loaded-power-sled-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Glutes",
+    "Full Body",
+    "Horizontal push",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-055",
+   "slug": "afz-bulgarian-bag",
+   "name": "Bulgarian Bag",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body",
+    "Shoulders"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 25,
+   "added": 2026.9555,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- bulgarian bag for full body and shoulders training on commercial floors.",
+   "description": [
+    "The AFZOX Bulgarian Bag is part of the Functional Training range, built around a controlled training movement. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Rotational swing for full body and shoulders training.",
+   "muscles": {
+    "primary": [
+     "Deltoids",
+     "Obliques"
+    ],
+    "secondary": [
+     "Erector spinae",
+     "Forearms"
+    ]
+   },
+   "targets": [
+    "Deltoids",
+    "Obliques",
+    "Erector spinae",
+    "Forearms"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Rotational swing",
+    "Body Area": "Full Body, Shoulders",
+    "Suitable For": "Commercial installation",
+    "Available Weights": "5, 8, 10, 12, 15 and 20 kg"
+   },
+   "image": "/images/products/afzox-series/afz-bulgarian-bag-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-bulgarian-bag-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-bulgarian-bag-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-bulgarian-bag-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Shoulders",
+    "Rotational swing",
+    "Deltoids",
+    "Obliques"
+   ]
+  },
+  {
+   "sku": "AFX-AS-056",
+   "slug": "afz-soft-plyo-box",
+   "name": "Soft Plyo Box",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Glutes"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 24,
+   "added": 2026.9556,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- soft plyo box for legs and glutes training on commercial floors.",
+   "description": [
+    "The AFZOX Soft Plyo Box is part of the Functional Training range, built around repeated jumping onto a cushioned box. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Plyometric jump for legs and glutes training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Calves",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Plyometric jump",
+    "Body Area": "Legs, Glutes",
+    "Suitable For": "Commercial installation",
+    "Dimensions": "750 x 600 x 500 mm"
+   },
+   "image": "/images/products/afzox-series/afz-soft-plyo-box-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-soft-plyo-box-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-soft-plyo-box-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-soft-plyo-box-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Glutes",
+    "Plyometric jump",
+    "Quadriceps",
+    "Gluteus maximus"
+   ]
+  },
+  {
+   "sku": "AFX-AS-057",
+   "slug": "afz-medicine-ball-rack",
+   "name": "Medicine Ball Rack",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 23,
+   "added": 2026.9557,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- medicine ball rack for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX Medicine Ball Rack is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-medicine-ball-rack-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-medicine-ball-rack-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-medicine-ball-rack-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-medicine-ball-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-x-frame-barbell-holder",
+    "afz-wall-mounted-barbell-rack",
+    "afz-floor-barbell-holder",
+    "afz-three-tier-storage-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-058",
+   "slug": "afz-folding-rebounder",
+   "name": "Folding Rebounder",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 22,
+   "added": 2026.9558,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- folding rebounder for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Folding Rebounder is part of the Functional Training range, built around low-impact rebound conditioning on a sprung mat. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Rebound conditioning for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Calves"
+    ],
+    "secondary": [
+     "Gluteus maximus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Calves",
+    "Gluteus maximus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Rebound conditioning",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-folding-rebounder-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-folding-rebounder-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-folding-rebounder-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-folding-rebounder-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Rebound conditioning",
+    "Quadriceps",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-059",
+   "slug": "afz-weightlifting-belt",
+   "name": "Weightlifting Belt",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 21,
+   "added": 2026.9559,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- weightlifting belt for core training on commercial floors.",
+   "description": [
+    "The AFZOX Weightlifting Belt is part of the Functional Training range, built around trunk support under heavy barbell lifts. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk support for core training.",
+   "muscles": {
+    "primary": [
+     "Transverse abdominis"
+    ],
+    "secondary": [
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Transverse abdominis",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Trunk support",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-weightlifting-belt-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-weightlifting-belt-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-weightlifting-belt-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-weightlifting-belt-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Core",
+    "Trunk support",
+    "Transverse abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-060",
+   "slug": "afz-weighted-power-bag",
+   "name": "Weighted Power Bag",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 20,
+   "added": 2026.956,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- weighted power bag for full body and core training on commercial floors.",
+   "description": [
+    "The AFZOX Weighted Power Bag is part of the Functional Training range, built around loaded carries, cleans and throws with a soft-shell bag. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Loaded carry for full body and core training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": [
+     "Erector spinae",
+     "Forearms"
+    ]
+   },
+   "targets": [
+    "Full body",
+    "Erector spinae",
+    "Forearms"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Loaded carry",
+    "Body Area": "Full Body, Core",
+    "Suitable For": "Commercial installation",
+    "Available Weights": "5, 10, 15, 20 and 25 kg"
+   },
+   "image": "/images/products/afzox-series/afz-weighted-power-bag-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-weighted-power-bag-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-weighted-power-bag-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-weighted-power-bag-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Core",
+    "Loaded carry",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-AS-061",
+   "slug": "afz-mini-trampoline",
+   "name": "Mini Trampoline with Handle",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 19,
+   "added": 2026.9561,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- mini trampoline with handle for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Mini Trampoline with Handle is part of the Functional Training range, built around low-impact rebound conditioning on a sprung mat. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Rebound conditioning for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Calves"
+    ],
+    "secondary": [
+     "Gluteus maximus"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Calves",
+    "Gluteus maximus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Rebound conditioning",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-mini-trampoline-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-mini-trampoline-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-mini-trampoline-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-mini-trampoline-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Rebound conditioning",
+    "Quadriceps",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-062",
+   "slug": "afz-vertical-dumbbell-rack",
+   "name": "Vertical Dumbbell Rack",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 18,
+   "added": 2026.9562,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- vertical dumbbell rack for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX Vertical Dumbbell Rack is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-vertical-dumbbell-rack-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-vertical-dumbbell-rack-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-vertical-dumbbell-rack-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-vertical-dumbbell-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-x-frame-barbell-holder",
+    "afz-wall-mounted-barbell-rack",
+    "afz-floor-barbell-holder",
+    "afz-three-tier-storage-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-063",
+   "slug": "afz-reaction-balls",
+   "name": "Reaction Balls",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 17,
+   "added": 2026.9563,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- reaction balls for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Reaction Balls is part of the Functional Training range, built around unpredictable-bounce reaction drills. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Reaction training for full body training.",
+   "muscles": {
+    "primary": [
+     "Forearms"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Forearms",
+    "Quadriceps",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Reaction training",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-reaction-balls-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-reaction-balls-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-reaction-balls-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-reaction-balls-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Reaction training",
+    "Forearms"
+   ]
+  },
+  {
+   "sku": "AFX-AS-064",
+   "slug": "afz-foam-roller",
+   "name": "Foam Roller",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 16,
+   "added": 2026.9564,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- foam roller for full body and legs training on commercial floors.",
+   "description": [
+    "The AFZOX Foam Roller is part of the Functional Training range, built around self-myofascial release against a firm rolling surface. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Myofascial release for full body and legs training.",
+   "muscles": {
+    "primary": [
+     "Iliotibial band"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Iliotibial band",
+    "Quadriceps",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Myofascial release",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-foam-roller-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-foam-roller-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-foam-roller-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-foam-roller-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Legs",
+    "Myofascial release",
+    "Iliotibial band"
+   ]
+  },
+  {
+   "sku": "AFX-AS-065",
+   "slug": "afz-skipping-rope",
+   "name": "Skipping Rope",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 15,
+   "added": 2026.9565,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- skipping rope for full body and legs training on commercial floors.",
+   "description": [
+    "The AFZOX Skipping Rope is part of the Functional Training range, built around continuous skipping for conditioning and footwork. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Skipping conditioning for full body and legs training.",
+   "muscles": {
+    "primary": [
+     "Calves"
+    ],
+    "secondary": [
+     "Forearms",
+     "Quadriceps"
+    ]
+   },
+   "targets": [
+    "Calves",
+    "Forearms",
+    "Quadriceps"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Skipping conditioning",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-skipping-rope-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-skipping-rope-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-skipping-rope-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-skipping-rope-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Legs",
+    "Skipping conditioning",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-066",
+   "slug": "afz-training-cones",
+   "name": "Training Cones",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 14,
+   "added": 2026.9566,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- training cones for legs and full body training on commercial floors.",
+   "description": [
+    "The AFZOX Training Cones is part of the Functional Training range, built around repeatable footwork patterns. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Footwork for legs and full body training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps",
+     "Calves"
+    ],
+    "secondary": [
+     "Hip flexors"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Calves",
+    "Hip flexors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Footwork",
+    "Body Area": "Legs, Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-training-cones-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-training-cones-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-training-cones-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-training-cones-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Full Body",
+    "Footwork",
+    "Quadriceps",
+    "Calves"
+   ]
+  },
+  {
+   "sku": "AFX-AS-067",
+   "slug": "afz-massage-ball-set",
+   "name": "Massage Ball Set",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 13,
+   "added": 2026.9567,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- massage ball set for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Massage Ball Set is part of the Functional Training range, built around self-myofascial release against a firm rolling surface. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Myofascial release for full body training.",
+   "muscles": {
+    "primary": [
+     "Plantar fascia"
+    ],
+    "secondary": [
+     "Gluteus medius",
+     "Forearms"
+    ]
+   },
+   "targets": [
+    "Plantar fascia",
+    "Gluteus medius",
+    "Forearms"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Myofascial release",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-massage-ball-set-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-massage-ball-set-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-massage-ball-set-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-massage-ball-set-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Myofascial release",
+    "Plantar fascia"
+   ]
+  },
+  {
+   "sku": "AFX-AS-068",
+   "slug": "afz-balance-board",
+   "name": "Balance Board & Stability Cushion",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 12,
+   "added": 2026.9568,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- balance board & stability cushion for legs and core training on commercial floors.",
+   "description": [
+    "The AFZOX Balance Board & Stability Cushion is part of the Functional Training range, built around unstable-surface balance work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Balance for legs and core training.",
+   "muscles": {
+    "primary": [
+     "Tibialis anterior"
+    ],
+    "secondary": [
+     "Rectus abdominis",
+     "Gluteus medius"
+    ]
+   },
+   "targets": [
+    "Tibialis anterior",
+    "Rectus abdominis",
+    "Gluteus medius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Balance",
+    "Body Area": "Legs, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-balance-board-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-balance-board-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-balance-board-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-balance-board-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Core",
+    "Balance",
+    "Tibialis anterior"
+   ]
+  },
+  {
+   "sku": "AFX-AS-069",
+   "slug": "afz-heavy-duty-ab-wheel",
+   "name": "Heavy-Duty Ab Wheel",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 11,
+   "added": 2026.9569,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- heavy-duty ab wheel for core training on commercial floors.",
+   "description": [
+    "The AFZOX Heavy-Duty Ab Wheel is part of the Functional Training range, built around loaded trunk flexion through the abdominals. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Trunk flexion for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques",
+     "Latissimus dorsi"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques",
+    "Latissimus dorsi"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Trunk flexion",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-heavy-duty-ab-wheel-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-heavy-duty-ab-wheel-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-heavy-duty-ab-wheel-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-heavy-duty-ab-wheel-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Core",
+    "Trunk flexion",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-070",
+   "slug": "afz-barbell-plate-storage-rack",
+   "name": "Barbell & Plate Storage Rack",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "storage",
+   "categoryName": "Storage & Racking",
+   "equipmentType": "Storage",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 10,
+   "added": 2026.957,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Storage & Racking -- barbell & plate storage rack for organising equipment on commercial floors.",
+   "description": [
+    "The AFZOX Barbell & Plate Storage Rack is part of the Storage & Racking range, used to keep barbells, plates and floor equipment stored and accessible. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Keeps the training floor organised and equipment accessible",
+    "Specified for continuous commercial use"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Organised storage for commercial training floors.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [
+    "Storage & floor organisation"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Storage & Racking",
+    "Equipment Type": "Storage",
+    "Primary Movement": "Storage",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-barbell-plate-storage-rack-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-barbell-plate-storage-rack-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-barbell-plate-storage-rack-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-barbell-plate-storage-rack-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-x-frame-barbell-holder",
+    "afz-wall-mounted-barbell-rack",
+    "afz-floor-barbell-holder",
+    "afz-three-tier-storage-rack"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Storage & Racking",
+    "Storage",
+    "Storage"
+   ]
+  },
+  {
+   "sku": "AFX-AS-071",
+   "slug": "afz-squat-wedge",
+   "name": "Squat Wedge",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 9,
+   "added": 2026.9571,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- squat wedge for legs training on commercial floors.",
+   "description": [
+    "The AFZOX Squat Wedge is part of the Functional Training range, built around ankle-elevated squatting on an inclined wedge. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Ankle-elevated squat for legs training.",
+   "muscles": {
+    "primary": [
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Ankle-elevated squat",
+    "Body Area": "Legs",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-squat-wedge-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-squat-wedge-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-squat-wedge-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-squat-wedge-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Ankle-elevated squat",
+    "Quadriceps"
+   ]
+  },
+  {
+   "sku": "AFX-AS-072",
+   "slug": "afz-slam-ball",
+   "name": "Slam Ball",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Full Body",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 8,
+   "added": 2026.9572,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- slam ball for full body and core training on commercial floors.",
+   "description": [
+    "The AFZOX Slam Ball is part of the Functional Training range, built around overhead slams with a non-bouncing ball. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Ball slam for full body and core training.",
+   "muscles": {
+    "primary": [
+     "Latissimus dorsi",
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Deltoids",
+     "Gluteus maximus"
+    ]
+   },
+   "targets": [
+    "Latissimus dorsi",
+    "Rectus abdominis",
+    "Deltoids",
+    "Gluteus maximus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Ball slam",
+    "Body Area": "Full Body, Core",
+    "Suitable For": "Commercial installation",
+    "Available Weights": "2, 4, 6, 8 and 10 kg"
+   },
+   "image": "/images/products/afzox-series/afz-slam-ball-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-slam-ball-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-slam-ball-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-slam-ball-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Full Body",
+    "Core",
+    "Ball slam",
+    "Latissimus dorsi",
+    "Rectus abdominis"
+   ]
+  },
+  {
+   "sku": "AFX-AS-073",
+   "slug": "afz-barbell-collars",
+   "name": "Barbell Collars",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 7,
+   "added": 2026.9573,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- barbell collars for general training on commercial floors.",
+   "description": [
+    "The AFZOX Barbell Collars is part of the Functional Training range, built around securing loaded plates against the barbell sleeve. It is specified for commercial floors, where equipment is in use continuously rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Barbell securing for general training.",
+   "muscles": {
+    "primary": [],
+    "secondary": []
+   },
+   "targets": [],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Barbell securing",
+    "Body Area": "General",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-barbell-collars-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-barbell-collars-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-barbell-collars-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-barbell-collars-01.jpg"
+   ],
+   "isHome": true,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Barbell securing"
+   ]
+  },
+  {
+   "sku": "AFX-AS-074",
+   "slug": "afz-gymnastics-balance-beam",
+   "name": "Gymnastics Balance Beam",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Functional Training",
+   "bodyAreas": [
+    "Legs",
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 6,
+   "added": 2026.9574,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training -- gymnastics balance beam for legs and core training on commercial floors.",
+   "description": [
+    "The AFZOX Gymnastics Balance Beam is part of the Functional Training range, built around unstable-surface balance work. It is specified for commercial floors, where equipment is in use continuously rather than occasionally.",
+    "Catalogue photography for this item carries FC Sport branding. Manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade construction",
+    "Suited to functional and studio floors",
+    "Compact to store between sessions"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Balance for legs and core training.",
+   "muscles": {
+    "primary": [
+     "Tibialis anterior"
+    ],
+    "secondary": [
+     "Rectus abdominis",
+     "Gluteus medius"
+    ]
+   },
+   "targets": [
+    "Tibialis anterior",
+    "Rectus abdominis",
+    "Gluteus medius"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Collection": "AFZOX Series",
+    "Range": "Functional Training",
+    "Equipment Type": "Functional Training",
+    "Primary Movement": "Balance",
+    "Body Area": "Legs, Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-gymnastics-balance-beam-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-gymnastics-balance-beam-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-gymnastics-balance-beam-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-gymnastics-balance-beam-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Functional Training",
+    "Legs",
+    "Core",
+    "Balance",
+    "Tibialis anterior"
    ]
   }
  ]

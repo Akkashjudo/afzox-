@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import type { Product } from '@/lib/types';
+import { brandName } from '@/lib/brand';
 import { whatsAppLink } from '@/lib/catalogue';
 import { IconArrow, IconWhatsApp } from './icons';
 
@@ -29,7 +30,7 @@ export default function ProductCard({ product, eager = false }: { product: Produ
       <div className="relative aspect-[4/3.3] overflow-hidden bg-paper-sunken transition-colors duration-control group-hover:bg-paper-deep">
         <Image
           src={product.imageMd}
-          alt={`AFZOX ${product.series} ${product.name} — commercial gym ${product.equipmentType.toLowerCase()}`}
+          alt={`${brandName(product.series)} ${product.name} — commercial gym ${product.equipmentType.toLowerCase()}`}
           fill
           sizes="(max-width:640px) 88vw, (max-width:1100px) 44vw, 340px"
           className="object-contain p-8 transition-transform duration-[900ms] ease-afzox group-hover:scale-[1.045]"

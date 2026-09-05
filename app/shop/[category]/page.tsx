@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import ShopExplorer from '@/components/ShopExplorer';
+import { brandName } from '@/lib/brand';
 import { ALL_CATEGORIES, COLLECTIONS, getCategory, getCollection } from '@/lib/catalogue';
 import { SITE_URL } from '@/lib/site';
 
@@ -45,7 +46,7 @@ export function generateMetadata({ params }: { params: { category: string } }): 
   const parent = getCollection(cat.collection);
   return {
     title: `${cat.name} — ${cat.count} Machines`,
-    description: `${cat.desc} Browse ${cat.count} ${cat.name.toLowerCase()} from the AFZOX ${parent?.name ?? ''} collection, manufactured and installed across India.`,
+    description: `${cat.desc} Browse ${cat.count} ${cat.name.toLowerCase()} from the ${parent ? brandName(parent.name) : 'AFZOX'} collection, manufactured and installed across India.`,
     alternates: { canonical: `/shop/${cat.slug}` },
     openGraph: { images: [{ url: `${SITE_URL}${cat.imageLg}` }], type: 'website' },
   };

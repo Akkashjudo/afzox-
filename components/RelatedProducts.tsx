@@ -1,5 +1,6 @@
 import Reveal from './Reveal';
 import ProductCard from './ProductCard';
+import { brandName } from '@/lib/brand';
 import type { Product } from '@/lib/types';
 
 /**
@@ -22,7 +23,7 @@ export default function RelatedProducts({
         <Reveal>
           <span className="eyebrow">Complete the floor</span>
           <h2 className="mt-6 text-headline-lg">
-            More from {collectionName ? `AFZOX ${collectionName}` : 'this range'}
+            More from {collectionName ? brandName(collectionName) : 'this range'}
           </h2>
         </Reveal>
 

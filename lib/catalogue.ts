@@ -150,19 +150,32 @@ export const PRODUCTS: Product[] = [
 ];
 
 /**
+ * Every range carries the number of products actually in it, counted from
+ * PRODUCTS rather than read from the JSON. The `count` fields in the data
+ * files are a snapshot of the moment they were written; adding a product to
+ * an existing range would otherwise leave the range card, the mega menu and
+ * the range header all quoting a stale figure.
+ */
+function withLiveCount(categories: Category[]): Category[] {
+  const totals = new Map<string, number>();
+  for (const p of PRODUCTS) totals.set(p.category, (totals.get(p.category) ?? 0) + 1);
+  return categories.map((c) => ({ ...c, count: totals.get(c.slug) ?? 0 }));
+}
+
+/**
  * Every AFZOX Series range — the seven original ones plus the two added from
  * the 2026 catalogues. Exported under the original name so existing pages
  * (/categories, the mega menu, the footer) keep working unchanged.
  */
-export const CATEGORIES: Category[] = ACCESSORY_CATEGORIES;
+export const CATEGORIES: Category[] = withLiveCount(ACCESSORY_CATEGORIES);
 
 /** Every category across every collection. */
-export const ALL_CATEGORIES: Category[] = [
+export const ALL_CATEGORIES: Category[] = withLiveCount([
   ...ACCESSORY_CATEGORIES,
   ...HS_CATEGORIES,
   ...PS_CATEGORIES,
   ...BB_CATEGORIES,
-];
+]);
 
 export function getCollection(slug: string): Collection | undefined {
   return COLLECTIONS.find((c) => c.slug === slug);

@@ -5,6 +5,7 @@ import ProductGallery from '@/components/ProductGallery';
 import ProductBuyBox from '@/components/ProductBuyBox';
 import ProductTabs from '@/components/ProductTabs';
 import RelatedProducts from '@/components/RelatedProducts';
+import { brandName } from '@/lib/brand';
 import { PRODUCTS, getCategory, getCollection, getProduct, relatedProducts, whatsAppLink } from '@/lib/catalogue';
 import { SITE_URL } from '@/lib/site';
 import { IconChevRight, IconWhatsApp } from '@/components/icons';
@@ -18,7 +19,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   if (!p) return {};
   return {
     title: `${p.name} | ${p.collectionName}`,
-    description: `${p.short} AFZOX ${p.collectionName} commercial gym equipment.`,
+    description: `${p.short} ${brandName(p.collectionName)} commercial gym equipment.`,
     alternates: { canonical: `/product/${p.slug}` },
     openGraph: {
       title: `AFZOX ${p.name} — ${p.collectionName}`,

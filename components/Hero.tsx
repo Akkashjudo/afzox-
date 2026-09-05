@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { brandName } from '@/lib/brand';
 import type { Product } from '@/lib/types';
 import HeroMotion from './HeroMotion';
 import { IconArrow } from './icons';
@@ -111,7 +112,7 @@ export default function Hero({
             >
               <Image
                 src={heroProduct.image}
-                alt={`${heroProduct.name} — AFZOX ${heroProduct.collectionName} commercial gym equipment`}
+                alt={`${heroProduct.name} — ${brandName(heroProduct.collectionName)} commercial gym equipment`}
                 fill
                 priority
                 sizes="(max-width:768px) 88vw, (max-width:1024px) 46vw, 600px"

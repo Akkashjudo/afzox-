@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Reveal from '@/components/Reveal';
 import CategoryCard from '@/components/CategoryCard';
 import CatalogueDownloads from '@/components/CatalogueDownloads';
+import { brandName } from '@/lib/brand';
 import { COLLECTIONS, PRODUCTS, collectionCategories } from '@/lib/catalogue';
 import { IconArrow } from '@/components/icons';
 
@@ -45,7 +46,7 @@ export default function CategoriesPage() {
               <div className="relative aspect-[16/11] w-full overflow-hidden bg-paper-sunken transition-colors duration-control group-hover:bg-paper-deep">
                 <Image
                   src={col.imageLg}
-                  alt={`AFZOX ${col.name} collection — commercial gym equipment`}
+                  alt={`${brandName(col.name)} collection — commercial gym equipment`}
                   fill
                   sizes="(max-width:640px) 92vw, (max-width:1280px) 46vw, 24vw"
                   className="object-contain p-8 transition-transform duration-[900ms] ease-afzox group-hover:scale-[1.04]"
