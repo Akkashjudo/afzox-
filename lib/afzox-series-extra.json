@@ -8,7 +8,7 @@
    "thumb": "afz-dual-ab-wheel",
    "image": "/images/products/afzox-series/afz-dual-ab-wheel-01-md.jpg",
    "imageLg": "/images/products/afzox-series/afz-dual-ab-wheel-01.jpg",
-   "count": 49,
+   "count": 50,
    "url": "/shop/afz-functional"
   },
   {
@@ -9472,6 +9472,1808 @@
     "Bike",
     "Indoor Cycle",
     "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-108",
+   "slug": "cardio-rowing-machine",
+   "name": "Rowing Machine",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 35,
+   "added": 2027.0008,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — rowing machine for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Rowing Machine is a rowing station built around a seated rowing stroke that drives from the legs and finishes through the back. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade rowing frame",
+    "Sliding seat on a rolled rail",
+    "Pivoting footplates with adjustable straps",
+    "Ergonomic pull handle",
+    "Performance monitor",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Seated rowing stroke for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Biceps brachii",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Latissimus dorsi",
+    "Quadriceps",
+    "Biceps brachii",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Seated rowing stroke",
+    "Body Area": "Full Body, Back",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Rowing"
+   },
+   "image": "/images/products/afzox-series/cardio-rowing-machine-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-rowing-machine-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-rowing-machine-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-rowing-machine-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-air-rower",
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Back",
+    "Seated rowing stroke",
+    "Cardiovascular system",
+    "Latissimus dorsi",
+    "Cardio",
+    "Rowing",
+    "Rower",
+    "Rowing Machine",
+    "Row Machine",
+    "Erg"
+   ]
+  },
+  {
+   "sku": "AFX-AS-109",
+   "slug": "cardio-air-rower",
+   "name": "Air Rower",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 34,
+   "added": 2027.0009,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — air rower for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Air Rower is a rowing station built around a rowing stroke braked by a fan, so resistance rises with the effort put in. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries FITNESS branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade rowing frame",
+    "Sliding seat on a rolled rail",
+    "Pivoting footplates with adjustable straps",
+    "Ergonomic pull handle",
+    "Performance monitor",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Air-braked rowing stroke for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Biceps brachii",
+     "Erector spinae"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Latissimus dorsi",
+    "Quadriceps",
+    "Biceps brachii",
+    "Erector spinae"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Air-braked rowing stroke",
+    "Body Area": "Full Body, Back",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Rowing"
+   },
+   "image": "/images/products/afzox-series/cardio-air-rower-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-air-rower-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-air-rower-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-air-rower-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-rowing-machine",
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Back",
+    "Air-braked rowing stroke",
+    "Cardiovascular system",
+    "Latissimus dorsi",
+    "Cardio",
+    "Rowing",
+    "Rower",
+    "Rowing Machine",
+    "Row Machine",
+    "Erg"
+   ]
+  },
+  {
+   "sku": "AFX-AS-110",
+   "slug": "cardio-ski-trainer",
+   "name": "Ski Trainer",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Back"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 33,
+   "added": 2027.001,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — ski trainer for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Ski Trainer is a skiing station built around a standing double-pole pull that loads the lats and trunk on every rep. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade upright frame",
+    "Twin pull handles on independent cords",
+    "Fan-braked resistance",
+    "Performance monitor",
+    "Non-slip floor platform"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Standing double-pole ski pull for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Latissimus dorsi"
+    ],
+    "secondary": [
+     "Triceps brachii",
+     "Rectus abdominis"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Latissimus dorsi",
+    "Triceps brachii",
+    "Rectus abdominis"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Standing double-pole ski pull",
+    "Body Area": "Full Body, Back",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Skiing"
+   },
+   "image": "/images/products/afzox-series/cardio-ski-trainer-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-ski-trainer-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-ski-trainer-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-ski-trainer-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Back",
+    "Standing double-pole ski pull",
+    "Cardiovascular system",
+    "Latissimus dorsi",
+    "Cardio",
+    "Skiing",
+    "Ski Erg",
+    "Ski Machine",
+    "Ski Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-111",
+   "slug": "cardio-ladder-climber",
+   "name": "Ladder Climber",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 32,
+   "added": 2027.0011,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — ladder climber for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Ladder Climber is a climbing station built around a continuous climb up a moving rung ladder, paced entirely by the climber. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade climbing frame",
+    "Continuous stepping surface",
+    "Full-length support handrails",
+    "Console-mounted controls",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Self-powered ladder climb for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Latissimus dorsi"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Latissimus dorsi"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Self-powered ladder climb",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Climbing"
+   },
+   "image": "/images/products/afzox-series/cardio-ladder-climber-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-ladder-climber-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-ladder-climber-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-ladder-climber-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-stair-climber",
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Self-powered ladder climb",
+    "Cardiovascular system",
+    "Quadriceps",
+    "Cardio",
+    "Climbing",
+    "Stair Climber",
+    "Stepper",
+    "Stepmill",
+    "Climber",
+    "Step Machine"
+   ]
+  },
+  {
+   "sku": "AFX-AS-112",
+   "slug": "cardio-stair-climber",
+   "name": "Stair Climber",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 31,
+   "added": 2027.0012,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — stair climber for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Stair Climber is a climbing station built around a revolving staircase that keeps the climber stepping at a set rate. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries STAIRMASTER branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade climbing frame",
+    "Continuous stepping surface",
+    "Full-length support handrails",
+    "Console-mounted controls",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Revolving stair climb for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Gluteus maximus"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Gluteus maximus",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Revolving stair climb",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Climbing"
+   },
+   "image": "/images/products/afzox-series/cardio-stair-climber-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-stair-climber-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-stair-climber-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-stair-climber-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-ladder-climber",
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Revolving stair climb",
+    "Cardiovascular system",
+    "Gluteus maximus",
+    "Cardio",
+    "Climbing",
+    "Stair Climber",
+    "Stepper",
+    "Stepmill",
+    "Climber",
+    "Step Machine"
+   ]
+  },
+  {
+   "sku": "AFX-AS-113",
+   "slug": "cardio-air-bike-01",
+   "name": "Air Bike 01",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 30,
+   "added": 2027.0013,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — air bike 01 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Air Bike 01 is a cycling station built around fan-braked cycling with moving handlebars, so arms and legs work together and resistance answers directly to effort. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade air-bike frame",
+    "Open fan wheel giving resistance proportional to effort",
+    "Moving handlebars driving arms and legs together",
+    "Fore-and-aft and height adjustment on the seat",
+    "Performance monitor",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Fan-braked cycling with moving handlebars for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Latissimus dorsi",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Latissimus dorsi",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Fan-braked cycling with moving handlebars",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling",
+    "Resistance Type": "Air (fan) braked"
+   },
+   "image": "/images/products/afzox-series/cardio-air-bike-01-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-air-bike-01-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-air-bike-01-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-air-bike-01-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Fan-braked cycling with moving handlebars",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-114",
+   "slug": "cardio-air-bike-02",
+   "name": "Air Bike 02",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 29,
+   "added": 2027.0014,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — air bike 02 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Air Bike 02 is a cycling station built around fan-braked cycling with moving handlebars, so arms and legs work together and resistance answers directly to effort. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade air-bike frame",
+    "Open fan wheel giving resistance proportional to effort",
+    "Moving handlebars driving arms and legs together",
+    "Fore-and-aft and height adjustment on the seat",
+    "Performance monitor",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Fan-braked cycling with moving handlebars for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Latissimus dorsi",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Latissimus dorsi",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Fan-braked cycling with moving handlebars",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling",
+    "Resistance Type": "Air (fan) braked"
+   },
+   "image": "/images/products/afzox-series/cardio-air-bike-02-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-air-bike-02-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-air-bike-02-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-air-bike-02-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Fan-braked cycling with moving handlebars",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-115",
+   "slug": "cardio-air-bike-03",
+   "name": "Air Bike 03",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 28,
+   "added": 2027.0015,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — air bike 03 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Air Bike 03 is a cycling station built around fan-braked cycling with moving handlebars, so arms and legs work together and resistance answers directly to effort. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries ASSAULT branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade air-bike frame",
+    "Open fan wheel giving resistance proportional to effort",
+    "Moving handlebars driving arms and legs together",
+    "Fore-and-aft and height adjustment on the seat",
+    "Performance monitor",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Fan-braked cycling with moving handlebars for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Latissimus dorsi",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Latissimus dorsi",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Fan-braked cycling with moving handlebars",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling",
+    "Resistance Type": "Air (fan) braked"
+   },
+   "image": "/images/products/afzox-series/cardio-air-bike-03-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-air-bike-03-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-air-bike-03-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-air-bike-03-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Fan-braked cycling with moving handlebars",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-116",
+   "slug": "cardio-indoor-cycle-08",
+   "name": "Indoor Cycle 08",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 27,
+   "added": 2027.0016,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 08 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 08 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries SPINNING branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Studio cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-08-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-08-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-08-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-08-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-117",
+   "slug": "cardio-indoor-cycle-09",
+   "name": "Indoor Cycle 09",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 26,
+   "added": 2027.0017,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 09 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 09 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries FITNESS branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Studio cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-09-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-09-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-09-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-09-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-118",
+   "slug": "cardio-indoor-cycle-10",
+   "name": "Indoor Cycle 10",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 25,
+   "added": 2027.0018,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 10 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 10 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries SCHWINN branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Studio cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-10-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-10-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-10-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-10-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-119",
+   "slug": "cardio-indoor-cycle-11",
+   "name": "Indoor Cycle 11",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 24,
+   "added": 2027.0019,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 11 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 11 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Studio cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-11-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-11-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-11-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-11-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-120",
+   "slug": "cardio-indoor-cycle-12",
+   "name": "Indoor Cycle 12",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 23,
+   "added": 2027.002,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 12 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 12 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Studio cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-12-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-12-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-12-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-12-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-121",
+   "slug": "cardio-indoor-cycle-13",
+   "name": "Indoor Cycle 13",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 22,
+   "added": 2027.0021,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 13 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 13 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries FITNESS branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Studio cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-13-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-13-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-13-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-13-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-122",
+   "slug": "cardio-upright-bike-02",
+   "name": "Upright Bike 02",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 21,
+   "added": 2027.0022,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — upright bike 02 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Upright Bike 02 is a cycling station built around steady seated cycling in an upright riding position. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Seated upright cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Seated upright cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-upright-bike-02-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-upright-bike-02-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-upright-bike-02-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-upright-bike-02-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Seated upright cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-123",
+   "slug": "cardio-recumbent-bike-02",
+   "name": "Recumbent Bike 02",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 20,
+   "added": 2027.0023,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — recumbent bike 02 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Recumbent Bike 02 is a cycling station built around seated cycling from a reclined position with the lower back supported. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Back-supported seated cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Gluteus maximus"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Gluteus maximus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Primary Movement": "Back-supported seated cycling",
+    "Body Area": "Full Body, Legs",
+    "Suitable For": "Commercial installation",
+    "Cardio Type": "Cycling"
+   },
+   "image": "/images/products/afzox-series/cardio-recumbent-bike-02-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-recumbent-bike-02-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-recumbent-bike-02-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-recumbent-bike-02-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Full Body",
+    "Legs",
+    "Back-supported seated cycling",
+    "Cardiovascular system",
+    "Cardio",
+    "Cycling",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle",
+    "Air Bike",
+    "Fan Bike"
+   ]
+  },
+  {
+   "sku": "AFX-AS-124",
+   "slug": "afz-dual-cable-station",
+   "name": "Dual Cable Station",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "functional",
+   "categoryName": "Cable & Functional",
+   "equipmentType": "Cable Machine",
+   "bodyAreas": [
+    "Full Body"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 19,
+   "added": 2027.0024,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cable & Functional — dual cable station for full body training on commercial floors.",
+   "description": [
+    "The AFZOX Dual Cable Station is built around open-path cable resistance at any working height. It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Dual independent cable columns",
+    "Adjustable pulley height across the full column",
+    "Printed exercise placards on the shroud",
+    "Attachment storage on the frame",
+    "Wide bolt-down base with levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Adjustable cable resistance for full body training.",
+   "muscles": {
+    "primary": [
+     "Full body"
+    ],
+    "secondary": [
+     "Core & rotational chain",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Full body",
+    "Core & rotational chain",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cable & Functional",
+    "Equipment Type": "Cable Machine",
+    "Primary Movement": "Adjustable cable resistance",
+    "Body Area": "Full Body",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-dual-cable-station-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-dual-cable-station-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-dual-cable-station-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-dual-cable-station-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-rip-trainer",
+    "afz-drag-sled",
+    "afz-prowler-sled",
+    "afz-yoga-blocks"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cable & Functional",
+    "Cable Machine",
+    "Full Body",
+    "Adjustable cable resistance",
+    "Full body"
+   ]
+  },
+  {
+   "sku": "AFX-AS-125",
+   "slug": "afz-ab-coaster",
+   "name": "Ab Coaster",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "afz-functional",
+   "categoryName": "Functional Training",
+   "equipmentType": "Bodyweight Station",
+   "bodyAreas": [
+    "Core"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 18,
+   "added": 2027.0025,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Functional Training — ab coaster for core training on commercial floors.",
+   "description": [
+    "The AFZOX Ab Coaster is built around a knee raise that travels a curved track, so the abdominals stay loaded through the whole arc. It is specified for commercial floors, where a station is in use through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Curved travel track",
+    "Padded knee rests with hand grips",
+    "Commercial-grade steel frame",
+    "Compact footprint",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Hanging knee raise on a curved track for core training.",
+   "muscles": {
+    "primary": [
+     "Rectus abdominis"
+    ],
+    "secondary": [
+     "Obliques",
+     "Hip flexors"
+    ]
+   },
+   "targets": [
+    "Rectus abdominis",
+    "Obliques",
+    "Hip flexors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Functional Training",
+    "Equipment Type": "Bodyweight Station",
+    "Primary Movement": "Hanging knee raise on a curved track",
+    "Body Area": "Core",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/afz-ab-coaster-01.jpg",
+   "imageMd": "/images/products/afzox-series/afz-ab-coaster-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/afz-ab-coaster-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/afz-ab-coaster-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "afz-dual-ab-wheel",
+    "afz-rip-trainer",
+    "afz-steel-mace",
+    "afz-parallette-bars"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Functional Training",
+    "Bodyweight Station",
+    "Core",
+    "Hanging knee raise on a curved track",
+    "Rectus abdominis"
    ]
   }
  ]
