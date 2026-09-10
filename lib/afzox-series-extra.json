@@ -6267,6 +6267,3212 @@
     "Balance",
     "Tibialis anterior"
    ]
+  },
+  {
+   "sku": "AFX-AS-075",
+   "slug": "cardio-curved-manual-treadmill",
+   "name": "Curved Manual Treadmill",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 69,
+   "added": 2026.9875,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — curved manual treadmill for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Curved Manual Treadmill is a running station built around running on a curved, motor-free belt that moves only as fast as the runner drives it. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Motor-free curved running belt",
+    "Slatted running surface",
+    "Speed set entirely by the runner's foot placement",
+    "Commercial-grade steel frame",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Self-powered running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Hamstrings"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Hamstrings",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Self-powered running",
+    "Suitable For": "Commercial installation",
+    "Drive": "Motor-free, user-powered"
+   },
+   "image": "/images/products/afzox-series/cardio-curved-manual-treadmill-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-curved-manual-treadmill-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-curved-manual-treadmill-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-curved-manual-treadmill-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01",
+    "cardio-treadmill-02"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Self-powered running",
+    "Cardiovascular system",
+    "Hamstrings",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-076",
+   "slug": "cardio-curved-sprint-treadmill",
+   "name": "Curved Sprint Treadmill",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 68,
+   "added": 2026.9876,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — curved sprint treadmill for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Curved Sprint Treadmill is a running station built around sprint intervals and resisted sled-push work on a motor-free curved belt. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Motor-free curved running belt",
+    "Slatted running surface",
+    "Speed set entirely by the runner's foot placement",
+    "Commercial-grade steel frame",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Self-powered sprinting and sled push for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system",
+     "Quadriceps"
+    ],
+    "secondary": [
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Self-powered sprinting and sled push",
+    "Suitable For": "Commercial installation",
+    "Drive": "Motor-free, user-powered"
+   },
+   "image": "/images/products/afzox-series/cardio-curved-sprint-treadmill-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-curved-sprint-treadmill-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-curved-sprint-treadmill-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-curved-sprint-treadmill-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01",
+    "cardio-treadmill-02"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Self-powered sprinting and sled push",
+    "Cardiovascular system",
+    "Quadriceps",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-077",
+   "slug": "cardio-folding-treadmill",
+   "name": "Folding Treadmill",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 67,
+   "added": 2026.9877,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — folding treadmill for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Folding Treadmill is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries MONMI branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-folding-treadmill-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-folding-treadmill-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-folding-treadmill-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-folding-treadmill-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-treadmill-01",
+    "cardio-treadmill-02"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-078",
+   "slug": "cardio-treadmill-01",
+   "name": "Commercial Treadmill 01",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 66,
+   "added": 2026.9878,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 01 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 01 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-01-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-01-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-01-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-01-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-02"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-079",
+   "slug": "cardio-treadmill-02",
+   "name": "Commercial Treadmill 02",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 65,
+   "added": 2026.9879,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 02 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 02 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-02-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-02-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-02-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-02-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-080",
+   "slug": "cardio-treadmill-03",
+   "name": "Commercial Treadmill 03",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 64,
+   "added": 2026.988,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 03 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 03 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries FITNESS branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-03-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-03-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-03-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-03-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-081",
+   "slug": "cardio-treadmill-04",
+   "name": "Commercial Treadmill 04",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 63,
+   "added": 2026.9881,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 04 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 04 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-04-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-04-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-04-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-04-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-082",
+   "slug": "cardio-treadmill-05",
+   "name": "Commercial Treadmill 05",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 62,
+   "added": 2026.9882,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 05 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 05 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-05-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-05-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-05-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-05-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-083",
+   "slug": "cardio-treadmill-06",
+   "name": "Commercial Treadmill 06",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 61,
+   "added": 2026.9883,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 06 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 06 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-06-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-06-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-06-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-06-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-084",
+   "slug": "cardio-treadmill-07",
+   "name": "Commercial Treadmill 07",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 60,
+   "added": 2026.9884,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 07 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 07 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-07-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-07-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-07-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-07-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-085",
+   "slug": "cardio-treadmill-08",
+   "name": "Commercial Treadmill 08",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 59,
+   "added": 2026.9885,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 08 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 08 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-08-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-08-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-08-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-08-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-086",
+   "slug": "cardio-treadmill-09",
+   "name": "Commercial Treadmill 09",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 58,
+   "added": 2026.9886,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 09 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 09 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-09-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-09-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-09-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-09-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-087",
+   "slug": "cardio-treadmill-10",
+   "name": "Commercial Treadmill 10",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 57,
+   "added": 2026.9887,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — commercial treadmill 10 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Commercial Treadmill 10 is a running station built around walking, jogging and running at a set belt speed. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade running frame",
+    "Cushioned running deck",
+    "Full-length side rails",
+    "Console-mounted safety key",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Motorised running for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Running",
+    "Primary Movement": "Motorised running",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-treadmill-10-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-treadmill-10-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-treadmill-10-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-treadmill-10-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-curved-manual-treadmill",
+    "cardio-curved-sprint-treadmill",
+    "cardio-folding-treadmill",
+    "cardio-treadmill-01"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Running",
+    "Full Body",
+    "Legs",
+    "Motorised running",
+    "Cardiovascular system",
+    "Treadmill",
+    "Running Machine",
+    "Runner"
+   ]
+  },
+  {
+   "sku": "AFX-AS-088",
+   "slug": "cardio-elliptical-cross-trainer-01",
+   "name": "Elliptical Cross Trainer 01",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 56,
+   "added": 2026.9888,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 01 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 01 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-01-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-01-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-01-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-01-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04",
+    "cardio-elliptical-cross-trainer-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-089",
+   "slug": "cardio-elliptical-cross-trainer-02",
+   "name": "Elliptical Cross Trainer 02",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 55,
+   "added": 2026.9889,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 02 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 02 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-02-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-02-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-02-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-02-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04",
+    "cardio-elliptical-cross-trainer-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-090",
+   "slug": "cardio-elliptical-cross-trainer-03",
+   "name": "Elliptical Cross Trainer 03",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 54,
+   "added": 2026.989,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 03 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 03 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-03-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-03-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-03-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-03-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-04",
+    "cardio-elliptical-cross-trainer-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-091",
+   "slug": "cardio-elliptical-cross-trainer-04",
+   "name": "Elliptical Cross Trainer 04",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 53,
+   "added": 2026.9891,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 04 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 04 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-04-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-04-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-04-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-04-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-092",
+   "slug": "cardio-elliptical-cross-trainer-05",
+   "name": "Elliptical Cross Trainer 05",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 52,
+   "added": 2026.9892,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 05 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 05 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-05-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-05-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-05-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-05-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-093",
+   "slug": "cardio-elliptical-cross-trainer-06",
+   "name": "Elliptical Cross Trainer 06",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 51,
+   "added": 2026.9893,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 06 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 06 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-06-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-06-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-06-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-06-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-094",
+   "slug": "cardio-elliptical-cross-trainer-07",
+   "name": "Elliptical Cross Trainer 07",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 50,
+   "added": 2026.9894,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 07 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 07 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-07-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-07-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-07-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-07-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-095",
+   "slug": "cardio-elliptical-cross-trainer-08",
+   "name": "Elliptical Cross Trainer 08",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 49,
+   "added": 2026.9895,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 08 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 08 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-08-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-08-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-08-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-08-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-096",
+   "slug": "cardio-elliptical-cross-trainer-09",
+   "name": "Elliptical Cross Trainer 09",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 48,
+   "added": 2026.9896,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — elliptical cross trainer 09 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Elliptical Cross Trainer 09 is a elliptical station built around a closed-chain striding path that keeps both feet in contact with the pedals, so the joints never take a landing impact. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Low-impact elliptical stride for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Deltoids"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Deltoids"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Low-impact elliptical stride",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-elliptical-cross-trainer-09-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-elliptical-cross-trainer-09-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-elliptical-cross-trainer-09-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-elliptical-cross-trainer-09-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Low-impact elliptical stride",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-097",
+   "slug": "cardio-arc-trainer",
+   "name": "Arc Trainer",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 47,
+   "added": 2026.9897,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — arc trainer for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Arc Trainer is a elliptical station built around a long arcing foot path whose angle changes the emphasis between quads and glutes. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Arc-path stride with adjustable incline for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Hamstrings"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Hamstrings"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Arc-path stride with adjustable incline",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-arc-trainer-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-arc-trainer-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-arc-trainer-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-arc-trainer-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Arc-path stride with adjustable incline",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-098",
+   "slug": "cardio-lateral-trainer",
+   "name": "Lateral Trainer",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 46,
+   "added": 2026.9898,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — lateral trainer for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Lateral Trainer is a elliptical station built around a side-to-side striding path that loads the hips and outer thigh rather than driving straight ahead. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cross-training frame",
+    "Moving upper-body handlebars with fixed grips",
+    "Oversized non-slip foot pedals",
+    "Enclosed drive housing",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Lateral stride pattern for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Gluteus medius",
+     "Quadriceps",
+     "Adductors"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Gluteus medius",
+    "Quadriceps",
+    "Adductors"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Elliptical",
+    "Primary Movement": "Lateral stride pattern",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-lateral-trainer-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-lateral-trainer-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-lateral-trainer-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-lateral-trainer-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-elliptical-cross-trainer-01",
+    "cardio-elliptical-cross-trainer-02",
+    "cardio-elliptical-cross-trainer-03",
+    "cardio-elliptical-cross-trainer-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Elliptical",
+    "Full Body",
+    "Legs",
+    "Lateral stride pattern",
+    "Cardiovascular system",
+    "Elliptical",
+    "Cross Trainer",
+    "Crosstrainer",
+    "Elliptical Trainer"
+   ]
+  },
+  {
+   "sku": "AFX-AS-099",
+   "slug": "cardio-indoor-cycle-01",
+   "name": "Indoor Cycle 01",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 45,
+   "added": 2026.9899,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 01 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 01 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries SPINNING branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-01-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-01-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-01-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-01-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04",
+    "cardio-indoor-cycle-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-100",
+   "slug": "cardio-indoor-cycle-02",
+   "name": "Indoor Cycle 02",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 44,
+   "added": 2026.99,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 02 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 02 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-02-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-02-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-02-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-02-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04",
+    "cardio-indoor-cycle-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-101",
+   "slug": "cardio-indoor-cycle-03",
+   "name": "Indoor Cycle 03",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 43,
+   "added": 2026.9901,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 03 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 03 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries FITNESS branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-03-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-03-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-03-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-03-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-04",
+    "cardio-indoor-cycle-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-102",
+   "slug": "cardio-indoor-cycle-04",
+   "name": "Indoor Cycle 04",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 42,
+   "added": 2026.9902,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 04 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 04 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-04-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-04-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-04-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-04-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-05"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-103",
+   "slug": "cardio-indoor-cycle-05",
+   "name": "Indoor Cycle 05",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 41,
+   "added": 2026.9903,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 05 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 05 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-05-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-05-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-05-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-05-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-104",
+   "slug": "cardio-indoor-cycle-06",
+   "name": "Indoor Cycle 06",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 40,
+   "added": 2026.9904,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 06 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 06 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-06-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-06-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-06-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-06-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-105",
+   "slug": "cardio-indoor-cycle-07",
+   "name": "Indoor Cycle 07",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 39,
+   "added": 2026.9905,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — indoor cycle 07 for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Indoor Cycle 07 is a cycling station built around seated and standing cycling against a weighted flywheel, at the tempo a studio class calls for. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Studio cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Gluteus maximus",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Gluteus maximus",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Studio cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-indoor-cycle-07-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-indoor-cycle-07-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-indoor-cycle-07-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-indoor-cycle-07-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Studio cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-106",
+   "slug": "cardio-upright-bike",
+   "name": "Upright Bike",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 38,
+   "added": 2026.9906,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — upright bike for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Upright Bike is a cycling station built around steady seated cycling in an upright riding position. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Seated upright cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Calves"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Seated upright cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-upright-bike-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-upright-bike-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-upright-bike-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-upright-bike-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Seated upright cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
+  },
+  {
+   "sku": "AFX-AS-107",
+   "slug": "cardio-recumbent-bike",
+   "name": "Recumbent Bike",
+   "collection": "afzox-series",
+   "collectionName": "AFZOX Series",
+   "series": "AFZOX Series",
+   "category": "cardio",
+   "categoryName": "Cardio & Conditioning",
+   "equipmentType": "Cardio",
+   "bodyAreas": [
+    "Full Body",
+    "Legs"
+   ],
+   "usage": "Commercial",
+   "featured": false,
+   "popular": 37,
+   "added": 2026.9907,
+   "tier": "AFZOX Series",
+   "band": "standard",
+   "short": "Cardio & Conditioning — recumbent bike for conditioning on commercial floors.",
+   "description": [
+    "The AFZOX Recumbent Bike is a cycling station built around seated cycling from a reclined position with the lower back supported. It is specified for commercial floors, where a cardio position runs through every peak hour rather than occasionally.",
+    "Catalogue photography for this item carries Life Fitness branding. AFZOX supplies and installs the equipment; manufacturer and supply terms are confirmed at quotation."
+   ],
+   "features": [
+    "Commercial-grade cycling frame",
+    "Fore-and-aft and height adjustment on seat and handlebars",
+    "Caged pedals with adjustable straps",
+    "Weighted flywheel drive",
+    "Transport wheels for floor repositioning",
+    "Levelling feet"
+   ],
+   "applications": [
+    "Commercial gyms",
+    "Fitness centres",
+    "Strength & conditioning facilities",
+    "Sports performance centres",
+    "Hotel and club fitness",
+    "Corporate and institutional gyms"
+   ],
+   "primaryApplication": "Back-supported seated cycling for cardiovascular conditioning.",
+   "muscles": {
+    "primary": [
+     "Cardiovascular system"
+    ],
+    "secondary": [
+     "Quadriceps",
+     "Hamstrings",
+     "Gluteus maximus"
+    ]
+   },
+   "targets": [
+    "Cardiovascular system",
+    "Quadriceps",
+    "Hamstrings",
+    "Gluteus maximus"
+   ],
+   "specs": {
+    "Brand": "AFZOX",
+    "Series": "AFZOX Series",
+    "Collection": "AFZOX Series",
+    "Category": "Cardio & Conditioning",
+    "Equipment Type": "Cardio",
+    "Cardio Type": "Cycling",
+    "Primary Movement": "Back-supported seated cycling",
+    "Suitable For": "Commercial installation"
+   },
+   "image": "/images/products/afzox-series/cardio-recumbent-bike-01.jpg",
+   "imageMd": "/images/products/afzox-series/cardio-recumbent-bike-01-md.jpg",
+   "imageSm": "/images/products/afzox-series/cardio-recumbent-bike-01-sm.jpg",
+   "images": [
+    "/images/products/afzox-series/cardio-recumbent-bike-01.jpg"
+   ],
+   "isHome": false,
+   "isCommercial": true,
+   "related": [
+    "cardio-indoor-cycle-01",
+    "cardio-indoor-cycle-02",
+    "cardio-indoor-cycle-03",
+    "cardio-indoor-cycle-04"
+   ],
+   "tags": [
+    "AFZOX",
+    "AFZOX Series",
+    "Cardio & Conditioning",
+    "Cardio",
+    "Cycling",
+    "Full Body",
+    "Legs",
+    "Back-supported seated cycling",
+    "Cardiovascular system",
+    "Spin Bike",
+    "Exercise Bike",
+    "Bike",
+    "Indoor Cycle",
+    "Cycle"
+   ]
   }
  ]
 }
