@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { motion, useReducedMotion } from 'framer-motion';
 import { EASE } from './motion/primitives';
 
@@ -32,6 +32,13 @@ const FADE = 1.1; // s crossfade
 export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
   const [index, setIndex] = useState(0);
   const [paused, setPaused] = useState(false);
+  /* Which slides have been mounted so far. Stacked layers are what make a
+     crossfade safe — the incoming image is already decoded — but mounting all
+     four up front pulls roughly 750KB of wide imagery while the first one is
+     still trying to be the LCP. Mounting one slide ahead spreads that across
+     the rotation: the next scene loads while the current one is showing, and
+     once a slide is mounted it stays, so going back to it is instant. */
+  const [mounted, setMounted] = useState<number[]>([0]);
   const reduce = useReducedMotion();
   const timer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -57,6 +64,12 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
     return () => document.removeEventListener('visibilitychange', onVisibility);
   }, []);
 
+  useEffect(() => {
+    const ahead = (index + 1) % scenes.length;
+    setMounted((m) => (m.includes(ahead) ? m : [...m, ahead]));
+  }, [index, scenes.length]);
+
+  const visible = useMemo(() => new Set(mounted), [mounted]);
   const active = scenes[index];
 
   return (
@@ -77,7 +90,8 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
           produce either: each file is fetched once, and a switch is a pure
           opacity change between two already-decoded images. */}
       <div className="absolute inset-0 overflow-hidden">
-        {scenes.map((scene, i) => (
+        {scenes.map((scene, i) =>
+          !visible.has(i) ? null : (
           <motion.div
             key={scene.slug}
             aria-hidden={i !== index}
@@ -95,7 +109,8 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
           >
             <Picture scene={scene} eager={i === 0} />
           </motion.div>
-        ))}
+          )
+        )}
       </div>
 
       {/* Readability scrim — deliberately light, because each composition
@@ -176,7 +191,10 @@ function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
         fetchPriority={eager ? 'high' : 'auto'}
         loading={eager ? 'eager' : 'lazy'}
         decoding={eager ? 'sync' : 'async'}
-        className="h-full w-full object-cover object-[68%_center] lg:object-[center_center]"
+        /* Centre is correct at every size: the focal choice was already made
+           when each variant was cropped, per image, so nudging the position
+           again here would only undo it. */
+        className="h-full w-full object-cover object-center"
       />
     </picture>
   );

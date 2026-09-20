@@ -6,15 +6,21 @@ import { IconArrow } from './icons';
 /**
  * Homepage hero.
  *
- * The backdrop is four staged equipment scenes rather than one machine on a
- * plate: the client sells complete floors, so the hero shows a floor. Every
- * machine in every scene is a real product in the catalogue.
+ * The backdrop is four gym environments supplied by the client, one per slide:
+ * a complete floor, a strength area, a cardio line-up and a functional zone.
+ * They share one brand world — dark concrete, warm slat wood, warm accent
+ * light, city glazing — so they are used as shot, with no grade applied.
  *
- * The copy column sits in the left third, which each composition deliberately
- * keeps clear of machinery, so nothing important is ever buried under the
- * headline. The statistics block that used to sit under the CTA is gone — the
- * counts live on the shop and collection pages, where a buyer is actually
- * comparing, not on the first thing they see.
+ * Each is cropped three ways rather than left to `object-fit: cover`, with the
+ * crop centred per image on where its equipment actually sits. Slide 2's
+ * treadmills anchor the left half, so its portrait crop moves right to bring
+ * the elliptical and bikes into frame; a blanket centre crop would have cut
+ * the line-up in half.
+ *
+ * The copy sits in the left third under a directional scrim. The statistics
+ * block that used to sit beneath the CTA is gone — those counts live on the
+ * shop and collection pages, where a buyer is comparing, not on the first
+ * thing they see.
  *
  * Height is `svh`-based: `100vh` on mobile browsers measures the viewport with
  * the address bar collapsed, so the CTA ends up below the fold on first paint.
@@ -24,22 +30,22 @@ const SCENES: HeroScene[] = [
   {
     slug: 'floor',
     label: 'Complete floor',
-    alt: 'AFZOX commercial gym floor — a half rack, plate-loaded chest press, treadmill and two-tier dumbbell rack.',
+    alt: 'A fitted-out commercial gym floor: curved and motorised treadmills, an indoor cycle, a cable station, a power rack, dumbbell racking and an adjustable bench.',
   },
   {
     slug: 'strength',
     label: 'Strength area',
-    alt: 'AFZOX strength area — lat pulldown, leg press, seated chest press and incline chest press.',
+    alt: 'A strength training area: a loaded power rack, dual-column cable station, plate-loaded leg press, dumbbell racking, adjustable bench and a weight sled.',
   },
   {
     slug: 'cardio',
     label: 'Cardio line-up',
-    alt: 'AFZOX cardio line-up — indoor cycle, elliptical cross trainer, air rower and commercial treadmill.',
+    alt: 'A cardio line-up on a raised plinth: motorised and curved treadmills, an elliptical cross trainer, upright bike, rower and air bike.',
   },
   {
     slug: 'functional',
     label: 'Functional zone',
-    alt: 'AFZOX functional zone — cable crossover, monkey bar rig, power sled and dumbbell rack.',
+    alt: 'A functional training zone: a stair climber, air bike, medicine ball and kettlebell racking, a cable rig, battle ropes, plyo box, weight sled and dumbbell racking.',
   },
 ];
 
@@ -54,10 +60,14 @@ export default function Hero() {
       <HeroSlider scenes={SCENES} />
 
       <HeroMotion>
-        <div className="shell relative flex min-h-[min(86svh,900px)] flex-col justify-center pb-32 pt-[calc(var(--header-h)+40px)] lg:min-h-[min(88svh,940px)] lg:pb-36">
+        {/* Shorter and tighter on a phone. At 86svh the portrait crop gave the
+            copy a band of empty floor to sit over and left a gap between the
+            CTAs and the progress rail; pulling the height in brings the
+            equipment band up into frame and closes it. */}
+        <div className="shell relative flex min-h-[min(74svh,720px)] flex-col justify-center pb-24 pt-[calc(var(--header-h)+28px)] sm:min-h-[min(80svh,820px)] sm:pb-28 sm:pt-[calc(var(--header-h)+36px)] lg:min-h-[min(88svh,940px)] lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
           <div className="relative z-10 max-w-xl lg:max-w-2xl">
             <span data-hero="eyebrow" className="eyebrow-on-ink">
-              Commercial gym equipment
+              Commercial fitness equipment
             </span>
 
             {/* The display scale is held back until `lg`: the copy column is
@@ -77,9 +87,9 @@ export default function Hero() {
               </span>
             </h1>
 
-            <p data-hero="body" className="mt-7 max-w-lg text-body-lg text-white/65">
-              Strength, cardio and functional equipment for commercial gyms — specified,
-              delivered and installed across India by the people who build it.
+            <p data-hero="body" className="mt-7 max-w-lg text-body-lg text-white/70">
+              Strength, cardio and functional equipment for commercial floors — specified,
+              supplied and installed across India, from a single station to a complete fit-out.
             </p>
 
             <div data-hero="cta" className="mt-10 flex flex-wrap items-center gap-3">
