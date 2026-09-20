@@ -113,14 +113,16 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
         )}
       </div>
 
-      {/* Readability scrim — deliberately light, because each composition
-          already carries its own falloff behind the copy. Stacking a heavy
-          CSS gradient on top of that darkened the machines twice over and the
-          gym stopped reading on a phone, which is the one thing this hero has
-          to do. This adds only the contrast the type actually needs. */}
+      {/* Readability scrim, shaped to where the copy actually sits.
+          On a phone the copy is anchored to the bottom, so the gradient runs
+          light at the top — leaving the equipment band clear — and deepens
+          under the text. It used to run dark at the top, which dimmed the
+          machines and left the copy over bare floor: exactly backwards.
+          From `lg` the copy moves to the left third and the gradient turns
+          horizontal to match. */}
       <div
         aria-hidden
-        className="absolute inset-0 bg-gradient-to-b from-ink-950/70 via-ink-950/25 to-ink-950/85 lg:bg-gradient-to-r lg:from-ink-950/88 lg:via-ink-950/45 lg:to-transparent"
+        className="absolute inset-0 bg-gradient-to-b from-ink-950/25 via-ink-950/60 to-ink-950/95 lg:bg-gradient-to-r lg:from-ink-950/88 lg:via-ink-950/45 lg:to-transparent"
       />
 
       {/* ---------- Controls ---------- */}

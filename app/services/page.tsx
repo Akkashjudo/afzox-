@@ -170,7 +170,6 @@ export default function ServicesPage() {
                     className="inline-flex items-center gap-2 rounded-full border border-white/20 px-4 py-2 text-label-sm uppercase text-white/70 transition-colors duration-micro hover:border-white hover:text-white"
                   >
                     {c.displayName}
-                    <span className="text-white/40">{c.count}</span>
                   </Link>
                 </li>
               ))}

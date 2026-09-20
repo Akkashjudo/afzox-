@@ -51,7 +51,7 @@ export default function GalleryPage() {
                 </div>
                 <Link href={collection.url} className="group cta-text">
                   <span className="relative">
-                    All {collection.count} products
+                    View the collection
                     <span className="cta-text__line absolute -bottom-1 left-0" />
                   </span>
                   <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />

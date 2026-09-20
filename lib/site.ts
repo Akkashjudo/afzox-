@@ -9,11 +9,3 @@ export const NAV_LINKS = [
   { href: '/contact', label: 'Contact' },
 ] as const;
 
-export const TRUST_STRIP = [
-  { icon: 'star', label: 'Premium Quality' },
-  { icon: 'truck', label: 'Fast Delivery' },
-  { icon: 'tool', label: 'Installation Support' },
-  { icon: 'package', label: 'Bulk Orders' },
-  { icon: 'clipboard', label: 'Gym Consultation' },
-  { icon: 'shield', label: 'Commercial Setup' },
-] as const;

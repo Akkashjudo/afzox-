@@ -12,7 +12,6 @@ export type FamilyCard = {
   name: string;
   blurb: string;
   href: string;
-  count: number;
   thumb: string;
   thumbAlt: string;
 };
@@ -99,9 +98,6 @@ export default function EquipmentFamilies({
                   <span className="font-display text-[13px] font-semibold leading-tight text-ink-900 lg:text-sm">
                     {f.name}
                   </span>
-                  <span className="text-label-sm uppercase tabular-nums text-on-surface-variant">
-                    {f.count} machines
-                  </span>
                 </span>
                 {selected && (
                   <motion.span
@@ -125,7 +121,7 @@ export default function EquipmentFamilies({
               </p>
             </div>
             <Link href={current.href} className="group cta-text shrink-0">
-              View all {current.count}
+              View all
               <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
             </Link>
           </div>

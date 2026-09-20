@@ -32,9 +32,6 @@ export default function CategoryCard({ category, large = false }: { category: Ca
           sizes={large ? '(max-width:760px) 90vw, 66vw' : '(max-width:760px) 90vw, 33vw'}
           className="object-contain p-8 transition-transform duration-[900ms] ease-afzox group-hover:scale-[1.04]"
         />
-        <span className="absolute left-4 top-4 rounded-full border border-black/[0.08] bg-white/85 px-3 py-1 text-label-sm uppercase text-on-surface-variant backdrop-blur-sm">
-          {category.count} machines
-        </span>
       </div>
 
       <div className="flex flex-1 flex-col border-t border-black/[0.08] p-6">

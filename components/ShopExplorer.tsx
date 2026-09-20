@@ -266,11 +266,11 @@ export default function ShopExplorer({
       {!lockCollection && (
         <FilterGroup label="Collection">
           <Checkline active={collection === 'all'} onClick={() => chooseCollection('all')}>
-            All collections <b>{PRODUCTS.length}</b>
+            All collections
           </Checkline>
           {COLLECTIONS.map((c) => (
             <Checkline key={c.slug} active={collection === c.slug} onClick={() => chooseCollection(c.slug)}>
-              {c.name} <b>{c.count}</b>
+              {c.name}
             </Checkline>
           ))}
         </FilterGroup>
@@ -279,7 +279,7 @@ export default function ShopExplorer({
       {categoryOptions.items.length > 1 && (
         <FilterGroup label="Range">
           <Checkline active={category === 'all'} onClick={() => setParams({ category: 'all' })}>
-            All ranges <b>{categoryOptions.total}</b>
+            All ranges
           </Checkline>
           {categoryOptions.items.map((c) => {
             // Both collections have a "Storage & Racking" range, so the
@@ -290,7 +290,7 @@ export default function ShopExplorer({
                 key={c.slug}
                 active={category === c.slug}
                 onClick={() => setParams({ category: c.slug })}
-                label={owner ? `${c.name} — ${owner}, ${c.n} products` : `${c.name}, ${c.n} products`}
+                label={owner ? `${c.name} — ${owner}` : c.name}
               >
                 <span className="min-w-0">
                   {c.name}
@@ -300,7 +300,6 @@ export default function ShopExplorer({
                     </span>
                   )}
                 </span>
-                <b>{c.n}</b>
               </Checkline>
             );
           })}
@@ -309,9 +308,9 @@ export default function ShopExplorer({
 
       {bodyOptions.length > 1 && (
         <FilterGroup label="Body Area">
-          {bodyOptions.map(({ a, n }) => (
+          {bodyOptions.map(({ a }) => (
             <Checkline key={a} active={bodyAreas.includes(a)} onClick={() => setParams({ body: toggle(bodyAreas, a) })}>
-              {a} <b>{n}</b>
+              {a}
             </Checkline>
           ))}
         </FilterGroup>
@@ -319,13 +318,13 @@ export default function ShopExplorer({
 
       {typeOptions.length > 1 && (
         <FilterGroup label="Equipment Type">
-          {typeOptions.map(({ t, n }) => (
+          {typeOptions.map(({ t }) => (
             <Checkline
               key={t}
               active={equipmentTypes.includes(t)}
               onClick={() => setParams({ type: toggle(equipmentTypes, t) })}
             >
-              {t} <b>{n}</b>
+              {t}
             </Checkline>
           ))}
         </FilterGroup>
@@ -413,13 +412,15 @@ export default function ShopExplorer({
         <div className="min-w-0">
           <div className="mb-5 flex flex-wrap items-center justify-between gap-3 border-b border-black/[0.08] pb-4">
             <p className="text-label-sm uppercase text-on-surface-variant" aria-live="polite">
+              {/* Deliberately not "N of M". The site shows a selected part of
+                  what AFZOX supplies, so a total would read as the whole
+                  catalogue. Saying what is on screen is both useful and true. */}
               <b className="font-display text-base font-bold normal-case tracking-tight text-ink-900">
                 {list.length}
               </b>
               <span className="ml-2">
-                of {scope.length}
-                {activeCollection ? ` ${activeCollection.name}` : ''} product
-                {scope.length === 1 ? '' : 's'}
+                {activeCollection ? `${activeCollection.name} ` : ''}
+                {list.length === 1 ? 'machine shown' : 'machines shown'}
               </span>
             </p>
             <div className="flex items-center gap-2">

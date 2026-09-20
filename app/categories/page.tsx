@@ -14,7 +14,7 @@ const COUNT_WORD =
 
 export const metadata: Metadata = {
   title: 'Collections & Equipment Ranges',
-  description: `${COLLECTIONS.length} AFZOX collections — ${COLLECTIONS.map((c) => `${c.displayName} (${c.count} products)`).join(', ')} — covering plate loaded, pin loaded, cable, benches, racks, storage and cardio.`,
+  description: `The AFZOX collections — ${COLLECTIONS.map((c) => c.displayName).join(', ')} — covering plate loaded, pin loaded, cable, benches, racks, storage and cardio equipment.`,
   alternates: { canonical: '/categories' },
 };
 
@@ -59,9 +59,7 @@ export default function CategoriesPage() {
 
               <div className="flex flex-1 flex-col border-t border-black/[0.08] p-6">
                 <p className="text-label-md uppercase text-brand">{col.displayName}</p>
-                <h2 className="mt-3 text-headline-sm">
-                  {col.count} <span className="font-normal text-on-surface-variant">products</span>
-                </h2>
+                <h2 className="mt-3 text-headline-sm">{col.name}</h2>
                 <p className="mt-2 text-body-sm text-on-surface-variant">{col.short}</p>
                 <span className="mt-5 inline-flex items-center gap-2 text-label-sm uppercase text-ink-900">
                   View collection
@@ -88,7 +86,7 @@ export default function CategoriesPage() {
                 </div>
                 <Link href={col.url} className="group cta-text">
                   <span className="relative">
-                    All {col.count} products
+                    View the collection
                     <span className="cta-text__line absolute -bottom-1 left-0" />
                   </span>
                   <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />

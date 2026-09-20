@@ -333,9 +333,7 @@ export default function Header() {
                           <span className="truncate text-label-md uppercase text-brand">
                             {col.displayName}
                           </span>
-                          <span className="shrink-0 text-label-sm uppercase tabular-nums text-on-surface-variant/70">
-                            {col.count}
-                          </span>
+                          <IconArrow className="h-3 w-3 shrink-0 -translate-x-1 text-on-surface-variant opacity-0 transition-all duration-control ease-afzox group-hover:translate-x-0 group-hover:opacity-100" />
                         </Link>
                         <div className="flex flex-col pt-1.5">
                           {collectionCategories(col.slug).map((c) => (
@@ -359,9 +357,6 @@ export default function Header() {
                                     the column. */}
                                 <span className="block break-words text-[13px] font-medium leading-snug text-ink-900">
                                   {c.name}
-                                </span>
-                                <span className="block text-label-sm uppercase tabular-nums text-on-surface-variant/70">
-                                  {c.count} machines
                                 </span>
                               </span>
                               <IconArrow className="h-3.5 w-3.5 shrink-0 -translate-x-1 text-on-surface-variant opacity-0 transition-all duration-control ease-afzox group-hover:translate-x-0 group-hover:opacity-100" />
@@ -451,9 +446,7 @@ export default function Header() {
                           className="flex items-center justify-between rounded-lg border border-black/[0.07] bg-white px-4 py-3.5"
                         >
                           <span className="text-label-md uppercase text-brand">{col.displayName}</span>
-                          <span className="text-label-sm uppercase text-on-surface-variant">
-                            {col.count} products
-                          </span>
+                          <IconArrow className="h-3.5 w-3.5 shrink-0 text-on-surface-variant" />
                         </Link>
                       ))}
                     </div>

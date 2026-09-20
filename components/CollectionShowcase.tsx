@@ -48,7 +48,7 @@ export default function CollectionShowcase({ collections }: { collections: Colle
                   href={c.url}
                   className="group absolute inset-0 flex flex-col"
                   onFocus={() => setActive(i)}
-                  aria-label={`${c.displayName} — ${c.count} products`}
+                  aria-label={c.displayName}
                 >
                   {/* ---- Machine plate ---- */}
                   <div className="relative flex-1 overflow-hidden bg-paper-sunken">
@@ -90,7 +90,7 @@ export default function CollectionShowcase({ collections }: { collections: Colle
                     </motion.div>
 
                     <span className="mt-4 flex items-center gap-2 whitespace-nowrap text-label-sm uppercase text-ink-900">
-                      {c.count} products
+                      View the collection
                       <IconArrow className="h-3.5 w-3.5 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
                     </span>
                   </div>
@@ -125,7 +125,7 @@ export default function CollectionShowcase({ collections }: { collections: Colle
               <p className="text-label-md uppercase text-brand">{c.displayName}</p>
               <p className="mt-2 text-body-sm text-on-surface-variant">{c.short}</p>
               <span className="mt-4 inline-flex items-center gap-2 text-label-sm uppercase text-ink-900">
-                {c.count} products <IconArrow className="h-3.5 w-3.5" />
+                View the collection <IconArrow className="h-3.5 w-3.5" />
               </span>
             </div>
           </Link>

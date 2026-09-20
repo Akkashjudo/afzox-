@@ -14,7 +14,7 @@ export default function ShopPage() {
       <ShopExplorer />
       <p className="sr-only">
         AFZOX equipment is organised into {COLLECTIONS.length} separate collections:{' '}
-        {COLLECTIONS.map((c) => `${c.displayName} (${c.count} products)`).join(' and ')}.
+        {COLLECTIONS.map((c) => c.displayName).join(' and ')}.
       </p>
     </div>
   );

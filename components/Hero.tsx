@@ -60,11 +60,12 @@ export default function Hero() {
       <HeroSlider scenes={SCENES} />
 
       <HeroMotion>
-        {/* Shorter and tighter on a phone. At 86svh the portrait crop gave the
-            copy a band of empty floor to sit over and left a gap between the
-            CTAs and the progress rail; pulling the height in brings the
-            equipment band up into frame and closes it. */}
-        <div className="shell relative flex min-h-[min(74svh,720px)] flex-col justify-center pb-24 pt-[calc(var(--header-h)+28px)] sm:min-h-[min(80svh,820px)] sm:pb-28 sm:pt-[calc(var(--header-h)+36px)] lg:min-h-[min(88svh,940px)] lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
+        {/* On a phone the copy is anchored to the bottom so the equipment band
+            owns the top half of the frame — the portrait crops are framed on
+            the machines, and centring the copy put it straight over them.
+            From `lg` the copy moves to the left third and centres vertically,
+            which is what the landscape compositions are cropped for. */}
+        <div className="shell relative flex min-h-[min(78svh,760px)] flex-col justify-end pb-20 pt-[calc(var(--header-h)+28px)] sm:min-h-[min(82svh,840px)] sm:pb-24 lg:min-h-[min(88svh,940px)] lg:justify-center lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
           <div className="relative z-10 max-w-xl lg:max-w-2xl">
             <span data-hero="eyebrow" className="eyebrow-on-ink">
               Commercial fitness equipment

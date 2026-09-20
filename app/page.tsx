@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import Hero from '@/components/Hero';
-import TrustStrip from '@/components/TrustStrip';
+import CapabilityMarquee from '@/components/CapabilityMarquee';
 import CollectionShowcase from '@/components/CollectionShowcase';
 import FeaturedRail from '@/components/FeaturedRail';
 import BuildStandard from '@/components/BuildStandard';
@@ -31,7 +31,6 @@ export default function HomePage() {
     name: f.name,
     blurb: f.blurb,
     href: f.href,
-    count: f.count,
     thumb: f.thumb.imageMd,
     thumbAlt: `AFZOX ${f.name.toLowerCase()} equipment`,
   }));
@@ -56,9 +55,9 @@ export default function HomePage() {
     <>
       <Hero />
 
-      <EquipmentFamilies families={families} previews={previews} />
+      <CapabilityMarquee />
 
-      <TrustStrip />
+      <EquipmentFamilies families={families} previews={previews} />
 
       {/* ---------- THE SERIES ---------- */}
       <section className="section relative">
@@ -91,7 +90,7 @@ export default function HomePage() {
       </section>
 
       {/* ---------- FEATURED EQUIPMENT ---------- */}
-      <FeaturedRail products={featuredProducts(10)} total={PRODUCTS.length} />
+      <FeaturedRail products={featuredProducts(10)} />
 
       {/* ---------- BUILD STANDARD ---------- */}
       <BuildStandard />

@@ -126,7 +126,6 @@ export default function Footer() {
                 </span>
                 <IconArrow className="h-3.5 w-3.5 text-primary-fixed-dim/60 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
               </Link>
-              <p className="mt-1 text-label-sm uppercase text-white/35">{col.count} products</p>
 
               <ul className="mt-4 space-y-2.5">
                 {collectionCategories(col.slug)

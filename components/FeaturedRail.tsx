@@ -15,7 +15,7 @@ import { IconArrow } from './icons';
  * native scroll container — drag, trackpad, touch and keyboard all work
  * without a carousel library, and there is no autoplay to fight.
  */
-export default function FeaturedRail({ products, total }: { products: Product[]; total: number }) {
+export default function FeaturedRail({ products }: { products: Product[] }) {
   const rail = useRef<HTMLDivElement>(null);
 
   const nudge = (dir: 1 | -1) => {
@@ -38,7 +38,7 @@ export default function FeaturedRail({ products, total }: { products: Product[];
           <div className="flex items-center gap-6">
             <Link href="/shop" className="group cta-text">
               <span className="relative">
-                All {total} machines
+                Browse all equipment
                 <span className="cta-text__line absolute -bottom-1 left-0" />
               </span>
               <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
