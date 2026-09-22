@@ -185,6 +185,18 @@ export default function ShopExplorer({
     ...(query ? [{ label: `“${query}”`, clear: () => setParams({ q: '' }) }] : []),
   ];
 
+  /* Narrowing the visitor did themselves, as opposed to the scope the route
+     already carries. /shop/plate-loaded arrives with its category applied, so
+     that is not narrowing — and reporting a number for it would simply publish
+     the size of the range. */
+  const narrowed =
+    Boolean(activeCollection && !lockCollection) ||
+    Boolean(activeCategory && activeCategory.slug !== initialCategory) ||
+    bodyAreas.length > 0 ||
+    equipmentTypes.length > 0 ||
+    usage !== 'all' ||
+    Boolean(query);
+
   // Clearing returns to the page's own route-defined scope — on
   // /shop/hs-series that is still HS Series, never the whole catalogue.
   const clearAll = () =>
@@ -237,7 +249,7 @@ export default function ShopExplorer({
     : activeCollection
     ? activeCollection.name
     : 'Equipment';
-  const blurb = activeCategory?.desc ?? activeCollection?.desc ?? `Browse the full AFZOX range of ${PRODUCTS.length} commercial and high-end residential machines across ${COLLECTIONS.length} collections, manufactured and installed across India.`;
+  const blurb = activeCategory?.desc ?? activeCollection?.desc ?? `Browse the full AFZOX range of commercial and high-end residential machines across ${COLLECTIONS.length} collections, manufactured and installed across India.`;
 
   const filterPanel = (
     <>
@@ -412,16 +424,27 @@ export default function ShopExplorer({
         <div className="min-w-0">
           <div className="mb-5 flex flex-wrap items-center justify-between gap-3 border-b border-black/[0.08] pb-4">
             <p className="text-label-sm uppercase text-on-surface-variant" aria-live="polite">
-              {/* Deliberately not "N of M". The site shows a selected part of
-                  what AFZOX supplies, so a total would read as the whole
-                  catalogue. Saying what is on screen is both useful and true. */}
-              <b className="font-display text-base font-bold normal-case tracking-tight text-ink-900">
-                {list.length}
-              </b>
-              <span className="ml-2">
-                {activeCollection ? `${activeCollection.name} ` : ''}
-                {list.length === 1 ? 'machine shown' : 'machines shown'}
-              </span>
+              {/* The number appears only once the visitor has narrowed the
+                  list, where it reports what their own filters produced.
+                  Unfiltered it is just the size of the catalogue, and how much
+                  equipment AFZOX makes is not a figure the site publishes —
+                  what is shown here is a selected part of the range, so a
+                  total would describe the wrong thing. The live region still
+                  announces the change either way. */}
+              {narrowed ? (
+                <>
+                  <b className="font-display text-base font-bold normal-case tracking-tight text-ink-900">
+                    {list.length}
+                  </b>
+                  <span className="ml-2">
+                    {list.length === 1 ? 'machine shown' : 'machines shown'}
+                  </span>
+                </>
+              ) : (
+                <span className="font-display text-base font-bold normal-case tracking-tight text-ink-900">
+                  {activeCategory?.name ?? activeCollection?.name ?? 'All equipment'}
+                </span>
+              )}
             </p>
             <div className="flex items-center gap-2">
               <button

@@ -5,7 +5,7 @@ import Reveal from '@/components/Reveal';
 import CategoryCard from '@/components/CategoryCard';
 import CatalogueDownloads from '@/components/CatalogueDownloads';
 import { brandName } from '@/lib/brand';
-import { COLLECTIONS, PRODUCTS, collectionCategories } from '@/lib/catalogue';
+import { COLLECTIONS, collectionCategories } from '@/lib/catalogue';
 import { IconArrow } from '@/components/icons';
 
 /** Spelled-out collection count, so the page copy tracks the data. */
@@ -28,9 +28,9 @@ export default function CategoriesPage() {
           {COUNT_WORD} collections. One build standard.
         </h1>
         <p className="mt-7 max-w-prose text-body-lg text-on-surface-variant">
-          {PRODUCTS.length} machines in total, kept in {COUNT_WORD} separate collections so a
-          specification never crosses over. Every tile shows a real AFZOX machine from that range —
-          the machine on the tile is the machine that ships.
+          Kept in {COUNT_WORD} separate collections so a specification never crosses over. Every
+          tile shows a real AFZOX machine from that range — the machine on the tile is the machine
+          that ships.
         </p>
       </section>
 

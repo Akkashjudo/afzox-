@@ -155,7 +155,7 @@ export default function ServicesPage() {
           <div>
             <span className="eyebrow-on-ink">One catalogue</span>
             <h2 className="mt-6 max-w-lg text-headline-xl text-white text-balance">
-              Every service specifies from the same {PRODUCTS.length} machines.
+              Every service specifies from the same catalogue.
             </h2>
             <p className="mt-5 max-w-md text-body-md text-white/55">
               Nothing is sourced ad hoc for a project. What you see in the catalogue is what

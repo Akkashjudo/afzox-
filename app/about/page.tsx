@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Reveal from '@/components/Reveal';
 import { RevealText, StaggerGroup, StaggerItem } from '@/components/motion/primitives';
-import { ALL_CATEGORIES, BRAND, COLLECTIONS, PRODUCTS, whatsAppLink } from '@/lib/catalogue';
+import { BRAND, COLLECTIONS, PRODUCTS, whatsAppLink } from '@/lib/catalogue';
 import { IconArrow, IconWhatsApp } from '@/components/icons';
 
 export const metadata: Metadata = {
@@ -37,12 +37,16 @@ const PRINCIPLES = [
 ];
 
 export default function AboutPage() {
-  /* Counted from the catalogue at build time. No figure appears on this page
-     that the data cannot substantiate. */
+  /* No figure here that the page cannot substantiate — and no catalogue
+     totals. How many machines or ranges exist is not a customer-facing
+     number: the site shows a selected part of the range, so publishing a
+     total describes the wrong thing. The series count stays because it is
+     the navigation itself, and every tile of it is on the site. The other
+     three restate claims made in the copy above. */
   const facts = [
-    { v: String(PRODUCTS.length), k: 'Machines in catalogue' },
     { v: String(COLLECTIONS.length), k: 'Equipment series' },
-    { v: String(ALL_CATEGORIES.length), k: 'Ranges' },
+    { v: 'In-house', k: 'Fabrication & finish' },
+    { v: 'Welded steel', k: 'Frame construction' },
     { v: 'PAN India', k: 'Delivery & install' },
   ];
 

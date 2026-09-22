@@ -3,12 +3,12 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Reveal from '@/components/Reveal';
 import { brandName } from '@/lib/brand';
-import { COLLECTIONS, PRODUCTS, collectionProducts } from '@/lib/catalogue';
+import { COLLECTIONS, collectionProducts } from '@/lib/catalogue';
 import { IconArrow } from '@/components/icons';
 
 export const metadata: Metadata = {
   title: 'Equipment Gallery',
-  description: `Studio photography of the AFZOX range — ${PRODUCTS.length} commercial machines across ${COLLECTIONS.length} series, shot on the line rather than sourced from stock.`,
+  description: `Studio photography of the AFZOX range — commercial machines across ${COLLECTIONS.length} series, shot on the line rather than sourced from stock.`,
   alternates: { canonical: '/gallery' },
 };
 
@@ -96,8 +96,7 @@ export default function GalleryPage() {
           <Reveal>
             <h2 className="text-headline-lg text-balance">See the full range</h2>
             <p className="mx-auto mt-4 max-w-md text-body-md text-on-surface-variant">
-              {PRODUCTS.length} machines, filterable by series, range, body area and equipment
-              type.
+              Filterable by series, range, body area and equipment type.
             </p>
             <Link href="/shop" className="btn btn-primary group mt-8">
               Browse the catalogue

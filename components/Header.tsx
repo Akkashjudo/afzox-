@@ -103,13 +103,13 @@ export default function Header() {
 
   /* ---- Close the mobile panel once the layout is desktop again ----
    *
-   * The panel is `lg:hidden`, so widening the window used to hide it while
+   * The panel is `nav:hidden`, so widening the window used to hide it while
    * `mobileOpen` stayed true — which left the scroll lock held with no visible
    * control to release it, and a desktop page that would not scroll. Watching
    * the breakpoint the panel is hidden at keeps the two in step across resize
    * and orientation change. */
   useEffect(() => {
-    const mq = window.matchMedia('(min-width: 1024px)');
+    const mq = window.matchMedia('(min-width: 1160px)');
     const sync = () => {
       if (mq.matches) setMobileOpen(false);
     };
@@ -152,21 +152,26 @@ export default function Header() {
           className="flex min-w-0 shrink-0 items-center gap-2.5"
           aria-label="AFZOX — home"
         >
+          {/* Sized by height against the mark's real 1.52 aspect. The old
+              asset carried 46% transparent margin and was fitted into a
+              square, so a 36px box rendered a 24px logo — the container was
+              right and the artwork was wrong. This one is trimmed, so the
+              height set here is the height you see. */}
           <Image
-            src="/afzox-icon.png"
+            src="/afzox-mark.png"
             alt=""
-            width={40}
-            height={40}
-            className="h-9 w-9 shrink-0 object-contain"
+            width={480}
+            height={315}
+            className="h-7 w-auto shrink-0 sm:h-8 lg:h-9"
             priority
           />
           <span
-            className={`hidden whitespace-nowrap font-display text-[15px] font-bold leading-none tracking-tight sm:block ${
+            className={`hidden whitespace-nowrap font-display text-base font-bold leading-none tracking-tight sm:block lg:text-[17px] ${
               onDark ? 'text-white' : 'text-ink-900'
             }`}
           >
             AFZOX
-            <span className={`ml-1.5 font-medium ${onDark ? 'text-white/45' : 'text-on-surface-variant'}`}>
+            <span className={`ml-1.5 hidden font-medium xl:inline ${onDark ? 'text-white/45' : 'text-on-surface-variant'}`}>
               Global Strength
             </span>
           </span>
@@ -180,10 +185,10 @@ export default function Header() {
         </Link>
 
         {/* ---------------- Primary nav ---------------- */}
-        <nav className="ml-4 hidden items-center gap-0.5 lg:flex" aria-label="Primary">
+        <nav className="ml-4 hidden items-center gap-0.5 nav:flex" aria-label="Primary">
           {NAV_LINKS.map((l) => {
             const active = l.href === '/' ? pathname === '/' : pathname.startsWith(l.href);
-            const base = `relative rounded-md px-3.5 py-2 text-label-md uppercase transition-colors duration-micro ${
+            const base = `relative whitespace-nowrap rounded-md px-3.5 py-2 text-label-md uppercase transition-colors duration-micro ${
               onDark
                 ? active
                   ? 'text-white'
@@ -268,7 +273,7 @@ export default function Header() {
           </Link>
 
           <button
-            className={`ml-1 flex h-10 w-10 items-center justify-center rounded-md lg:hidden ${
+            className={`ml-1 flex h-10 w-10 items-center justify-center rounded-md nav:hidden ${
               onDark ? 'text-white' : 'text-ink-900'
             }`}
             aria-expanded={mobileOpen}
@@ -303,7 +308,7 @@ export default function Header() {
             transition={{ duration: DUR.control, ease: EASE }}
             onMouseEnter={openMega}
             onMouseLeave={closeMega}
-            className="absolute inset-x-0 top-full hidden pt-3 lg:block"
+            className="absolute inset-x-0 top-full hidden pt-3 nav:block"
           >
             <div className="shell">
               {/* Capped to the space under the bar so the panel can never run
@@ -404,7 +409,7 @@ export default function Header() {
             exit={{ opacity: 0 }}
             transition={{ duration: DUR.control, ease: EASE }}
             data-lenis-prevent
-            className="fixed inset-x-0 bottom-0 top-[var(--header-h)] z-[99] overflow-y-auto overscroll-contain bg-paper lg:hidden"
+            className="fixed inset-x-0 bottom-0 top-[var(--header-h)] z-[99] overflow-y-auto overscroll-contain bg-paper nav:hidden"
           >
             <motion.nav
               aria-label="Mobile"

@@ -8,13 +8,13 @@ import BuildStandard from '@/components/BuildStandard';
 import ClosingCta from '@/components/ClosingCta';
 import EquipmentFamilies from '@/components/EquipmentFamilies';
 import { RevealText } from '@/components/motion/primitives';
-import { COLLECTIONS, PRODUCTS, featuredProducts } from '@/lib/catalogue';
+import { COLLECTIONS, featuredProducts } from '@/lib/catalogue';
 import { FAMILIES, familyProducts } from '@/lib/families';
 import { IconArrow } from '@/components/icons';
 
 export const metadata: Metadata = {
   title: 'Commercial Gym Equipment Manufacturer & Supplier',
-  description: `Commercial strength equipment across ${COLLECTIONS.length} AFZOX series — ${PRODUCTS.length} machines spanning selectorized circuits, plate-loaded stations, racks, benches, cable systems and storage. Specified, delivered and installed.`,
+  description: `Commercial strength equipment across ${COLLECTIONS.length} AFZOX series — selectorized circuits, plate-loaded stations, racks, benches, cable systems and storage. Specified, delivered and installed.`,
   alternates: { canonical: '/' },
 };
 

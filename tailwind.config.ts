@@ -19,6 +19,18 @@ const config: Config = {
   darkMode: 'class',
   theme: {
     extend: {
+      /**
+       * `nav` is the width at which the full desktop header genuinely fits.
+       *
+       * Measured, not guessed: the brand lockup, six uppercase nav labels and
+       * the search / enquiry / CTA cluster need about 1095px of content width.
+       * At Tailwind's `lg` (1024) the shell offers 881, so the nav overflowed
+       * its own bar — `Commercial Setup` wrapped to two lines and the enquiry
+       * controls sat ~130px past the right edge, where a fixed header gives no
+       * scrollbar to reach them. The nav belongs at the width where it fits,
+       * not squeezed into one where it does not.
+       */
+      screens: { nav: '1160px' },
       colors: {
         /* ---- AFZOX brand, sampled from the official mark ---- */
         brand: {
