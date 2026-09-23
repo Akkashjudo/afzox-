@@ -5,6 +5,7 @@ import rawPsSeries from './ps-series-data.json';
 import rawBbSeries from './bb-series-data.json';
 import rawLfSeries from './lf-series-data.json';
 import rawCbSeries from './cb-series-data.json';
+import { groupRank, productGroup } from './equipment-order';
 import type { BodyArea, Brand, Category, Collection, FilterState, PriceBand, Product } from './types';
 
 export const BRAND = rawAfzoxCore.brand as unknown as Brand;
@@ -356,13 +357,26 @@ export function filterProducts(state: FilterState): Product[] {
   if (state.equipmentTypes?.length) {
     list = list.filter((p) => state.equipmentTypes!.includes(p.equipmentType));
   }
+  if (state.group) list = list.filter((p) => productGroup(p) === state.group);
   if (state.usage === 'home') list = list.filter((p) => p.isHome);
   if (state.usage === 'commercial') list = list.filter((p) => p.isCommercial);
   if (state.band && state.band !== 'all') list = list.filter((p) => p.band === state.band);
 
   list = searchProducts(state.query ?? '', list);
 
-  return list.sort(SORTERS[state.sort ?? 'featured']);
+  /* On a category landing the visitor has chosen a kind of equipment, not a
+     ranking, so the result is ordered the way a floor is specified — the
+     running line first for cardio — instead of by whichever machine happens
+     to carry the `featured` flag. Scoped to that case on purpose: an explicit
+     sort choice always wins, and the unfiltered catalogue keeps the order it
+     had. `groupRank` is 0 for every type without a declared grouping, so this
+     changes nothing for the other five families. */
+  const sort = state.sort ?? 'featured';
+  const landing = Boolean(state.equipmentTypes?.length) || Boolean(state.category && state.category !== 'all');
+  if (sort === 'featured' && landing) {
+    return list.sort((a, b) => groupRank(a) - groupRank(b) || SORTERS.featured(a, b));
+  }
+  return list.sort(SORTERS[sort]);
 }
 
 export const BAND_LABEL: Record<PriceBand, string> = {

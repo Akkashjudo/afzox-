@@ -60,12 +60,14 @@ export default function Hero() {
       <HeroSlider scenes={SCENES} />
 
       <HeroMotion>
-        {/* On a phone the copy is anchored to the bottom so the equipment band
-            owns the top half of the frame — the portrait crops are framed on
-            the machines, and centring the copy put it straight over them.
-            From `lg` the copy moves to the left third and centres vertically,
-            which is what the landscape compositions are cropped for. */}
-        <div className="shell relative flex min-h-[min(78svh,760px)] flex-col justify-end pb-20 pt-[calc(var(--header-h)+28px)] sm:min-h-[min(82svh,840px)] sm:pb-24 lg:min-h-[min(88svh,940px)] lg:justify-center lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
+        {/* Below `lg` the copy sits under the picture on solid ink rather than
+            over it. Text on a photograph of a dark gym is the least legible
+            place to put the one sentence that has to explain the business, and
+            keeping it off the image is what lets the band be cut for the room
+            instead of for a safe text area. From `lg` the copy returns over
+            the image in the left third, which the wide compositions are cut
+            for. */}
+        <div className="shell relative flex flex-col pb-11 pt-7 sm:pb-14 sm:pt-11 lg:min-h-[min(88svh,940px)] lg:justify-center lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
           <div className="relative z-10 max-w-xl lg:max-w-2xl">
             <span data-hero="eyebrow" className="eyebrow-on-ink">
               Commercial fitness equipment
@@ -74,37 +76,41 @@ export default function Hero() {
             {/* The display scale is held back until `lg`: the copy column is
                 roughly half the viewport at the tablet breakpoint, and the full
                 clamp broke every line there. */}
+            {/* Says the product and the business in the first line. The old
+                headline — "We equip the whole floor" — read as a slogan, and a
+                first-time visitor had to reach the paragraph before learning
+                AFZOX makes gym equipment at all. */}
             <h1
               data-hero="title"
-              className="mt-6 text-[clamp(2.3rem,8vw,2.7rem)] font-bold leading-[0.98] tracking-[-0.03em] text-white [text-wrap:balance] md:mt-7 lg:text-display-xl"
+              className="mt-4 text-[clamp(2.05rem,7.2vw,2.7rem)] font-bold leading-[1.02] tracking-[-0.03em] text-white [text-wrap:balance] md:mt-7 lg:text-display-xl lg:leading-[0.98]"
             >
               <span data-hero="line" className="block overflow-hidden">
-                <span className="block">We equip the</span>
+                <span className="block">Commercial gym</span>
               </span>
               <span data-hero="line" className="block overflow-hidden">
                 <span className="block">
-                  whole <span className="text-primary-fixed-dim">floor.</span>
+                  equipment, <span className="text-primary-fixed-dim">built in India.</span>
                 </span>
               </span>
             </h1>
 
-            <p data-hero="body" className="mt-7 max-w-lg text-body-lg text-white/70">
-              Strength, cardio and functional equipment for commercial floors — specified,
-              supplied and installed across India, from a single station to a complete fit-out.
+            <p data-hero="body" className="mt-4 max-w-lg text-body-md text-white/70 lg:mt-7 lg:text-body-lg">
+              Strength, cardio and functional machines — manufactured, delivered and installed
+              for gyms, hotels and residential projects across India.
             </p>
 
-            <div data-hero="cta" className="mt-10 flex flex-wrap items-center gap-3">
+            <div data-hero="cta" className="mt-6 flex flex-wrap items-center gap-3 lg:mt-10">
               <Link
                 href="/shop"
                 className="btn btn-lg group bg-white text-ink-900 hover:bg-primary-fixed-dim"
               >
                 <span className="flex items-center gap-2.5">
-                  Explore the catalogue
+                  Explore equipment
                   <IconArrow className="h-4 w-4 transition-transform duration-control ease-afzox group-hover:translate-x-1" />
                 </span>
               </Link>
               <Link href="/contact" className="btn btn-lg btn-on-ink">
-                Plan your floor
+                Plan your gym
               </Link>
             </div>
           </div>

@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { COLLECTIONS, collectionCategories } from '@/lib/catalogue';
+import { FAMILY_LINKS } from '@/lib/family-defs';
 import { NAV_LINKS } from '@/lib/site';
 import { useEnquiry } from '@/lib/enquiry-context';
 import { applyScrollLock } from '@/lib/scroll-lock';
@@ -328,7 +329,35 @@ export default function Header() {
                       of 28 of them onto two lines. Three keeps ~296px of text,
                       and six series land as two even rows rather than a ragged
                       four-plus-two. */}
-                  <div className="grid grid-cols-3 gap-x-6 gap-y-7">
+                  {/* Shop by equipment, above shop by series. The series names
+                      mean nothing to a first-time visitor, so the plain-word
+                      route is offered first and the catalogue's own filing
+                      system second. The two are labelled rather than merged:
+                      they are different axes and mixing them is what made the
+                      menu hard to read. */}
+                  <div className="mb-7 border-b border-black/[0.06] pb-6">
+                    <span className="text-label-sm uppercase text-on-surface-variant">
+                      Shop by equipment
+                    </span>
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      {FAMILY_LINKS.map((f) => (
+                        <Link
+                          key={f.slug}
+                          href={f.href}
+                          className="group inline-flex items-center gap-2 rounded-full border border-black/[0.10] bg-white px-4 py-2 text-label-md uppercase text-ink-900 transition-colors duration-control ease-afzox hover:border-ink-900"
+                        >
+                          {f.name}
+                          <IconArrow className="h-3 w-3 -translate-x-0.5 text-on-surface-variant transition-transform duration-control ease-afzox group-hover:translate-x-0" />
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+
+                  <span className="text-label-sm uppercase text-on-surface-variant">
+                    Shop by series
+                  </span>
+
+                  <div className="mt-3 grid grid-cols-3 gap-x-6 gap-y-7">
                     {COLLECTIONS.map((col) => (
                       <div key={col.slug} className="min-w-0">
                         <Link
@@ -441,6 +470,21 @@ export default function Header() {
                     {l.label}
                     <IconArrow className="h-4 w-4 text-on-surface-variant" />
                   </Link>
+
+                  {l.href === '/shop' && (
+                    <div className="grid grid-cols-2 gap-2 py-4">
+                      {FAMILY_LINKS.map((f) => (
+                        <Link
+                          key={f.slug}
+                          href={f.href}
+                          className="flex items-center justify-between rounded-lg border border-black/[0.07] bg-white px-3.5 py-3 text-label-sm uppercase text-ink-900"
+                        >
+                          <span className="min-w-0 pr-1.5">{f.name}</span>
+                          <IconArrow className="h-3.5 w-3.5 shrink-0 text-on-surface-variant" />
+                        </Link>
+                      ))}
+                    </div>
+                  )}
 
                   {l.href === '/categories' && (
                     <div className="flex flex-col gap-2 py-4">

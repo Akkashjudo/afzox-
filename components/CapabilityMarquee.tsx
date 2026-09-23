@@ -1,11 +1,12 @@
 /**
  * Capability marquee — the handover between the hero and product discovery.
  *
- * The terms are the equipment families and services AFZOX actually supplies,
- * taken from the catalogue rather than written as marketing copy: the six
- * families in lib/families.ts plus the two things the business does around
- * them, planning and installation. Nothing here claims a capability the site
- * cannot show a product or a page for.
+ * The terms are the six categories in lib/families.ts, word for word, plus the
+ * two things the business does around them — planning and installation. Naming
+ * them exactly as the cards below do is the point: the marquee answers "what
+ * is available?" and the cards answer "show me", so a visitor meets the same
+ * six words twice rather than two vocabularies. Nothing here claims a
+ * capability the site cannot show a product or a page for.
  *
  * The loop is pure CSS. The track holds two identical copies of the list and
  * translates exactly -50%, so the seam lands on an exact repeat and there is
@@ -20,13 +21,12 @@
  */
 
 const TERMS = [
-  'Strength Equipment',
-  'Cardio Equipment',
+  'Cardio',
   'Plate Loaded',
   'Selectorized',
-  'Functional Training',
+  'Functional & Cable',
   'Benches & Racks',
-  'Storage & Racking',
+  'Storage & Accessories',
   'Gym Planning',
   'Installation & Service',
 ];

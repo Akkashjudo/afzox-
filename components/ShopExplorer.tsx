@@ -15,6 +15,7 @@ import {
   getCollection,
 } from '@/lib/catalogue';
 import type { BodyArea } from '@/lib/types';
+import { availableGroups } from '@/lib/equipment-order';
 import { applyScrollLock } from '@/lib/scroll-lock';
 import { IconChevRight, IconClose, IconEmpty, IconFilter, IconSearch } from './icons';
 
@@ -58,10 +59,11 @@ export default function ShopExplorer({
     category: initialCategory,
     body: [] as BodyArea[],
     type: [] as string[],
+    group: '',
     usage: 'all' as Usage,
     sort: 'featured' as Sort,
   });
-  const { q: query, collection, category, body: bodyAreas, type: equipmentTypes, usage, sort } = state;
+  const { q: query, collection, category, body: bodyAreas, type: equipmentTypes, group, usage, sort } = state;
 
   const [drawerOpen, setDrawerOpen] = useState(false);
   const hydrated = useRef(false);
@@ -77,6 +79,7 @@ export default function ShopExplorer({
         category: sp.get('category') ?? s.category,
         body: (sp.get('body')?.split(',').filter(Boolean) as BodyArea[]) ?? s.body,
         type: sp.get('type')?.split(',').filter(Boolean) ?? s.type,
+        group: sp.get('group') ?? s.group,
         usage: (sp.get('usage') as Usage) ?? s.usage,
         sort: (sp.get('sort') as Sort) ?? s.sort,
       }));
@@ -94,6 +97,7 @@ export default function ShopExplorer({
     if (state.category !== 'all' && state.category !== initialCategory) sp.set('category', state.category);
     if (state.body.length) sp.set('body', state.body.join(','));
     if (state.type.length) sp.set('type', state.type.join(','));
+    if (state.group) sp.set('group', state.group);
     if (state.usage !== 'all') sp.set('usage', state.usage);
     if (state.sort !== 'featured') sp.set('sort', state.sort);
     const qs = sp.toString();
@@ -120,7 +124,7 @@ export default function ShopExplorer({
      body area) while making a zero-result combination unselectable: an option
      is only offered, and only with the count it would actually return. ---- */
   const base = { query, collection, usage };
-  const key = [query, collection, category, bodyAreas.join('|'), equipmentTypes.join('|'), usage].join('¦');
+  const key = [query, collection, category, bodyAreas.join('|'), equipmentTypes.join('|'), group, usage].join('¦');
 
   const categoryOptions = useMemo(() => {
     const pool = filterProducts({ ...base, bodyAreas, equipmentTypes });
@@ -145,10 +149,20 @@ export default function ShopExplorer({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [key]);
 
+  /* Sub-groups inside the chosen equipment, e.g. Treadmills / Bikes within
+     Cardio. Computed from everything *except* the group filter, so choosing
+     one never removes the others from the row. Empty for the five families
+     that declare no groups, and the row is not rendered at all then. */
+  const groupOptions = useMemo(
+    () => availableGroups(filterProducts({ ...base, category, bodyAreas, equipmentTypes })),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [key]
+  );
+
   const showUsage = useMemo(() => scope.some((p) => p.isHome) && scope.some((p) => p.isCommercial), [scope]);
 
   const list = useMemo(
-    () => filterProducts({ query, collection, category, bodyAreas, equipmentTypes, usage, sort }),
+    () => filterProducts({ query, collection, category, bodyAreas, equipmentTypes, group, usage, sort }),
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [key, sort]
   );
@@ -182,6 +196,7 @@ export default function ShopExplorer({
     ...(usage !== 'all'
       ? [{ label: usage === 'home' ? 'Home Gym' : 'Commercial', clear: () => setParams({ usage: 'all' }) }]
       : []),
+    ...(group ? [{ label: group, clear: () => setParams({ group: '' }) }] : []),
     ...(query ? [{ label: `“${query}”`, clear: () => setParams({ q: '' }) }] : []),
   ];
 
@@ -192,6 +207,7 @@ export default function ShopExplorer({
   const narrowed =
     Boolean(activeCollection && !lockCollection) ||
     Boolean(activeCategory && activeCategory.slug !== initialCategory) ||
+    Boolean(group) ||
     bodyAreas.length > 0 ||
     equipmentTypes.length > 0 ||
     usage !== 'all' ||
@@ -206,6 +222,7 @@ export default function ShopExplorer({
       category: initialCategory,
       body: [],
       type: [],
+      group: '',
       usage: 'all',
     });
 
@@ -275,10 +292,38 @@ export default function ShopExplorer({
         )}
       </div>
 
+      {/* Ordered plainest-first. Equipment and Body Area are what a gym owner
+         already has words for; Series and Range are the catalogue's own filing
+         system and mean nothing until you know it, so they sit below rather
+         than gating the two that do not need explaining. */}
+      {typeOptions.length > 1 && (
+        <FilterGroup label="Equipment Type">
+          {typeOptions.map(({ t }) => (
+            <Checkline
+              key={t}
+              active={equipmentTypes.includes(t)}
+              onClick={() => setParams({ type: toggle(equipmentTypes, t) })}
+            >
+              {t}
+            </Checkline>
+          ))}
+        </FilterGroup>
+      )}
+
+      {bodyOptions.length > 1 && (
+        <FilterGroup label="Body Area">
+          {bodyOptions.map(({ a }) => (
+            <Checkline key={a} active={bodyAreas.includes(a)} onClick={() => setParams({ body: toggle(bodyAreas, a) })}>
+              {a}
+            </Checkline>
+          ))}
+        </FilterGroup>
+      )}
+
       {!lockCollection && (
-        <FilterGroup label="Collection">
+        <FilterGroup label="Series">
           <Checkline active={collection === 'all'} onClick={() => chooseCollection('all')}>
-            All collections
+            All series
           </Checkline>
           {COLLECTIONS.map((c) => (
             <Checkline key={c.slug} active={collection === c.slug} onClick={() => chooseCollection(c.slug)}>
@@ -315,30 +360,6 @@ export default function ShopExplorer({
               </Checkline>
             );
           })}
-        </FilterGroup>
-      )}
-
-      {bodyOptions.length > 1 && (
-        <FilterGroup label="Body Area">
-          {bodyOptions.map(({ a }) => (
-            <Checkline key={a} active={bodyAreas.includes(a)} onClick={() => setParams({ body: toggle(bodyAreas, a) })}>
-              {a}
-            </Checkline>
-          ))}
-        </FilterGroup>
-      )}
-
-      {typeOptions.length > 1 && (
-        <FilterGroup label="Equipment Type">
-          {typeOptions.map(({ t }) => (
-            <Checkline
-              key={t}
-              active={equipmentTypes.includes(t)}
-              onClick={() => setParams({ type: toggle(equipmentTypes, t) })}
-            >
-              {t}
-            </Checkline>
-          ))}
         </FilterGroup>
       )}
 
@@ -472,6 +493,45 @@ export default function ShopExplorer({
               </label>
             </div>
           </div>
+
+          {/* Equipment sub-groups — the one filter that leads rather than
+              follows. A visitor who lands on Cardio is looking for treadmills
+              or bikes, not for a body area, so those live here in plain words
+              above the grid while the technical filters stay in the sidebar.
+              Rendered only where the catalogue supports it. */}
+          {groupOptions.length > 1 && (
+            <div
+              className="no-scrollbar edge-fade-end -mx-margin-mobile mb-6 flex gap-2 overflow-x-auto px-margin-mobile md:mx-0 md:flex-wrap md:px-0"
+              role="group"
+              aria-label="Equipment type"
+            >
+              <button
+                onClick={() => setParams({ group: '' })}
+                aria-pressed={!group}
+                className={`shrink-0 whitespace-nowrap rounded-full border px-4 py-2 text-label-sm uppercase transition-colors duration-control ease-afzox ${
+                  !group
+                    ? 'border-ink-900 bg-ink-900 text-white'
+                    : 'border-black/[0.12] bg-white text-ink-900 hover:border-ink-900'
+                }`}
+              >
+                All
+              </button>
+              {groupOptions.map((g) => (
+                <button
+                  key={g}
+                  onClick={() => setParams({ group: g === group ? '' : g })}
+                  aria-pressed={g === group}
+                  className={`shrink-0 whitespace-nowrap rounded-full border px-4 py-2 text-label-sm uppercase transition-colors duration-control ease-afzox ${
+                    g === group
+                      ? 'border-ink-900 bg-ink-900 text-white'
+                      : 'border-black/[0.12] bg-white text-ink-900 hover:border-ink-900'
+                  }`}
+                >
+                  {g}
+                </button>
+              ))}
+            </div>
+          )}
 
           {activeChips.length > 0 && (
             <div className="mb-6 flex flex-wrap items-center gap-2">

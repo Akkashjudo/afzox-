@@ -76,7 +76,15 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
     <div
       aria-roledescription="carousel"
       aria-label="AFZOX equipment installations"
-      className="absolute inset-0 -z-10"
+      /* Below `lg` this is a band in normal flow whose aspect is exactly the
+         aspect its file was cut to, so `object-fit: cover` has nothing to
+         throw away and the composition survives intact. It used to be
+         `absolute inset-0`, taking its shape from a 78svh box — measured
+         0.593 on a 390px phone against a 0.75 file, which quietly discarded
+         a fifth of the picture off both edges and cut the outer machines.
+         From `lg` the box and the wide file agree (1.80 vs 1.78), so the
+         overlay composition is kept. */
+      className="relative aspect-[6/5] w-full sm:aspect-[29/20] lg:absolute lg:inset-0 lg:-z-10 lg:aspect-auto"
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
       onFocusCapture={() => setPaused(true)}
@@ -114,15 +122,19 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
       </div>
 
       {/* Readability scrim, shaped to where the copy actually sits.
-          On a phone the copy is anchored to the bottom, so the gradient runs
-          light at the top — leaving the equipment band clear — and deepens
-          under the text. It used to run dark at the top, which dimmed the
-          machines and left the copy over bare floor: exactly backwards.
-          From `lg` the copy moves to the left third and the gradient turns
-          horizontal to match. */}
+          Below `lg` no copy sits over the picture at all, so this only has to
+          seat the band into the ink block beneath it and hold the slider
+          controls — hence a light touch that deepens at the bottom edge.
+          From `lg` the copy returns to the left third and the gradient turns
+          horizontal to match it.
+
+          The left stop is /90 rather than /88: Tailwind emits no rule for an
+          opacity step it does not have, so `from-ink-950/88` produced nothing
+          at all and the desktop scrim silently ran at the base 30% — which is
+          why the paragraph sat almost unshaded over a lit floor. */}
       <div
         aria-hidden
-        className="absolute inset-0 bg-gradient-to-b from-ink-950/25 via-ink-950/60 to-ink-950/95 lg:bg-gradient-to-r lg:from-ink-950/88 lg:via-ink-950/45 lg:to-transparent"
+        className="absolute inset-0 bg-gradient-to-b from-ink-950/30 via-ink-950/10 to-ink-950/80 lg:bg-gradient-to-r lg:from-ink-950/90 lg:via-ink-950/50 lg:to-transparent"
       />
 
       {/* ---------- Controls ---------- */}
@@ -176,7 +188,12 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
 
 /**
  * True art direction. `media` on each `<source>` means exactly one file is
- * fetched — a 375px phone never downloads the 2560px composition.
+ * fetched — a 375px phone never downloads the 2048px composition.
+ *
+ * Each file is cut to the aspect of the band that shows it: 1.20 under 640,
+ * 1.45 to 1024, 16:9 above. A 16:9 room cannot become a 0.6 portrait without
+ * either cutting the outer machines away or zooming until only two are left,
+ * so the band is shaped to the room rather than the room to the band.
  */
 function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
   const base = `/images/hero/${scene.slug}`;
@@ -194,8 +211,9 @@ function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
         loading={eager ? 'eager' : 'lazy'}
         decoding={eager ? 'sync' : 'async'}
         /* Centre is correct at every size: the focal choice was already made
-           when each variant was cropped, per image, so nudging the position
-           again here would only undo it. */
+           when each variant was cut — per image, on the machine mass, not the
+           middle of the room — so nudging the position again here would only
+           undo it. */
         className="h-full w-full object-cover object-center"
       />
     </picture>

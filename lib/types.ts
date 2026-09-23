@@ -99,6 +99,8 @@ export interface FilterState {
   category?: string;
   bodyAreas?: BodyArea[];
   equipmentTypes?: string[];
+  /** A sub-group inside an equipment type, e.g. 'Treadmills' within Cardio. */
+  group?: string;
   usage?: 'all' | 'home' | 'commercial';
   band?: 'all' | PriceBand;
   sort?: 'featured' | 'popular' | 'newest' | 'az' | 'za';
