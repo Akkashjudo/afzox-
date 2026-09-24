@@ -156,28 +156,30 @@ export default function Header() {
           {/* Sized by height against the mark's real 1.52 aspect. The old
               asset carried 46% transparent margin and was fitted into a
               square, so a 36px box rendered a 24px logo — the container was
-              right and the artwork was wrong. This one is trimmed, so the
-              height set here is the height you see. */}
+              right and the artwork was wrong. This one is trimmed (alpha
+              bbox = the full frame, re-checked), so the height set here is
+              the height you see, and one step up at each tier reads as
+              present rather than large: 32 / 36 / 40. */}
           <Image
             src="/afzox-mark.png"
             alt=""
             width={480}
             height={315}
-            className="h-7 w-auto shrink-0 sm:h-8 lg:h-9"
+            className="h-8 w-auto shrink-0 sm:h-9 lg:h-10"
             priority
           />
           <span
-            className={`hidden whitespace-nowrap font-display text-base font-bold leading-none tracking-tight sm:block lg:text-[17px] ${
+            className={`hidden whitespace-nowrap font-display text-[17px] font-extrabold leading-none tracking-[-0.02em] sm:block lg:text-[19px] ${
               onDark ? 'text-white' : 'text-ink-900'
             }`}
           >
             AFZOX
-            <span className={`ml-1.5 hidden font-medium xl:inline ${onDark ? 'text-white/45' : 'text-on-surface-variant'}`}>
+            <span className={`ml-2 hidden text-[15px] font-medium tracking-normal xl:inline ${onDark ? 'text-white/50' : 'text-on-surface-variant'}`}>
               Global Strength
             </span>
           </span>
           <span
-            className={`whitespace-nowrap font-display text-sm font-bold leading-none tracking-tight sm:hidden ${
+            className={`whitespace-nowrap font-display text-base font-extrabold leading-none tracking-[-0.02em] sm:hidden ${
               onDark ? 'text-white' : 'text-ink-900'
             }`}
           >

@@ -116,6 +116,49 @@ html.lenis.lenis-smooth iframe {
   /* Technical grid — engineering drawing, not decoration. Always masked so
      it dissolves rather than tiling into a wall of lines. */
   .hero-grid,
+  /* ---- Hero scrim ----
+     Tuned against the photographs rather than by eye. The copy band sits 42-82%
+     down the portrait frames; a flat mid-stop light enough to keep the machines
+     visible left white text at 2.4:1 on all three slides, and a mid-stop dark
+     enough to fix that buried the equipment. These stops hold the machine band
+     at 12% ink and reach 50% exactly where the headline starts, which measures
+     4.7-5.9:1 across the three slides — AA on every one — with the machines
+     still legible. No blur: softness comes from light, so the equipment stays
+     sharp.
+
+     Keyed on orientation, not width, so the scrim's direction always matches
+     the photograph the same breakpoint chose. */
+  .hero-scrim {
+    background-image: linear-gradient(
+      to bottom,
+      rgb(6 8 14 / 0.42) 0%,
+      rgb(6 8 14 / 0.12) 28%,
+      rgb(6 8 14 / 0.5) 45%,
+      rgb(6 8 14 / 0.92) 100%
+    );
+  }
+  /* For a frame that runs bright along the bottom edge. */
+  .hero-scrim-heavy {
+    background-image: linear-gradient(
+      to bottom,
+      rgb(6 8 14 / 0.42) 0%,
+      rgb(6 8 14 / 0.14) 28%,
+      rgb(6 8 14 / 0.55) 45%,
+      rgb(6 8 14 / 0.95) 100%
+    );
+  }
+  @media (min-aspect-ratio: 1/1) {
+    .hero-scrim,
+    .hero-scrim-heavy {
+      background-image: linear-gradient(
+        to right,
+        rgb(6 8 14 / 0.9) 0%,
+        rgb(6 8 14 / 0.5) 50%,
+        rgb(6 8 14 / 0) 100%
+      );
+    }
+  }
+
   .bg-grid {
     background-image:
       linear-gradient(rgba(11, 14, 22, 0.05) 1px, transparent 1px),

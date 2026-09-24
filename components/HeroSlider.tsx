@@ -5,15 +5,20 @@ import { motion, useReducedMotion } from 'framer-motion';
 import { EASE } from './motion/primitives';
 
 export type HeroScene = {
+  /** Also names the image files: `<slug>-mobile|tablet|wide.webp`. One slug,
+   *  one set of assets — no image paths scattered through the component. */
   slug: string;
   /** Describes what is actually on screen — these are real catalogue machines. */
   alt: string;
   /** Short label shown against the progress rail. */
   label: string;
+  /** Extra scrim weight, for a frame whose lower half runs bright. Measured
+   *  per slide rather than guessed; see the note on the scrim below. */
+  heavyScrim?: boolean;
 };
 
-const DWELL = 6000; // ms a slide holds before advancing
-const FADE = 1.1; // s crossfade
+const DWELL = 6200; // ms a slide holds before advancing
+const FADE = 1.15; // s crossfade
 
 /**
  * Hero backdrop — four staged equipment scenes on a slow crossfade.
@@ -76,15 +81,14 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
     <div
       aria-roledescription="carousel"
       aria-label="AFZOX equipment installations"
-      /* Below `lg` this is a band in normal flow whose aspect is exactly the
-         aspect its file was cut to, so `object-fit: cover` has nothing to
-         throw away and the composition survives intact. It used to be
-         `absolute inset-0`, taking its shape from a 78svh box — measured
-         0.593 on a 390px phone against a 0.75 file, which quietly discarded
-         a fifth of the picture off both edges and cut the outer machines.
-         From `lg` the box and the wide file agree (1.80 vs 1.78), so the
-         overlay composition is kept. */
-      className="relative aspect-[6/5] w-full sm:aspect-[29/20] lg:absolute lg:inset-0 lg:-z-10 lg:aspect-auto"
+      /* Full bleed at every size. Each variant is cut to the aspect of the box
+         it lands in — 0.600 against a phone box measured at 0.592, 0.940
+         against a portrait tablet at 0.914-0.976, 1.778 against a laptop at
+         1.80 — so `object-fit: cover` has almost nothing to discard. The
+         earlier version had to hand the phone a band in normal flow because
+         the only portrait asset was a crop of a 16:9 room; with photography
+         shot 9:16 for the phone, the picture can own the screen again. */
+      className="absolute inset-0 -z-10"
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
       onFocusCapture={() => setPaused(true)}
@@ -121,20 +125,20 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
         )}
       </div>
 
-      {/* Readability scrim, shaped to where the copy actually sits.
-          Below `lg` no copy sits over the picture at all, so this only has to
-          seat the band into the ink block beneath it and hold the slider
-          controls — hence a light touch that deepens at the bottom edge.
-          From `lg` the copy returns to the left third and the gradient turns
-          horizontal to match it.
+      {/* Image treatment: two flat-to-directional gradients and a whole-frame
+          tint, no blur. Blurring a photograph of a machine is what makes it
+          look cheap — the equipment has to stay legible, so the softness comes
+          from light instead: a thin overall tint mutes the frame, and a
+          bottom-weighted gradient carries the copy.
 
           The left stop is /90 rather than /88: Tailwind emits no rule for an
           opacity step it does not have, so `from-ink-950/88` produced nothing
           at all and the desktop scrim silently ran at the base 30% — which is
-          why the paragraph sat almost unshaded over a lit floor. */}
+          why the paragraph once sat almost unshaded over a lit floor. */}
+      <div aria-hidden className="absolute inset-0 bg-ink-950/20 lg:bg-ink-950/10" />
       <div
         aria-hidden
-        className="absolute inset-0 bg-gradient-to-b from-ink-950/30 via-ink-950/10 to-ink-950/80 lg:bg-gradient-to-r lg:from-ink-950/90 lg:via-ink-950/50 lg:to-transparent"
+        className={`absolute inset-0 ${active.heavyScrim ? 'hero-scrim-heavy' : 'hero-scrim'}`}
       />
 
       {/* ---------- Controls ---------- */}
@@ -190,18 +194,21 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
  * True art direction. `media` on each `<source>` means exactly one file is
  * fetched — a 375px phone never downloads the 2048px composition.
  *
- * Each file is cut to the aspect of the band that shows it: 1.20 under 640,
- * 1.45 to 1024, 16:9 above. A 16:9 room cannot become a 0.6 portrait without
- * either cutting the outer machines away or zooming until only two are left,
- * so the band is shaped to the room rather than the room to the band.
+ * The first query is on orientation, not width, because the hero's shape
+ * follows the viewport's: any landscape screen gets the 16:9 room, including a
+ * 1023px tablet held sideways, which a width-only rule would have handed a
+ * portrait photograph and cropped to a third of its height. Below that,
+ * portrait tablets take the 0.94 cut and phones the 0.60 one.
  */
 function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
   const base = `/images/hero/${scene.slug}`;
   return (
     <picture>
+      <source type="image/webp" media="(min-aspect-ratio: 1/1)" srcSet={`${base}-wide.webp`} />
       <source type="image/webp" media="(min-width: 1024px)" srcSet={`${base}-wide.webp`} />
       <source type="image/webp" media="(min-width: 640px)" srcSet={`${base}-tablet.webp`} />
       <source type="image/webp" srcSet={`${base}-mobile.webp`} />
+      <source media="(min-aspect-ratio: 1/1)" srcSet={`${base}-wide.jpg`} />
       <source media="(min-width: 1024px)" srcSet={`${base}-wide.jpg`} />
       <source media="(min-width: 640px)" srcSet={`${base}-tablet.jpg`} />
       <img
@@ -214,7 +221,10 @@ function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
            when each variant was cut — per image, on the machine mass, not the
            middle of the room — so nudging the position again here would only
            undo it. */
-        className="h-full w-full object-cover object-center"
+        /* A touch of desaturation is the whole "soft" treatment. It is applied
+           here rather than baked into the files so it stays tunable, and it is
+           one composited declaration — no blur, no per-frame work. */
+        className="h-full w-full object-cover object-center saturate-[0.92]"
       />
     </picture>
   );

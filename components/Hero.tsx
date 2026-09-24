@@ -6,16 +6,16 @@ import { IconArrow } from './icons';
 /**
  * Homepage hero.
  *
- * The backdrop is four gym environments supplied by the client, one per slide:
- * a complete floor, a strength area, a cardio line-up and a functional zone.
- * They share one brand world — dark concrete, warm slat wood, warm accent
- * light, city glazing — so they are used as shot, with no grade applied.
+ * The backdrop is three gym environments, one per slide: a complete floor, a
+ * strength area and a cardio line-up. They share one brand world — dark
+ * concrete, warm slat wood, warm accent light, city glazing — so they are used
+ * as shot, with no grade applied.
  *
- * Each is cropped three ways rather than left to `object-fit: cover`, with the
- * crop centred per image on where its equipment actually sits. Slide 2's
- * treadmills anchor the left half, so its portrait crop moves right to bring
- * the elliptical and bikes into frame; a blanket centre crop would have cut
- * the line-up in half.
+ * Each slide has two photographs, not one crop reused: a 16:9 room for
+ * landscape screens and a 9:16 frame shot for the phone. That is why there are
+ * three slides rather than four — the client supplied three portrait frames,
+ * and a slide with no phone photograph would have to fall back to squeezing a
+ * landscape room into a tall box, which is the problem this replaced.
  *
  * The copy sits in the left third under a directional scrim. The statistics
  * block that used to sit beneath the CTA is gone — those counts live on the
@@ -30,22 +30,20 @@ const SCENES: HeroScene[] = [
   {
     slug: 'floor',
     label: 'Complete floor',
-    alt: 'A fitted-out commercial gym floor: curved and motorised treadmills, an indoor cycle, a cable station, a power rack, dumbbell racking and an adjustable bench.',
+    alt: 'A fitted-out commercial gym floor: a stair climber and air bike, medicine ball and kettlebell racking, cable rigs, a plyo box, weight sled, battle ropes and dumbbell racking.',
   },
   {
     slug: 'strength',
     label: 'Strength area',
-    alt: 'A strength training area: a loaded power rack, dual-column cable station, plate-loaded leg press, dumbbell racking, adjustable bench and a weight sled.',
+    alt: 'A strength training area: loaded power racks, plate storage, dual-column cable stations, dumbbell racking, an adjustable bench, leg press and a weight sled.',
+    /* The run of white floor markings under the sled keeps this frame bright
+       along the bottom edge, where the copy sits. */
+    heavyScrim: true,
   },
   {
     slug: 'cardio',
     label: 'Cardio line-up',
-    alt: 'A cardio line-up on a raised plinth: motorised and curved treadmills, an elliptical cross trainer, upright bike, rower and air bike.',
-  },
-  {
-    slug: 'functional',
-    label: 'Functional zone',
-    alt: 'A functional training zone: a stair climber, air bike, medicine ball and kettlebell racking, a cable rig, battle ropes, plyo box, weight sled and dumbbell racking.',
+    alt: 'A cardio line-up on a raised plinth: a motorised treadmill, curved treadmill, elliptical cross trainer, upright bike and air bike.',
   },
 ];
 
@@ -60,14 +58,12 @@ export default function Hero() {
       <HeroSlider scenes={SCENES} />
 
       <HeroMotion>
-        {/* Below `lg` the copy sits under the picture on solid ink rather than
-            over it. Text on a photograph of a dark gym is the least legible
-            place to put the one sentence that has to explain the business, and
-            keeping it off the image is what lets the band be cut for the room
-            instead of for a safe text area. From `lg` the copy returns over
-            the image in the left third, which the wide compositions are cut
+        {/* Anchored to the bottom on portrait screens: the machines occupy the
+            upper half of the phone frames, so the copy takes the quiet floor
+            beneath them instead of sitting across the equipment. From `lg` it
+            moves to the left third and centres, which the wide rooms are cut
             for. */}
-        <div className="shell relative flex flex-col pb-11 pt-7 sm:pb-14 sm:pt-11 lg:min-h-[min(88svh,940px)] lg:justify-center lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
+        <div className="shell relative flex min-h-[min(78svh,760px)] flex-col justify-end pb-14 pt-[calc(var(--header-h)+24px)] sm:min-h-[min(82svh,840px)] sm:pb-16 lg:min-h-[min(88svh,940px)] lg:justify-center lg:pb-36 lg:pt-[calc(var(--header-h)+40px)]">
           <div className="relative z-10 max-w-xl lg:max-w-2xl">
             <span data-hero="eyebrow" className="eyebrow-on-ink">
               Commercial fitness equipment
