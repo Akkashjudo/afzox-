@@ -65,6 +65,15 @@ export default function ShopExplorer({
   });
   const { q: query, collection, category, body: bodyAreas, type: equipmentTypes, group, usage, sort } = state;
 
+  /* How many cards are mounted. The grid used to render the whole result set:
+     359 cards, 7.5k DOM nodes and 359 Framer Motion wrappers on /shop, each
+     card's image a separate on-demand transform that measured 0.8s cold on
+     production. Nothing was wrong with the files — the page was simply asking
+     for all of them at once. A page of 24 with an explicit "Load more" keeps
+     the first screen cheap and lets the visitor ask for the rest. */
+  const PAGE = 24;
+  const [shown, setShown] = useState(PAGE);
+
   const [drawerOpen, setDrawerOpen] = useState(false);
   const hydrated = useRef(false);
 
@@ -166,6 +175,13 @@ export default function ShopExplorer({
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [key, sort]
   );
+
+  /* Back to the first page whenever the result set changes — otherwise a
+     narrow filter inherits the window from a wide one and opens already
+     scrolled deep into a short list. */
+  useEffect(() => setShown(PAGE), [key, sort]);
+
+  const visible = useMemo(() => list.slice(0, shown), [list, shown]);
 
   /**
    * Selecting a different collection drops any refinement the new collection
@@ -558,22 +574,33 @@ export default function ShopExplorer({
           {/* initial={false}: the very first paint must show cards at full
               opacity immediately (this grid is the LCP candidate on /shop) —
               Framer Motion only animates items that enter/exit *after* mount,
-              e.g. when a filter changes the list. */}
+              e.g. when a filter changes the list.
+
+              Only the first page is wrapped in motion. Animating a card that
+              the visitor asked for by pressing "Load more" is animating
+              something they are already looking at, and `layout` on hundreds
+              of nodes is what made filtering feel heavy. */}
           <AnimatePresence mode="popLayout" initial={false}>
             {list.length ? (
               <motion.div layout className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
-                {list.map((p, i) => (
-                  <motion.div
-                    key={p.slug}
-                    layout
-                    initial={{ opacity: 0, y: 12 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    exit={{ opacity: 0 }}
-                    transition={{ duration: 0.3, delay: Math.min(i, 6) * 0.02 }}
-                  >
-                    <ProductCard product={p} eager={i < 3} />
-                  </motion.div>
-                ))}
+                {visible.map((p, i) =>
+                  i < PAGE ? (
+                    <motion.div
+                      key={p.slug}
+                      layout
+                      initial={{ opacity: 0, y: 12 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0 }}
+                      transition={{ duration: 0.3, delay: Math.min(i, 6) * 0.02 }}
+                    >
+                      <ProductCard product={p} eager={i < 3} />
+                    </motion.div>
+                  ) : (
+                    <div key={p.slug}>
+                      <ProductCard product={p} />
+                    </div>
+                  )
+                )}
               </motion.div>
             ) : (
               <motion.div
@@ -592,6 +619,29 @@ export default function ShopExplorer({
               </motion.div>
             )}
           </AnimatePresence>
+
+          {/* Explicit, not infinite scroll: the visitor decides when to pull
+              the next 24, and the footer stays reachable. The count is what is
+              still to come, not a catalogue total. */}
+          {shown < list.length && (
+            <div className="mt-10 flex flex-col items-center gap-3">
+              <button
+                onClick={() => setShown((n) => n + PAGE)}
+                className="btn btn-secondary btn-lg"
+              >
+                Load more equipment
+              </button>
+              {/* Progress only once the visitor has narrowed. Unfiltered, "of N"
+                  would publish the size of the catalogue through the back
+                  door — the same figure the readout above deliberately
+                  withholds. */}
+              {narrowed && (
+                <span aria-live="polite" className="text-label-sm uppercase text-on-surface-variant">
+                  Showing {visible.length} of {list.length}
+                </span>
+              )}
+            </div>
+          )}
         </div>
       </div>
 
