@@ -135,7 +135,10 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
           opacity step it does not have, so `from-ink-950/88` produced nothing
           at all and the desktop scrim silently ran at the base 30% — which is
           why the paragraph once sat almost unshaded over a lit floor. */}
-      <div aria-hidden className="absolute inset-0 bg-ink-950/20 lg:bg-ink-950/10" />
+      {/* No flat tint on portrait: a layer across the whole frame is exactly
+          what made the photographs look grey. Landscape keeps a whisper of one
+          because its copy sits over the picture's full height. */}
+      <div aria-hidden className="absolute inset-0 lg:bg-ink-950/10" />
       <div
         aria-hidden
         className={`absolute inset-0 ${active.heavyScrim ? 'hero-scrim-heavy' : 'hero-scrim'}`}
@@ -143,8 +146,8 @@ export default function HeroSlider({ scenes }: { scenes: HeroScene[] }) {
 
       {/* ---------- Controls ---------- */}
       {scenes.length > 1 && (
-        <div className="shell pointer-events-none absolute inset-x-0 bottom-6 z-10 lg:bottom-9">
-          <div className="pointer-events-auto flex items-center gap-4">
+        <div className="shell pointer-events-none absolute inset-x-0 bottom-7 z-10 lg:bottom-9">
+          <div className="pointer-events-auto flex items-center justify-center gap-4 lg:justify-start">
             <div className="flex items-center gap-2" role="tablist" aria-label="Choose an installation">
               {scenes.map((s, i) => (
                 <button
@@ -221,10 +224,11 @@ function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
            when each variant was cut — per image, on the machine mass, not the
            middle of the room — so nudging the position again here would only
            undo it. */
-        /* A touch of desaturation is the whole "soft" treatment. It is applied
-           here rather than baked into the files so it stays tunable, and it is
-           one composited declaration — no blur, no per-frame work. */
-        className="h-full w-full object-cover object-center saturate-[0.92]"
+        /* No filter. The photographs already carry the warm light, contrast
+           and equipment detail that make them worth showing; desaturating them
+           only drained that away. Readability is handled by a gradient behind
+           the text instead of by dimming the whole picture. */
+        className="h-full w-full object-cover object-center"
       />
     </picture>
   );

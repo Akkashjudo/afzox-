@@ -158,28 +158,34 @@ export default function Header() {
               square, so a 36px box rendered a 24px logo — the container was
               right and the artwork was wrong. This one is trimmed (alpha
               bbox = the full frame, re-checked), so the height set here is
-              the height you see, and one step up at each tier reads as
-              present rather than large: 32 / 36 / 40. */}
+              the height you see.
+
+              Re-inspected at the file level before touching CSS again: the
+              alpha bounding box fills the whole 480x315 canvas, so there is
+              no padding left to reclaim and presence has to come from the
+              container. 36 / 40 / 44 — the mark is a diagonal, only ~42% of
+              its own box is ink, so it carries less weight than a solid glyph
+              at the same height. */}
           <Image
             src="/afzox-mark.png"
             alt=""
             width={480}
             height={315}
-            className="h-8 w-auto shrink-0 sm:h-9 lg:h-10"
+            className="h-9 w-auto shrink-0 sm:h-10 lg:h-11"
             priority
           />
           <span
-            className={`hidden whitespace-nowrap font-display text-[17px] font-extrabold leading-none tracking-[-0.02em] sm:block lg:text-[19px] ${
+            className={`hidden whitespace-nowrap font-display text-[19px] font-extrabold leading-none tracking-[-0.025em] sm:block lg:text-[22px] ${
               onDark ? 'text-white' : 'text-ink-900'
             }`}
           >
             AFZOX
-            <span className={`ml-2 hidden text-[15px] font-medium tracking-normal xl:inline ${onDark ? 'text-white/50' : 'text-on-surface-variant'}`}>
+            <span className={`ml-2 hidden text-[14px] font-normal tracking-normal xl:inline ${onDark ? 'text-white/45' : 'text-on-surface-variant'}`}>
               Global Strength
             </span>
           </span>
           <span
-            className={`whitespace-nowrap font-display text-base font-extrabold leading-none tracking-[-0.02em] sm:hidden ${
+            className={`whitespace-nowrap font-display text-[19px] font-extrabold leading-none tracking-[-0.025em] sm:hidden ${
               onDark ? 'text-white' : 'text-ink-900'
             }`}
           >

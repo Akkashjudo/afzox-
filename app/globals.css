@@ -128,12 +128,26 @@ html.lenis.lenis-smooth iframe {
 
      Keyed on orientation, not width, so the scrim's direction always matches
      the photograph the same breakpoint chose. */
+  /* ---- Hero scrim ----
+     Localised, not a blanket. The photographs are the selling visual, so the
+     top of the frame is left almost untouched (2% at the machine band) and the
+     darkening is concentrated in the lower third where the copy sits. An
+     earlier version dimmed the whole picture — a flat 20% tint plus a 42% top
+     stop — which is what made the equipment read grey.
+
+     The stops below are tuned against the actual pixels of the copy band, not
+     chosen by eye; see the contrast check in the commit that introduced them.
+     Keyed on orientation so the scrim's direction always matches the
+     photograph the same breakpoint chose. */
   .hero-scrim {
     background-image: linear-gradient(
       to bottom,
-      rgb(6 8 14 / 0.42) 0%,
-      rgb(6 8 14 / 0.12) 28%,
-      rgb(6 8 14 / 0.5) 45%,
+      rgb(6 8 14 / 0.3) 0%,
+      rgb(6 8 14 / 0.02) 20%,
+      rgb(6 8 14 / 0.05) 38%,
+      rgb(6 8 14 / 0.5) 52%,
+      rgb(6 8 14 / 0.74) 66%,
+      rgb(6 8 14 / 0.88) 84%,
       rgb(6 8 14 / 0.92) 100%
     );
   }
@@ -141,13 +155,21 @@ html.lenis.lenis-smooth iframe {
   .hero-scrim-heavy {
     background-image: linear-gradient(
       to bottom,
-      rgb(6 8 14 / 0.42) 0%,
-      rgb(6 8 14 / 0.14) 28%,
-      rgb(6 8 14 / 0.55) 45%,
-      rgb(6 8 14 / 0.95) 100%
+      rgb(6 8 14 / 0.3) 0%,
+      rgb(6 8 14 / 0.03) 20%,
+      rgb(6 8 14 / 0.08) 38%,
+      rgb(6 8 14 / 0.56) 52%,
+      rgb(6 8 14 / 0.78) 66%,
+      rgb(6 8 14 / 0.9) 84%,
+      rgb(6 8 14 / 0.94) 100%
     );
   }
-  @media (min-aspect-ratio: 1/1) {
+  /* Matches the `<source>` rule exactly — landscape, or any viewport wide
+     enough that the layout has already moved the copy to the left third.
+     A portrait iPad Pro at 1024 is the case that needs the second half:
+     it takes the wide room and the desktop layout, so it must take the
+     horizontal gradient with them. */
+  @media (min-aspect-ratio: 1/1), (min-width: 1024px) {
     .hero-scrim,
     .hero-scrim-heavy {
       background-image: linear-gradient(
