@@ -135,15 +135,21 @@ html.lenis.lenis-smooth iframe {
      earlier version dimmed the whole picture — a flat 20% tint plus a 42% top
      stop — which is what made the equipment read grey.
 
-     The stops below are tuned against the actual pixels of the copy band, not
+     The top 14% is the exception: the header floats over it with white type,
+     and the brightest frame (the floor slide's ceiling and window) left the
+     wordmark at 1.59:1 once the blanket tint was removed. That strip is above
+     where any machine sits, so darkening it costs nothing.
+
+     The stops below are tuned against the actual pixels of each band, not
      chosen by eye; see the contrast check in the commit that introduced them.
      Keyed on orientation so the scrim's direction always matches the
      photograph the same breakpoint chose. */
   .hero-scrim {
     background-image: linear-gradient(
       to bottom,
-      rgb(6 8 14 / 0.3) 0%,
-      rgb(6 8 14 / 0.02) 20%,
+      rgb(6 8 14 / 0.62) 0%,
+      rgb(6 8 14 / 0.44) 14%,
+      rgb(6 8 14 / 0.02) 26%,
       rgb(6 8 14 / 0.05) 38%,
       rgb(6 8 14 / 0.5) 52%,
       rgb(6 8 14 / 0.74) 66%,
@@ -155,8 +161,9 @@ html.lenis.lenis-smooth iframe {
   .hero-scrim-heavy {
     background-image: linear-gradient(
       to bottom,
-      rgb(6 8 14 / 0.3) 0%,
-      rgb(6 8 14 / 0.03) 20%,
+      rgb(6 8 14 / 0.62) 0%,
+      rgb(6 8 14 / 0.44) 14%,
+      rgb(6 8 14 / 0.03) 26%,
       rgb(6 8 14 / 0.08) 38%,
       rgb(6 8 14 / 0.56) 52%,
       rgb(6 8 14 / 0.78) 66%,
