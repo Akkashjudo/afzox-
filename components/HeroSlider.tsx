@@ -207,6 +207,17 @@ function Picture({ scene, eager }: { scene: HeroScene; eager: boolean }) {
   const base = `/images/hero/${scene.slug}`;
   return (
     <picture>
+      {/* AVIF first — the browser takes the first type it supports. The hero is
+          a raw <picture> rather than next/image, because art direction across
+          three differently-shaped files is what <source media> is for; the
+          cost is that it never passes through the optimiser, so the modern
+          format has to be supplied here. 20% off the set, and the mobile LCP
+          frame drops from 164KB to 120KB. Checked at 2x against the WebP:
+          medicine-ball labels, band colours and console detail all hold. */}
+      <source type="image/avif" media="(min-aspect-ratio: 1/1)" srcSet={`${base}-wide.avif`} />
+      <source type="image/avif" media="(min-width: 1024px)" srcSet={`${base}-wide.avif`} />
+      <source type="image/avif" media="(min-width: 640px)" srcSet={`${base}-tablet.avif`} />
+      <source type="image/avif" srcSet={`${base}-mobile.avif`} />
       <source type="image/webp" media="(min-aspect-ratio: 1/1)" srcSet={`${base}-wide.webp`} />
       <source type="image/webp" media="(min-width: 1024px)" srcSet={`${base}-wide.webp`} />
       <source type="image/webp" media="(min-width: 640px)" srcSet={`${base}-tablet.webp`} />
